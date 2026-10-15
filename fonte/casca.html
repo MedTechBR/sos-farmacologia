@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>SOS Farmacologia</title>
+<meta name="theme-color" content="#F5F6FB" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0D1017" media="(prefers-color-scheme: dark)">
+<script>
+/* Conta MedTech (10/10/2026). Só no site: portão de login (mtsync.js, síncrono, cobre a página antes do
+   primeiro desenho), checagem de compra (/_mtacesso.js) e conta-sosfarmacologia.js. Aberto do computador (file://)
+   ou no localhost (prévia do dono; teste com ?portao=1), nada disso carrega. Os scripts escritos aqui
+   levam data-sos-portao para o "Salvar arquivo" não os gravar no HTML. */
+(function () {
+  var l = location, local = /^(localhost|127\.0\.0\.1|\[::1\])$/.test(l.hostname);
+  if (!/^https?:$/.test(l.protocol) || (local && !/[?&]portao=1\b/.test(l.search))) return;
+  window.__sosPortao = true;
+  ['mtsync.js?v=1', '/_mtacesso.js?v=13', 'conta-sosfarmacologia.js?v=1', '/_mtvoltar.js?v=3'].forEach(function (s) {
+    document.write('<script data-sos-portao src="' + s + '"><\/script>');
+  });
+})();
+</script>
+<style>/*FONTES*/</style>
+<style>/*CSS*/</style>
+</head>
+<body>
+<aside id="lateral" aria-label="Navegação">
+  <a class="marca" href="#/"><span class="logo"><i class="ti ti-pills" aria-hidden="true"></i></span><span class="nm">SOS Farmacologia<small>Farmacologia no balcão</small></span></a>
+  <nav id="abas"></nav>
+  <div class="pe">
+    <button class="btIco" data-buscar title="Buscar (/)"><i class="ti ti-search" aria-hidden="true"></i><span>Buscar</span></button>
+    <button class="btIco" id="bt-tema" title="Claro ou escuro"><i class="ti ti-moon" aria-hidden="true"></i><span>Tema</span></button>
+    <button class="btIco" id="bt-pdf"><i class="ti ti-file-type-pdf" aria-hidden="true"></i><span>Gerar PDF</span></button>
+    <button class="btIco" id="bt-editar"><i class="ti ti-pencil" aria-hidden="true"></i><span>Editar</span></button>
+    <button class="btIco" id="bt-salvar"><i class="ti ti-device-floppy" aria-hidden="true"></i><span>Salvar</span><i class="ponto" hidden></i></button>
+    <button class="btIco" id="bt-ajustes"><i class="ti ti-settings" aria-hidden="true"></i><span>Ajustes</span></button>
+  </div>
+</aside>
+<header id="topoMovel">
+  <a class="marca" href="#/"><span class="logo"><i class="ti ti-pills" aria-hidden="true"></i></span><b id="titulo-movel">SOS Farmacologia</b></a>
+  <button class="btIco" data-buscar aria-label="Buscar"><i class="ti ti-search" aria-hidden="true"></i></button>
+  <button class="btIco" id="bt-mais" aria-label="Mais opções"><i class="ti ti-dots" aria-hidden="true"></i></button>
+</header>
+<main id="conteudo"></main>
+<nav id="barra" aria-label="Navegação">
+  <button data-b="inicio"><i class="ti ti-home" aria-hidden="true"></i>Início</button>
+  <button data-b="modulos"><i class="ti ti-layout-grid" aria-hidden="true"></i>Módulos</button>
+  <button data-b="buscar"><i class="ti ti-search" aria-hidden="true"></i>Buscar</button>
+  <button data-b="mais"><i class="ti ti-dots" aria-hidden="true"></i>Mais</button>
+</nav>
+<div id="impressao"></div>
+<div class="marca-dagua" aria-hidden="true"></div>
+<script id="sos-dados" type="application/json">/*DADOS*/</script>
+<script>/*JS*/</script>
+</body>
+</html>

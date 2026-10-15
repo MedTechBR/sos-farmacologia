@@ -1,0 +1,626 @@
+{
+ "id": "m01",
+ "num": 1,
+ "titulo": "Princípios de farmacologia para o balcão",
+ "escopo": "Farmacocinética, farmacodinâmica, formas farmacêuticas e vias de administração aplicadas à dispensação: absorção, metabolismo pelo CYP450, função renal estimada por CKD-EPI 2021, índice terapêutico, reações adversas e notificação, e o que pode ou não ser partido ou triturado.",
+ "topicos": [
+  {
+   "id": "m01-farmacocinetica",
+   "titulo": "Farmacocinética aplicada ao balcão",
+   "resumo": "<p>Farmacocinética descreve o que o organismo faz com o medicamento: absorção, distribuição, metabolismo e excreção (ADME). Para quem trabalha no balcão, esses conceitos explicam orientações do dia a dia, como tomar a levotiroxina em jejum, separar o ciprofloxacino do leite ou desconfiar quando um anticonvulsivante e um anticoncepcional aparecem na mesma receita.</p>\n<h3>Absorção</h3>\n<p>Absorção é a passagem do fármaco do local de administração para a corrente sanguínea. Por via oral, quase tudo é absorvido no intestino delgado, por difusão passiva da forma não ionizada e lipossolúvel. Interferem na absorção o pH do meio, o esvaziamento gástrico, a presença de alimento, o fluxo sanguíneo local e a formação de complexos insolúveis.</p>\n<ul>\n<li><strong>Jejum</strong>: levotiroxina e alendronato têm absorção reduzida por alimento; a bula orienta tomar em jejum, com água, e aguardar antes do café da manhã (o alendronato exige ainda permanecer em pé).</li>\n<li>Quelação: tetraciclinas e fluoroquinolonas formam complexos com cálcio, magnésio, alumínio, ferro e zinco (leite, antiácidos, suplementos). O intervalo entre as tomadas vem na bula de cada produto.</li>\n<li>Alimento que aumenta absorção: alguns fármacos precisam de refeição, como lurasidona e ziprasidona (ver antipsicóticos).</li>\n<li>pH gástrico: inibidores da bomba de prótons reduzem a absorção de fármacos que dependem de meio ácido, como o itraconazol em cápsula e o sal carbonato de cálcio.</li>\n</ul>\n<h3>Biodisponibilidade e efeito de primeira passagem</h3>\n<p>Biodisponibilidade (F) é a fração da dose que chega inalterada à circulação sistêmica. Por via intravenosa, F é 100% por definição. Por via oral, parte do fármaco se perde na parede intestinal e no fígado antes de alcançar a circulação: é o efeito de primeira passagem. Fármacos com primeira passagem intensa têm dose oral bem maior que a parenteral. A morfina oral tem biodisponibilidade baixa e variável, por isso a dose oral equivalente é cerca de 3 vezes a parenteral. A nitroglicerina e o dinitrato de isossorbida sublinguais escapam da primeira passagem porque a mucosa oral drena para a veia cava, sem passar pelo fígado.</p>\n<p>Genéricos e similares intercambiáveis demonstram bioequivalência com o referência: a velocidade e a extensão da absorção (Cmáx e área sob a curva) ficam dentro de limites estatísticos aceitos pela Anvisa.</p>\n<h3>Distribuição</h3>\n<p>Depois de absorvido, o fármaco se distribui para os tecidos. O volume de distribuição (Vd) é um volume aparente que relaciona a quantidade no corpo com a concentração no plasma. Vd alto (amiodarona, antidepressivos tricíclicos) indica grande acúmulo nos tecidos; Vd baixo (varfarina) indica fármaco preso ao plasma.</p>\n<p>Só a fração livre (não ligada à albumina) atravessa membranas e age. Fármacos muito ligados a proteínas, como varfarina, fenitoína e ácido valproico, podem ter mais efeito quando a albumina cai (desnutrição, cirrose, síndrome nefrótica, idoso frágil). A barreira hematoencefálica limita a entrada de fármacos polares no sistema nervoso central: a domperidona age pouco no cérebro, enquanto a metoclopramida atravessa e causa efeitos extrapiramidais. Placenta e leite materno recebem fármacos lipossolúveis e de baixo peso molecular.</p>\n<h3>Metabolismo e o sistema CYP450</h3>\n<p>O metabolismo transforma o fármaco em compostos mais polares, fáceis de excretar. Na fase I (oxidação, redução, hidrólise) atuam principalmente as enzimas do citocromo P450 (CYP). Na fase II, o fármaco ou seu metabólito é conjugado (glicuronidação, sulfatação, acetilação, conjugação com glutationa). O fígado concentra a maior parte dessa atividade, mas o intestino também contribui, sobretudo com a CYP3A4.</p>\n<div class=\"tab\"><table><thead><tr><th>Isoenzima</th><th>Substratos de balcão</th><th>Observação</th></tr></thead><tbody>\n<tr><td>CYP3A4</td><td>Sinvastatina, atorvastatina, anlodipino, sildenafila, midazolam, alprazolam, carbamazepina, fentanil, ciclosporina</td><td>Metaboliza cerca de metade dos fármacos de uso clínico</td></tr>\n<tr><td>CYP2D6</td><td>Codeína, tramadol, metoprolol, tricíclicos, risperidona, tamoxifeno</td><td>Polimorfismo genético: metabolizadores lentos e ultrarrápidos</td></tr>\n<tr><td>CYP2C9</td><td>Varfarina, fenitoína, AINE, losartana, glibenclamida</td><td>Interação com varfarina causa sangramento</td></tr>\n<tr><td>CYP2C19</td><td>Clopidogrel, omeprazol, citalopram, escitalopram, diazepam</td><td>Ativa o clopidogrel</td></tr>\n<tr><td>CYP1A2</td><td>Teofilina, clozapina, olanzapina, cafeína, agomelatina</td><td>Induzida pelo tabaco fumado</td></tr>\n</tbody></table></div>\n<p><strong>Indutores</strong> aumentam a quantidade de enzima. O efeito começa devagar, em cerca de 1 a 2 semanas, e também demora a desaparecer depois da suspensão: para anticoncepcional hormonal, a orientação é manter método não afetado ou proteção adicional por 28 dias após parar o indutor (FSRH, 2022). Exemplos: carbamazepina, fenitoína, fenobarbital, rifampicina, erva-de-são-joão (hipérico) e o tabagismo (CYP1A2, pelos hidrocarbonetos da fumaça, não pela nicotina). Consequência típica: falha terapêutica do outro fármaco, como gravidez com anticoncepcional hormonal em quem usa carbamazepina.</p>\n<p>Inibidores bloqueiam a enzima e o efeito aparece em horas a poucos dias. Exemplos: claritromicina, eritromicina, cetoconazol, itraconazol, fluconazol, ritonavir, suco de toranja (CYP3A4 intestinal), fluoxetina, paroxetina e bupropiona (CYP2D6), fluvoxamina e ciprofloxacino (CYP1A2), omeprazol (CYP2C19). Consequência típica: toxicidade do outro fármaco, como miopatia com sinvastatina associada a claritromicina.</p>\n<div class=\"cx chave\"><b>Ponto-chave</b><p>Indutor reduz o efeito do substrato e a resposta demora a aparecer. Inibidor aumenta o efeito do substrato e a resposta é rápida. Quando o substrato é um pró-fármaco, a lógica se inverte: inibir a enzima reduz o efeito.</p></div>\n<h4>Pró-fármacos</h4>\n<p>Pró-fármaco é inativo (ou pouco ativo) e depende do metabolismo para gerar a forma ativa. Exemplos: codeína em morfina e tramadol em O-desmetiltramadol (CYP2D6), clopidogrel no metabólito ativo (CYP2C19), enalapril em enalaprilato (esterases), valaciclovir em aciclovir, levodopa em dopamina. Paciente que usa fluoxetina ou paroxetina (inibidores fortes da CYP2D6) pode ter pouca analgesia com codeína ou tramadol.</p>\n<h3>Excreção</h3>\n<p>Os rins eliminam fármacos e metabólitos polares por filtração glomerular e secreção tubular; parte pode ser reabsorvida. A via biliar elimina pelas fezes e alguns compostos voltam ao sangue pela circulação êntero-hepática. Fármacos de eliminação renal predominante acumulam quando a função renal cai: gabapentina, pregabalina, levetiracetam, lítio, metformina, digoxina, aciclovir, a maioria dos antibióticos betalactâmicos e os metabólitos da morfina.</p>\n<h3>Meia-vida e estado de equilíbrio</h3>\n<p>Meia-vida (t½) é o tempo para a concentração plasmática cair pela metade. Depois de 4 a 5 meias-vidas, praticamente todo o fármaco foi eliminado (cerca de 94 a 97%). O mesmo número de meias-vidas é necessário para atingir o estado de equilíbrio (steady state) quando o fármaco é tomado em doses regulares: a quantidade que entra por intervalo se iguala à que sai.</p>\n<ul>\n<li>Fármaco de meia-vida longa demora a atingir o equilíbrio. Quando o efeito precisa ser rápido, o médico usa dose de ataque.</li>\n<li>A fluoxetina e seu metabólito ativo (norfluoxetina) têm meia-vida longa. Por isso a troca de fluoxetina por um inibidor da monoaminoxidase (IMAO) exige intervalo de semanas, conforme a bula.</li>\n<li>Meia-vida curta exige várias tomadas ao dia ou forma de liberação prolongada.</li>\n</ul>\n<h3>Função renal: estimativa pela CKD-EPI 2021</h3>\n<p>A referência atual para estimar a taxa de filtração glomerular (TFG) é a equação CKD-EPI 2021, sem coeficiente de raça (KDIGO 2024). Ela usa creatinina sérica, idade e sexo:</p>\n<p>TFGe = 142 × min(Scr/κ; 1)<sup>α</sup> × max(Scr/κ; 1)<sup>-1,200</sup> × 0,9938<sup>idade</sup> × 1,012 (se mulher), em que κ = 0,7 (mulher) ou 0,9 (homem) e α = -0,241 (mulher) ou -0,302 (homem). Resultado em mL/min/1,73 m².</p>\n<p>Laboratórios já liberam a TFGe junto com a creatinina. A bula de cada medicamento indica o ajuste por faixa de TFG. Exemplos de balcão: metformina contraindicada com TFG abaixo de 30 mL/min/1,73 m² (bula do Glifage®); gabapentina, pregabalina e levetiracetam com redução de dose; AINE a evitar na doença renal crônica.</p>\n<div class=\"cx alerta\"><b>Atenção</b><p>Creatinina “normal” não garante rim normal no idoso com pouca massa muscular. Sempre que houver ajuste renal na bula, o dado a usar é a TFG estimada, e não a creatinina isolada.</p></div>\n<h3>Função hepática</h3>\n<p>Não existe um exame único que estime a capacidade de metabolizar fármacos. Usa-se a classificação de Child-Pugh (bilirrubina, albumina, tempo de protrombina, ascite, encefalopatia) e a bula de cada produto. Em hepatopatas, benzodiazepínicos que dependem só de glicuronidação (lorazepam, oxazepam) acumulam menos que diazepam e alprazolam. Paracetamol exige dose diária menor e cautela com álcool. Fármacos com grande primeira passagem ficam mais biodisponíveis na cirrose.</p>\n<h3>Idoso</h3>\n<p>Com o envelhecimento aumenta a gordura corporal e diminuem a água total, a massa muscular e a TFG. Fármacos lipossolúveis (diazepam) acumulam por mais tempo; fármacos hidrossolúveis (lítio, digoxina) atingem concentração maior. A sensibilidade do sistema nervoso central também aumenta, o que explica quedas e confusão com sedativos.</p>\n<h3>Gestação e lactação</h3>\n<p>Na gestação, o volume plasmático, a TFG e a atividade de algumas enzimas aumentam, e a concentração de vários fármacos cai (lamotrigina, levetiracetam, lítio). A placenta deixa passar fármacos lipossolúveis e de baixo peso molecular, e o risco para o feto depende da fase: no primeiro trimestre predominam as malformações; depois, efeitos sobre crescimento e função. No leite materno passam fármacos lipossolúveis, pouco ligados a proteínas e de meia-vida longa. A exposição do lactente é estimada pela dose relativa infantil; bases como o LactMed (NIH) e o manual do Ministério da Saúde sobre amamentação e uso de medicamentos ajudam na consulta. O farmacêutico deve perguntar sobre gravidez e amamentação antes de qualquer indicação.</p>\n<div class=\"cx balcao\"><b>No balcão</b><p>Perguntas que revelam problema farmacocinético: “Toma algum outro remédio, chá ou suplemento?”, “Fuma? Parou de fumar recentemente?”, “Tem problema nos rins ou no fígado?”, “Toma com comida ou em jejum?”. Parar de fumar reduz a indução da CYP1A2 e pode elevar a concentração de clozapina e olanzapina em poucas semanas: o prescritor precisa saber.</p></div>\n<div class=\"cx exemplo\"><b>Caso</b><p>Mulher de 52 anos usa levotiroxina e começou carbonato de cálcio com vitamina D, tomando os dois juntos pela manhã. O TSH subiu. O farmacêutico orienta tomar a levotiroxina em jejum, com água, e o cálcio só horas depois, em outra refeição, e comunica ao médico a mudança no horário.</p></div>"
+  },
+  {
+   "id": "m01-farmacodinamica",
+   "titulo": "Farmacodinâmica e segurança",
+   "resumo": "<p>Farmacodinâmica estuda o que o fármaco faz no organismo: onde se liga, que resposta provoca e com que intensidade. Os conceitos de agonista, antagonista, potência e eficácia explicam por que a naloxona reverte a morfina, por que a buprenorfina tem efeito teto e por que alguns medicamentos exigem tanto cuidado com a dose.</p>\n<h3>Alvos dos fármacos</h3>\n<p>A maioria dos fármacos age em proteínas: receptores, enzimas, canais iônicos e transportadores. Os receptores se agrupam em quatro famílias principais.</p>\n<div class=\"tab\"><table><thead><tr><th>Tipo de receptor</th><th>Velocidade</th><th>Exemplos</th></tr></thead><tbody>\n<tr><td>Canal iônico controlado por ligante</td><td>Milissegundos</td><td>GABA-A (benzodiazepínicos, barbitúricos, drogas Z), nicotínico</td></tr>\n<tr><td>Acoplado à proteína G</td><td>Segundos</td><td>Opioides, adrenérgicos, dopaminérgicos, serotoninérgicos, muscarínicos, histamínicos</td></tr>\n<tr><td>Ligado a enzima (quinase)</td><td>Minutos</td><td>Insulina, fatores de crescimento</td></tr>\n<tr><td>Nuclear</td><td>Horas a dias</td><td>Corticoides, hormônio tireoidiano, estrogênio</td></tr>\n</tbody></table></div>\n<p>Outros alvos: enzimas (AINE inibem a cicloxigenase, IMAO inibem a monoaminoxidase), transportadores (inibidores seletivos da recaptação de serotonina bloqueiam o transportador SERT) e canais iônicos dependentes de voltagem (anestésicos locais e vários anticonvulsivantes bloqueiam canais de sódio).</p>\n<h3>Agonistas e antagonistas</h3>\n<ul>\n<li><strong>Agonista pleno</strong>: liga-se e produz a resposta máxima do sistema. Exemplos: morfina e fentanil no receptor mu.</li>\n<li>Agonista parcial: liga-se mas produz resposta submáxima, mesmo com todos os receptores ocupados. Na presença de agonista pleno, comporta-se como antagonista parcial. Exemplos: buprenorfina (mu) e aripiprazol (D2). A buprenorfina tem efeito teto para depressão respiratória e pode precipitar abstinência em quem usa morfina ou metadona.</li>\n<li>Antagonista competitivo: ocupa o receptor sem ativá-lo e pode ser deslocado por dose maior de agonista. Exemplos: naloxona (opioides), flumazenil (benzodiazepínicos).</li>\n<li>Antagonista não competitivo: bloqueio que não se desfaz com mais agonista (ligação irreversível ou em outro sítio).</li>\n<li>Modulador alostérico positivo: liga-se em sítio diferente e potencializa o ligante natural. Os benzodiazepínicos aumentam o efeito do GABA, mas não abrem o canal sozinhos, o que explica a margem de segurança maior que a dos barbitúricos.</li>\n</ul>\n<h3>Potência e eficácia</h3>\n<p>Potência é a dose necessária para produzir determinado efeito (quanto menor a dose, mais potente). Eficácia é o efeito máximo alcançável. Fentanil é muito mais potente que a morfina (microgramas contra miligramas), mas a eficácia analgésica dos dois é semelhante. Tramadol e codeína têm eficácia menor que a morfina para dor intensa. Na prática, eficácia importa mais que potência: um fármaco potente só exige dose menor.</p>\n<h3>Índice terapêutico</h3>\n<p>Índice terapêutico (IT) é a relação entre a dose tóxica e a dose eficaz (DT50/DE50). Quanto mais estreito, menor a distância entre tratar e intoxicar. Fármacos de IT estreito pedem dose exata, monitorização de nível sérico ou de efeito, cuidado com interações e com troca de fabricante.</p>\n<div class=\"tab\"><table><thead><tr><th>Fármaco de IT estreito</th><th>O que monitorar</th><th>Risco típico</th></tr></thead><tbody>\n<tr><td>Varfarina</td><td>RNI</td><td>Sangramento com antibióticos, AINE, fluconazol, amiodarona</td></tr>\n<tr><td>Digoxina</td><td>Nível sérico, potássio, função renal</td><td>Náusea, arritmia, visão amarelada</td></tr>\n<tr><td>Lítio</td><td>Litemia, função renal, TSH</td><td>Intoxicação com AINE, diurético tiazídico, IECA, desidratação</td></tr>\n<tr><td>Fenitoína</td><td>Nível sérico, albumina</td><td>Cinética saturável: pequeno aumento de dose, grande aumento de nível</td></tr>\n<tr><td>Carbamazepina</td><td>Nível sérico, sódio, hemograma</td><td>Toxicidade com claritromicina, fluconazol</td></tr>\n<tr><td>Ácido valproico</td><td>Nível sérico, enzimas hepáticas, plaquetas</td><td>Queda grave com carbapenêmicos</td></tr>\n<tr><td>Fenobarbital</td><td>Nível sérico, sedação</td><td>Depressão do sistema nervoso central</td></tr>\n<tr><td>Teofilina</td><td>Nível sérico</td><td>Convulsão e arritmia com ciprofloxacino, fluvoxamina</td></tr>\n<tr><td>Levotiroxina</td><td>TSH</td><td>Variação de resposta com troca de produto e com cálcio ou ferro</td></tr>\n<tr><td>Tacrolimo e ciclosporina</td><td>Nível sérico, função renal</td><td>Rejeição com indutores, toxicidade com inibidores da CYP3A4</td></tr>\n<tr><td>Metotrexato oral</td><td>Hemograma, função renal e hepática</td><td>Erro de tomada diária no lugar de semanal</td></tr>\n</tbody></table></div>\n<h3>Tolerância, dependência e abstinência</h3>\n<p>Tolerância é a perda de efeito com o uso repetido, exigindo dose maior para o mesmo resultado. Pode ser farmacodinâmica (dessensibilização ou redução de receptores, como nos opioides e benzodiazepínicos) ou farmacocinética (autoindução do metabolismo, como na carbamazepina). Taquifilaxia é a tolerância que surge em horas ou dias: descongestionantes nasais tópicos (nafazolina, oximetazolina) perdem efeito e causam congestão de rebote quando usados por mais de poucos dias.</p>\n<p>Dependência física é a adaptação que gera síndrome de abstinência na suspensão abrupta. Acontece com opioides, benzodiazepínicos, barbitúricos, gabapentinoides, antidepressivos (síndrome de descontinuação) e até com betabloqueadores (rebote de taquicardia). Dependência física é diferente de transtorno por uso de substância, que envolve perda de controle, compulsão e prejuízo funcional.</p>\n<h3>Reações adversas a medicamentos</h3>\n<p>A Organização Mundial da Saúde define reação adversa a medicamento (RAM) como resposta nociva e não intencional que ocorre com doses normalmente usadas em seres humanos. A classificação clássica de Rawlins e Thompson separa dois grandes tipos, depois ampliada.</p>\n<div class=\"tab\"><table><thead><tr><th>Tipo</th><th>Característica</th><th>Exemplos</th></tr></thead><tbody>\n<tr><td>A (aumentada)</td><td>Dose-dependente, previsível pela farmacologia, frequente, baixa letalidade</td><td>Hipoglicemia por sulfonilureia, sangramento por varfarina, constipação por opioide</td></tr>\n<tr><td>B (bizarra)</td><td>Não depende da dose, imprevisível, rara, alta gravidade</td><td>Anafilaxia por penicilina, síndrome de Stevens-Johnson por lamotrigina, agranulocitose por clozapina</td></tr>\n<tr><td>C (crônica)</td><td>Ligada ao uso prolongado</td><td>Osteoporose por corticoide</td></tr>\n<tr><td>D (tardia)</td><td>Aparece muito depois</td><td>Teratogenicidade, discinesia tardia</td></tr>\n<tr><td>E (fim de uso)</td><td>Na suspensão</td><td>Abstinência de benzodiazepínico, rebote de clonidina</td></tr>\n<tr><td>F (falha)</td><td>Falha terapêutica, muitas vezes por interação</td><td>Gravidez com anticoncepcional e carbamazepina</td></tr>\n</tbody></table></div>\n<p>Para avaliar se o medicamento causou o evento, usa-se a relação temporal, a melhora com a retirada (dechallenge), a recorrência com a reintrodução (rechallenge) e a exclusão de outras causas. O algoritmo de Naranjo organiza essas perguntas em pontos e classifica a causalidade como definida, provável, possível ou duvidosa.</p>\n<h3>Interações farmacodinâmicas</h3>\n<p>Nem toda interação passa pelo CYP. Interações farmacodinâmicas acontecem quando dois fármacos agem sobre o mesmo sistema, sem alterar a concentração um do outro.</p>\n<ul>\n<li>Efeito aditivo ou sinérgico: benzodiazepínico com opioide ou álcool (depressão respiratória); dois serotoninérgicos (síndrome serotoninérgica); varfarina com AINE ou ácido acetilsalicílico (sangramento por mecanismos diferentes); vários fármacos que prolongam o QT; vários anticolinérgicos no idoso (confusão, retenção urinária); IECA ou bloqueador do receptor de angiotensina com espironolactona (hiperpotassemia).</li>\n<li>Antagonismo: AINE reduz o efeito de anti-hipertensivos e diuréticos; betabloqueador não seletivo reduz a resposta ao salbutamol; metoclopramida e antipsicóticos anulam a levodopa.</li>\n</ul>\n<p>A interação farmacodinâmica costuma ser previsível pela farmacologia de cada fármaco, e o raciocínio do farmacêutico começa por verificar se os dois fármacos sedam, causam sangramento, prolongam o QT, elevam serotonina, elevam potássio ou têm efeito anticolinérgico.</p>\n<h3>Farmacovigilância e VigiMed</h3>\n<p>Farmacovigilância é o conjunto de atividades de detecção, avaliação, compreensão e prevenção de efeitos adversos e outros problemas relacionados a medicamentos. Muitas reações raras só aparecem depois da comercialização, quando milhões de pessoas usam o produto. No Brasil, a notificação de eventos adversos a medicamentos e vacinas é feita no <strong>VigiMed</strong>, sistema da Anvisa aberto a cidadãos, profissionais de saúde, detentores de registro e patrocinadores de estudos; a Anvisa avalia as notificações e as envia ao banco de dados da OMS. Queixas técnicas (desvio de qualidade: comprimido quebrado, cor alterada, frasco sem lacre, suspeita de falsificação) vão para o Notivisa; quando a queixa técnica vem junto com um evento adverso, a notificação é feita no VigiMed (Anvisa, VigiMed: o que é e como cadastrar, 2024).</p>\n<p>A notificação não exige certeza de causalidade. Basta a suspeita. Notificações de farmacêuticos de farmácia comunitária têm valor porque o balcão vê o paciente depois que ele sai do consultório.</p>\n<div class=\"cx balcao\"><b>No balcão</b><p>Ao ouvir “desde que comecei este remédio, estou com…”, registre: nome do produto, lote, data de início, dose, o que aconteceu, quando começou, se melhorou ao parar e outros medicamentos em uso. Reação grave (falta de ar, inchaço de lábios, bolhas na pele, icterícia, sangramento) exige encaminhamento imediato ao serviço de urgência. Depois do atendimento, notifique no VigiMed.</p></div>\n<div class=\"cx exemplo\"><b>Caso</b><p>Rapaz de 24 anos começou lamotrigina há três semanas e chega com febre, ardor nos olhos e lesões na boca. O farmacêutico reconhece sinal de alerta para reação cutânea grave, orienta procurar urgência sem tomar a próxima dose sem avaliação médica e notifica a suspeita no VigiMed.</p></div>"
+  },
+  {
+   "id": "m01-formas-vias",
+   "titulo": "Formas farmacêuticas e vias de administração",
+   "resumo": "<p>Boa parte dos erros de medicação depois da dispensação acontece em casa: o comprimido de liberação prolongada partido ao meio, as gotas medidas em mililitros, a suspensão sem agitar, o comprimido triturado para a sonda. A forma farmacêutica foi desenhada para controlar onde e quando o fármaco é liberado, e alterá-la muda o perfil de absorção e de segurança.</p>\n<h3>Formas de liberação modificada</h3>\n<p>Formas de liberação imediata liberam o fármaco logo após a desintegração. Formas de liberação modificada mudam o tempo ou o local da liberação:</p>\n<ul>\n<li><strong>Liberação prolongada</strong> (siglas comuns no nome comercial: LP, XR, ER, SR, CR, LA, retard, OROS, HBS): liberam a dose aos poucos, permitindo uma ou duas tomadas ao dia. Partir, triturar ou mastigar pode liberar a dose inteira de uma vez (dose dumping), com risco de intoxicação. Exemplos: oxicodona de liberação controlada, venlafaxina XR, metformina XR, nifedipino de liberação prolongada, levodopa com benserazida HBS, pramipexol de liberação prolongada.</li>\n<li>Liberação retardada ou gastrorresistente (revestimento entérico): o revestimento resiste ao ácido do estômago e só se dissolve no intestino. Protege o fármaco do ácido (omeprazol, pantoprazol) ou o estômago do fármaco (diclofenaco sódico, ácido acetilsalicílico com revestimento entérico). Triturar destrói essa proteção.</li>\n</ul>\n<p>Há exceções. Alguns comprimidos de liberação prolongada têm sulco funcional e a bula autoriza partir (sem mastigar ou triturar). Algumas cápsulas de liberação retardada contêm microgrânulos que podem ser abertos e dispersos em líquido ou alimento pastoso, desde que os grânulos não sejam mastigados. A regra segura é: só partir, abrir ou triturar quando a bula do produto autoriza.</p>\n<h3>Sublingual, orodispersível e mastigável</h3>\n<ul>\n<li>Sublingual: colocado sob a língua até dissolver, sem engolir; absorção rápida pela mucosa e sem primeira passagem. Exemplos: dinitrato de isossorbida sublingual, zolpidem sublingual. Engolir o comprimido reduz o efeito ou atrasa o início.</li>\n<li>Orodispersível: desintegra sobre a língua em segundos e é engolido com a saliva, sem água. A absorção ocorre, em geral, no trato digestivo. Útil para quem tem náusea ou dificuldade de engolir (ondansetrona orodispersível).</li>\n<li>Mastigável: deve ser mastigado (alguns antiácidos, montelucaste pediátrico). Engolir inteiro pode reduzir o efeito.</li>\n<li>Efervescente: dissolver totalmente em água antes de beber. Contém sódio, o que interessa ao hipertenso e ao paciente com insuficiência cardíaca.</li>\n</ul>\n<h3>Outros motivos para não partir ou triturar</h3>\n<ul>\n<li>Revestimento que protege quem manipula: fármacos teratogênicos ou citotóxicos (finasterida, dutasterida, metotrexato, talidomida). Gestante não deve manusear comprimido partido ou triturado de finasterida, e a cápsula de dutasterida não deve ser aberta.</li>\n<li>Gosto muito amargo ou irritação de mucosa.</li>\n<li>Fármaco sensível à luz ou à umidade.</li>\n<li>Cápsula mole com conteúdo líquido (dose imprecisa se perfurada).</li>\n</ul>\n<p>Sulco no comprimido nem sempre significa que as metades têm a mesma dose: há sulcos apenas decorativos ou para facilitar a deglutição. A bula informa se o comprimido é divisível.</p>\n<h3>Gotas e mililitros</h3>\n<p>Não existe equivalência universal entre gota e mililitro. O número de gotas por mL depende da viscosidade, da tensão superficial e do gotejador de cada produto. A bula informa quantas gotas correspondem a 1 mL e quanto de fármaco há em cada gota. Exemplos: a dipirona gotas 500 mg/mL tem 20 gotas por mL (25 mg por gota) segundo as bulas usuais; o clonazepam solução oral 2,5 mg/mL tem 0,1 mg por gota (bula do Rivotril®).</p>\n<div class=\"cx alerta\"><b>Atenção</b><p>Confundir gotas com mililitros multiplica a dose por 20 ou mais. Em criança, oriente com o dispositivo dosador do próprio produto (gotejador, seringa ou copo graduado). Colher de cozinha não serve como medida. Escreva a dose no rótulo ou na receita na unidade do dispositivo (“10 gotas” ou “2,5 mL”).</p></div>\n<h3>Suspensões e pós para reconstituição</h3>\n<p>Antibióticos pediátricos (amoxicilina, amoxicilina com clavulanato, azitromicina, cefalexina) vêm como pó para reconstituir. Orientação básica:</p>\n<ol>\n<li>Agitar o frasco fechado para soltar o pó.</li>\n<li>Adicionar água filtrada ou fervida e fria até perto da marca, agitar, aguardar a espuma baixar e completar até a marca exata.</li>\n<li>Agitar bem antes de cada dose: o fármaco suspenso decanta e a primeira dose sairia diluída, a última concentrada.</li>\n<li>Conservar e descartar conforme a bula: o prazo de validade após o preparo (em geral de 5 a 14 dias, conforme o produto) e a necessidade de geladeira variam. A amoxicilina com clavulanato costuma exigir refrigeração.</li>\n</ol>\n<p>Depois da reconstituição, anote no frasco a data do preparo e a data de descarte indicada na bula.</p>\n<h3>Administração por sonda</h3>\n<p>Paciente com sonda nasoenteral ou gastrostomia precisa de plano para cada medicamento:</p>\n<ul>\n<li>Preferir forma líquida (solução, suspensão) ou comprimido de liberação imediata que possa ser triturado.</li>\n<li>Nunca triturar liberação prolongada ou revestimento entérico; pedir ao prescritor alternativa.</li>\n<li>Triturar cada comprimido separadamente até pó fino, dispersar em água e administrar um de cada vez.</li>\n<li>Lavar a sonda com água antes, entre os medicamentos e depois (volumes definidos pelo serviço; o manual do Incor usa 20 mL de água filtrada entre as administrações no adulto). Nunca misturar medicamento no frasco da dieta.</li>\n<li>Interações com a dieta enteral: a absorção da fenitoína cai com a nutrição enteral contínua (o manual do Incor pausa a dieta 40 minutos antes e religa 40 minutos depois); a levotiroxina e as quinolonas sofrem efeito semelhante; a vitamina K da dieta interfere na varfarina.</li>\n</ul>\n<h3>Outras vias frequentes no balcão</h3>\n<ul>\n<li>Transdérmica: adesivos de fentanil, buprenorfina, rotigotina, nicotina e hormônios liberam o fármaco de forma contínua. Aplicar em pele íntegra, seca e sem pelos, alternar o local, não cortar o adesivo salvo autorização da bula e evitar calor sobre ele.</li>\n<li>Inalatória: a técnica correta do inalador dosimetrado (agitar, expirar, acionar no início de inspiração lenta, prender a respiração) ou do inalador de pó (inspiração rápida e profunda) determina quanto fármaco chega ao pulmão. Espaçador melhora a deposição e reduz candidíase oral com corticoide inalatório.</li>\n<li>Oftálmica: uma gota basta (o fundo de saco conjuntival comporta pouco volume); intervalo de cerca de 5 minutos entre colírios diferentes; pressionar o canto interno do olho reduz a absorção sistêmica (importante com colírio de timolol). Frasco aberto tem prazo de uso definido na bula.</li>\n<li>Retal: supositórios e enemas, úteis em vômitos ou quando a via oral não é possível; absorção mais irregular.</li>\n<li>Vaginal: aplicar à noite, deitada, para reduzir o escoamento; a conduta durante a menstruação segue a bula do produto.</li>\n</ul>\n<h3>Intercambialidade</h3>\n<p>O mercado brasileiro tem três categorias de medicamento com o mesmo fármaco:</p>\n<div class=\"tab\"><table><thead><tr><th>Categoria</th><th>O que é</th><th>Identificação</th></tr></thead><tbody>\n<tr><td>Referência</td><td>Inovador, com eficácia e segurança comprovadas em estudos clínicos</td><td>Nome comercial</td></tr>\n<tr><td>Genérico</td><td>Bioequivalente ao referência, intercambiável por lei</td><td>Nome pela DCB e faixa amarela com a letra G na embalagem</td></tr>\n<tr><td>Similar</td><td>Mesmo fármaco, dose e forma; identificado por nome comercial</td><td>Nome comercial</td></tr>\n<tr><td>Similar intercambiável</td><td>Similar com equivalência ou bioequivalência aprovada pela Anvisa</td><td>Informação de intercambialidade na bula (RDC 58/2014)</td></tr>\n</tbody></table></div>\n<p>O farmacêutico pode trocar o referência pelo genérico ou pelo similar intercambiável com aquele referência, salvo restrição escrita do prescritor, e deve registrar a troca na receita. A intercambialidade prevista em norma é sempre em relação ao medicamento de referência (Lei 9.787/1999, RDC 16/2007, RDC 58/2014): genérico por similar e similar por outro similar não são trocas autorizadas. Receita pela DCB, pela DCI ou pelo nome do referência pode ser atendida com genérico. A lista de similares intercambiáveis é consultada no portal da Anvisa, atualizado continuamente (CFF, 2024).</p>\n<div class=\"cx chave\"><b>Ponto-chave</b><p>Em fármacos de índice terapêutico estreito (fenitoína, carbamazepina, levotiroxina, lítio), a troca é permitida quando intercambiável, mas a troca frequente entre fabricantes pode alterar a resposta. Oriente o paciente a manter o mesmo produto e avise o prescritor quando a troca for inevitável.</p></div>\n<div class=\"cx balcao\"><b>No balcão</b><p>Ao dispensar qualquer forma especial, mostre o produto e diga como tomar: “Este é de liberação prolongada, engula inteiro, não parta”; “Este dissolve embaixo da língua”; “Agite antes de cada dose e guarde na geladeira”. Pergunte se o paciente tem dificuldade de engolir: é a deixa para descobrir que ele tritura tudo em casa.</p></div>\n<div class=\"cx exemplo\"><b>Caso</b><p>Filha de paciente idoso pergunta se pode triturar a venlafaxina XR do pai para misturar na papa, porque ele engasga. O farmacêutico explica que a trituração libera a dose toda de uma vez, entra em contato com o prescritor e sugere avaliar uma alternativa, como cápsula que possa ser aberta conforme a bula ou outro antidepressivo em solução.</p></div>"
+  }
+ ],
+ "mapas": [
+  {
+   "id": "m01-mapa-farmaco",
+   "titulo": "Farmacocinética e farmacodinâmica",
+   "centro": "Farmacocinética e dinâmica",
+   "ramos": [
+    {
+     "t": "Absorção e 1ª passagem",
+     "itens": [
+      "Jejum: levotiroxina e alendronato",
+      "Quinolona e tetraciclina + Ca, Fe, Mg, Al: quelação",
+      "Sublingual escapa do fígado (nitratos)",
+      "Morfina oral: cerca de 3 vezes a dose parenteral"
+     ]
+    },
+    {
+     "t": "Metabolismo e CYP",
+     "itens": [
+      "3A4: metade dos fármacos; toranja inibe",
+      "Indutor: carbamazepina, fenitoína, rifampicina, fumo",
+      "Inibidor: claritromicina, azóis, fluoxetina",
+      "Pró-fármaco: codeína, tramadol, clopidogrel"
+     ]
+    },
+    {
+     "t": "Eliminação e meia-vida",
+     "itens": [
+      "4 a 5 meias-vidas: equilíbrio ou eliminação",
+      "TFG pela CKD-EPI 2021, sem raça",
+      "Ajuste renal: gabapentinoides, levetiracetam, lítio",
+      "Hepatopata: lorazepam e oxazepam acumulam menos"
+     ]
+    },
+    {
+     "t": "Receptores",
+     "itens": [
+      "Agonista pleno: morfina, fentanil",
+      "Parcial com teto: buprenorfina, aripiprazol",
+      "Antagonista: naloxona, flumazenil",
+      "Potência não é eficácia (fentanil x morfina)"
+     ]
+    },
+    {
+     "t": "Segurança",
+     "itens": [
+      "IT estreito: varfarina, lítio, digoxina, fenitoína",
+      "RAM tipo A: dose-dependente e previsível",
+      "RAM tipo B: imprevisível e grave (SSJ, anafilaxia)",
+      "Notificar no VigiMed: basta a suspeita"
+     ]
+    },
+    {
+     "t": "Formas farmacêuticas",
+     "itens": [
+      "LP, XR, CR, retard: não partir nem triturar",
+      "Entérico: não triturar (omeprazol, diclofenaco)",
+      "Gota não é mL: ver bula e gotejador",
+      "Suspensão: agitar antes de cada dose",
+      "Troca: genérico ou similar intercambiável"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m01-mapa-formas",
+   "titulo": "Formas farmacêuticas e vias",
+   "centro": "Formas e vias",
+   "ramos": [
+    {
+     "t": "Liberação prolongada",
+     "itens": [
+      "Siglas: LP, XR, CR, SR, LA, retard, OROS",
+      "Partir ou triturar: dose inteira de uma vez",
+      "Sulco funcional só quando a bula autoriza",
+      "Ex.: oxicodona LC, venlafaxina XR"
+     ]
+    },
+    {
+     "t": "Gastrorresistente",
+     "itens": [
+      "Dissolve no intestino, não no estômago",
+      "Protege o fármaco: omeprazol, pantoprazol",
+      "Protege o estômago: diclofenaco sódico",
+      "Triturar destrói o revestimento"
+     ]
+    },
+    {
+     "t": "Mucosa oral",
+     "itens": [
+      "Sublingual: sem primeira passagem",
+      "Engolir o SL atrasa ou reduz o efeito",
+      "Orodispersível: desfaz na língua, sem água"
+     ]
+    },
+    {
+     "t": "Líquidos orais",
+     "itens": [
+      "Gota não é mL: gotas por mL na bula",
+      "Dipirona 500 mg/mL: 20 gotas = 1 mL",
+      "Suspensão: agitar antes de cada dose",
+      "Reconstituído: anotar data de descarte"
+     ]
+    },
+    {
+     "t": "Sonda enteral",
+     "itens": [
+      "Triturar e dispersar um de cada vez",
+      "Lavar a sonda com água entre as doses",
+      "Nunca misturar no frasco da dieta",
+      "Fenitoína: pausar a dieta antes e depois"
+     ]
+    },
+    {
+     "t": "Outras vias",
+     "itens": [
+      "Adesivo: pele íntegra, sem calor local",
+      "Inalador: a técnica decide a dose no pulmão",
+      "Colírio: 1 gota, 5 min entre frascos",
+      "Gestante não manipula finasterida partida"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m01-mapa-ram",
+   "titulo": "Reações adversas e farmacovigilância",
+   "centro": "RAM e farmacovigilância",
+   "ramos": [
+    {
+     "t": "Conceito (OMS)",
+     "itens": [
+      "Resposta nociva e não intencional",
+      "Com doses usuais em seres humanos",
+      "Notificar não exige certeza: basta a suspeita"
+     ]
+    },
+    {
+     "t": "Tipos de RAM",
+     "itens": [
+      "A: dose-dependente e previsível",
+      "B: imprevisível, rara e grave",
+      "C crônica, D tardia, E fim de uso",
+      "F: falha terapêutica (ex.: indutor)"
+     ]
+    },
+    {
+     "t": "Causalidade",
+     "itens": [
+      "Relação temporal com o início",
+      "Melhora ao retirar (dechallenge)",
+      "Volta ao reintroduzir (rechallenge)",
+      "Naranjo: definida, provável, possível, duvidosa"
+     ]
+    },
+    {
+     "t": "Sinais de alarme",
+     "itens": [
+      "Falta de ar, inchaço de lábios: urgência",
+      "Bolhas e lesões em mucosa: suspeitar de SSJ",
+      "Icterícia, sangramento, urina escura"
+     ]
+    },
+    {
+     "t": "Onde notificar",
+     "itens": [
+      "Evento adverso: VigiMed (Anvisa)",
+      "Queixa técnica: Notivisa",
+      "Queixa técnica com evento adverso: VigiMed",
+      "Cidadão e profissional também notificam"
+     ]
+    },
+    {
+     "t": "No balcão",
+     "itens": [
+      "Registrar produto, lote, dose e datas",
+      "Listar outros medicamentos em uso",
+      "Encaminhar o caso grave antes de notificar"
+     ]
+    }
+   ]
+  }
+ ],
+ "apoio": [
+  {
+   "tipo": "tabela",
+   "id": "m01-tab-cyp",
+   "titulo": "Indutores e inibidores do CYP450 frequentes no balcão",
+   "colunas": [
+    "Isoenzima",
+    "Indutores",
+    "Inibidores",
+    "Substratos sensíveis",
+    "Consequência típica"
+   ],
+   "linhas": [
+    [
+     "CYP3A4",
+     "Carbamazepina, fenitoína, fenobarbital, rifampicina, erva-de-são-joão",
+     "Claritromicina, eritromicina, cetoconazol, itraconazol, fluconazol, ritonavir, diltiazem, verapamil, suco de toranja",
+     "Sinvastatina, atorvastatina, anticoncepcionais, midazolam, alprazolam, fentanil, sildenafila",
+     "Inibidor: miopatia, sedação, hipotensão. Indutor: falha do anticoncepcional"
+    ],
+    [
+     "CYP2D6",
+     "Pouco induzível",
+     "Fluoxetina, paroxetina, bupropiona, quinidina, terbinafina",
+     "Codeína, tramadol (pró-fármacos), metoprolol, tricíclicos, tamoxifeno",
+     "Inibidor reduz analgesia de codeína e tramadol"
+    ],
+    [
+     "CYP2C9",
+     "Rifampicina, carbamazepina",
+     "Fluconazol, amiodarona, metronidazol, sulfametoxazol",
+     "Varfarina, fenitoína, glibenclamida, AINE",
+     "Sangramento com varfarina; hipoglicemia"
+    ],
+    [
+     "CYP2C19",
+     "Rifampicina, carbamazepina",
+     "Omeprazol, esomeprazol, fluvoxamina, fluconazol",
+     "Clopidogrel (pró-fármaco), citalopram, diazepam",
+     "Menor ativação do clopidogrel"
+    ],
+    [
+     "CYP1A2",
+     "Tabaco fumado, carbamazepina, rifampicina",
+     "Fluvoxamina, ciprofloxacino",
+     "Clozapina, olanzapina, teofilina, cafeína, agomelatina",
+     "Parar de fumar ou iniciar inibidor: intoxicação"
+    ]
+   ],
+   "nota": "Indução leva cerca de 1 a 2 semanas para se instalar e para desaparecer; inibição age em horas a dias. Lista não exaustiva: confirme cada par em base de interações e na bula."
+  },
+  {
+   "tipo": "quadro",
+   "id": "m01-quadro-nao-partir",
+   "titulo": "Não partir, não triturar, não mastigar",
+   "html": "<div class=\"tab\"><table><thead><tr><th>Forma</th><th>Como reconhecer</th><th>Por que não alterar</th><th>Exemplos</th></tr></thead><tbody>\n<tr><td>Liberação prolongada</td><td>LP, XR, ER, SR, CR, LA, retard, OROS, HBS no nome</td><td>Libera a dose inteira de uma vez: intoxicação</td><td>Oxicodona LC, venlafaxina XR, metformina XR, nifedipino LP, levodopa HBS</td></tr>\n<tr><td>Gastrorresistente</td><td>“Revestimento entérico”, “liberação retardada”</td><td>Ácido destrói o fármaco ou o fármaco lesa o estômago</td><td>Omeprazol, pantoprazol, diclofenaco sódico</td></tr>\n<tr><td>Sublingual</td><td>“Sublingual”, “SL”</td><td>Engolido perde a absorção rápida e sofre primeira passagem</td><td>Dinitrato de isossorbida SL, zolpidem SL</td></tr>\n<tr><td>Orodispersível</td><td>“Orodispersível”, “ODT”</td><td>Feito para desintegrar na língua; não exige água</td><td>Ondansetrona orodispersível</td></tr>\n<tr><td>Risco a quem manipula</td><td>Teratogênico ou citotóxico</td><td>Pó ou contato com o fármaco expõe gestante ou cuidador</td><td>Finasterida, dutasterida, metotrexato, talidomida</td></tr>\n<tr><td>Cápsula mole</td><td>Conteúdo líquido ou oleoso</td><td>Dose imprecisa e perda do conteúdo</td><td>Vitaminas lipossolúveis, nifedipino cápsula</td></tr>\n</tbody></table></div>\n<div class=\"cx chave\"><b>Ponto-chave</b><p>Sulco não garante divisão exata. Só parta, abra ou triture quando a bula do produto autorizar. Na dúvida, procure apresentação líquida, dose menor pronta ou outra opção com o prescritor.</p></div>\n<div class=\"cx alerta\"><b>Atenção</b><p>Alguns produtos de liberação prolongada têm sulco funcional e podem ser partidos ao meio, mas nunca mastigados ou triturados. Algumas cápsulas com microgrânulos podem ser abertas e dispersas, sem triturar os grânulos. A autorização está sempre na bula.</p></div>"
+  },
+  {
+   "tipo": "tabela",
+   "id": "m01-tab-it-toxicidade",
+   "titulo": "Índice terapêutico estreito: o que monitorar e sinais de toxicidade",
+   "colunas": [
+    "Fármaco",
+    "O que se monitora",
+    "Sinais de toxicidade a reconhecer",
+    "Gatilhos comuns",
+    "Conduta no balcão"
+   ],
+   "linhas": [
+    [
+     "<b>Lítio</b>",
+     "Litemia (manutenção em geral 0,6 a 1,2 mmol/L, bula), função renal, TSH",
+     "Diarreia, vômitos, sonolência, fraqueza muscular, falta de coordenação; depois ataxia, zumbido, visão turva",
+     "AINE, diurético tiazídico, IECA, desidratação, diarreia",
+     "Não indicar AINE; com sinais de toxicidade, encaminhar no mesmo dia"
+    ],
+    [
+     "<b>Digoxina</b>",
+     "Nível sérico, potássio, magnésio, função renal",
+     "Perda de apetite, náusea, vômitos, visão amarelo-esverdeada, palpitação ou pulso lento",
+     "Hipopotassemia por diurético, queda da TFG, idade avançada",
+     "Sinais de intoxicação: encaminhar no mesmo dia"
+    ],
+    [
+     "<b>Varfarina</b>",
+     "RNI na faixa-alvo definida pelo prescritor",
+     "Manchas roxas sem trauma, sangramento de gengiva ou nariz, urina avermelhada, fezes pretas",
+     "AINE, AAS, fluconazol, metronidazol, amiodarona, antibióticos",
+     "Não indicar AINE; avisar o prescritor de todo medicamento novo"
+    ],
+    [
+     "<b>Fenitoína</b>",
+     "Nível sérico (fenitoína total 10 a 20 mg/L, bula), albumina",
+     "Nistagmo, desequilíbrio (ataxia), fala arrastada, sonolência",
+     "Cinética saturável, fluconazol, dieta enteral (reduz absorção)",
+     "Não trocar de produto sem avisar; sinais de excesso: encaminhar"
+    ],
+    [
+     "<b>Ácido valproico</b>",
+     "Nível sérico, enzimas hepáticas, plaquetas",
+     "Mal-estar, fraqueza, vômitos, inchaço no rosto, icterícia; dor abdominal (pancreatite)",
+     "Carbapenêmicos (queda do nível), gestação",
+     "Sinais hepáticos ou abdominais: encaminhar no mesmo dia"
+    ],
+    [
+     "<b>Carbamazepina</b>",
+     "Nível sérico, sódio, hemograma",
+     "Visão dupla, tontura, desequilíbrio, confusão; febre com lesões de pele",
+     "Claritromicina, eritromicina, fluconazol; ela reduz o anticoncepcional",
+     "Lesão de pele com febre: urgência"
+    ],
+    [
+     "<b>Teofilina</b>",
+     "Nível sérico",
+     "Náusea, vômitos, taquicardia, tremor, insônia; convulsão",
+     "Ciprofloxacino, fluvoxamina, parar de fumar",
+     "Perguntar por tabagismo e antibiótico novo"
+    ],
+    [
+     "<b>Metotrexato oral</b>",
+     "Hemograma, função renal e hepática",
+     "Feridas na boca, febre, dor de garganta, sangramento",
+     "Tomada diária por engano no lugar da semanal",
+     "Escrever o dia da semana na embalagem e confirmar o entendimento"
+    ]
+   ],
+   "nota": "Faixas de nível sérico conferidas na bula de lítio e de fenitoína (FDA); sinais de toxicidade conforme as bulas de lítio, digoxina, fenitoína e valproato (FDA); erro de tomada diária do metotrexato conforme alerta da EMA/Infarmed (2019). A faixa-alvo de cada paciente é definida pelo prescritor."
+  },
+  {
+   "tipo": "fluxo",
+   "id": "m01-fluxo-partir-triturar",
+   "titulo": "Pode partir, triturar ou abrir? Paciente com disfagia ou sonda",
+   "passos": [
+    {
+     "t": "Paciente com dificuldade de engolir ou com sonda enteral pergunta como usar um medicamento sólido",
+     "tipo": "inicio"
+    },
+    {
+     "t": "A forma é de liberação prolongada (LP, XR, CR, SR, retard, OROS) ou gastrorresistente?",
+     "tipo": "decisao",
+     "sim": "Não triturar nem mastigar; partir só se a bula autorizar o sulco. Contatar o prescritor para alternativa",
+     "nao": "Seguir para o próximo passo"
+    },
+    {
+     "t": "É sublingual, orodispersível ou cápsula mole?",
+     "tipo": "decisao",
+     "sim": "Não triturar; usar como a forma prevê ou buscar outra apresentação com o prescritor",
+     "nao": "Seguir para o próximo passo"
+    },
+    {
+     "t": "O fármaco é citotóxico ou teratogênico (metotrexato, finasterida, talidomida)?",
+     "tipo": "decisao",
+     "sim": "Não triturar nem dispersar: risco a quem manipula. Buscar apresentação pronta com o prescritor",
+     "nao": "Seguir para o próximo passo"
+    },
+    {
+     "t": "A bula autoriza partir, triturar ou abrir a cápsula?",
+     "tipo": "decisao",
+     "sim": "Orientar a técnica descrita na bula",
+     "nao": "Procurar forma líquida, orodispersível, transdérmica ou outro fármaco com o prescritor"
+    },
+    {
+     "t": "Sonda: pausar a dieta, triturar cada comprimido até pó fino, dispersar em água filtrada e dar um de cada vez, lavando a sonda entre eles (Incor, 2020)",
+     "tipo": "acao"
+    },
+    {
+     "t": "Nunca colocar medicamento no frasco da dieta. Fenitoína e levotiroxina têm absorção reduzida com a dieta enteral",
+     "tipo": "alerta"
+    },
+    {
+     "t": "Registrar a orientação e comunicar ao prescritor toda troca de forma farmacêutica",
+     "tipo": "fim"
+    }
+   ]
+  },
+  {
+   "tipo": "checklist",
+   "id": "m01-check-paciente-risco",
+   "titulo": "Paciente de risco: idoso, gestante, lactante, renal e hepático",
+   "itens": [
+    "Listar todos os medicamentos, chás e suplementos em uso",
+    "Idoso: conferir sedativos, anticolinérgicos e polifarmácia (Critérios de Beers, AGS 2023)",
+    "Idoso: perguntar sobre quedas, confusão ou sonolência recentes",
+    "Perguntar se há gravidez, chance de gravidez ou plano de engravidar",
+    "Conferir na bula as restrições de uso na gestação e na lactação",
+    "Perguntar se amamenta e a idade do bebê; consultar o LactMed (NIH)",
+    "Lactante: não indicar codeína nem tramadol (FDA, 2017)",
+    "Perguntar sobre doença renal e pedir a TFGe mais recente (CKD-EPI 2021)",
+    "Conferir na bula o ajuste por faixa de TFG; evitar AINE na doença renal crônica",
+    "Perguntar sobre hepatopatia, consumo de álcool e icterícia",
+    "Conferir na bula o ajuste hepático (Child-Pugh) e a dose diária do paracetamol",
+    "Checar se há fármaco de índice terapêutico estreito em uso",
+    "Encaminhar ao prescritor quando houver dúvida de dose ou contraindicação",
+    "Registrar a orientação dada"
+   ]
+  },
+  {
+   "tipo": "cartoes",
+   "id": "m01-cartoes",
+   "titulo": "Cartões de revisão",
+   "itens": [
+    {
+     "f": "Indutor enzimático: o efeito aparece rápido ou devagar?",
+     "v": "Devagar, em cerca de 1 a 2 semanas, e também demora a sumir após a suspensão."
+    },
+    {
+     "f": "Por que fluoxetina reduz a analgesia da codeína?",
+     "v": "Inibe a CYP2D6, que converte codeína em morfina."
+    },
+    {
+     "f": "Equação recomendada para estimar a TFG?",
+     "v": "CKD-EPI 2021, sem coeficiente de raça."
+    },
+    {
+     "f": "Diferença entre potência e eficácia?",
+     "v": "Potência é a dose para um efeito; eficácia é o efeito máximo possível."
+    },
+    {
+     "f": "Cite quatro fármacos de índice terapêutico estreito.",
+     "v": "Varfarina, lítio, digoxina, fenitoína (também carbamazepina, valproato, teofilina, levotiroxina)."
+    },
+    {
+     "f": "Onde notificar suspeita de reação adversa a medicamento?",
+     "v": "No VigiMed, sistema da Anvisa; basta a suspeita."
+    },
+    {
+     "f": "Comprimido com XR ou LP no nome pode ser triturado?",
+     "v": "Não. Libera a dose inteira de uma vez; só altere se a bula autorizar."
+    },
+    {
+     "f": "Queixa técnica sem evento adverso: onde notificar?",
+     "v": "No Notivisa. Com evento adverso associado, no VigiMed (Anvisa)."
+    },
+    {
+     "f": "Quem pode notificar no VigiMed?",
+     "v": "Cidadãos, profissionais de saúde, detentores de registro e patrocinadores de estudos."
+    },
+    {
+     "f": "Depois de parar um indutor, por quanto tempo o anticoncepcional fica comprometido?",
+     "v": "Cerca de 28 dias: usar método não afetado ou proteção adicional (FSRH, 2022)."
+    },
+    {
+     "f": "Primeiros sinais de intoxicação por lítio?",
+     "v": "Diarreia, vômitos, sonolência, fraqueza muscular e falta de coordenação (bula)."
+    },
+    {
+     "f": "Sinal visual típico da intoxicação digitálica?",
+     "v": "Visão com predomínio amarelo-esverdeado, junto de náusea, anorexia e arritmia."
+    },
+    {
+     "f": "Primeiros sinais de excesso de fenitoína?",
+     "v": "Nistagmo, ataxia e fala arrastada (bula)."
+    },
+    {
+     "f": "Sonda: como dar vários comprimidos no mesmo horário?",
+     "v": "Triturar e dispersar cada um separadamente, lavando a sonda com água entre eles."
+    },
+    {
+     "f": "Metformina com TFGe abaixo de 30 mL/min/1,73 m²?",
+     "v": "Contraindicada pela bula; contatar o prescritor."
+    },
+    {
+     "f": "Por que codeína e tramadol não são recomendados na amamentação?",
+     "v": "Mãe metabolizadora ultrarrápida da CYP2D6 gera morfina ou metabólito ativo do tramadol em excesso no leite (FDA, 2017)."
+    }
+   ]
+  },
+  {
+   "tipo": "questoes",
+   "id": "m01-questoes",
+   "titulo": "Questões de fixação",
+   "itens": [
+    {
+     "p": "Homem de 63 anos usa sinvastatina 40 mg/dia e recebe claritromicina para pneumonia. Três dias depois, relata dor muscular difusa e urina escura. O mecanismo mais provável é:",
+     "alt": [
+      "Indução da CYP3A4 pela claritromicina, com queda da sinvastatina",
+      "Inibição da CYP2D6, com acúmulo do metabólito ativo",
+      "Inibição da CYP3A4, com aumento da exposição à sinvastatina",
+      "Deslocamento da sinvastatina da albumina pela claritromicina",
+      "Antagonismo farmacodinâmico no receptor muscular"
+     ],
+     "c": 2,
+     "com": "A claritromicina é inibidor potente da CYP3A4, via principal de metabolismo da sinvastatina; a exposição aumenta e surge miopatia ou rabdomiólise. Não é indutora (A). A CYP2D6 não é a via da sinvastatina (B). Deslocamento de albumina tem pouca relevância clínica nesse caso (D) e não há antagonismo de receptor (E)."
+    },
+    {
+     "p": "Cuidadora pergunta se pode partir ao meio o comprimido de oxicodona de liberação controlada de 20 mg para dar meia dose ao paciente que está muito sonolento. O farmacêutico deve:",
+     "alt": [
+      "Autorizar, pois metade terá exatamente 10 mg de liberação controlada",
+      "Autorizar, desde que a metade seja engolida com bastante água",
+      "Orientar triturar e dissolver em água para dosar melhor",
+      "Orientar não partir e contatar o prescritor para ajuste da dose",
+      "Orientar dar o comprimido inteiro em dias alternados"
+     ],
+     "c": 3,
+     "com": "Partir comprimido de liberação controlada pode liberar a dose de uma vez (dose dumping), com risco de depressão respiratória. Sonolência excessiva exige reavaliação pelo prescritor, que pode indicar apresentação de dose menor. A, B e C expõem ao risco; E altera o esquema sem base."
+    },
+    {
+     "p": "Puérpera que amamenta recebe paracetamol com codeína. O motivo farmacocinético da recomendação contrária ao uso na amamentação é:",
+     "alt": [
+      "A codeína não passa para o leite materno, mas reduz bastante a produção láctea",
+      "O paracetamol é convertido em morfina pela CYP3A4",
+      "Mãe metabolizadora ultrarrápida da CYP2D6 gera morfina em excesso no leite",
+      "A codeína é antagonista do receptor mu e causa abstinência no bebê",
+      "A codeína induz a CYP2D6 do lactente"
+     ],
+     "c": 2,
+     "com": "A codeína é convertida em morfina pela CYP2D6; em mães ultrarrápidas, a morfina no leite pode intoxicar o lactente, com sedação e depressão respiratória (FDA, Drug Safety Communication de 20/04/2017). A codeína passa para o leite (A). O paracetamol não gera morfina (B). A codeína é agonista (D) e não induz enzimas do bebê (E)."
+    },
+    {
+     "p": "Mulher de 28 anos usa anticoncepcional oral combinado e começou carbamazepina para epilepsia. Pergunta se a pílula continua protegendo. A orientação adequada é:",
+     "alt": [
+      "Informar que a eficácia pode cair e encaminhar para método não afetado pelo indutor",
+      "Tranquilizar, pois a carbamazepina inibe a CYP3A4 e aumenta o nível do hormônio da pílula",
+      "Orientar dobrar a dose da pílula por conta própria durante todo o tratamento anticonvulsivante",
+      "Orientar tomar a pílula e a carbamazepina com intervalo de 4 horas para evitar a interação",
+      "Tranquilizar, pois só antibióticos como a amoxicilina reduzem o efeito do anticoncepcional oral"
+     ],
+     "c": 0,
+     "com": "A carbamazepina é indutora enzimática e aumenta a depuração dos hormônios; a FSRH (2022) recomenda DIU ou acetato de medroxiprogesterona de depósito, com cautela até 28 dias após suspender o indutor. Ela não é inibidora (B). Ajustar dose por conta própria é automedicação (C). A interação é metabólica, não de absorção, e intervalo entre tomadas não resolve (D). Antibióticos não indutores, como a amoxicilina, não reduzem a eficácia (E; FSRH, 2022)."
+    },
+    {
+     "p": "Homem de 78 anos usa metformina 850 mg duas vezes ao dia. A creatinina do exame é 1,1 mg/dL, \"dentro da referência\", e o laudo traz TFGe de 28 mL/min/1,73 m² (CKD-EPI 2021). O farmacêutico conclui que:",
+     "alt": [
+      "A creatinina normal garante que a dose atual de metformina é segura",
+      "Metformina é contraindicada abaixo de 30 pela bula: contatar o prescritor",
+      "Deve recalcular por Cockcroft-Gault, que é o padrão atual para ajustar doses",
+      "Pode orientar o paciente a reduzir a dose pela metade e manter o uso sem avisar",
+      "Basta trocar a metformina por liberação prolongada, que é segura em qualquer faixa de TFG"
+     ],
+     "c": 1,
+     "com": "A bula da metformina (Glifage®) contraindica o uso com TFGe abaixo de 30 mL/min/1,73 m²; o farmacêutico comunica o prescritor. Creatinina \"normal\" no idoso com pouca massa muscular pode esconder TFG baixa (A). O padrão para estimar TFG é a CKD-EPI 2021 sem raça (KDIGO 2024), não Cockcroft-Gault (C). Mudar a dose por conta própria não resolve a contraindicação (D), e a forma XR tem a mesma restrição renal (E)."
+    },
+    {
+     "p": "Cliente devolve um frasco de comprimidos com cor diferente do habitual e que esfarelam ao toque. Não teve nenhum sintoma. O registro correto é:",
+     "alt": [
+      "Notificação no VigiMed como evento adverso grave",
+      "Nenhuma notificação: basta trocar o produto no balcão",
+      "Comunicação só ao fabricante, que decide se informa a Anvisa",
+      "Notificação no VigiMed, pois toda queixa técnica sem evento adverso vai para ele",
+      "Queixa técnica no Notivisa, guardando o produto e o número do lote"
+     ],
+     "c": 4,
+     "com": "Desvio de qualidade sem evento adverso é queixa técnica e vai para o Notivisa; se houver evento adverso associado, a notificação é feita no VigiMed (Anvisa, 2024). Não houve evento adverso (A e D). Trocar o produto sem notificar perde o sinal de qualidade do lote (B), e a notificação à Anvisa não depende do fabricante (C)."
+    },
+    {
+     "p": "Cuidadora de paciente com sonda nasoenteral e dieta contínua pergunta como dar a fenitoína em comprimido. A orientação correta é:",
+     "alt": [
+      "Pausar a dieta antes e depois da dose, conforme o protocolo do serviço",
+      "Misturar o comprimido triturado diretamente no frasco da dieta enteral contínua",
+      "Triturar junto com os outros comprimidos do horário para ganhar tempo",
+      "Administrar sem lavar a sonda, para não diluir a dose de fenitoína",
+      "Manter a dieta correndo, pois a nutrição enteral aumenta a absorção"
+     ],
+     "c": 0,
+     "com": "A dieta enteral reduz a absorção da fenitoína; o manual do Incor (2020) pausa a dieta 40 minutos antes e religa 40 minutos depois. Medicamento não vai no frasco da dieta (B); cada comprimido é triturado e dado separadamente (C); a sonda é lavada com água entre as administrações (D). A dieta reduz, e não aumenta, a absorção (E)."
+    },
+    {
+     "p": "Paciente de 45 anos em uso de carbonato de lítio pede \"um anti-inflamatório\" para dor no joelho e conta que há dois dias tem diarreia, sonolência e tremor maior que o habitual. O farmacêutico deve:",
+     "alt": [
+      "Indicar ibuprofeno por 3 dias, pois o uso curto não interfere no lítio",
+      "Não indicar AINE e encaminhar logo para avaliação médica e litemia",
+      "Indicar diclofenaco e orientar aumentar a dose do lítio por causa do tremor",
+      "Orientar suspender o lítio por conta própria até a diarreia passar",
+      "Indicar antidiarreico e manter tudo, pois tremor maior é esperado com lítio"
+     ],
+     "c": 1,
+     "com": "AINE reduz a eliminação renal do lítio, e diarreia, vômitos, sonolência, fraqueza e falta de coordenação são sinais precoces de intoxicação (bula do lítio, FDA). O quadro pede avaliação médica com litemia. Mesmo uso curto de AINE eleva a litemia (A). Aumentar a dose agrava a toxicidade (C). Suspender sem avaliação não substitui o atendimento (D), e o quadro não é esperado (E)."
+    },
+    {
+     "p": "Idosa de 82 anos usa digoxina e hidroclorotiazida. Chega com náusea, falta de apetite e diz que \"está vendo tudo amarelado\". A conduta adequada é:",
+     "alt": [
+      "Indicar antiemético de venda livre e reavaliar o quadro em uma semana",
+      "Considerar virose e orientar hidratação oral em casa por alguns dias",
+      "Orientar tomar a digoxina junto com leite para reduzir a náusea",
+      "Orientar dobrar a dose do diurético para eliminar o excesso de líquido",
+      "Suspeitar de intoxicação digitálica e encaminhar no mesmo dia"
+     ],
+     "c": 4,
+     "com": "Anorexia, náusea, vômitos e alteração visual (predomínio de amarelo-esverdeado) são sinais de intoxicação por digoxina; idade avançada e hipopotassemia por diurético predispõem (bula do Lanoxin®, FDA). Antiemético mascara o quadro (A); tratar como virose atrasa o diagnóstico (B); leite não resolve (C); mais diurético agrava a hipopotassemia (D)."
+    },
+    {
+     "p": "Na classificação de reações adversas de Rawlins e Thompson, ampliada por Edwards e Aronson, qual par está correto?",
+     "alt": [
+      "Anafilaxia por penicilina: tipo A, dose-dependente",
+      "Hipoglicemia por glibenclamida: tipo B, imprevisível",
+      "Abstinência na suspensão abrupta do clonazepam: tipo F, falha",
+      "Gravidez com pílula e carbamazepina: tipo F",
+      "Osteoporose por corticoide de uso crônico: tipo E, fim de uso"
+     ],
+     "c": 3,
+     "com": "Tipo F é falha terapêutica, muitas vezes por interação, como o indutor que reduz o anticoncepcional (Edwards e Aronson, 2000). Anafilaxia é tipo B (A); hipoglicemia por sulfonilureia é tipo A, dose-dependente (B); abstinência é tipo E, de fim de uso (C); osteoporose por corticoide é tipo C, crônica (E)."
+    },
+    {
+     "p": "Mãe recebe prescrição de dipirona gotas 500 mg/mL, 10 gotas, para o filho. A bula informa 20 gotas por mL. Quanto de dipirona há na dose prescrita?",
+     "alt": [
+      "25 mg",
+      "250 mg",
+      "500 mg",
+      "5 g",
+      "12,5 mg"
+     ],
+     "c": 1,
+     "com": "Com 20 gotas por mL, cada gota tem 25 mg; 10 gotas correspondem a 0,5 mL e 250 mg. Uma gota isolada tem 25 mg (A); 500 mg seriam 20 gotas (C); 5 g seriam 10 mL, erro de trocar gotas por mililitros, que multiplica a dose por 20 (D); 12,5 mg seria meia gota (E). Gotas por mL e mg por gota: bula do produto (Novalgina®)."
+    }
+   ]
+  }
+ ],
+ "fontes": [
+  "Brasil. Lei nº 9.787, de 10 de fevereiro de 1999 (medicamento genérico). Anvisa. RDC nº 16/2007 e RDC nº 58, de 10 de outubro de 2014 (medicamento similar intercambiável). Conselho Federal de Farmácia. Em defesa dos medicamentos genéricos e da autoridade técnica dos farmacêuticos, notícia de 24/01/2024. https://site.cff.org.br",
+  "Anvisa. VigiMed: o que é e como cadastrar? Publicado em 08/10/2020, atualizado em 21/03/2024. https://www.gov.br/anvisa/pt-br/assuntos/fiscalizacao-e-monitoramento/notificacoes/vigimed/vigimed-saiba-mais",
+  "Anvisa. VigiMed: perguntas e respostas (notificação de eventos adversos a medicamentos e vacinas; envio ao banco de dados da OMS). Portal antigo da Anvisa.",
+  "Faculty of Sexual and Reproductive Healthcare (FSRH). Clinical Guidance: Drug Interactions with Hormonal Contraception. Maio de 2022.",
+  "U.S. Food and Drug Administration. Drug Safety Communication: FDA restricts use of prescription codeine pain and cough medicines and tramadol pain medicines in children; recommends against use in breastfeeding women. 20 de abril de 2017. Drug Safety Communication sobre opioides associados a benzodiazepínicos, 2016.",
+  "Instituto do Coração (Incor), Hospital das Clínicas da FMUSP, Serviço de Farmácia. Manual de orientações para o preparo e administração de medicamentos via sonda enteral. Elaboração 2016, atualização 2 de julho de 2020.",
+  "Glifage® e Glifage® XR (cloridrato de metformina). Bula. Merck S/A (Brasil): contraindicação com TFGe abaixo de 30 mL/min/1,73 m².",
+  "U.S. Food and Drug Administration. Prescribing information: lithium carbonate (2018), Lanoxin® (digoxina), Dilantin® (fenitoína) e Depakote®/ácido valproico (2025). Drugs@FDA e DailyMed.",
+  "Infarmed. Circular Informativa nº 120/CD/550.20.001, de 17/07/2019: Metotrexato, novas medidas para evitar erros de medicação (recomendação do PRAC/EMA).",
+  "American Geriatrics Society Beers Criteria Update Expert Panel. American Geriatrics Society 2023 updated AGS Beers Criteria for potentially inappropriate medication use in older adults. J Am Geriatr Soc 2023;71(7):2052-2081.",
+  "Inker LA et al. New creatinine- and cystatin C-based equations to estimate GFR without race. N Engl J Med 2021;385:1737-1749. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of CKD.",
+  "Edwards IR, Aronson JK. Adverse drug reactions: definitions, diagnosis, and management. Lancet 2000;356:1255-1259. Naranjo CA et al. A method for estimating the probability of adverse drug reactions. Clin Pharmacol Ther 1981;30:239-245."
+ ]
+}

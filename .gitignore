@@ -1,0 +1,9 @@
+_teste/
+.claude/
+.DS_Store
+__pycache__/
+conteudo/_anteriores/
+pdf/
+herdado/
+PROMPT-INICIAL.md
+docs/.ultima_montagem
