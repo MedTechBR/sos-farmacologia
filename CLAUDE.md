@@ -37,7 +37,12 @@ e antialérgicos (m06) · 7 Respiratório (m07) · 8 Interações na atenção b
   de `~/Documents/Claude/_mtsync/`), `/_mtacesso.js?v=N` e `conta-sosfarmacologia.js` (appId `sosfarmacologia`).
   Mesma mecânica do conta-sos.js: progresso só no aparelho, administração (claim `mt.adm`) edita, cliente lê e gera
   PDF com "Licenciado para <e-mail>". REGRA DO DONO: nada salvo no aparelho é apagado por causa da conta.
-- **Pré-lançamento:** enquanto o produto `sosfarmacologia` não tiver checkout no planos.json, o MTAcesso devolve
-  "livre" para qualquer conta; o conta-sosfarmacologia.js então mostra a tela "chega em breve" (`emBreve`) para quem
-  não é administração. Ao ligar a venda (preço e linha definidos pelo dono; planos.json, vitrine, portais e admin
-  do site, sempre de um clone fresco), a trava some sozinha.
+- **Venda ligada em 15/10/2026** (pedido do dono: igual ao SOS Farmácia): produto `sosfarmacologia` no planos.json do
+  site, linha provas, `publico:"farmacia"` (linha MedTech Multi na vitrine), R$ 49,90/mês ou R$ 397/ano, checkout "mp".
+  Aparece no portal Provas (app.html → provas.html gerado), no trocador (`_mtauth.js` MT_FUNCS), no admin (admin.js),
+  no `_mtacesso.js` (NOMES), na vitrine (vitrine.js, medtech-multi, index, ajuda, menu do header), em termos e
+  privacidade, com print `img/vitrine/sosfarmacologia-390*.webp`. IAs do backend (MedTech/backend/functions):
+  atendente lê a vitrine ao vivo (PAGINAS_BASE ganhou medtech-multi) e o curador de conteúdo indexa
+  `/sos-farmacologia/` (formato "sos", sem errata).
+- Trava de pré-lançamento (`emBreve` no conta-sosfarmacologia.js): só aparece se o MTAcesso devolver "livre" (produto
+  sem checkout). Com a venda ligada ela não aparece; ficou no código como proteção.
