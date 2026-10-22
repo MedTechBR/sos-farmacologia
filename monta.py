@@ -16,16 +16,21 @@ MARCA_MONTAGEM = os.path.join(RAIZ, 'docs', '.ultima_montagem')
 TABLER_CSS = os.path.expanduser('~/Documents/Claude/_trabalho/site/vendor/tabler/tabler-icons.min.css')
 TABLER_WOFF = os.path.expanduser('~/Documents/Claude/_trabalho/site/vendor/tabler/fonts/tabler-icons.woff2')
 
-MODULOS = {  # cor (paleta do FarmaUTI), ícone Tabler e nome curto da barra lateral
-    'm01': ('#5B5BF0', 'flask', 'Princípios para o balcão'), 'm02': ('#8E5AF2', 'brain', 'Sistema nervoso central'),
-    'm03': ('#11A870', 'virus', 'Antimicrobianos'), 'm04': ('#E5484D', 'heartbeat', 'Cardiovascular e renal'),
-    'm05': ('#E89A00', 'droplet', 'Sistema endócrino'), 'm06': ('#F76E1E', 'flame', 'AINEs, corticoides e alergia'),
-    'm07': ('#0AA5C2', 'lungs', 'Sistema respiratório'), 'm08': ('#E8468E', 'arrows-exchange', 'Interações medicamentosas'),
+MODULOS = {  # cor, ícone Tabler e nome curto da barra lateral. 22/10/2026: 17 módulos; ids antigos mantidos (progresso salvo)
+    'm01': ('#5B5BF0', 'flask', 'Farmacocinética e farmacodinâmica'), 'm04': ('#E5484D', 'heartbeat', 'Sistema cardiovascular'),
+    'm09': ('#2F7BF6', 'droplet-half-2', 'Sistema renal'), 'm07': ('#0AA5C2', 'lungs', 'Sistema respiratório'),
+    'm10': ('#B7791F', 'salad', 'Sistema gastrointestinal'), 'm05': ('#E89A00', 'needle', 'Sistema endócrino'),
+    'm02': ('#8E5AF2', 'brain', 'Sistema nervoso central'), 'm03': ('#11A870', 'microscope', 'Antimicrobianos'),
+    'm11': ('#4D9A12', 'mushroom', 'Antifúngicos'), 'm12': ('#1F6FEB', 'virus', 'Antivirais'),
+    'm13': ('#8B6D3B', 'bug', 'Antiparasitários'), 'm14': ('#C2410C', 'ribbon-health', 'Quimioterapia antineoplásica'),
+    'm15': ('#0E7490', 'shield-half', 'Imunofarmacologia'), 'm06': ('#F76E1E', 'flame', 'Anti-inflamatórios e coxibes'),
+    'm16': ('#DB2777', 'flower', 'Antialérgicos'), 'm17': ('#7C3AED', 'capsule', 'Glicocorticoides'),
+    'm08': ('#E8468E', 'arrows-exchange', 'Interações medicamentosas'),
 }
 GERAL_PADRAO = {
     'titulo': 'SOS Farmacologia',
     'subtitulo': 'Farmacologia aplicada ao balcão e à dispensação, para alunos do 9º e 10º semestres de Farmácia e farmacêuticos recém-formados. '
-                 'Oito módulos, cada um com resumo para leitura, mapas mentais e material de apoio.',
+                 'Dezessete módulos, cada um com resumo para leitura, mapas mentais e material de apoio.',
     'config': {'marca': 'SOS Farmacologia', 'marca2': ''},
 }
 
@@ -55,6 +60,12 @@ def le_conteudo():
                     m['fontes'].append(f)
         modulos.append(m)
     modulos.sort(key=lambda m: m['num'])
+    vistos = {}
+    for m in modulos:
+        for x in m['topicos'] + m['mapas'] + m['apoio']:
+            if x.get('id') in vistos:
+                sys.exit(f"id repetido entre módulos: {x['id']} ({vistos[x['id']]} e {m['id']})")
+            vistos[x.get('id')] = m['id']
     return modulos
 
 

@@ -1,0 +1,524 @@
+{
+ "id": "m09",
+ "num": 3,
+ "titulo": "Sistema renal",
+ "escopo": "Diuréticos por local de ação (alça, tiazídicos, poupadores de potássio, inibidores da anidrase carbônica e osmóticos), distúrbios hidroeletrolíticos, função renal estimada por CKD-EPI 2021, ajuste de dose, nefrotoxicidade e a tríplice ameaça (IECA ou BRA + diurético + AINE) na dispensação.",
+ "topicos": [
+  {
+   "id": "m04-diureticos",
+   "titulo": "Diuréticos",
+   "resumo": "<p>Diuréticos aumentam a eliminação de sódio e água pelo rim. Cada classe age em um segmento do néfron, e o local de ação explica a potência, os distúrbios eletrolíticos e o uso clínico. Na HA, o efeito inicial vem da perda de volume; com o tempo, a resistência vascular periférica também cai, e é esse efeito tardio que mantém a PA controlada.</p> <h3>O néfron em quatro paradas</h3> <ol> <li><strong>Túbulo proximal</strong>: reabsorve cerca de dois terços do sódio filtrado, em parte trocado por hidrogênio com ajuda da anidrase carbônica. Aqui age a acetazolamida.</li> <li><strong>Alça de Henle, ramo ascendente espesso</strong>: cotransportador Na-K-2Cl. Aqui agem os diuréticos de alça, os mais potentes.</li> <li><strong>Túbulo contornado distal</strong>: cotransportador Na-Cl. Aqui agem os tiazídicos e análogos.</li> <li><strong>Ducto coletor</strong>: canal de sódio (ENaC) controlado pela aldosterona, que troca sódio por potássio. Aqui agem os poupadores de potássio.</li> </ol> <p>Um ponto de fisiologia explica por que tiazídicos e diuréticos de alça espoliam potássio: eles fazem chegar mais sódio ao ducto coletor, onde parte é trocada por potássio, que vai embora na urina. Os poupadores bloqueiam justamente essa troca.</p> <h3>Tiazídicos e análogos</h3> <p>São os diuréticos da HA. A DBHA 2025 lista: <strong>hidroclorotiazida</strong> até 50 mg/dia (no SUS, 25 a 50 mg em uma tomada; na prática, 12,5 a 25 mg em associações), <strong>clortalidona</strong> 12,5 a 25 mg/dia e <strong>indapamida</strong> de liberação prolongada 1,5 a 3 mg/dia, todos em uma tomada. Doses maiores aumentam os efeitos metabólicos sem acrescentar efeito anti-hipertensivo relevante. Clortalidona e indapamida têm ação mais longa, e a diretriz recomenda trocar a hidroclorotiazida por uma delas quando a PA não controla com três classes.</p> <p>Efeitos adversos e alertas:</p> <ul> <li><strong>Hipocalemia</strong> e hipomagnesemia: cãibras, fraqueza, arritmias; perigosas em quem usa digoxina.</li> <li><strong>Hiponatremia</strong>: principal risco em idosas magras; confusão, quedas, sonolência.</li> <li><strong>Hiperuricemia</strong>: pode desencadear crise de gota; a DBHA 2025 contraindica na gota ativa.</li> <li>Hiperglicemia e aumento de lipídios, dose-dependentes.</li> <li>Hipercalcemia leve (reduzem a excreção urinária de cálcio, efeito útil em litíase cálcica).</li> <li>Fotossensibilidade e reações em quem tem alergia a sulfonamidas (estrutura semelhante).</li> <li>Aumento da litemia em quem usa lítio.</li> </ul> <p>Na doença renal crônica avançada, os tiazídicos perdem eficácia, e a diretriz considera clortalidona e diurético de alça nesse cenário.</p> <h3>Diuréticos de alça</h3> <p><strong>Furosemida</strong> (20 a 240 mg/dia, 1 a 3 tomadas, DBHA 2025) e <strong>bumetanida</strong> são indicados em estados edematosos: insuficiência cardíaca, doença renal crônica, síndrome nefrótica e cirrose (associados à espironolactona). Na HA sem edema não são primeira escolha, porque o efeito é curto e intenso. Efeitos: desidratação, hipotensão, hipocalemia, hipomagnesemia, hiperuricemia, alcalose metabólica e ototoxicidade em doses altas intravenosas ou com aminoglicosídeos. Ao contrário dos tiazídicos, aumentam a excreção de cálcio.</p> <h3>Poupadores de potássio</h3> <ul> <li><strong>Espironolactona</strong> (25 a 100 mg/dia): antagonista do receptor mineralocorticoide. É o quarto fármaco na HA resistente (DBHA 2025, recomendação forte), tem papel na insuficiência cardíaca, no hiperaldosteronismo e na ascite. Efeitos: hipercalemia (sobretudo com IECA ou BRA e na doença renal), ginecomastia, mastalgia, redução de libido e irregularidade menstrual.</li> <li><strong>Eplerenona</strong> (25 a 100 mg/dia): mais seletiva, sem efeitos hormonais; mesma hipercalemia.</li> <li><strong>Amilorida</strong> (2,5 a 5 mg/dia): bloqueia o ENaC; no Brasil aparece associada a tiazídico.</li> </ul> <h3>Inibidores da anidrase carbônica e osmóticos</h3> <p>A <strong>acetazolamida</strong> (Diamox®) tem efeito diurético fraco e não é anti-hipertensivo. Usos: glaucoma (250 mg a 1 g/dia), prevenção do mal agudo da montanha (500 mg a 1 g/dia, segundo a bula) e algumas formas de epilepsia. Causa acidose metabólica, parestesias de extremidades, gosto metálico em bebidas gaseificadas e litíase. É uma sulfonamida.</p> <p>O <strong>manitol</strong> é um diurético osmótico de uso intravenoso hospitalar: filtrado e não reabsorvido, puxa água para a urina. É usado na hipertensão intracraniana e no glaucoma agudo; não tem lugar na farmácia comercial.</p> <h3>Como reconhecer os distúrbios mais comuns</h3> <div class=\"tab\"><table><thead><tr><th>Distúrbio</th><th>Quem tem mais risco</th><th>Sinais que o cliente relata</th></tr></thead><tbody> <tr><td>Hipocalemia</td><td>Tiazídico ou alça em dose alta, diarreia, uso de laxantes</td><td>Cãibras, fraqueza, palpitação, constipação</td></tr> <tr><td>Hipercalemia</td><td>Espironolactona ou amilorida com IECA/BRA, DRC, diabetes</td><td>Fraqueza, formigamento, palpitação; muitas vezes nenhum sintoma</td></tr> <tr><td>Hiponatremia</td><td>Idosos com tiazídico, uso associado de antidepressivos</td><td>Confusão, sonolência, náusea, quedas</td></tr> <tr><td>Desidratação</td><td>Diurético de alça, calor, vômitos, idosos com pouca ingestão de água</td><td>Tontura ao levantar, boca seca, urina escura e escassa</td></tr> <tr><td>Crise de gota</td><td>Tiazídico ou alça em quem já tem ácido úrico alto</td><td>Dor intensa, vermelhidão e inchaço em uma articulação, típica no dedão do pé</td></tr> </tbody></table></div> <p>Diuréticos estão na lista de substâncias proibidas no esporte, porque podem mascarar outras substâncias na urina e provocar perda rápida de peso para competições por categoria. Atletas federados devem consultar o médico do esporte antes de usar qualquer diurético, inclusive em associações anti-hipertensivas.</p> <div class=\"cx alerta\"><b>Atenção</b><p>Diurético não é emagrecedor. O peso perdido é água e volta em dias, com risco de desidratação, hipocalemia, arritmia e lesão renal. Pedido de furosemida \"para desinchar\" ou \"para perder peso\" sem receita deve ser recusado, com orientação. Furosemida e hidroclorotiazida são de venda sob prescrição.</p></div> <h3>Horário de tomada</h3> <p>A DBHA 2025 informa que anti-hipertensivos podem ser tomados pela manhã ou à noite com eficácia semelhante. Para diuréticos, porém, a tomada pela manhã evita acordar à noite para urinar (noctúria), que atrapalha o sono e aumenta o risco de queda em idosos. Quando a furosemida é prescrita em duas tomadas, a segunda costuma ficar no início da tarde. Quem vai sair de casa por muitas horas pode combinar com o médico o melhor horário.</p> <div class=\"cx balcao\"><b>No balcão</b><p>Ao dispensar um diurético: oriente tomar pela manhã, levantar devagar, beber água conforme orientação médica (há pacientes com restrição hídrica na insuficiência cardíaca), não usar sal light ou suplemento de potássio com espironolactona sem orientação, procurar atendimento se houver cãibras intensas, fraqueza, palpitação ou confusão, e evitar AINE. Em vômitos ou diarreia intensos, o diurético pode precisar de suspensão temporária; essa decisão deve ser orientada pelo médico.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Idosa de 82 anos, em uso de hidroclorotiazida 25 mg e sertralina, é trazida pela filha porque está \"confusa e sonolenta há dois dias\". O farmacêutico reconhece risco de hiponatremia (tiazídico, idade, inibidor seletivo da recaptação de serotonina) e orienta avaliação médica no mesmo dia, sem sugerir suspensão por conta própria.</p></div>"
+  },
+  {
+   "id": "m04-rim",
+   "titulo": "Rim e medicamentos no balcão",
+   "resumo": "<p>O rim filtra o sangue, elimina fármacos e seus metabólitos, regula água, sódio, potássio e ácido-base e produz eritropoetina e a forma ativa da vitamina D. A doença renal crônica (DRC) é silenciosa nas fases iniciais e muito ligada a HA e diabetes, justamente o público que mais frequenta a farmácia. Muitos medicamentos de uso corrente pioram a função renal ou se acumulam quando ela está reduzida.</p> <h3>Como estimar a função renal</h3> <p>A medida usada na prática é a <strong>taxa de filtração glomerular estimada (TFGe)</strong>, calculada a partir da creatinina sérica, idade e sexo. A equação padrão atual é a <strong>CKD-EPI 2021</strong>, que retirou o coeficiente racial das versões anteriores. Os laboratórios geralmente já informam a TFGe no laudo. A fórmula de Cockcroft-Gault, que estima a depuração de creatinina (ClCr) a partir do peso, não é o padrão. Algumas bulas antigas ainda ajustam a dose por ClCr; nesses casos, o ajuste é decidido pelo prescritor com o dado disponível, e a referência para classificar a função renal continua sendo a TFGe por CKD-EPI 2021.</p> <div class=\"tab\"><table><thead><tr><th>Categoria</th><th>TFGe (mL/min/1,73 m²)</th><th>Descrição</th></tr></thead><tbody> <tr><td>G1</td><td>≥ 90</td><td>Normal ou alta (DRC só se houver outro marcador de lesão)</td></tr> <tr><td>G2</td><td>60 a 89</td><td>Levemente reduzida</td></tr> <tr><td>G3a</td><td>45 a 59</td><td>Leve a moderadamente reduzida</td></tr> <tr><td>G3b</td><td>30 a 44</td><td>Moderada a gravemente reduzida</td></tr> <tr><td>G4</td><td>15 a 29</td><td>Gravemente reduzida</td></tr> <tr><td>G5</td><td>&lt; 15</td><td>Falência renal</td></tr> </tbody></table></div> <p>Classificação KDIGO. A DRC é definida por alteração de estrutura ou função renal por mais de 3 meses: TFGe abaixo de 60 ou marcador de lesão, como albuminúria (relação albumina/creatinina na urina ≥ 30 mg/g).</p> <h3>Nefrotóxicos de balcão</h3> <p>Os <strong>anti-inflamatórios não esteroides</strong> (ibuprofeno, naproxeno, diclofenaco, nimesulida, cetoprofeno, inibidores seletivos da COX-2) são os principais. Eles inibem prostaglandinas que mantêm a arteríola aferente dilatada. Em rim saudável e hidratado isso pouco importa; em idosos, desidratados, cardiopatas, cirróticos ou com DRC, a filtração cai e pode haver lesão renal aguda. Os AINE também retêm sódio, elevam a PA, causam hipercalemia e reduzem o efeito de anti-hipertensivos e diuréticos.</p> <div class=\"cx alerta\"><b>Atenção</b><p>\"Triple whammy\" é o nome dado à combinação de <strong>IECA ou BRA + diurético + AINE</strong>. O diurético reduz o volume, o IECA ou BRA dilata a arteríola eferente e o AINE contrai a aferente: a pressão de filtração despenca. Em coorte britânica com 487 mil usuários de anti-hipertensivos, a combinação tripla aumentou em 31% a taxa de lesão renal aguda, e o risco foi maior nos primeiros 30 dias de uso (razão de taxas 1,82) (Lapi et al., BMJ 2013). É uma das interações mais relevantes que o farmacêutico pode evitar no balcão.</p></div> <p>Outros pontos de atenção:</p> <ul> <li>Laxantes e enemas com fosfato de sódio: risco de nefropatia por fosfato e distúrbios eletrolíticos em idosos e renais.</li> <li>Antiácidos e laxantes com magnésio ou alumínio: acumulam na DRC avançada.</li> <li>Suplementos de potássio e sal light: hipercalemia em quem tem DRC ou usa IECA, BRA ou espironolactona.</li> <li>Produtos \"naturais\" e suplementos de procedência duvidosa: composição incerta, com casos de contaminação e adulteração.</li> <li>Desidratação por vômitos, diarreia ou calor em quem usa diurético, IECA, BRA, metformina ou iSGLT2.</li> </ul> <h3>Dias de doença</h3> <p>Em quadros agudos com vômitos, diarreia ou febre que impedem a hidratação, alguns medicamentos aumentam o risco de lesão renal ou de acidose: diuréticos, IECA, BRA, AINE, metformina e iSGLT2. Vários serviços entregam ao paciente um plano escrito de \"dias de doença\" dizendo quais pausar temporariamente e quando retomar. O farmacêutico pode reforçar esse plano, mas não deve criar um por conta própria: a pausa precisa ser orientada pelo médico.</p> <h3>Proteção renal: iSGLT2</h3> <p>Os inibidores do SGLT2 (dapagliflozina, empagliflozina) reduzem a progressão da DRC e eventos cardiovasculares, com ou sem diabetes, e a DBHA 2025 recomenda favorecer seu uso na HA com DRC, ao lado do IECA ou BRA e, em diabéticos, da finerenona e dos agonistas de GLP-1. No SUS, a dapagliflozina tem critérios definidos em protocolo para DRC. O tema é detalhado no módulo de sistema endócrino.</p> <h3>Sinais de alerta que o farmacêutico percebe</h3> <p>A DRC costuma ser descoberta tarde. No contato frequente com hipertensos e diabéticos, o farmacêutico pode notar sinais que justificam avaliação: urina espumosa persistente, inchaço de pálpebras pela manhã ou de pernas, aumento da vontade de urinar à noite, cansaço sem explicação, perda de apetite e coceira na pele em fases avançadas. A DBHA 2025 recomenda, na avaliação de todo hipertenso, dosar creatinina com cálculo da TFGe e pesquisar albuminúria ou proteinúria. Perguntar \"quando foi o último exame de sangue e de urina?\" é uma forma simples de estimular esse acompanhamento.</p> <h3>Ajuste renal de fármacos comuns</h3> <div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>O que acontece na DRC</th><th>Conduta usual</th></tr></thead><tbody> <tr><td>Metformina</td><td>Acúmulo e risco de acidose lática</td><td>Máximo 1 g/dia se TFGe &lt; 45 mL/min/1,73 m²; suspender se &lt; 30 (SBD 2026)</td></tr> <tr><td>Glibenclamida</td><td>Metabólitos ativos acumulam: hipoglicemia prolongada</td><td>Evitar; prescritor costuma preferir gliclazida MR</td></tr> <tr><td>Sitagliptina, vildagliptina</td><td>Acúmulo</td><td>Redução de dose conforme bula; linagliptina sem ajuste</td></tr> <tr><td>Atenolol</td><td>Eliminação renal</td><td>Redução de dose ou intervalo</td></tr> <tr><td>Espironolactona, IECA, BRA</td><td>Hipercalemia</td><td>Monitorar potássio e creatinina</td></tr> <tr><td>Antimicrobianos (amoxicilina, aciclovir, nitrofurantoína, fluoroquinolonas)</td><td>Acúmulo ou perda de eficácia</td><td>Ajuste de dose ou de escolha conforme bula</td></tr> <tr><td>Gabapentina, pregabalina</td><td>Acúmulo: sonolência, tontura, quedas</td><td>Redução de dose conforme TFG</td></tr> <tr><td>Alopurinol, colchicina</td><td>Acúmulo e toxicidade</td><td>Dose ajustada e cautela com interações</td></tr> <tr><td>Anticoagulantes diretos, enoxaparina</td><td>Acúmulo: sangramento</td><td>Ajuste conforme bula e TFG</td></tr> </tbody></table></div> <p>A tabela é um guia de alerta. O número exato de corte e a nova dose estão na bula de cada produto e são definidos pelo prescritor.</p> <h3>Hipercalemia e alimentação</h3> <p>Pessoas com DRC em uso de IECA, BRA ou espironolactona costumam receber orientação de controlar potássio na dieta. Banana, laranja, água de coco, feijão, tomate e frutas secas são ricos em potássio, e o sal light troca parte do sódio por cloreto de potássio. O farmacêutico não deve prescrever dieta, mas precisa saber disso para não indicar suplemento de potássio, isotônico ou sal light a esses clientes. Exames de potássio acima do valor de referência relatados pelo cliente justificam contato com o médico antes da próxima dose de espironolactona.</p> <h3>Exames com contraste</h3> <p>O contraste iodado de tomografias e cateterismos pode reduzir a função renal em pessoas com DRC, desidratação ou diabetes. Pacientes em uso de metformina recebem orientação específica sobre pausa e reavaliação da função renal (detalhada no módulo de sistema endócrino). Antes do exame, o serviço de imagem costuma perguntar sobre creatinina, metformina, diuréticos e AINE; o farmacêutico pode ajudar o cliente a levar a lista atualizada de medicamentos.</p> <div class=\"cx balcao\"><b>No balcão</b><p>Antes de indicar ou dispensar um AINE, pergunte: tem pressão alta, problema nos rins, insuficiência cardíaca ou diabetes? Usa remédio de pressão ou diurético? Tem mais de 65 anos? Se sim, prefira analgésico sem efeito renal (paracetamol ou dipirona, respeitando contraindicações) e oriente avaliação médica para dor persistente. Peça ao paciente com DRC o último resultado de creatinina e TFGe e anote no cadastro.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Homem de 74 anos, em uso de enalapril e hidroclorotiazida, pede nimesulida para dor no joelho. Está com diarreia há dois dias. O farmacêutico identifica o risco de lesão renal (IECA + diurético + AINE + desidratação), não indica o AINE, orienta hidratação oral, sugere paracetamol em dose adequada para a dor e encaminha ao médico pela diarreia e para avaliar o uso dos anti-hipertensivos durante o quadro.</p></div>"
+  },
+  {
+   "id": "m09-eletrolitos",
+   "titulo": "Distúrbios hidroeletrolíticos e monitorização de diuréticos",
+   "resumo": "<p>Os diuréticos mexem com o sódio, o potássio, o magnésio e a água que o rim devolve ao sangue. Por isso, os efeitos adversos mais frequentes da classe são <strong>distúrbios hidroeletrolíticos</strong>: hipocalemia e hipomagnesemia com diuréticos de alça e tiazídicos, hiponatremia com tiazídicos e hipercalemia com poupadores de potássio. Eles aparecem com mais frequência nas primeiras semanas, depois de aumento de dose, em idosos, em quem tem doença renal e quando entra um segundo fármaco que soma o mesmo efeito. Muitos são silenciosos e só aparecem no exame; outros chegam ao balcão como cãibra, fraqueza, palpitação, confusão ou queda.</p><h3>Valores de referência e gravidade</h3><div class=\"tab\"><table><thead><tr><th>Distúrbio</th><th>Definição</th><th>Faixa de maior risco</th></tr></thead><tbody><tr><td>Hipocalemia</td><td>Potássio abaixo de 3,5 mEq/L</td><td>Abaixo de 3 mEq/L: arritmias; abaixo de 2,5 mEq/L: grave</td></tr><tr><td>Hipercalemia</td><td>Potássio acima de 5,5 mEq/L</td><td>Acima de 6,5 mEq/L: alargamento do QRS e arritmias graves</td></tr><tr><td>Hiponatremia</td><td>Sódio abaixo de 136 mEq/L</td><td>Abaixo de 121 mEq/L: grave; abaixo de 115 mEq/L: convulsão e coma</td></tr><tr><td>Hipomagnesemia</td><td>Magnésio abaixo de 1,8 mg/dL (0,70 mmol/L)</td><td>Abaixo de 1,25 mg/dL (0,50 mmol/L): grave</td></tr></tbody></table></div><p>Os limites são do Manual MSD (versão para profissionais, 2025). Cada laboratório informa sua própria faixa de referência, e o laudo do cliente deve ser lido com ela. Quem interpreta o exame e decide a conduta é o prescritor; o papel do farmacêutico é reconhecer o risco, perguntar pelo último exame e encaminhar.</p><h3>Hipocalemia</h3><p>É o distúrbio mais comum com diuréticos de alça (furosemida) e tiazídicos (hidroclorotiazida, clortalidona, indapamida), que levam mais sódio ao ducto coletor, onde ele é trocado por potássio. O risco aumenta com dose alta, diarreia, vômitos, uso prolongado de laxantes, corticoide e alcaçuz em grande quantidade (bula do Lasix®, FDA, 2025). Broncodilatadores beta-2 em dose alta e insulina empurram o potássio para dentro das células e somam efeito. A forma leve (3 a 3,4 mEq/L) raramente dá sintomas; abaixo disso surgem fraqueza muscular, cãibras, constipação, palpitação e arritmias. Quem usa <strong>digoxina</strong> corre risco de arritmia mesmo com hipocalemia leve, porque o potássio baixo aumenta a toxicidade do digitálico (Manual MSD, 2025).</p><p>A prevenção é decisão do prescritor: menor dose de tiazídico, associação com poupador de potássio ou reposição de cloreto de potássio. O cliente não deve iniciar suplemento de potássio por conta própria, porque o mesmo paciente pode usar IECA, BRA ou espironolactona.</p><h3>Hiponatremia</h3><p>Os tiazídicos são a causa medicamentosa mais comum de sódio baixo. O risco maior é de idosos, sobretudo mulheres magras, e de quem também usa antidepressivo ISRS, carbamazepina ou opioide, fármacos que também retêm água. A forma grave costuma surgir semanas após o início do tiazídico e pode persistir por cerca de 2 semanas depois da suspensão (Manual MSD, 2025). Os sinais são pouco específicos: náusea, desequilíbrio, quedas, mudança de comportamento, confusão e sonolência; com sódio muito baixo vêm convulsão e coma. Familiares costumam descrever a pessoa como \"esquisita\" ou \"lenta\" há alguns dias.</p><div class=\"cx alerta\"><b>Atenção</b><p>A correção da hiponatremia é hospitalar e lenta: subir o sódio rápido demais pode causar lesão neurológica grave e permanente (desmielinização osmótica). Não orientar soro caseiro em excesso, sal ou restrição de água por conta própria; idoso em uso de tiazídico com confusão nova é encaminhado para avaliação no mesmo dia.</p></div><h3>Hipercalemia</h3><p>Espironolactona, eplerenona e amilorida retêm potássio. O risco cresce com doença renal, diabetes, idade avançada e associação com IECA, BRA, AINE, trimetoprima, heparina, suplemento de potássio e sal light (substituto de sal com cloreto de potássio). A bula do Aldactone® (FDA, 2025) orienta medir o potássio <strong>até 1 semana depois de iniciar ou aumentar a dose</strong> e regularmente depois; na insuficiência cardíaca, iniciar 25 mg/dia só se o potássio estiver em 5 mEq/L ou menos e a TFG estimada acima de 50 mL/min/1,73 m², e considerar 25 mg em dias alternados com TFG entre 30 e 50. A hipercalemia costuma ser assintomática até provocar arritmia; às vezes há fraqueza ou formigamento. Resultado alto pode ser falso por hemólise da amostra (pseudo-hipercalemia), e o médico costuma pedir nova coleta antes de mudar a conduta.</p><h3>Hipomagnesemia</h3><p>Diuréticos de alça e tiazídicos aumentam a perda urinária de magnésio. O uso regular de inibidor da bomba de prótons por mais de 1 ano é outra causa frequente, e a soma diurético mais omeprazol é comum em idosos. Os sinais são tremor, fasciculações, cãibras, fraqueza, alteração de humor, arritmia e, nos casos graves, tetania e convulsão. O magnésio baixo costuma vir junto com potássio e cálcio baixos, e a hipocalemia não se corrige enquanto o magnésio não for reposto (Manual MSD, 2025). Hipocalemia que não melhora com a reposição prescrita é motivo para o médico dosar o magnésio.</p><h3>Exames de acompanhamento</h3><div class=\"tab\"><table><thead><tr><th>Diurético</th><th>O que acompanhar</th><th>Quando o risco aumenta</th></tr></thead><tbody><tr><td>Tiazídicos</td><td>Sódio, potássio, creatinina com TFGe, ácido úrico, glicemia</td><td>Idosos, início do uso, associação com ISRS</td></tr><tr><td>Alça (furosemida)</td><td>Potássio, magnésio, sódio, creatinina, sinais de desidratação</td><td>Dose acima de 80 mg/dia por tempo prolongado, calor, vômitos</td></tr><tr><td>Espironolactona, eplerenona, amilorida</td><td>Potássio e creatinina até 1 semana após início ou aumento, depois regularmente</td><td>DRC, diabetes, IECA ou BRA, suplemento de potássio</td></tr><tr><td>Acetazolamida</td><td>Bicarbonato e potássio</td><td>Uso prolongado, doença renal</td></tr></tbody></table></div><p>Fontes: bulas do Aldactone® e do Lasix® (FDA, 2025), que orientam acompanhar eletrólitos, função renal, ácido úrico e glicemia periodicamente. A função renal é estimada pela TFG calculada por CKD-EPI 2021. O intervalo exato entre os exames é definido pelo prescritor.</p><h3>Sinais que o cliente relata no balcão</h3><ul><li><b>Cãibras, fraqueza nas pernas, intestino preso, palpitação</b>: pensar em potássio ou magnésio baixos.</li><li><b>Confusão, sonolência, náusea, quedas</b> em idoso com tiazídico: pensar em sódio baixo.</li><li><b>Fraqueza com pulso irregular ou lento</b> em quem usa espironolactona com IECA ou BRA: pensar em potássio alto.</li><li><b>Tontura ao levantar, boca seca, urina escura e pouca</b>: desidratação por excesso de diurese, com risco de lesão renal.</li></ul><p>Desmaio, dor no peito, falta de ar, palpitação forte, convulsão ou confusão intensa são motivo para acionar o SAMU (192). Sintomas leves e persistentes pedem avaliação médica breve com exames.</p><div class=\"cx balcao\"><b>No balcão</b><p>Ao dispensar diurético, pergunte quando foi o último exame de sódio, potássio e creatinina e anote no cadastro. Confira associações que somam risco: espironolactona com IECA, BRA, suplemento de potássio ou sal light; tiazídico com ISRS no idoso; diurético com digoxina, lítio, laxante ou AINE. Oriente sinais de alarme e não indique suplemento de potássio, magnésio ou isotônico sem orientação médica a quem usa diurético.</p></div><div class=\"cx exemplo\"><b>Caso</b><p>Homem de 76 anos, com insuficiência cardíaca, usa furosemida 40 mg, espironolactona 25 mg e enalapril. A filha pede sal light \"porque o médico mandou cortar o sal\". O farmacêutico explica que o sal light troca sódio por cloreto de potássio e que, com espironolactona e enalapril, o risco de potássio alto é real. Orienta temperos naturais, pergunta pelo último potássio (feito há 4 meses) e sugere levar a dúvida ao cardiologista com o pedido de exame.</p></div>"
+  }
+ ],
+ "mapas": [
+  {
+   "id": "m04-mapa-diureticos-rim",
+   "titulo": "Diuréticos e rim",
+   "centro": "Diuréticos e rim",
+   "ramos": [
+    {
+     "t": "Tiazídicos e análogos",
+     "itens": [
+      "Túbulo distal, cotransportador Na-Cl",
+      "HCTZ, clortalidona 12,5-25 mg, indapamida",
+      "Hipo K, hipo Na, hiperuricemia, hiperglicemia",
+      "Gota ativa: contraindicado"
+     ]
+    },
+    {
+     "t": "Diuréticos de alça",
+     "itens": [
+      "Alça de Henle: Na-K-2Cl",
+      "Furosemida 20-240 mg/dia",
+      "Edema: IC, DRC, cirrose",
+      "Hipo K, hipo Mg, ototoxicidade"
+     ]
+    },
+    {
+     "t": "Poupadores de K",
+     "itens": [
+      "Espironolactona: 4º fármaco na HA resistente",
+      "Ginecomastia com espironolactona",
+      "Amilorida: associada a tiazídico",
+      "Hipercalemia com IECA/BRA e DRC"
+     ]
+    },
+    {
+     "t": "Outros diuréticos",
+     "itens": [
+      "Acetazolamida: glaucoma, mal da montanha",
+      "Acetazolamida: acidose, parestesia",
+      "Manitol: osmótico, só hospitalar"
+     ]
+    },
+    {
+     "t": "Função renal",
+     "itens": [
+      "TFGe por CKD-EPI 2021, sem raça",
+      "DRC: TFGe < 60 ou albuminúria > 3 meses",
+      "G3a 45-59; G3b 30-44; G4 15-29",
+      "Metformina: suspender se TFGe < 30"
+     ]
+    },
+    {
+     "t": "Balcão",
+     "itens": [
+      "Diurético pela manhã: evita noctúria",
+      "IECA/BRA + diurético + AINE: lesão renal",
+      "Diurético não emagrece",
+      "Vômito/diarreia: médico orienta pausas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m09-mapa-eletrolitos",
+   "titulo": "Eletrólitos e diuréticos",
+   "centro": "Eletrólitos",
+   "ramos": [
+    {
+     "t": "Hipocalemia",
+     "itens": [
+      "K < 3,5 mEq/L; arritmia abaixo de 3",
+      "Alça e tiazídico, laxante, diarreia",
+      "Cãibra, fraqueza, palpitação",
+      "Digoxina: risco mesmo se leve"
+     ]
+    },
+    {
+     "t": "Hiponatremia",
+     "itens": [
+      "Na < 136 mEq/L; grave < 121",
+      "Tiazídico em idosa magra",
+      "Soma com ISRS e carbamazepina",
+      "Confusão, quedas, sonolência"
+     ]
+    },
+    {
+     "t": "Hipercalemia",
+     "itens": [
+      "K > 5,5 mEq/L; grave > 6,5",
+      "Espironolactona + IECA ou BRA",
+      "Sal light e suplemento de potássio",
+      "Pode ser silenciosa até arritmia"
+     ]
+    },
+    {
+     "t": "Hipomagnesemia",
+     "itens": [
+      "Mg < 1,8 mg/dL",
+      "Alça, tiazídico, IBP > 1 ano",
+      "Tremor, cãibra, arritmia",
+      "Hipocalemia que não corrige"
+     ]
+    },
+    {
+     "t": "Exames",
+     "itens": [
+      "Na, K, creatinina com TFGe",
+      "Espironolactona: K em até 1 semana",
+      "Ácido úrico e glicemia",
+      "TFGe por CKD-EPI 2021"
+     ]
+    },
+    {
+     "t": "Balcão",
+     "itens": [
+      "Perguntar o último exame",
+      "Sem potássio ou sal light por conta",
+      "Confusão nova no idoso: mesmo dia",
+      "Desmaio ou dor no peito: SAMU 192"
+     ]
+    }
+   ]
+  }
+ ],
+ "apoio": [
+  {
+   "tipo": "tabela",
+   "id": "m04-tab-diureticos",
+   "titulo": "Diuréticos por local de ação",
+   "colunas": [
+    "Local no néfron",
+    "Classe",
+    "Exemplos",
+    "Potência",
+    "Eletrólitos e metabolismo",
+    "Uso principal"
+   ],
+   "linhas": [
+    [
+     "Túbulo proximal",
+     "Inibidor da anidrase carbônica",
+     "Acetazolamida",
+     "Fraca",
+     "Acidose metabólica; hipocalemia",
+     "Glaucoma; mal da montanha"
+    ],
+    [
+     "Alça de Henle (ramo ascendente espesso)",
+     "Diurético de alça",
+     "Furosemida, bumetanida",
+     "Alta",
+     "Hipo K, hipo Mg, hiperuricemia, perda de cálcio",
+     "Edema: IC, DRC, cirrose"
+    ],
+    [
+     "Túbulo contornado distal",
+     "Tiazídico e análogos",
+     "Hidroclorotiazida, clortalidona, indapamida",
+     "Moderada",
+     "Hipo K, hipo Na, hiperuricemia, hiperglicemia, retenção de cálcio",
+     "Hipertensão arterial"
+    ],
+    [
+     "Ducto coletor (receptor de aldosterona)",
+     "Antagonista mineralocorticoide",
+     "Espironolactona, eplerenona",
+     "Fraca",
+     "Hipercalemia",
+     "HA resistente; IC; hiperaldosteronismo; ascite"
+    ],
+    [
+     "Ducto coletor (ENaC)",
+     "Bloqueador de canal de sódio",
+     "Amilorida",
+     "Fraca",
+     "Hipercalemia",
+     "Associação com tiazídico"
+    ],
+    [
+     "Todo o néfron (efeito osmótico)",
+     "Diurético osmótico",
+     "Manitol (IV)",
+     "Variável",
+     "Distúrbios de sódio e água",
+     "Hipertensão intracraniana; uso hospitalar"
+    ]
+   ]
+  },
+  {
+   "tipo": "tabela",
+   "id": "m09-tab-eletrolitos",
+   "titulo": "Distúrbios hidroeletrolíticos por diurético",
+   "colunas": [
+    "Distúrbio",
+    "Definição",
+    "Diuréticos e fármacos associados",
+    "Sinais",
+    "O que fazer"
+   ],
+   "linhas": [
+    [
+     "Hipocalemia",
+     "K < 3,5 mEq/L",
+     "Alça, tiazídico; laxante, corticoide, beta-2 em dose alta",
+     "Cãibra, fraqueza, constipação, palpitação",
+     "Encaminhar; atenção a quem usa digoxina"
+    ],
+    [
+     "Hiponatremia",
+     "Na < 136 mEq/L",
+     "Tiazídico; ISRS, carbamazepina, opioide",
+     "Náusea, confusão, sonolência, quedas",
+     "Avaliação no mesmo dia; correção é hospitalar"
+    ],
+    [
+     "Hipercalemia",
+     "K > 5,5 mEq/L",
+     "Espironolactona, eplerenona, amilorida; IECA, BRA, AINE, trimetoprima",
+     "Muitas vezes nenhum; fraqueza, pulso irregular",
+     "Não usar sal light nem suplemento de K; contatar o médico"
+    ],
+    [
+     "Hipomagnesemia",
+     "Mg < 1,8 mg/dL",
+     "Alça, tiazídico; IBP por mais de 1 ano",
+     "Tremor, cãibra, arritmia, tetania",
+     "Encaminhar; suspeitar na hipocalemia refratária"
+    ],
+    [
+     "Desidratação",
+     "Clínica",
+     "Alça em dose alta; calor, vômito, diarreia",
+     "Tontura ao levantar, boca seca, urina escura",
+     "Hidratar conforme orientação; avaliar pausa com o médico"
+    ]
+   ],
+   "nota": "Limites do Manual MSD, versão para profissionais (2025); o laudo do cliente deve ser lido com a faixa de referência do laboratório. Monitorização de potássio com espironolactona conforme a bula do Aldactone® (FDA, 2025)."
+  },
+  {
+   "tipo": "fluxo",
+   "id": "m09-fluxo-eletrolitos",
+   "titulo": "Usuário de diurético com sintoma novo",
+   "passos": [
+    {
+     "t": "Cliente em uso de diurético relata sintoma novo ou familiar descreve mudança de comportamento",
+     "tipo": "inicio"
+    },
+    {
+     "t": "Há desmaio, dor no peito, falta de ar, palpitação forte, convulsão ou confusão intensa?",
+     "tipo": "decisao",
+     "sim": "Acionar o SAMU (192) e acompanhar até a chegada",
+     "nao": "Seguir para a identificação do quadro"
+    },
+    {
+     "t": "Idoso com tiazídico e confusão, sonolência, náusea ou quedas?",
+     "tipo": "decisao",
+     "sim": "Suspeita de hiponatremia: avaliação médica no mesmo dia",
+     "nao": "Seguir para a próxima pergunta"
+    },
+    {
+     "t": "Cãibras, fraqueza ou palpitação com alça ou tiazídico, ou uso de digoxina?",
+     "tipo": "decisao",
+     "sim": "Suspeita de hipocalemia ou hipomagnesemia: encaminhar para exame breve",
+     "nao": "Seguir para a próxima pergunta"
+    },
+    {
+     "t": "Usa espironolactona, eplerenona ou amilorida com IECA, BRA, sal light ou suplemento de potássio?",
+     "tipo": "decisao",
+     "sim": "Risco de hipercalemia: perguntar pelo último potássio e contatar o médico",
+     "nao": "Orientar e registrar"
+    },
+    {
+     "t": "Perguntar pelo último exame de sódio, potássio e creatinina e anotar no cadastro",
+     "tipo": "acao"
+    },
+    {
+     "t": "Não suspender o diurético nem iniciar suplemento sem orientação médica",
+     "tipo": "alerta"
+    },
+    {
+     "t": "Registrar a orientação e combinar retorno com o resultado do exame",
+     "tipo": "fim"
+    }
+   ]
+  },
+  {
+   "tipo": "checklist",
+   "id": "m09-check-diuretico",
+   "titulo": "Ao dispensar um diurético",
+   "itens": [
+    "Conferir dose, horário (de preferência pela manhã) e número de tomadas",
+    "Perguntar a data e o resultado do último sódio, potássio e creatinina",
+    "Verificar se usa IECA, BRA, AINE, lítio, digoxina ou laxante",
+    "Com espironolactona: perguntar sobre sal light e suplemento de potássio",
+    "Com tiazídico em idoso: perguntar sobre antidepressivo e quedas recentes",
+    "Orientar levantar devagar e a ingestão de água definida pelo médico",
+    "Explicar os sinais de alarme: cãibra intensa, fraqueza, palpitação, confusão",
+    "Orientar procurar o médico antes de pausar em vômito ou diarreia",
+    "Recusar diurético sem receita para emagrecer ou desinchar"
+   ]
+  },
+  {
+   "tipo": "cartoes",
+   "id": "m09-cartoes",
+   "titulo": "Cartões de revisão: cardiovascular e renal",
+   "itens": [
+    {
+     "f": "Tiazídico e gota",
+     "v": "Eleva o ácido úrico; contraindicado na gota ativa"
+    },
+    {
+     "f": "Triple whammy",
+     "v": "IECA ou BRA + diurético + AINE: risco de lesão renal aguda"
+    },
+    {
+     "f": "Equação padrão para TFGe",
+     "v": "CKD-EPI 2021, sem coeficiente racial"
+    },
+    {
+     "f": "Valor que define hipocalemia",
+     "v": "Potássio abaixo de 3,5 mEq/L"
+    },
+    {
+     "f": "Valor que define hiponatremia",
+     "v": "Sódio abaixo de 136 mEq/L (Manual MSD, 2025)"
+    },
+    {
+     "f": "Valor que define hipercalemia",
+     "v": "Potássio acima de 5,5 mEq/L"
+    },
+    {
+     "f": "Valor que define hipomagnesemia",
+     "v": "Magnésio abaixo de 1,8 mg/dL (0,70 mmol/L)"
+    },
+    {
+     "f": "Diurético mais associado à hiponatremia",
+     "v": "Tiazídico, sobretudo em idosas e com ISRS"
+    },
+    {
+     "f": "Quando medir o potássio após iniciar espironolactona",
+     "v": "Até 1 semana após início ou aumento de dose, depois regularmente"
+    },
+    {
+     "f": "Por que a hipocalemia preocupa com digoxina",
+     "v": "Aumenta a toxicidade do digitálico e o risco de arritmia"
+    },
+    {
+     "f": "Sal light com espironolactona",
+     "v": "Contém cloreto de potássio: risco de hipercalemia"
+    },
+    {
+     "f": "Hipocalemia que não corrige com reposição",
+     "v": "Suspeitar de hipomagnesemia associada"
+    },
+    {
+     "f": "IBP e magnésio",
+     "v": "Uso regular por mais de 1 ano pode causar hipomagnesemia"
+    },
+    {
+     "f": "Correção da hiponatremia",
+     "v": "Hospitalar e lenta: rápida demais lesa o cérebro"
+    }
+   ]
+  },
+  {
+   "tipo": "questoes",
+   "id": "m09-questoes",
+   "titulo": "Questões de fixação: cardiovascular e renal",
+   "itens": [
+    {
+     "p": "Senhora de 80 anos em uso de hidroclorotiazida chega confusa e sonolenta. O distúrbio mais provável relacionado ao diurético é:",
+     "alt": [
+      "Hiponatremia",
+      "Hipercalemia",
+      "Hipocalcemia",
+      "Alcalose respiratória",
+      "Hipoglicemia"
+     ],
+     "c": 0,
+     "com": "Tiazídicos causam hiponatremia, sobretudo em idosas magras, com confusão, sonolência e quedas. Eles tendem a causar hipocalemia (não hipercalemia) e retenção de cálcio (hipercalcemia leve). Encaminhar para avaliação no mesmo dia."
+    },
+    {
+     "p": "Homem de 70 anos usa losartana e hidroclorotiazida e pede ibuprofeno para dor lombar; está com diarreia há dois dias. Qual o principal risco?",
+     "alt": [
+      "Hipercalcemia sintomática pelo ibuprofeno",
+      "Lesão renal aguda (BRA, diurético, AINE e desidratação)",
+      "Broncoespasmo grave desencadeado pelo ibuprofeno",
+      "Hipoglicemia grave pela interação com a hidroclorotiazida",
+      "Hepatite medicamentosa causada pela losartana associada"
+     ],
+     "c": 1,
+     "com": "É o triple whammy: diurético reduz volume, BRA dilata a eferente e AINE contrai a aferente, derrubando a filtração; a desidratação piora. Preferir analgésico sem efeito renal e encaminhar ao médico."
+    },
+    {
+     "p": "Homem de 68 anos com insuficiência cardíaca usa furosemida 80 mg/dia e digoxina. Relata cãibras e fraqueza há uma semana. O distúrbio que mais preocupa é:",
+     "alt": [
+      "Hipercalemia pela retenção de potássio da furosemida",
+      "Hipernatremia causada pelo acúmulo de digoxina",
+      "Hipocalemia, que aumenta a toxicidade digitálica",
+      "Hipercalcemia pela menor excreção urinária de cálcio",
+      "Hipoglicemia por efeito direto da digoxina no fígado"
+     ],
+     "c": 2,
+     "com": "Diurético de alça causa perda de potássio e magnésio; com digoxina, a hipocalemia aumenta a toxicidade do digitálico e o risco de arritmia mesmo quando leve (Manual MSD, 2025; bula do Lasix®, FDA, 2025). A furosemida aumenta a excreção de cálcio e não causa hipercalemia."
+    },
+    {
+     "p": "Paciente inicia espironolactona 25 mg/dia associada a enalapril. Segundo a bula do Aldactone® (FDA, 2025), o potássio deve ser dosado:",
+     "alt": [
+      "Apenas se surgirem fraqueza ou palpitação intensas",
+      "Somente depois de 6 meses de uso contínuo do fármaco",
+      "Uma vez por ano, junto com os exames do check-up",
+      "Até 1 semana após o início e depois regularmente",
+      "Só se a dose passar de 100 mg/dia em qualquer caso"
+     ],
+     "c": 3,
+     "com": "A bula orienta medir o potássio até 1 semana após o início ou aumento da dose e regularmente depois, com mais frequência quando há IECA, BRA ou doença renal. A hipercalemia costuma ser assintomática até causar arritmia, por isso não se espera sintoma."
+    },
+    {
+     "p": "Cliente em uso de espironolactona e losartana pergunta qual sal usar após o médico pedir redução de sódio. A melhor orientação é:",
+     "alt": [
+      "Trocar pelo sal light, que tem metade do sódio",
+      "Usar sal marinho, que não contém sódio",
+      "Usar sal light só no almoço e no jantar",
+      "Tomar suplemento de potássio para compensar",
+      "Usar temperos naturais e evitar o sal light"
+     ],
+     "c": 4,
+     "com": "O sal light substitui parte do cloreto de sódio por cloreto de potássio; com espironolactona e BRA, soma risco de hipercalemia (bula do Aldactone®, FDA, 2025). Sal marinho contém sódio. Suplemento de potássio é contraindicado sem orientação médica nesse contexto."
+    },
+    {
+     "p": "Senhora de 74 anos usa clortalidona e começou sertralina há três semanas. A filha relata que ela está confusa e caiu duas vezes. A hipótese mais provável e a conduta são:",
+     "alt": [
+      "Hiponatremia; avaliação médica no mesmo dia",
+      "Hipercalemia; suspender a clortalidona em casa",
+      "Hipoglicemia; oferecer açúcar e observar",
+      "Hipocalcemia; indicar cálcio e vitamina D",
+      "Desidratação leve; aumentar o sal da comida"
+     ],
+     "c": 0,
+     "com": "Tiazídicos e análogos são a causa medicamentosa mais comum de hiponatremia, e ISRS somam retenção de água; idosas são o grupo de maior risco (Manual MSD, 2025). Confusão e quedas pedem dosagem de sódio no mesmo dia. Suspender por conta própria ou mudar a ingestão de sal sem avaliação não é conduta do balcão."
+    },
+    {
+     "p": "Idoso usa hidroclorotiazida e omeprazol há 3 anos. O potássio continua baixo apesar da reposição prescrita. O que o médico deve investigar?",
+     "alt": [
+      "Hipernatremia por excesso de sal na dieta",
+      "Hipercalcemia causada pelo omeprazol",
+      "Hipomagnesemia por diurético e IBP",
+      "Hiperglicemia por ação do tiazídico",
+      "Acidose metabólica pelo omeprazol"
+     ],
+     "c": 2,
+     "com": "Diurético tiazídico e uso de IBP por mais de 1 ano causam hipomagnesemia, que mantém a perda renal de potássio; a hipocalemia não se corrige até repor o magnésio (Manual MSD, 2025). As demais alternativas não explicam a hipocalemia refratária."
+    },
+    {
+     "p": "Exame de rotina de paciente em uso de espironolactona mostra potássio de 6,2 mEq/L, sem sintomas, com relato de coleta demorada. Qual afirmação está correta?",
+     "alt": [
+      "É valor esperado e normal em quem usa diurético poupador",
+      "Pode ser falso por hemólise, mas exige contato médico",
+      "Indica que se deve dobrar a dose da espironolactona",
+      "Pede suplemento de magnésio iniciado por conta própria",
+      "Basta beber mais água para corrigir o valor do exame"
+     ],
+     "c": 1,
+     "com": "Potássio acima de 5,5 mEq/L é hipercalemia; hemólise e garroteamento prolongado podem elevar falsamente o resultado, e o médico costuma repetir a coleta antes de decidir (Manual MSD, 2025). Como o valor é alto e o fármaco retém potássio, o contato com o prescritor é imediato."
+    },
+    {
+     "p": "Quanto à tomada de diuréticos e à monitorização, assinale a alternativa correta.",
+     "alt": [
+      "Tiazídico em dose alta aumenta o efeito anti-hipertensivo sem mais efeitos",
+      "Furosemida deve ser tomada à noite para evitar tontura",
+      "Diurético pode ser usado sem receita para perder peso antes de eventos",
+      "Suplemento de potássio é sempre seguro em quem usa diurético",
+      "A função renal deve ser estimada pela TFG por CKD-EPI 2021"
+     ],
+     "c": 4,
+     "com": "A TFG estimada por CKD-EPI 2021 é o padrão para classificar a função renal. Doses maiores de tiazídico aumentam efeitos metabólicos sem ganho relevante na pressão (DBHA 2025). Diurético à noite causa noctúria. Uso para emagrecer é perigoso e furosemida é de venda sob prescrição. Suplemento de potássio pode causar hipercalemia com IECA, BRA ou espironolactona."
+    },
+    {
+     "p": "Cliente pede orientação porque está com diarreia e vômitos há dois dias e usa furosemida e enalapril. A conduta adequada é:",
+     "alt": [
+      "Dobrar a furosemida para eliminar o excesso de líquido",
+      "Procurar o médico para orientar pausas e hidratação",
+      "Tomar ibuprofeno para a dor abdominal e manter tudo",
+      "Suspender todos os medicamentos até melhorar",
+      "Usar isotônico com potássio à vontade por uma semana"
+     ],
+     "c": 1,
+     "com": "Desidratação com diurético e IECA aumenta o risco de lesão renal aguda e de distúrbios de potássio. Pausas temporárias de medicamentos em dias de doença são orientadas pelo médico. AINE piora a perfusão renal, e suspender tudo por conta própria ou repor potássio sem controle também traz risco."
+    }
+   ]
+  }
+ ],
+ "fontes": [
+  "Brandão AA, Rodrigues CIS, Bortolotto LA, et al. Diretriz Brasileira de Hipertensão Arterial 2025 (SBC, SBH, SBN). Arquivos Brasileiros de Cardiologia, 2025;122(9):e20250624. doi:10.36660/abc.20250624. Conferidos os Quadros 3.1, 3.2, 3.4, 7.2 a 7.7 e 14.8, o capítulo 10 (gestação) e as recomendações de início, metas e tratamento. https://abccardiol.org/article/diretriz-brasileira-de-hipertensao-arterial-2025/",
+  "Ministério da Saúde. Portaria GM/MS nº 6.324, de 26 de dezembro de 2024. Relação Nacional de Medicamentos Essenciais (Rename 2024), com atualização contínua. https://www.gov.br/saude/pt-br/composicao/sectics/rename",
+  "Sociedade Brasileira de Diabetes. Tratamento do DM2 no SUS (metformina e função renal: máximo de 1 g/dia se TFGe < 45; suspender se < 30). Diretriz da SBD, edição 2026. doi:10.29327/5937204.2026-1. https://diretriz.diabetes.org.br/tratamento-do-dm2/",
+  "Lapi F, Azoulay L, Yin H, Nessim SJ, Suissa S. Concurrent use of diuretics, angiotensin converting enzyme inhibitors, and angiotensin receptor blockers with non-steroidal anti-inflammatory drugs and risk of acute kidney injury: nested case-control study. BMJ, 2013;346:e8525. PMID 23299844.",
+  "Bula de Diamox (acetazolamida): posologia. Texto de bula consultado em bula.com.br, 2026.",
+  "MSD Manuals. Manual MSD, versão para profissionais de saúde: Hipopotassemia; Hiperpotassemia; Hiponatremia; Hipomagnesemia. Lewis JL III. Revisão de junho de 2025 (atualizações até dez. 2025). https://www.msdmanuals.com/pt/profissional (consultado em out. 2026).",
+  "FDA. ALDACTONE (espironolactona), Pfizer: prescribing information, revisão de nov. 2025 (monitorização de potássio, início na insuficiência cardíaca por potássio e TFG estimada). openFDA/DailyMed (consultada em out. 2026).",
+  "FDA. LASIX (furosemida): prescribing information, revisão de set. 2025 (precauções com eletrólitos, hipocalemia e monitorização em doses acima de 80 mg/dia). openFDA/DailyMed (consultada em out. 2026)."
+ ]
+}

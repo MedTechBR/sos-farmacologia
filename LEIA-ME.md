@@ -1,12 +1,14 @@
 # SOS Farmacologia
 
 Farmacologia aplicada ao balcão e à dispensação, para alunos do 9º e 10º semestres de Farmácia e farmacêuticos
-recém-formados. 8 módulos, cada um com **Resumo para leitura**, **Mapa mental** e **Material de apoio**
+recém-formados. 17 módulos, cada um com **Resumo para leitura**, **Mapa mental** e **Material de apoio**
 (tabelas, quadros, fluxos, checklists, cartões e questões comentadas). Irmão do SOS Farmácia Comercial.
 
-1. Princípios de farmacologia para o balcão · 2. Sistema nervoso central · 3. Antimicrobianos ·
-4. Sistema cardiovascular e renal · 5. Sistema endócrino · 6. AINEs, corticosteroides e antialérgicos ·
-7. Sistema respiratório · 8. Interações medicamentosas na atenção básica
+1. Farmacocinética e farmacodinâmica · 2. Sistema cardiovascular (anti-hipertensivos e antiarrítmicos) ·
+3. Sistema renal (diuréticos) · 4. Sistema respiratório · 5. Sistema gastrointestinal ·
+6. Sistema endócrino (insulinas, hormônios sexuais e tireoide) · 7. Sistema nervoso central · 8. Antimicrobianos ·
+9. Antifúngicos · 10. Antivirais · 11. Antiparasitários · 12. Quimioterapia antineoplásica · 13. Imunofarmacologia ·
+14. Anti-inflamatórios e coxibes · 15. Antialérgicos · 16. Glicocorticoides · 17. Interações medicamentosas
 
 ## O arquivo
 

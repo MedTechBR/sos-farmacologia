@@ -1,0 +1,766 @@
+{
+ "id": "m11",
+ "num": 9,
+ "titulo": "Antifúngicos",
+ "escopo": "Biologia dos fungos e classes antifúngicas (azóis, poliênicos, alilaminas, equinocandinas, flucitosina e griseofulvina), com interações, toxicidade e o manejo no balcão de micoses superficiais, candidíase vulvovaginal (PCDT IST 2022) e onicomicose; antifúngicos isentos de prescrição pela IN 285/2024 com o Anexo I da IN 404/2025 e visão geral do uso em imunossuprimidos.",
+ "topicos": [
+  {
+   "id": "m11-fungos-alvos",
+   "titulo": "Biologia dos fungos e alvos dos antifúngicos",
+   "resumo": "<p>Fungos são organismos eucariontes, como as células humanas: têm núcleo, mitocôndrias e ribossomos parecidos com os nossos. Por isso há bem menos alvos seletivos do que contra bactérias, e a maioria dos antifúngicos atua em duas estruturas que só o fungo tem: o <strong>ergosterol</strong> da membrana (a célula humana usa colesterol) e a <strong>parede celular</strong> de glucana e quitina (a célula humana não tem parede).</p><p>Para a prática clínica, os fungos de interesse se dividem em três grupos:</p><ul><li><strong>Leveduras</strong>: células únicas que se reproduzem por brotamento. Exemplos: <i>Candida</i> (candidíase oral, vaginal, cutânea e invasiva), <i>Cryptococcus</i> (meningite em imunossuprimidos) e <i>Malassezia</i> (pitiríase versicolor, dermatite seborreica).</li><li><strong>Fungos filamentosos</strong>: crescem em hifas. Incluem os dermatófitos (<i>Trichophyton</i>, <i>Microsporum</i>, <i>Epidermophyton</i>), que digerem queratina e causam as tinhas de pele, cabelo e unha, e os bolores oportunistas (<i>Aspergillus</i>, <i>Fusarium</i>, Mucorales), graves em neutropênicos e transplantados.</li><li><strong>Fungos dimórficos</strong>: hifa no ambiente e levedura no tecido. No Brasil, os mais relevantes são <i>Paracoccidioides</i> (paracoccidioidomicose), <i>Histoplasma</i> (histoplasmose) e <i>Sporothrix</i> (esporotricose, inclusive a transmitida por gatos).</li></ul><h3>Onde os antifúngicos agem</h3><p>A síntese do ergosterol parte do esqualeno. A <strong>esqualeno epoxidase</strong> converte o esqualeno em lanosterol (via epóxido), e a <strong>14-alfa-desmetilase</strong> (enzima do citocromo P450 do fungo, CYP51) retira um grupo metila do lanosterol a caminho do ergosterol. As alilaminas bloqueiam a primeira enzima e os azóis bloqueiam a segunda. Em ambos os casos falta ergosterol e acumulam-se precursores tóxicos para a membrana. Os poliênicos agem num passo diferente: ligam-se ao ergosterol já pronto e abrem poros na membrana.</p><div class=\"tab\"><table><thead><tr><th>Classe</th><th>Alvo</th><th>Exemplos</th><th>Uso típico</th></tr></thead><tbody><tr><td>Azóis (imidazóis e triazóis)</td><td>14-alfa-desmetilase (CYP51): menos ergosterol</td><td>Clotrimazol, miconazol, cetoconazol, fluconazol, itraconazol, voriconazol, posaconazol, isavuconazol</td><td>Tópico no balcão; oral e venoso em candidíase, micoses endêmicas e invasivas</td></tr><tr><td>Poliênicos</td><td>Ergosterol pronto: poros na membrana</td><td>Anfotericina B, nistatina</td><td>Anfotericina: micoses invasivas graves (venosa). Nistatina: só local</td></tr><tr><td>Alilaminas e benzilamina</td><td>Esqualeno epoxidase</td><td>Terbinafina, butenafina</td><td>Dermatofitoses, onicomicose</td></tr><tr><td>Equinocandinas</td><td>Beta-1,3-D-glucana sintase: parede</td><td>Caspofungina, micafungina, anidulafungina</td><td>Candidemia e candidíase invasiva (venosa, hospitalar)</td></tr><tr><td>Análogo de pirimidina</td><td>Convertida em 5-fluoruracila dentro do fungo: DNA e RNA</td><td>Flucitosina</td><td>Criptococose, sempre associada à anfotericina B</td></tr><tr><td>Griseofulvina</td><td>Microtúbulos: bloqueia a mitose; deposita na queratina</td><td>Griseofulvina</td><td>Dermatofitoses, sobretudo tinha do couro cabeludo</td></tr><tr><td>Morfolina e hidroxipiridona</td><td>Síntese de ergosterol (amorolfina); quelação de metais e enzimas (ciclopirox)</td><td>Amorolfina, ciclopirox</td><td>Esmalte e creme para unha e pele</td></tr></tbody></table></div><p>A flucitosina mostra como a seletividade pode vir de uma enzima que só o fungo tem: a citosina desaminase fúngica converte o fármaco em 5-fluoruracila. Usada sozinha, seleciona resistência rapidamente, por isso a bula determina a associação com anfotericina B na criptococose e na candidíase sistêmica (bula de Ancobon®, DailyMed, 2022).</p><h3>Seletividade e toxicidade</h3><p>Quanto mais o alvo se parece com uma estrutura humana, maior a toxicidade. A anfotericina B também se liga, com menor afinidade, ao colesterol das células humanas, sobretudo do túbulo renal, e por isso lesa o rim. Os azóis inibem a enzima fúngica, mas também enzimas P450 humanas, o que gera interações e, no caso do cetoconazol, inibição da síntese de cortisol e testosterona. As equinocandinas, que atacam uma estrutura ausente no ser humano, são as mais bem toleradas da lista. A flucitosina é seletiva porque depende de uma enzima fúngica, mas parte do fármaco vira 5-fluoruracila também no intestino, e a medula óssea sofre.</p><h3>Fungistático e fungicida</h3><p>O efeito depende do par fármaco e fungo. Os azóis são, em geral, fungistáticos contra <i>Candida</i>. As equinocandinas são fungicidas contra <i>Candida</i> e agem de forma mais limitada sobre <i>Aspergillus</i>, lesando as pontas das hifas. A anfotericina B é fungicida para a maioria dos fungos sensíveis. A terbinafina é fungicida para dermatófitos, o que ajuda a explicar a boa resposta na onicomicose.</p><h3>Lacunas de espectro que caem em prova</h3><ul><li>Fluconazol: sem ação útil sobre filamentosos como <i>Aspergillus</i>. <i>Candida krusei</i> tem resistência intrínseca e <i>Candida glabrata</i> (hoje <i>Nakaseomyces glabratus</i>) responde menos.</li><li>Equinocandinas: sem ação sobre <i>Cryptococcus</i> e Mucorales.</li><li>Voriconazol: bom contra <i>Aspergillus</i>, sem ação útil contra Mucorales. Para mucormicose, as opções são anfotericina B em formulação lipídica, isavuconazol (indicação em bula) e posaconazol.</li><li><i>Candida auris</i>: levedura emergente, frequentemente resistente ao fluconazol e, em parte dos isolados, a outras classes; causa surtos em hospitais e exige identificação laboratorial correta.</li></ul><h3>Resistência antifúngica</h3><p>Os mecanismos lembram os bacterianos: bombas de efluxo que expulsam o azol, mutação da enzima-alvo (gene <i>ERG11</i> nos azóis, genes <i>FKS</i> nas equinocandinas) e alteração da via do ergosterol. O uso repetido de fluconazol em candidíase de repetição sem diagnóstico e a profilaxia prolongada em imunossuprimidos selecionam espécies menos sensíveis. Em dermatófitos, já circulam cepas de <i>Trichophyton</i> resistentes à terbinafina, e tinha extensa que não responde ao tratamento correto deve ser reavaliada com exame micológico.</p><div class=\"cx chave\"><b>Ponto-chave</b><p>Azóis e alilaminas reduzem a produção de ergosterol; poliênicos se ligam ao ergosterol pronto; equinocandinas atacam a parede, que não existe em células humanas. Essa diferença de alvo explica tanto o espectro quanto o perfil de toxicidade de cada classe.</p></div><h3>Condição de venda</h3><p>Os antifúngicos de uso tópico mais comuns na drogaria estão na lista de medicamentos isentos de prescrição (IN 285/2024, com o Anexo I republicado pela IN 404/2025), sempre dentro da forma, da concentração máxima e da indicação listadas. Os antifúngicos orais (fluconazol, itraconazol, terbinafina, cetoconazol, griseofulvina) e a nistatina suspensão oral exigem prescrição, mas não fazem parte da lista de antimicrobianos com retenção de receita (IN 360/2025): a receita é apresentada e devolvida ao paciente. Os venosos (anfotericina B, equinocandinas, voriconazol venoso) são de uso hospitalar.</p><div class=\"cx balcao\"><b>No balcão</b><p>Antes de indicar ou dispensar qualquer antifúngico, três perguntas resolvem boa parte dos casos: onde está a lesão (pele, unha, couro cabeludo, mucosa), há quanto tempo e se já foi tratada, e se a pessoa tem diabetes, imunossupressão, gestação ou usa varfarina, estatina ou outro medicamento de uso contínuo. Couro cabeludo, unha extensa, lesão disseminada e falha de tratamento anterior vão para avaliação médica; micose localizada de pele em adulto saudável costuma ser resolvida com antifúngico tópico isento de prescrição.</p></div>"
+  },
+  {
+   "id": "m11-azois",
+   "titulo": "Azóis",
+   "resumo": "<p>Os azóis são a classe antifúngica mais usada, do creme de clotrimazol vendido sem receita ao voriconazol da UTI. Todos inibem a 14-alfa-desmetilase fúngica. Como essa enzima pertence à família do citocromo P450, os azóis também inibem, em graus diferentes, enzimas P450 humanas, e daí vem o seu maior problema prático: as <strong>interações medicamentosas</strong>.</p><p>Pela estrutura química, dividem-se em <strong>imidazóis</strong> (clotrimazol, miconazol, cetoconazol, tioconazol, isoconazol, oxiconazol), hoje usados quase só por via tópica, e <strong>triazóis</strong> (fluconazol, itraconazol, voriconazol, posaconazol, isavuconazol), de uso sistêmico, mais seletivos para a enzima fúngica.</p><h3>Triazóis sistêmicos</h3><div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>Espectro principal</th><th>Absorção e alimento</th><th>Pontos críticos</th></tr></thead><tbody><tr><td><strong>Fluconazol</strong></td><td><i>Candida</i> (exceto <i>C. krusei</i>), <i>Cryptococcus</i></td><td>Biodisponibilidade oral acima de 90%; com ou sem alimento; meia-vida de cerca de 30 horas</td><td>Eliminação renal inalterada: ajuste em doses repetidas; QT; inibe CYP2C19 (forte), CYP2C9 e CYP3A4 (moderado)</td></tr><tr><td><strong>Itraconazol</strong></td><td><i>Candida</i>, dermatófitos, <i>Aspergillus</i>, fungos dimórficos</td><td>Cápsula logo após refeição completa; absorção cai com antiácido, bloqueador H2 e inibidor de bomba</td><td>Inibidor forte do CYP3A4 e da glicoproteína P; insuficiência cardíaca; hepatotoxicidade; perda auditiva</td></tr><tr><td><strong>Voriconazol</strong></td><td><i>Aspergillus</i> (aspergilose invasiva), <i>Candida</i>, <i>Fusarium</i>, <i>Scedosporium</i></td><td>Oral pelo menos 1 hora antes ou depois da refeição</td><td>Distúrbio visual, fotossensibilidade, câncer de pele em uso longo, hepatotoxicidade, fluorose; metabolismo pelo CYP2C19 polimórfico</td></tr><tr><td><strong>Posaconazol</strong></td><td><i>Candida</i>, <i>Aspergillus</i>, Mucorales</td><td>Comprimido de liberação retardada com alimento; suspensão com refeição completa</td><td>Comprimido e suspensão não são intercambiáveis; inibidor forte do CYP3A4</td></tr><tr><td><strong>Isavuconazol</strong></td><td><i>Aspergillus</i>, Mucorales</td><td>Cápsula; também venoso</td><td>Encurta o QT: contraindicado na síndrome do QT curto familiar; inibidor moderado do CYP3A4</td></tr></tbody></table></div><p>Fontes da tabela: bulas norte-americanas de Diflucan® (2026), Sporanox® cápsulas (2026), Vfend® (2026), Noxafil® (2026) e Cresemba® (2025), no DailyMed.</p><p>O <strong>fluconazol</strong> é o azol do dia a dia. A dose única de 150 mg trata a candidíase vaginal não complicada e não precisa de ajuste renal. Em candidíase orofaríngea, a bula usa 200 mg no primeiro dia e 100 mg por dia por pelo menos 2 semanas; na esofágica, o mesmo esquema por no mínimo 3 semanas, com doses de até 400 mg por dia conforme a resposta. Em doses repetidas, a bula reduz a dose diária à metade quando a depuração de creatinina é de 50 mL/min ou menos, depois da dose de ataque. Na prática, a função renal é estimada pela TFG por CKD-EPI 2021, e o ajuste fino é do prescritor.</p><p>O <strong>itraconazol</strong> tem absorção errática: a cápsula precisa de acidez gástrica e de gordura. O paciente que toma omeprazol de uso contínuo e recebe itraconazol em cápsula pode ter nível baixo e falha terapêutica. É usado em onicomicose, esporotricose, histoplasmose e paracoccidioidomicose, em geral por meses. A bula traz alerta de insuficiência cardíaca (efeito inotrópico negativo) e proíbe seu uso para onicomicose em quem tem ou teve insuficiência cardíaca.</p><p>O <strong>voriconazol</strong> tem farmacocinética não linear e depende do CYP2C19, cuja atividade varia geneticamente: a bula estima de 15% a 20% de metabolizadores lentos entre asiáticos e de 3% a 5% entre brancos e negros. Por isso o nível sérico varia muito entre pacientes, e muitos hospitais fazem dosagem do vale. Cerca de 21% dos pacientes dos estudos tiveram alteração visual (visão borrada, alteração de cores, fotofobia), em geral transitória (bula Vfend®, 2026).</p><h3>Interações: a regra é desconfiar</h3><p>A tabela de inibidores da FDA (atualizada em 2026) classifica itraconazol, cetoconazol, posaconazol e voriconazol como inibidores fortes do CYP3A4; fluconazol e isavuconazol como moderados. O fluconazol é ainda inibidor forte do CYP2C19 e moderado do CYP2C9; o miconazol, moderado do CYP2C9; a terbinafina (que não é azol) é inibidora forte do CYP2D6.</p><div class=\"tab\"><table><thead><tr><th>Associação</th><th>Consequência</th><th>Conduta</th></tr></thead><tbody><tr><td>Fluconazol ou miconazol + varfarina</td><td>Aumento do RNI e sangramento (CYP2C9)</td><td>Avisar o prescritor; controlar RNI; orientar sinais de sangramento</td></tr><tr><td>Fluconazol + sulfonilureia (glibenclamida, glipizida)</td><td>Hipoglicemia, com caso fatal relatado em bula</td><td>Orientar monitorização da glicemia</td></tr><tr><td>Itraconazol + sinvastatina ou lovastatina</td><td>Miopatia e rabdomiólise</td><td>Contraindicado (bula Sporanox®); o prescritor suspende ou troca a estatina</td></tr><tr><td>Azóis + tacrolimo, ciclosporina, sirolimo</td><td>Nível tóxico do imunossupressor, nefrotoxicidade</td><td>Ajuste de dose e dosagem sérica; voriconazol + sirolimo é contraindicado</td></tr><tr><td>Itraconazol + midazolam oral ou triazolam</td><td>Sedação profunda e prolongada</td><td>Contraindicado</td></tr><tr><td>Azóis + quinidina, pimozida</td><td>Prolongamento do QT e torsades de pointes</td><td>Contraindicado</td></tr><tr><td>Voriconazol + rifampicina, carbamazepina, erva-de-são-joão</td><td>Nível do voriconazol despenca: falha do tratamento</td><td>Contraindicado</td></tr></tbody></table></div><p>Além do efeito sobre o metabolismo, fluconazol e outros azóis prolongam o intervalo QT por bloqueio de canal de potássio. O risco soma com eritromicina, claritromicina, quinolonas, antipsicóticos, ondansetrona e metadona, e aumenta com hipocalemia, hipomagnesemia e cardiopatia. A bula do Diflucan® manda evitar a associação com eritromicina e contraindica quinidina e pimozida.</p><div class=\"cx balcao\"><b>No balcão</b><p>Senhora de 68 anos em uso de varfarina traz receita de fluconazol 150 mg em dose única e pede também um gel oral para \"sapinho\" da prótese. Dispense o fluconazol com orientação, avise o prescritor ou o serviço que controla a anticoagulação e oriente a observar manchas roxas, sangramento de gengiva, nariz ou urina. Não indique miconazol gel oral: a agência britânica (MHRA, 2017) contraindica o produto de venda livre em quem usa varfarina, porque o miconazol absorvido pela boca inibe o CYP2C9 e houve casos fatais.</p></div><h3>Hepatotoxicidade, gestação e outros efeitos</h3><ul><li>Todos os azóis sistêmicos podem lesar o fígado, de elevação discreta de transaminases a hepatite grave. Sintomas como náusea persistente, urina escura, fezes claras e icterícia exigem suspensão e avaliação imediata.</li><li>Na gestação, o fluconazol em doses altas (400 a 800 mg por dia) no primeiro trimestre se associa a um padrão raro de malformações (bula Diflucan®, 2026). O CDC (2021) desaconselha até a dose única de 150 mg na gestante, por associação com aborto espontâneo e anomalias congênitas, e indica azol tópico vaginal.</li><li>O itraconazol não deve ser usado para onicomicose na gestante ou em quem planeja engravidar (bula Sporanox®).</li><li>O voriconazol exige fotoproteção rigorosa: houve carcinoma espinocelular em pacientes com reação fototóxica, e o uso prolongado causa fluorose e periostite (dor óssea).</li></ul><div class=\"cx alerta\"><b>Atenção</b><p>Cetoconazol oral não é tratamento de micose de pele, unha ou caspa. Em 2013, a FDA restringiu o comprimido por risco de lesão hepática grave, interações e supressão da suprarrenal, e a EMA recomendou suspender sua comercialização na União Europeia. No Brasil, a bula padrão do cetoconazol comprimido (aprovada pela Anvisa em 2015) limita a indicação a blastomicose, coccidioidomicose, histoplasmose, cromomicose e paracoccidioidomicose quando outros tratamentos não forem tolerados ou eficazes, e relata casos fatais e de transplante hepático. O cetoconazol em creme e em xampu segue seguro e isento de prescrição.</p></div><div class=\"cx exemplo\"><b>Caso</b><p>Homem de 45 anos usa omeprazol 20 mg diário e sinvastatina 40 mg e chega com receita de itraconazol 100 mg, duas cápsulas ao dia, para onicomicose. Há dois problemas: a sinvastatina é contraindicada com itraconazol, e o omeprazol reduz a absorção da cápsula. O farmacêutico não dispensa como está, contata o prescritor, registra a intervenção e, se o tratamento seguir, orienta tomar a cápsula logo após refeição completa.</p></div>"
+  },
+  {
+   "id": "m11-polienos-equinocandinas",
+   "titulo": "Poliênicos, equinocandinas e outros antifúngicos sistêmicos",
+   "resumo": "<p>Este grupo reúne fármacos de uso quase só hospitalar, com uma exceção conhecida do balcão: a nistatina. São os antifúngicos das infecções invasivas (candidemia, aspergilose, criptococose, mucormicose), em que a escolha certa no tempo certo muda a mortalidade, e em que erros de preparo e de troca de formulação já mataram pacientes.</p><h3>Anfotericina B</h3><p>A anfotericina B é um poliênico que se liga ao ergosterol e forma poros na membrana, com saída de potássio e morte do fungo. Tem o espectro mais amplo entre os antifúngicos (leveduras, filamentosos, incluindo Mucorales, e dimórficos) e também é usada na leishmaniose visceral. Não é absorvida por via oral e é dada por via intravenosa. Liga-se em parte ao colesterol humano, o que explica a toxicidade, sobretudo renal.</p><div class=\"tab\"><table><thead><tr><th>Formulação</th><th>Dose usual</th><th>Preparo e infusão</th><th>Toxicidade</th></tr></thead><tbody><tr><td>Desoxicolato (convencional)</td><td>Até 1 mg/kg/dia; nunca acima de 1,5 mg/kg/dia</td><td>Água estéril e depois soro glicosado a 5%; infusão em 2 a 6 horas; geladeira e proteção da luz antes do preparo</td><td>Febre e calafrios na infusão, nefrotoxicidade, hipocalemia, hipomagnesemia, flebite</td></tr><tr><td>Lipossomal (AmBisome® e similares)</td><td>3 a 5 mg/kg/dia em infecção sistêmica; 3 mg/kg/dia na terapia empírica do neutropênico febril</td><td>Água estéril, filtro de 5 mícrons e soro glicosado a 5%; infusão em cerca de 120 minutos; linha lavada com glicosado</td><td>Menos reação infusional e menos nefrotoxicidade que a convencional; ainda exige controle de potássio, magnésio e creatinina</td></tr><tr><td>Complexo lipídico</td><td>5 mg/kg/dia (nota do Ministério da Saúde, 2022, na criptococose)</td><td>Conforme bula do produto</td><td>Intermediária entre as duas</td></tr></tbody></table></div><p>Fontes: bulas norte-americanas de anfotericina B desoxicolato (Eugia, 2025) e AmBisome® (2026); Nota Informativa nº 9/2022 do Ministério da Saúde.</p><div class=\"cx alerta\"><b>Atenção</b><p>As formulações de anfotericina B não são intercambiáveis miligrama por miligrama (bula AmBisome®). Uma prescrição de \"anfotericina B 5 mg/kg\" dispensada como desoxicolato no lugar da lipossomal é uma dose letal: a bula da convencional alerta para parada cardíaca ou cardiorrespiratória por sobredose e manda conferir o nome do produto e a dose sempre que passar de 1,5 mg/kg. Nenhuma das formulações é preparada em soro fisiológico, porque o cloreto de sódio precipita o fármaco.</p></div><p>A nefrotoxicidade é dose-dependente e piora com outros nefrotóxicos (aminoglicosídeos, vancomicina, ciclosporina, tacrolimo, contraste). Hidratação com soro fisiológico antes da infusão (sem misturar ao fármaco) é estratégia habitual para reduzir a lesão renal. Corticoide e digoxina pedem atenção ao potássio: a hipocalemia causada pela anfotericina potencializa a toxicidade digitálica (bula).</p><h3>Nistatina</h3><p>A nistatina também é poliênico, mas tóxica demais para uso venoso e praticamente não absorvida pelo trato digestivo. Age só onde é aplicada: boca, esôfago por contato, pele e vagina. Na candidíase oral do adulto, a suspensão de 100 mil UI/mL é usada na faixa de 1 a 6 mL quatro vezes ao dia, conforme prescrição, bochechada e mantida na boca o maior tempo possível antes de engolir, até pelo menos 48 horas após o desaparecimento das lesões (bula). Quase não tem interações. O creme vaginal de 100 mil UI por aplicação, por 14 noites, é primeira opção na candidíase vulvovaginal pelo PCDT IST de 2022. A suspensão oral exige prescrição; a pomada de nistatina com óxido de zinco para dermatite de fraldas é isenta (IN 404/2025).</p><h3>Equinocandinas</h3><p>Caspofungina, micafungina e anidulafungina inibem a beta-1,3-D-glucana sintase e enfraquecem a parede. São grandes demais para absorção oral e são dadas por infusão venosa de cerca de 1 hora, uma vez ao dia. Têm poucos efeitos adversos (flebite, elevação de enzimas hepáticas, reação semelhante à liberação de histamina se infundidas rápido) e poucas interações. Pela diretriz da IDSA (2016), uma equinocandina é o tratamento inicial recomendado da candidemia na maioria dos adultos, com passagem para fluconazol, em geral em 5 a 7 dias, quando o paciente está estável, a cepa é sensível e as hemoculturas negativaram.</p><div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>Dose de adulto (candidemia)</th><th>Particularidades de bula</th></tr></thead><tbody><tr><td>Caspofungina</td><td>70 mg no 1º dia, depois 50 mg por dia</td><td>35 mg por dia na insuficiência hepática moderada (Child-Pugh 7 a 9); 70 mg por dia com rifampicina; não usar diluentes com glicose</td></tr><tr><td>Micafungina</td><td>100 mg por dia (150 mg na candidíase esofágica; 50 mg na profilaxia em transplante de células-tronco)</td><td>Sem dose de ataque; proteger da luz a solução diluída; relatos de hemólise</td></tr><tr><td>Anidulafungina</td><td>200 mg no 1º dia, depois 100 mg por dia</td><td>Sem ajuste renal ou hepático; infusão de até 1,1 mg/min; contém frutose: cuidado na intolerância hereditária à frutose</td></tr></tbody></table></div><p>Fontes: bulas norte-americanas de Cancidas® (2026), micafungina (2026) e Eraxis® (2025).</p><h3>Flucitosina</h3><p>A flucitosina é oral, absorvida quase por completo e eliminada pelos rins. Seu lugar é a fase de indução do tratamento da meningite criptocócica, sempre associada à anfotericina B. No SUS, foi incorporada pela Portaria SCTIE/MS nº 21/2021 e é distribuída pelo Ministério da Saúde em comprimidos de 500 mg, mediante solicitação do serviço (Nota Informativa nº 9/2022). A dose da nota é 100 mg/kg/dia, de 6 em 6 horas. O risco principal é a mielossupressão (leucopenia, plaquetopenia), agravada por insuficiência renal, que faz o fármaco acumular: o hospital monitora hemograma, função renal e, quando disponível, o nível sérico.</p><h3>Griseofulvina</h3><p>Antifúngico antigo, ativo só contra dermatófitos. Liga-se aos microtúbulos e se deposita na queratina nova, que fica resistente à invasão. Foi muito usada na tinha do couro cabeludo da criança, com cursos de 4 a 6 semanas (bula norte-americana, 2025). É contraindicada na gestação, na porfiria e na insuficiência hepática; causa fotossensibilidade; é <strong>indutora enzimática</strong>, reduz o efeito da varfarina e pode reduzir a eficácia do anticoncepcional hormonal, por isso a bula pede método adicional. Pode precipitar ou agravar lúpus.</p><div class=\"cx balcao\"><b>No balcão</b><p>Na farmácia hospitalar, a conferência da prescrição de antifúngico venoso segue um roteiro curto: qual formulação de anfotericina foi prescrita e qual está sendo separada; dose em mg/kg compatível com a formulação; diluente (glicosado para anfotericina; sem glicose para caspofungina); tempo de infusão; exames de potássio, magnésio e creatinina pedidos; interações com imunossupressores. Na drogaria, a nistatina suspensão é a que mais aparece: oriente agitar o frasco, bochechar antes de engolir, não comer nem beber logo depois e retirar e higienizar a prótese dentária.</p></div>"
+  },
+  {
+   "id": "m11-micoses-superficiais",
+   "titulo": "Micoses superficiais no balcão",
+   "resumo": "<p>Micoses superficiais atingem a camada córnea da pele, os pelos, as unhas e as mucosas. São muito comuns em clima quente e úmido, e grande parte delas pode ser tratada com antifúngico tópico isento de prescrição, desde que o farmacêutico reconheça o quadro, exclua os sinais de gravidade e oriente o tempo de uso, que o paciente quase sempre encurta.</p><h3>Quadros mais frequentes</h3><ul><li><strong>Tinha do pé</strong> (frieira, pé de atleta): descamação, fissura e maceração entre os dedos, coceira; às vezes descamação seca da planta, em \"mocassim\".</li><li><strong>Tinha crural</strong>: placa avermelhada na virilha, com borda mais ativa e descamativa, que poupa o escroto.</li><li><strong>Tinha do corpo</strong>: placa arredondada com borda elevada, descamativa e centro mais claro.</li><li><strong>Tinha do couro cabeludo</strong>: mais comum em crianças, com placas de queda de cabelo e descamação. O tópico não alcança o folículo: exige tratamento oral e avaliação médica.</li><li><strong>Pitiríase versicolor</strong>: manchas claras ou acastanhadas no tronco, com descamação fina ao esticar a pele, causadas por <i>Malassezia</i>. A mancha clara pode persistir semanas depois da cura, o que não é falha.</li><li><strong>Candidíase cutânea</strong> (intertrigo): área vermelha, úmida e brilhante nas dobras, com pequenas lesões satélites; comum em obesidade, diabetes e na área da fralda.</li><li><strong>Candidíase oral</strong> (sapinho): placas brancas removíveis na língua e na mucosa; comum em bebês, usuários de prótese, de corticoide inalado e de antibiótico.</li></ul><h3>O que pode ser indicado sem receita</h3><p>A lista de medicamentos isentos de prescrição está na IN 285/2024, cujo Anexo I foi republicado pela IN 404/2025 (DOU de 13/11/2025). Um produto é isento quando tem o mesmo fármaco, forma farmacêutica e indicação e concentração igual ou inferior à da linha da lista. Antifúngicos de pele e unha da lista:</p><div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>Forma</th><th>Concentração máxima</th><th>Indicação simplificada</th></tr></thead><tbody><tr><td>Clotrimazol</td><td>Creme e solução dermatológicos</td><td>10 mg/g; 10 mg/mL</td><td>Micoses de pele, dermatite seborreica, candidíase vulvar e peniana</td></tr><tr><td>Nitrato de miconazol</td><td>Creme, pó, emulsão, suspensão</td><td>20 mg/g; 20 mg/mL</td><td>Micoses de pele e unha, dermatite de fraldas</td></tr><tr><td>Cetoconazol</td><td>Creme; xampu</td><td>20 mg/g; 20 mg/mL</td><td>Creme: micoses de pele. Xampu: dermatite seborreica</td></tr><tr><td>Cloridrato de terbinafina</td><td>Creme e solução</td><td>10 mg/g; 10 mg/mL</td><td>Micoses superficiais de pele</td></tr><tr><td>Butenafina, tioconazol, oxiconazol, flutrimazol</td><td>Creme (e solução para oxiconazol e flutrimazol)</td><td>10 mg/g</td><td>Micoses de pele; tioconazol e oxiconazol também infecções mistas</td></tr><tr><td>Sulfeto de selênio</td><td>Xampu</td><td>25 mg/mL</td><td>Caspa, dermatite seborreica, micose do couro cabeludo</td></tr><tr><td>Nistatina + óxido de zinco</td><td>Pomada</td><td>100 mil UI/g + 200 mg/g</td><td>Dermatite de fraldas e irritação de dobras</td></tr></tbody></table></div><p>Amorolfina (creme 2,5 mg/g e esmalte 50 mg/mL) e ciclopirox (esmalte 80 mg/mL, creme e spray 10 mg/mL) também estão na lista e são tratados no tópico de onicomicose. Associações de antifúngico com corticoide (por exemplo, cetoconazol com betametasona) não estão na lista e exigem prescrição.</p><h3>Uso correto do tópico</h3><ul><li>Lavar e secar bem a área, inclusive entre os dedos, antes de aplicar uma camada fina que ultrapasse cerca de 2 cm a borda da lesão.</li><li>A duração depende do fármaco e do local. Para comparação, a bula norte-americana de terbinafina creme de venda livre pede, entre os dedos, duas aplicações ao dia por 1 semana; na planta e nas laterais do pé, por 2 semanas; na virilha e no corpo, uma vez ao dia por 1 semana. A de miconazol pede uso diário por 4 semanas no pé e no corpo e por 2 semanas na virilha. Imidazóis costumam exigir cursos mais longos que a terbinafina. Siga a bula do produto dispensado.</li><li>Coceira melhora em poucos dias; a cura micológica demora mais. Parar ao primeiro alívio é a principal causa de recidiva.</li><li>Medidas gerais: secar os pés, trocar meias diariamente, usar calçado ventilado, chinelo em vestiário, não compartilhar toalha, tratar ao mesmo tempo pé e virilha quando os dois estão acometidos.</li></ul><p>Na pitiríase versicolor, o cetoconazol xampu é aplicado no corpo como loção, deixado agir alguns minutos e enxaguado, conforme a bula; como a indicação isenta do xampu na lista é dermatite seborreica, o uso para pitiríase versicolor segue a orientação da bula e, se for extensa ou recorrente, avaliação médica, que pode incluir azol oral.</p><div class=\"cx alerta\"><b>Atenção</b><p>Creme de corticoide em lesão de micose melhora a vermelhidão por alguns dias e faz o fungo se espalhar, com aspecto atípico (tinha incógnita). Antes de indicar creme \"para coceira\" em placa com borda descamativa, pense em micose. E creme com corticoide de média ou alta potência não é para uso prolongado em dobras nem em crianças sem prescrição.</p></div><h3>Candidíase oral</h3><p>Não há antifúngico oral para candidíase bucal na lista de isentos: a nistatina suspensão exige prescrição. Em bebê com sapinho, pergunte sobre mamadeira e chupeta (ferver e higienizar), e oriente a mãe que amamenta a observar dor e vermelhidão no mamilo, que pode precisar de tratamento conjunto. Em adulto sem causa aparente (sem prótese, corticoide inalatório ou antibiótico recente), a candidíase oral pode ser o primeiro sinal de diabetes ou imunodeficiência, inclusive infecção pelo HIV, e o encaminhamento é obrigatório. Quem usa corticoide inalatório deve enxaguar a boca e cuspir após cada inalação.</p><div class=\"cx balcao\"><b>No balcão</b><p>Rapaz de 22 anos, jogador de futebol, tem coceira e fissura entre o 4º e o 5º dedos do pé há três semanas. Sem diabetes, sem febre, sem vermelhidão subindo pelo pé. Indique terbinafina ou imidazol em creme pelo tempo da bula, explique que deve continuar mesmo quando parar de coçar, e reforce secagem, meias de algodão e chinelo no vestiário. Encaminhe se não houver melhora em 2 a 4 semanas, se houver dor, pus, inchaço ou febre (infecção bacteriana secundária) e sempre que o paciente for diabético com lesão no pé.</p></div><h3>Quando encaminhar</h3><ul><li>Lesão no couro cabeludo, na barba ou em unhas múltiplas ou com matriz acometida.</li><li>Lesão extensa, em vários locais, ou recorrente apesar de tratamento correto.</li><li>Diabetes, imunossupressão, gestação com lesão extensa, criança pequena.</li><li>Sinais de infecção bacteriana: dor, calor, pus, linfangite, febre.</li><li>Dúvida diagnóstica: psoríase, eczema e dermatite de contato imitam micose.</li></ul>"
+  },
+  {
+   "id": "m11-candidiase-vulvovaginal",
+   "titulo": "Candidíase vulvovaginal",
+   "resumo": "<p>A candidíase vulvovaginal (CVV) é a inflamação da vulva e da vagina por <i>Candida</i>, em 80% a 92% dos casos <i>C. albicans</i>. Entre 10% e 20% das mulheres em idade reprodutiva têm <i>Candida</i> na vagina sem sintomas, e essa colonização não precisa de tratamento (PCDT IST, Ministério da Saúde, 2022). É a queixa vaginal que mais chega ao balcão, porque a mulher costuma reconhecer os sintomas e porque há tratamento vaginal isento de prescrição.</p><h3>Quadro e fatores predisponentes</h3><p>Prurido, ardência, corrimento branco grumoso sem odor, dor na relação e ardência ao urinar (por contato com a vulva inflamada). Ao exame, eritema, fissuras, edema e placas brancas aderidas. O pH vaginal é normal (menor que 4,5). Fatores que predispõem, pelo PCDT: gravidez, diabetes descompensado, obesidade, uso de antibiótico, corticoide, imunossupressor ou anticoncepcional oral, infecção pelo HIV, roupas e hábitos que aumentam calor e umidade e contato com produtos irritantes (sabonetes, perfumes e desodorantes íntimos).</p><p>Corrimento com odor forte de peixe sugere vaginose bacteriana; corrimento amarelo-esverdeado e bolhoso, tricomoníase; dor pélvica, febre, sangramento fora do período ou corrimento purulento do colo apontam para outras causas que exigem consulta.</p><h3>Classificação</h3><ul><li><strong>Não complicada</strong>: sintomas leves ou moderados, episódios esporádicos, <i>C. albicans</i> e ausência de comorbidades.</li><li><strong>Complicada</strong>: basta um critério: sintomas intensos, recorrência, espécie não albicans (<i>glabrata</i>, <i>krusei</i>), comorbidade (diabetes, HIV) ou gestação.</li><li><strong>Recorrente (CVVR)</strong>: quatro ou mais episódios sintomáticos em um ano, pelo PCDT IST de 2022. A diretriz norte-americana do CDC (2021) usa três ou mais episódios em um ano. Cerca de 5% das mulheres evoluem para a forma recorrente.</li></ul><h3>Tratamento pelo PCDT IST 2022</h3><div class=\"tab\"><table><thead><tr><th>Situação</th><th>Esquema (adulto)</th></tr></thead><tbody><tr><td>Primeira opção</td><td>Miconazol creme a 2% ou outro imidazólico, via vaginal, um aplicador cheio à noite por 7 dias; ou nistatina 100 mil UI por via vaginal à noite por 14 dias</td></tr><tr><td>Segunda opção</td><td>Fluconazol 150 mg por via oral em dose única; ou itraconazol 200 mg (duas unidades de 100 mg) de 12/12 h por 1 dia</td></tr><tr><td>CVV complicada e recorrente: indução</td><td>Fluconazol 150 mg nos dias 1, 4 e 7; ou itraconazol 200 mg de 12/12 h por 1 dia; ou miconazol creme vaginal diário por 10 a 14 dias</td></tr><tr><td>CVV recorrente: manutenção</td><td>Fluconazol 150 mg uma vez por semana por 6 meses; ou miconazol creme vaginal duas vezes por semana; ou óvulo vaginal uma vez por semana por 6 meses</td></tr><tr><td>Gestante e lactante</td><td>Somente via vaginal; tratamento oral contraindicado</td></tr></tbody></table></div><p>O PCDT lembra que as parcerias sexuais não precisam ser tratadas, exceto as sintomáticas, e que nos casos recorrentes é preciso investigar diabetes, imunodepressão (inclusive HIV) e uso de corticoide. Pessoas vivendo com HIV são tratadas com os esquemas habituais.</p><div class=\"cx lei\"><b>O que diz a norma</b><p>Na lista de medicamentos isentos de prescrição (IN 285/2024, Anexo I republicado pela IN 404/2025) constam, para candidíase vaginal: clotrimazol cápsula mole vaginal ou comprimido vaginal até 500 mg; clotrimazol creme vaginal até 20 mg/g; nitrato de miconazol creme vaginal até 20 mg/g. Fluconazol oral não está na lista e exige prescrição.</p></div><h3>Gestação</h3><p>A CVV é comum na gravidez e recidiva com facilidade. O tratamento é só vaginal, com imidazólico por 7 dias. O CDC (2021) desaconselha o fluconazol na gestante, inclusive a dose única de 150 mg, por associação com aborto espontâneo e anomalias congênitas; a bula do fluconazol descreve malformações com doses altas no primeiro trimestre. A gestante com queixa vaginal deve ser orientada a relatar o quadro no pré-natal, porque vaginose bacteriana e tricomoníase na gestação têm repercussão obstétrica.</p><h3>Recorrência e espécies não albicans</h3><p>Na recorrência, a cultura vaginal identifica a espécie e orienta o tratamento. Infecção por <i>C. glabrata</i> responde mal ao fluconazol; o CDC (2021) indica curso de 7 a 14 dias de azol não fluconazol e, se houver nova recidiva, ácido bórico em cápsula vaginal, manipulado, uma vez ao dia por 3 semanas, com encaminhamento a especialista. O ácido bórico é tóxico se ingerido e não é usado na gestação. A manutenção semanal com fluconazol controla a maioria dos casos de CVVR por <i>C. albicans</i> enquanto dura, mas parte das mulheres volta a ter episódios depois de parar.</p><div class=\"cx balcao\"><b>No balcão</b><p>Mulher de 29 anos relata coceira intensa e corrimento branco \"como leite coalhado\", sem odor, há dois dias, depois de usar amoxicilina. Já teve quadro igual diagnosticado pelo médico há um ano. Não está grávida, não tem diabetes, não tem febre nem dor pélvica, e é o primeiro episódio neste ano. Pode ser indicado imidazólico vaginal isento de prescrição (clotrimazol ou miconazol) pelo tempo da bula, aplicado à noite com o aplicador cheio. Oriente evitar duchas e produtos íntimos perfumados, usar roupa íntima de algodão e retornar ou procurar consulta se não melhorar em poucos dias ou se o quadro voltar em menos de 2 meses. Encaminhe se houver odor, febre, dor pélvica, lesão ulcerada, gestação, quatro ou mais episódios no ano ou risco de outra IST.</p></div><h3>Orientações de uso</h3><ul><li>Aplicar o creme ou o óvulo à noite, deitada, para reduzir o escoamento; usar absorvente diário se incomodar.</li><li>Não interromper ao primeiro alívio; o esquema de 7 dias deve ser completado.</li><li>Alguns cremes e óvulos vaginais podem reduzir a resistência de preservativos e diafragmas de látex: conferir a bula do produto e orientar outro método durante o uso.</li><li>Fluconazol dose única: com ou sem alimento; os sintomas podem levar alguns dias para melhorar. Mesmo dose única pode elevar o RNI de quem usa varfarina.</li><li>Na manutenção de 6 meses, o fluconazol semanal soma interações e exige que o farmacêutico reveja a lista de medicamentos a cada renovação.</li></ul><div class=\"cx alerta\"><b>Atenção</b><p>Autotratamento repetido mascara diagnósticos. O CDC (2021) observa que mulheres com diagnóstico prévio de candidíase não acertam mais o autodiagnóstico do que as outras, e que o uso desnecessário de antifúngico vaginal de venda livre atrasa o tratamento de outras causas de corrimento. Quem já usou o tópico sem melhora, ou teve recidiva em até 2 meses, precisa de avaliação e exame.</p></div>"
+  },
+  {
+   "id": "m11-onicomicose",
+   "titulo": "Onicomicose",
+   "resumo": "<p>Onicomicose é a infecção fúngica da unha. Na maioria dos casos é causada por dermatófitos (sobretudo <i>Trichophyton rubrum</i>), mas também por leveduras (<i>Candida</i>, mais nas unhas das mãos e em quem vive com as mãos molhadas) e por fungos filamentosos não dermatófitos. É mais comum nos pés, em idosos, diabéticos, pessoas com má circulação, psoríase ou tinha do pé crônica. A unha fica espessa, amarelada ou esbranquiçada, quebradiça e descolada do leito.</p><p>O tratamento é longo porque o fármaco precisa estar presente enquanto a unha sadia cresce: a unha da mão leva cerca de 6 meses para se renovar e a do hálux, 12 a 18 meses. Nem toda unha alterada é micose: psoríase, trauma repetido do calçado e líquen plano dão aspecto parecido. Por isso a bula do itraconazol pede confirmação laboratorial (exame direto com KOH, cultura ou biópsia) antes de iniciar o tratamento sistêmico.</p><h3>Tratamento tópico</h3><p>Indicado em formas leves a moderadas, com poucas unhas acometidas e sem envolvimento da matriz (a região perto da cutícula, onde a unha nasce). Ambos os esmaltes abaixo estão na lista de isentos de prescrição.</p><div class=\"tab\"><table><thead><tr><th>Produto</th><th>Uso</th><th>Duração</th><th>Fonte</th></tr></thead><tbody><tr><td>Amorolfina esmalte 50 mg/mL (5%)</td><td>Uma ou duas vezes por semana; remover esmalte cosmético e resíduo anterior, lixar a área afetada o mais fundo possível, limpar e aplicar</td><td>Em média 6 meses nas mãos e 9 a 12 meses nos pés, até a unha sadia crescer</td><td>Bula Loceryl®, aprovada pela Anvisa em 04/12/2025</td></tr><tr><td>Ciclopirox esmalte 80 mg/mL (8%)</td><td>Conforme a bula do produto (há esquemas diários e esquemas com frequência decrescente ao longo dos meses)</td><td>Meses, até a unha sadia crescer</td><td>Isento desde a IN 388/2025; ver bula</td></tr></tbody></table></div><p>As lixas usadas na unha doente não devem ser usadas nas sadias. A bula da amorolfina recomenda evitar unhas artificiais durante o tratamento, não usar na gestação e na lactação sem necessidade clara e não usar em crianças sem prescrição. Em infecção grave com matriz acometida, o esmalte pode ser associado ao antifúngico oral, a critério médico.</p><h3>Tratamento sistêmico</h3><div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>Esquema de adulto</th><th>Antes e durante</th><th>Efeitos e interações principais</th></tr></thead><tbody><tr><td><strong>Terbinafina</strong> 250 mg</td><td>Um comprimido por dia: 6 semanas (mãos) e 12 semanas (pés) na bula norte-americana; a bula brasileira prevê de 6 semanas a 3 meses para a maioria, e 6 meses ou mais para o hálux</td><td>Transaminases antes e periodicamente; hemograma em imunossuprimido com uso acima de 6 semanas</td><td>Hepatotoxicidade rara e grave; perda de paladar e olfato, que pode ser prolongada ou permanente; depressão; neutropenia; reações cutâneas graves; lúpus; inibidor forte do CYP2D6</td></tr><tr><td><strong>Itraconazol</strong> cápsula 100 mg</td><td>200 mg por dia por 12 semanas (pés); ou pulsos de 200 mg de 12/12 h por 1 semana, com 3 semanas de pausa, dois pulsos nas mãos</td><td>Confirmação micológica; avaliar função hepática; rever medicamentos em uso</td><td>Contraindicado na insuficiência cardíaca para esta indicação e na gestação; inibidor forte do CYP3A4; tomar após refeição completa</td></tr></tbody></table></div><p>Fontes: bula de terbinafina comprimidos (DailyMed, 2026); bula Lamisil® (Brasil, reconferida em 15/10/2026); bula Sporanox® cápsulas (DailyMed, 2026).</p><p>A terbinafina é, em geral, a primeira escolha oral para onicomicose por dermatófito, por ser fungicida e ter menos interações relevantes que o itraconazol, exceto com substratos do CYP2D6: tricíclicos, metoprolol, flecainida, propafenona, alguns antipsicóticos e inibidores seletivos da recaptação de serotonina, além de reduzir a ativação de codeína e tramadol. A bula informa que o efeito sobre o CYP2D6 persiste semanas após a suspensão. Pode ser tomada com ou sem alimento. É contraindicada em doença hepática crônica ou ativa.</p><div class=\"cx alerta\"><b>Atenção</b><p>Paciente em uso de terbinafina oral que relata náusea persistente, perda de apetite, cansaço intenso, vômito, dor no lado direito do abdome, icterícia, urina escura ou fezes claras deve parar o comprimido e procurar atendimento no mesmo dia (bula de terbinafina, 2026). O mesmo vale para bolhas, descamação da pele ou febre com manchas.</p></div><h3>Por que o tratamento falha</h3><ul><li>Diagnóstico errado: psoríase ungueal ou distrofia por trauma tratadas como micose.</li><li>Abandono: o paciente para quando a unha melhora de aspecto, meses antes da renovação completa.</li><li>Unha muito espessa ou com faixa amarela longitudinal (dermatofitoma), em que o fármaco não penetra; pode exigir desbaste ou remoção mecânica feita por profissional.</li><li>Fungo pouco sensível (alguns não dermatófitos, raras cepas de <i>Trichophyton</i> resistentes à terbinafina).</li><li>Fatores do paciente: diabetes, má circulação, imunossupressão, unha que cresce devagar no idoso.</li><li>Reinfecção a partir da tinha do pé não tratada ou do calçado contaminado.</li></ul><h3>Resultado e recidiva</h3><p>A resposta é avaliada pela unha nova que cresce sadia a partir da base, não pela parte já doente, que só sai com o corte. Ao fim do curso oral, a unha ainda pode parecer alterada; a melhora continua por meses porque o fármaco fica retido na queratina. Recidiva e reinfecção são frequentes: tratar a tinha do pé associada, secar bem os pés, desinfetar ou trocar calçados, usar chinelo em vestiário e não compartilhar alicate ou lixa.</p><div class=\"cx balcao\"><b>No balcão</b><p>Senhor de 70 anos, diabético, pede \"um esmalte para fungo\" para três unhas dos pés espessas e descoladas. Diabético com alteração de unha do pé deve ser avaliado por médico ou podólogo antes do autotratamento: o risco de ferida e infecção é alto e o quadro pode não ser micose. Se ele já tem diagnóstico e apenas uma unha leve, sem matriz acometida, o esmalte de amorolfina pode ser indicado, com demonstração do modo de lixar e aplicar e a explicação de que o tratamento dura de 9 a 12 meses. Para quem traz receita de terbinafina, confirme se fez exame do fígado antes, revise a lista de medicamentos (betabloqueador, antidepressivo, codeína, tramadol) e oriente os sinais de lesão hepática e de alteração de paladar.</p></div>"
+  },
+  {
+   "id": "m11-imunossuprimidos",
+   "titulo": "Antifúngicos em imunossuprimidos e profilaxia",
+   "resumo": "<p>As infecções fúngicas invasivas atingem sobretudo quem perdeu defesas: neutropenia prolongada por quimioterapia (leucemia mieloide aguda, síndrome mielodisplásica), transplante de células-tronco hematopoéticas (com risco maior na doença do enxerto contra o hospedeiro), transplante de órgão sólido, uso de corticoide em dose alta, infecção pelo HIV avançada e internação prolongada em UTI com cateter venoso central, nutrição parenteral e antibiótico de amplo espectro. A mortalidade é alta, e o farmacêutico atua na conferência de dose, na escolha da formulação, nas interações com imunossupressores e na monitorização.</p><h3>Principais infecções e tratamento de referência</h3><div class=\"tab\"><table><thead><tr><th>Infecção</th><th>Quem adoece</th><th>Tratamento de referência</th><th>Fonte</th></tr></thead><tbody><tr><td>Candidemia e candidíase invasiva</td><td>UTI, cateter central, cirurgia abdominal, neutropenia</td><td>Equinocandina inicial; passagem para fluconazol em geral em 5 a 7 dias se estável e sensível; retirar o cateter quando for a fonte; anfotericina lipídica 3 a 5 mg/kg/dia como alternativa</td><td>IDSA, 2016</td></tr><tr><td>Aspergilose invasiva</td><td>Neutropenia prolongada, transplante, corticoide</td><td>Voriconazol: 6 mg/kg venoso de 12/12 h nas primeiras 24 h, depois 4 mg/kg de 12/12 h; oral 200 mg de 12/12 h. Isavuconazol e posaconazol como opções</td><td>Bulas Vfend®, Cresemba®, Noxafil®</td></tr><tr><td>Mucormicose</td><td>Diabetes descompensado com cetoacidose, neutropenia, transplante</td><td>Anfotericina B em formulação lipídica, associada a desbridamento cirúrgico; isavuconazol tem indicação em bula</td><td>Bula Cresemba®</td></tr><tr><td>Meningite criptocócica em pessoa com HIV</td><td>HIV avançado</td><td>Indução: anfotericina B lipossomal 3 mg/kg/dia + flucitosina 100 mg/kg/dia por pelo menos 2 semanas; consolidação: fluconazol 400 a 800 mg/dia por pelo menos 8 semanas; manutenção: fluconazol 200 mg/dia por pelo menos 12 meses</td><td>Nota Informativa nº 9/2022, MS</td></tr></tbody></table></div><h3>Profilaxia</h3><p>Profilaxia é o uso do antifúngico em quem ainda não tem infecção, mas tem risco alto. Os esquemas mais comuns:</p><ul><li><strong>Fluconazol 400 mg uma vez ao dia</strong> no transplante de medula óssea; quando se espera neutropenia grave (abaixo de 500 neutrófilos/mm³), começa alguns dias antes e vai até 7 dias depois de os neutrófilos passarem de 1000/mm³ (bula Diflucan®, 2026). Protege contra <i>Candida</i>, não contra fungos filamentosos.</li><li><strong>Posaconazol</strong> na profilaxia de aspergilose e candidíase em transplantados com doença do enxerto contra o hospedeiro e em neoplasia hematológica com neutropenia prolongada: comprimido de liberação retardada de 300 mg de 12/12 h no primeiro dia e depois 300 mg uma vez ao dia, com alimento; ou suspensão oral de 200 mg (5 mL) três vezes ao dia, com refeição completa (bula Noxafil®, 2026).</li><li><strong>Micafungina 50 mg por dia</strong> na profilaxia de <i>Candida</i> no transplante de células-tronco (bula).</li><li>Em UTI, a IDSA (2016) admite fluconazol profilático apenas em adultos de alto risco em unidades com taxa de candidíase invasiva acima de 5%.</li></ul><div class=\"cx alerta\"><b>Atenção</b><p>A suspensão oral de posaconazol não é substituível pelo comprimido de liberação retardada, nem o contrário, porque as doses e a exposição são diferentes (bula Noxafil®). Trocar a apresentação na dispensação, mantendo a mesma \"dose em mg\", pode gerar subdose ou superdose. Se o paciente não consegue fazer refeição completa, a bula indica o comprimido em vez da suspensão.</p></div><h3>Profilaxia, terapia empírica e tratamento dirigido</h3><p>Além da profilaxia, há três estratégias. A <strong>terapia empírica</strong> é iniciada no neutropênico que continua com febre apesar de antibiótico de amplo espectro, sem foco definido; a bula do AmBisome® traz 3 mg/kg/dia para essa situação, e equinocandinas também são usadas. A <strong>terapia preemptiva</strong> começa quando aparece um marcador de infecção (tomografia sugestiva, antígeno galactomanana positivo) antes de prova definitiva. O <strong>tratamento dirigido</strong> é guiado pela espécie isolada e pelo teste de sensibilidade. A passagem de uma estratégia para outra é o momento em que o farmacêutico revisa dose, via, duração e a possibilidade de descalonar para um fármaco oral mais barato e com menos toxicidade.</p><h3>Interações com imunossupressores</h3><p>Transplantado usa tacrolimo, ciclosporina, sirolimo ou everolimo, todos substratos do CYP3A4 de margem estreita. O fluconazol pode aumentar até cinco vezes a concentração do tacrolimo oral (bula Diflucan®). Ao iniciar voriconazol em quem já usa tacrolimo, a bula manda reduzir a dose do tacrolimo para um terço e dosar com frequência; voriconazol com sirolimo é contraindicado. O posaconazol também exige redução e dosagem de ciclosporina e tacrolimo. O efeito se inverte na suspensão do azol: o nível do imunossupressor cai, com risco de rejeição, se a dose não for reajustada. Uma descrição de caso na bula do fluconazol relata insuficiência suprarrenal aguda em transplantado com prednisona quando o fluconazol de 3 meses foi suspenso.</p><h3>Monitorização</h3><ul><li>Voriconazol: função hepática no início e durante o uso, avaliação visual se passar de 28 dias, fotoproteção, nível sérico quando o serviço dispõe. Na insuficiência renal com depuração de creatinina abaixo de 50 mL/min, a bula prefere a via oral, porque o veículo da forma venosa (ciclodextrina) se acumula.</li><li>Anfotericina B: creatinina, potássio e magnésio frequentes, reposição de eletrólitos.</li><li>Equinocandinas: enzimas hepáticas; hemólise com micafungina.</li><li>Flucitosina: hemograma, função renal e nível sérico.</li><li>Fluconazol em uso longo: função hepática, potássio e ECG em quem usa outros fármacos que prolongam o QT.</li></ul><h3>Gestão do uso de antifúngicos</h3><p>Antifúngicos venosos estão entre os medicamentos mais caros do hospital, e o uso sem critério seleciona espécies resistentes, como <i>Candida auris</i> e <i>C. glabrata</i> com menor sensibilidade ao fluconazol. Os programas de gerenciamento de antimicrobianos incluem os antifúngicos: o farmacêutico confere indicação e duração, sugere a troca de equinocandina por fluconazol quando a cepa é sensível e o paciente está estável (IDSA, 2016), lembra a retirada do cateter, acompanha exames de toxicidade e registra a duração planejada, em geral contada a partir da primeira hemocultura negativa na candidemia.</p><div class=\"cx balcao\"><b>No balcão</b><p>Paciente transplantado renal chega à drogaria com receita de fluconazol para candidíase oral, emitida em pronto atendimento. Ele usa tacrolimo. Antes de dispensar, contate o prescritor ou a equipe de transplante: a associação pode elevar o tacrolimo a nível tóxico e exige ajuste e dosagem. Registre a intervenção e oriente o paciente a não iniciar nem suspender antifúngico, antibiótico ou fitoterápico (erva-de-são-joão, por exemplo) sem avisar a equipe que acompanha o transplante.</p></div>"
+  }
+ ],
+ "mapas": [
+  {
+   "id": "m11-mapa-classes",
+   "titulo": "Classes de antifúngicos",
+   "centro": "Antifúngicos",
+   "ramos": [
+    {
+     "t": "Azóis",
+     "itens": [
+      "Inibem a 14-alfa-desmetilase (CYP51)",
+      "Imidazóis: quase só tópicos",
+      "Triazóis: fluco, itra, vori, posa, isavu",
+      "Inibem P450 humano: interações"
+     ]
+    },
+    {
+     "t": "Poliênicos",
+     "itens": [
+      "Ligam ergosterol e abrem poros",
+      "Anfotericina B: venosa, amplo espectro",
+      "Nistatina: não absorvida, só local",
+      "Anfotericina: rim, potássio, magnésio"
+     ]
+    },
+    {
+     "t": "Alilaminas",
+     "itens": [
+      "Inibem esqualeno epoxidase",
+      "Terbinafina: fungicida em dermatófito",
+      "Oral: fígado, paladar; CYP2D6 forte"
+     ]
+    },
+    {
+     "t": "Equinocandinas",
+     "itens": [
+      "Inibem glucana sintase da parede",
+      "Caspo, mica, anidulafungina: venosas",
+      "Candidemia: tratamento inicial (IDSA 2016)",
+      "Sem ação em Cryptococcus e Mucorales"
+     ]
+    },
+    {
+     "t": "Outros",
+     "itens": [
+      "Flucitosina: sempre com anfotericina",
+      "Griseofulvina: indutora, teratogênica",
+      "Amorolfina e ciclopirox: esmalte"
+     ]
+    },
+    {
+     "t": "Venda",
+     "itens": [
+      "Tópicos comuns: isentos (IN 285/2024)",
+      "Orais: receita sem retenção",
+      "Nenhum antifúngico na IN 360/2025",
+      "Venosos: uso hospitalar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m11-mapa-azois",
+   "titulo": "Azóis: o que conferir",
+   "centro": "Azóis sistêmicos",
+   "ramos": [
+    {
+     "t": "Fluconazol",
+     "itens": [
+      "Absorção > 90%, sem efeito do alimento",
+      "150 mg dose única: CVV",
+      "Renal: metade da dose em doses repetidas",
+      "CYP2C19 forte; 2C9 e 3A4 moderado"
+     ]
+    },
+    {
+     "t": "Itraconazol",
+     "itens": [
+      "Cápsula após refeição completa",
+      "IBP e antiácido reduzem absorção",
+      "Insuficiência cardíaca: evitar",
+      "CYP3A4 forte: sinvastatina proibida"
+     ]
+    },
+    {
+     "t": "Voriconazol",
+     "itens": [
+      "1 h antes ou depois da refeição",
+      "Visão alterada em cerca de 21%",
+      "Fotoproteção; câncer de pele",
+      "CYP2C19 polimórfico: nível variável"
+     ]
+    },
+    {
+     "t": "Posa e isavuconazol",
+     "itens": [
+      "Posa: comprimido e suspensão não trocam",
+      "Posa com alimento; inibidor forte 3A4",
+      "Isavu: encurta QT; QT curto proíbe"
+     ]
+    },
+    {
+     "t": "Riscos comuns",
+     "itens": [
+      "Hepatotoxicidade: icterícia, urina escura",
+      "QT longo com macrolídeo e quinolona",
+      "Gestação: evitar azol oral",
+      "Cetoconazol oral: só micose sistêmica"
+     ]
+    },
+    {
+     "t": "Interações-chave",
+     "itens": [
+      "Varfarina: RNI sobe",
+      "Sulfonilureia: hipoglicemia",
+      "Tacrolimo e ciclosporina: nível tóxico",
+      "Rifampicina derruba o voriconazol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m11-mapa-balcao",
+   "titulo": "Micoses no balcão",
+   "centro": "Micose no balcão",
+   "ramos": [
+    {
+     "t": "Pele",
+     "itens": [
+      "Tinha do pé, crural e do corpo",
+      "Imidazol ou terbinafina creme",
+      "Usar pelo tempo da bula, não só até coçar",
+      "Secar, trocar meias, chinelo"
+     ]
+    },
+    {
+     "t": "Couro cabeludo",
+     "itens": [
+      "Tópico não alcança o folículo",
+      "Criança com placa de queda: médico",
+      "Caspa: cetoconazol ou selênio xampu"
+     ]
+    },
+    {
+     "t": "Vagina",
+     "itens": [
+      "Clotrimazol ou miconazol vaginal: MIP",
+      "Fluconazol oral: com receita",
+      "Gestante: só via vaginal, 7 dias",
+      "4 ou mais episódios/ano: médico"
+     ]
+    },
+    {
+     "t": "Unha",
+     "itens": [
+      "Amorolfina 1 a 2 vezes/semana",
+      "Mãos 6 meses; pés 9 a 12 meses",
+      "Matriz acometida: tratamento oral",
+      "Terbinafina oral: fígado antes"
+     ]
+    },
+    {
+     "t": "Boca",
+     "itens": [
+      "Nistatina suspensão: com receita",
+      "Bochechar e depois engolir",
+      "Miconazol gel + varfarina: evitar",
+      "Adulto sem causa: investigar"
+     ]
+    },
+    {
+     "t": "Encaminhar",
+     "itens": [
+      "Diabetes com lesão no pé",
+      "Imunossupressão ou gestação",
+      "Lesão extensa ou recorrente",
+      "Febre, dor, pus, sem melhora"
+     ]
+    }
+   ]
+  }
+ ],
+ "apoio": [
+  {
+   "tipo": "tabela",
+   "id": "m11-tab-sistemicos",
+   "titulo": "Antifúngicos orais da farmácia: posologia, alimento e interação",
+   "colunas": [
+    "Fármaco",
+    "Posologia usual adulto",
+    "Com ou sem alimento",
+    "Interação principal",
+    "Monitorar"
+   ],
+   "linhas": [
+    [
+     "Fluconazol",
+     "150 mg dose única (candidíase vaginal não complicada); 200 mg no 1º dia e 100 mg/dia (orofaríngea)",
+     "Indiferente",
+     "Varfarina; sulfonilureias; fármacos que prolongam o QT; tacrolimo",
+     "Função hepática e renal em uso longo"
+    ],
+    [
+     "Itraconazol cápsula",
+     "200 mg/dia (onicomicose dos pés, 12 semanas) ou pulsos de 200 mg de 12/12 h",
+     "Logo após refeição completa",
+     "Substratos do CYP3A4 (sinvastatina e lovastatina contraindicadas); IBP reduz absorção",
+     "Fígado; sinais de insuficiência cardíaca; audição"
+    ],
+    [
+     "Terbinafina oral",
+     "250 mg 1 vez ao dia",
+     "Indiferente",
+     "Substratos do CYP2D6 (tricíclicos, metoprolol); reduz ativação de codeína e tramadol",
+     "Transaminases antes e durante; paladar e olfato"
+    ],
+    [
+     "Nistatina suspensão",
+     "1 a 6 mL quatro vezes ao dia (candidíase oral)",
+     "Bochechar e manter na boca antes de engolir",
+     "Praticamente nenhuma",
+     "Resposta clínica; higiene da prótese"
+    ],
+    [
+     "Voriconazol oral",
+     "200 mg de 12/12 h (adulto com 40 kg ou mais)",
+     "1 hora antes ou depois da refeição",
+     "Rifampicina, carbamazepina e erva-de-são-joão contraindicadas; tacrolimo e sirolimo",
+     "Fígado, visão, pele, nível sérico"
+    ],
+    [
+     "Posaconazol comprimido",
+     "300 mg de 12/12 h no 1º dia, depois 300 mg/dia",
+     "Com alimento",
+     "Substratos do CYP3A4; ciclosporina e tacrolimo",
+     "Não trocar pela suspensão; fígado"
+    ]
+   ],
+   "nota": "Fontes: bulas norte-americanas (DailyMed) de Diflucan® (2026), Sporanox® (2026), terbinafina (2026), Vfend® (2026) e Noxafil® (2026); linhas de fluconazol, terbinafina e nistatina reconferidas em 15/10/2026 com as bulas brasileiras. A dose final é a da prescrição."
+  },
+  {
+   "tipo": "tabela",
+   "id": "m11-tab-mip",
+   "titulo": "Antifúngicos isentos de prescrição (LMIP)",
+   "colunas": [
+    "Fármaco",
+    "Forma farmacêutica",
+    "Concentração máxima",
+    "Indicação simplificada"
+   ],
+   "linhas": [
+    [
+     "Clotrimazol",
+     "Creme e solução dermatológicos",
+     "10 mg/g; 10 mg/mL",
+     "Micoses de pele, dermatite seborreica, candidíase vulvar e peniana"
+    ],
+    [
+     "Clotrimazol",
+     "Cápsula mole vaginal ou comprimido vaginal",
+     "500 mg",
+     "Candidíase vaginal"
+    ],
+    [
+     "Clotrimazol",
+     "Creme vaginal",
+     "20 mg/g",
+     "Candidíase vaginal e peniana"
+    ],
+    [
+     "Nitrato de miconazol",
+     "Creme e pó dermatológicos",
+     "20 mg/g",
+     "Micoses de pele e unha"
+    ],
+    [
+     "Nitrato de miconazol",
+     "Creme vaginal",
+     "20 mg/g",
+     "Candidíase vaginal e perianal"
+    ],
+    [
+     "Cetoconazol",
+     "Creme; xampu",
+     "20 mg/g; 20 mg/mL",
+     "Creme: micoses de pele. Xampu: dermatite seborreica"
+    ],
+    [
+     "Cloridrato de terbinafina",
+     "Creme e solução dermatológicos",
+     "10 mg/g; 10 mg/mL",
+     "Micoses superficiais de pele"
+    ],
+    [
+     "Cloridrato de amorolfina",
+     "Creme; esmalte",
+     "2,5 mg/g; 50 mg/mL",
+     "Creme: micoses de pele. Esmalte: micoses de unha"
+    ],
+    [
+     "Ciclopirox / ciclopirox olamina",
+     "Esmalte; creme e spray",
+     "80 mg/mL; 10 mg/mL",
+     "Infecções fúngicas das unhas"
+    ],
+    [
+     "Butenafina, tioconazol, flutrimazol, oxiconazol",
+     "Creme (oxiconazol e flutrimazol também solução)",
+     "10 mg/g",
+     "Micoses superficiais de pele; tioconazol e oxiconazol também infecções mistas"
+    ],
+    [
+     "Sulfeto de selênio",
+     "Xampu",
+     "25 mg/mL",
+     "Caspa, dermatite seborreica, micose superficial do couro cabeludo"
+    ],
+    [
+     "Nistatina + óxido de zinco",
+     "Pomada",
+     "100 mil UI/g + 200 mg/g",
+     "Dermatite de fraldas e irritações de dobras"
+    ]
+   ],
+   "nota": "Fonte: Anvisa, IN nº 285/2024, Anexo I na redação da IN nº 404/2025 (DOU de 13/11/2025). É isento o produto com o mesmo fármaco, forma e indicação e concentração igual ou inferior. Fluconazol, itraconazol, terbinafina oral, cetoconazol oral, nistatina suspensão oral e associações com corticoide não estão na lista."
+  },
+  {
+   "tipo": "tabela",
+   "id": "m11-tab-interacoes",
+   "titulo": "Interações dos antifúngicos que o farmacêutico precisa barrar",
+   "colunas": [
+    "Antifúngico",
+    "Associado a",
+    "Efeito",
+    "Conduta"
+   ],
+   "linhas": [
+    [
+     "Fluconazol, miconazol (inclusive gel oral)",
+     "Varfarina",
+     "RNI alto, sangramento",
+     "Avisar prescritor; controle de RNI; MHRA (2017) contraindica o gel de venda livre com varfarina"
+    ],
+    [
+     "Fluconazol",
+     "Glibenclamida, glipizida",
+     "Hipoglicemia",
+     "Orientar glicemia capilar e sinais de hipoglicemia"
+    ],
+    [
+     "Fluconazol",
+     "Eritromicina, quinidina, pimozida",
+     "QT longo, torsades de pointes",
+     "Eritromicina: evitar; quinidina e pimozida: contraindicadas"
+    ],
+    [
+     "Itraconazol",
+     "Sinvastatina, lovastatina, midazolam oral, triazolam, ticagrelor",
+     "Toxicidade grave do fármaco associado",
+     "Contraindicado; contatar prescritor"
+    ],
+    [
+     "Itraconazol cápsula",
+     "Omeprazol, ranitidina, antiácidos",
+     "Absorção menor, falha",
+     "Tomar após refeição completa; discutir com prescritor"
+    ],
+    [
+     "Voriconazol",
+     "Rifampicina, carbamazepina, barbitúrico de ação longa, erva-de-são-joão",
+     "Nível do voriconazol cai",
+     "Contraindicado"
+    ],
+    [
+     "Azóis",
+     "Tacrolimo, ciclosporina, sirolimo",
+     "Nível tóxico; rejeição ao suspender o azol",
+     "Ajuste e dosagem pela equipe; voriconazol + sirolimo contraindicado"
+    ],
+    [
+     "Terbinafina",
+     "Tricíclicos, metoprolol, flecainida, codeína, tramadol",
+     "Mais efeito (CYP2D6); menos analgesia de pró-fármacos",
+     "Avaliar com prescritor; efeito dura semanas"
+    ],
+    [
+     "Griseofulvina",
+     "Anticoncepcional hormonal, varfarina",
+     "Menor eficácia contraceptiva e anticoagulante",
+     "Método adicional; controle de RNI"
+    ],
+    [
+     "Anfotericina B",
+     "Aminoglicosídeo, vancomicina, ciclosporina, digoxina",
+     "Nefrotoxicidade somada; hipocalemia potencializa digoxina",
+     "Monitorar creatinina e potássio"
+    ]
+   ],
+   "nota": "Fontes: tabela de inibidores do CYP da FDA (2026); bulas norte-americanas de Diflucan®, Sporanox®, Vfend®, terbinafina, griseofulvina e anfotericina B; MHRA Drug Safety Update, 26/09/2017."
+  },
+  {
+   "tipo": "fluxo",
+   "id": "m11-fluxo-cvv",
+   "titulo": "Queixa de coceira e corrimento vaginal no balcão",
+   "passos": [
+    {
+     "t": "Mulher relata coceira, ardência ou corrimento vaginal e pede um antifúngico",
+     "tipo": "inicio"
+    },
+    {
+     "t": "Perguntar: tipo de corrimento, odor, duração, episódios no último ano, gestação, diabetes, HIV, uso recente de antibiótico ou corticoide",
+     "tipo": "acao"
+    },
+    {
+     "t": "Há febre, dor pélvica ou abdominal, sangramento anormal, úlcera genital ou corrimento com odor forte ou amarelo-esverdeado?",
+     "tipo": "decisao",
+     "sim": "Encaminhar para consulta: pode ser vaginose, tricomoníase, outra IST ou doença inflamatória pélvica",
+     "nao": "Seguir"
+    },
+    {
+     "t": "Está grávida ou amamentando?",
+     "tipo": "decisao",
+     "sim": "Só tratamento vaginal; orientar relatar no pré-natal; nunca fluconazol oral sem prescrição",
+     "nao": "Seguir"
+    },
+    {
+     "t": "Quatro ou mais episódios no último ano, recidiva em até 2 meses ou falha de tratamento tópico?",
+     "tipo": "decisao",
+     "sim": "Encaminhar: CVV recorrente exige exame, cultura e investigação de diabetes e imunodepressão (PCDT IST 2022)",
+     "nao": "Quadro compatível com CVV não complicada"
+    },
+    {
+     "t": "Indicar imidazólico vaginal isento (clotrimazol ou miconazol) pelo tempo da bula, ou dispensar fluconazol 150 mg se houver receita",
+     "tipo": "acao"
+    },
+    {
+     "t": "Usa varfarina e tem receita de fluconazol?",
+     "tipo": "decisao",
+     "sim": "Avisar prescritor e orientar sinais de sangramento e controle do RNI",
+     "nao": "Dispensar com orientação"
+    },
+    {
+     "t": "Orientar aplicação à noite, curso completo, evitar duchas e produtos perfumados, conferir efeito sobre preservativo de látex na bula",
+     "tipo": "acao"
+    },
+    {
+     "t": "Sem melhora em poucos dias ou retorno dos sintomas: procurar consulta",
+     "tipo": "alerta"
+    },
+    {
+     "t": "Registrar a orientação no histórico da paciente",
+     "tipo": "fim"
+    }
+   ]
+  },
+  {
+   "tipo": "checklist",
+   "id": "m11-checklist-dispensacao",
+   "titulo": "Checklist da dispensação de antifúngico oral",
+   "itens": [
+    "Conferir receita, dose, duração e se o fármaco é o mesmo da indicação relatada",
+    "Perguntar sobre gestação, possibilidade de gravidez e amamentação",
+    "Revisar a lista de medicamentos: varfarina, estatina, sulfonilureia, imunossupressor, antiarrítmico, antidepressivo",
+    "Perguntar sobre doença do fígado, insuficiência cardíaca e doença renal",
+    "Para terbinafina ou cetoconazol oral: confirmar se a função hepática foi avaliada antes",
+    "Para itraconazol cápsula: orientar tomar logo após refeição completa e checar uso de IBP",
+    "Para voriconazol: orientar tomar longe das refeições e usar proteção solar rigorosa",
+    "Para posaconazol: conferir se a apresentação dispensada é a prescrita (comprimido ou suspensão)",
+    "Explicar a duração total, mesmo após melhora, e o que fazer se esquecer uma dose",
+    "Orientar sinais de alarme: icterícia, urina escura, bolhas na pele, palpitação ou desmaio, sangramento",
+    "Lembrar que a receita de antifúngico não fica retida (não consta da IN 360/2025), mas deve ser apresentada",
+    "Registrar intervenções e notificar suspeita de reação adversa no VigiMed"
+   ]
+  },
+  {
+   "tipo": "cartoes",
+   "id": "m11-cartoes",
+   "titulo": "Cartões de revisão: antifúngicos",
+   "itens": [
+    {
+     "f": "Alvo dos azóis",
+     "v": "14-alfa-desmetilase (CYP51) do fungo: menos ergosterol na membrana"
+    },
+    {
+     "f": "Alvo da terbinafina",
+     "v": "Esqualeno epoxidase; fungicida para dermatófitos"
+    },
+    {
+     "f": "Alvo das equinocandinas",
+     "v": "Beta-1,3-D-glucana sintase da parede, que a célula humana não tem"
+    },
+    {
+     "f": "Por que a nistatina quase não tem interação?",
+     "v": "Não é absorvida pelo trato digestivo; age só no local"
+    },
+    {
+     "f": "Fluconazol inibe quais CYP?",
+     "v": "CYP2C19 (forte), CYP2C9 e CYP3A4 (moderado), pela tabela da FDA"
+    },
+    {
+     "f": "Itraconazol cápsula: como tomar?",
+     "v": "Logo após refeição completa; IBP e antiácido reduzem a absorção"
+    },
+    {
+     "f": "Estatinas proibidas com itraconazol",
+     "v": "Sinvastatina e lovastatina (bula Sporanox®)"
+    },
+    {
+     "f": "Efeito adverso mais comum do voriconazol",
+     "v": "Distúrbio visual, em cerca de 21% nos estudos"
+    },
+    {
+     "f": "Dose máxima de anfotericina B convencional",
+     "v": "1,5 mg/kg/dia; acima disso, risco de parada cardíaca"
+    },
+    {
+     "f": "Diluente da anfotericina B",
+     "v": "Água estéril e soro glicosado a 5%; soro fisiológico precipita"
+    },
+    {
+     "f": "Caspofungina: dose de adulto na candidemia",
+     "v": "70 mg no 1º dia, depois 50 mg/dia; 70 mg/dia com rifampicina"
+    },
+    {
+     "f": "CVV recorrente pelo PCDT IST 2022",
+     "v": "Quatro ou mais episódios sintomáticos em um ano"
+    },
+    {
+     "f": "CVV na gestante",
+     "v": "Só tratamento vaginal; oral contraindicado (PCDT IST 2022)"
+    },
+    {
+     "f": "Manutenção na CVV recorrente",
+     "v": "Fluconazol 150 mg uma vez por semana por 6 meses"
+    },
+    {
+     "f": "Amorolfina esmalte: frequência e duração",
+     "v": "1 a 2 vezes por semana; 6 meses nas mãos, 9 a 12 meses nos pés"
+    },
+    {
+     "f": "Terbinafina oral: o que pedir antes?",
+     "v": "Transaminases; contraindicada em doença hepática ativa ou crônica"
+    },
+    {
+     "f": "Cetoconazol oral no Brasil",
+     "v": "Só micoses sistêmicas quando outros falham (bula padrão, Anvisa 2015)"
+    },
+    {
+     "f": "Flucitosina: com o quê?",
+     "v": "Sempre com anfotericina B na indução da criptococose"
+    }
+   ]
+  },
+  {
+   "tipo": "questoes",
+   "id": "m11-questoes",
+   "titulo": "Questões de fixação: antifúngicos",
+   "itens": [
+    {
+     "p": "Sobre o mecanismo de ação dos antifúngicos, assinale a alternativa correta.",
+     "alt": [
+      "A terbinafina inibe a 14-alfa-desmetilase",
+      "A anfotericina B liga-se ao ergosterol da membrana",
+      "As equinocandinas inibem a síntese de ergosterol da membrana",
+      "A nistatina é absorvida e age por via sistêmica",
+      "A flucitosina age na parede celular fúngica"
+     ],
+     "c": 1,
+     "com": "Poliênicos (anfotericina B, nistatina) ligam-se ao ergosterol pronto e formam poros. A terbinafina inibe a esqualeno epoxidase; os azóis é que inibem a 14-alfa-desmetilase. Equinocandinas inibem a glucana sintase da parede. A nistatina não é absorvida. A flucitosina é convertida em 5-fluoruracila e interfere no DNA e no RNA (bula Ancobon®)."
+    },
+    {
+     "p": "Mulher de 62 anos usa varfarina com RNI estável e apresenta receita de fluconazol 150 mg em dose única para candidíase vaginal. A conduta mais adequada do farmacêutico é:",
+     "alt": [
+      "Recusar a dispensação, pois a associação é absolutamente contraindicada",
+      "Dispensar sem orientação, já que dose única não interage",
+      "Trocar por itraconazol, que não interfere na varfarina",
+      "Dispensar, avisar o prescritor e orientar controle do RNI",
+      "Orientar suspender a varfarina por três dias"
+     ],
+     "c": 3,
+     "com": "O fluconazol inibe o CYP2C9 e eleva o efeito da varfarina; a bula do Diflucan® relata sangramentos. Mesmo a dose única pode subir o RNI. Não é contraindicação absoluta: comunica-se o prescritor e orienta-se controle. Itraconazol também interage. Suspender anticoagulante por conta própria é erro grave."
+    },
+    {
+     "p": "Paciente usa sinvastatina 40 mg e omeprazol 20 mg e recebe itraconazol para onicomicose. Assinale a correta.",
+     "alt": [
+      "Sinvastatina é contraindicada e o omeprazol reduz a absorção",
+      "Basta tomar o itraconazol em jejum, longe da sinvastatina, para evitar a interação",
+      "O omeprazol aumenta a absorção do itraconazol cápsula",
+      "A interação com sinvastatina só ocorre acima de 400 mg/dia",
+      "Itraconazol é inibidor fraco do CYP3A4"
+     ],
+     "c": 0,
+     "com": "A bula do Sporanox® contraindica sinvastatina e lovastatina (risco de rabdomiólise) e informa que redutores de acidez diminuem a absorção da cápsula, que deve ser tomada logo após refeição completa. Itraconazol é inibidor forte do CYP3A4 (tabela da FDA, 2026). Jejum piora a absorção."
+    },
+    {
+     "p": "Na farmácia hospitalar chega a prescrição de anfotericina B 5 mg/kg/dia, e o estoque tem desoxicolato e lipossomal. Sobre a conduta, é correto afirmar:",
+     "alt": [
+      "Qualquer formulação serve, pois a dose em mg/kg é a mesma para todas as anfotericinas",
+      "A dose é compatível com a lipossomal; com desoxicolato seria letal",
+      "A dose deve ser diluída em soro fisiológico a 0,9%",
+      "O desoxicolato pode ir até 5 mg/kg em infusão rápida",
+      "A lipossomal dispensa controle de potássio e creatinina"
+     ],
+     "c": 1,
+     "com": "As formulações não são intercambiáveis mg a mg (bula AmBisome®). A convencional não pode passar de 1,5 mg/kg/dia, sob risco de parada cardíaca ou cardiorrespiratória (bula da anfotericina B desoxicolato). Nenhuma é diluída em soro fisiológico, que precipita o fármaco. A lipossomal também exige monitorar potássio, magnésio e creatinina."
+    },
+    {
+     "p": "Gestante de 24 semanas relata coceira e corrimento branco grumoso, sem odor. Pelo PCDT IST 2022, o tratamento é:",
+     "alt": [
+      "Fluconazol 150 mg oral em dose única",
+      "Itraconazol 200 mg de 12/12 h por 1 dia",
+      "Imidazólico ou nistatina por via vaginal",
+      "Fluconazol 150 mg nos dias 1, 4 e 7",
+      "Não tratar, pois a colonização é fisiológica"
+     ],
+     "c": 2,
+     "com": "O PCDT IST 2022 determina, para gestantes e lactantes, tratamento somente por via vaginal (miconazol ou outro imidazólico por 7 dias, ou nistatina por 14 dias), com o oral contraindicado. O CDC (2021) também desaconselha a dose única de fluconazol na gestação. Quadro sintomático não é colonização."
+    },
+    {
+     "p": "Pelo PCDT IST 2022, a candidíase vulvovaginal recorrente é definida por:",
+     "alt": [
+      "Dois episódios em seis meses",
+      "Três episódios em dois anos",
+      "Qualquer episódio com cultura positiva",
+      "Episódio que não responde ao tratamento tópico de 7 dias",
+      "Quatro ou mais episódios sintomáticos em um ano"
+     ],
+     "c": 4,
+     "com": "O PCDT IST 2022 define CVVR como quatro ou mais episódios sintomáticos em um ano. A diretriz do CDC (2021) usa três ou mais em um ano, diferença que costuma ser cobrada. A falha de tópico é critério para avaliação, não a definição de recorrência."
+    },
+    {
+     "p": "Sobre a condição de venda dos antifúngicos, segundo a IN 285/2024 com o Anexo I da IN 404/2025, é correto:",
+     "alt": [
+      "Fluconazol 150 mg é isento de prescrição",
+      "Nistatina suspensão oral é isenta de prescrição",
+      "Cetoconazol xampu 20 mg/mL é isento para dermatite seborreica",
+      "Associação de cetoconazol com betametasona em creme é isenta de prescrição",
+      "Itraconazol cápsula é isento para onicomicose"
+     ],
+     "c": 2,
+     "com": "A lista traz cetoconazol xampu até 20 mg/mL com indicação de dermatite seborreica, e o creme até 20 mg/g para micoses de pele. Fluconazol, itraconazol e nistatina suspensão oral não estão na lista e exigem prescrição, assim como associações de antifúngico com corticoide. A lista também não inclui antifúngico na retenção da IN 360/2025."
+    },
+    {
+     "p": "Homem de 50 anos com receita de terbinafina 250 mg para onicomicose do hálux usa metoprolol e nortriptilina. Assinale a correta.",
+     "alt": [
+      "Inibe o CYP2D6 e pode elevar metoprolol e nortriptilina",
+      "A terbinafina é indutora do CYP3A4 e reduz o efeito do metoprolol",
+      "Não há interações, pois a terbinafina não age no P450",
+      "O risco hepático dispensa exame prévio em adulto saudável",
+      "Deve ser tomada sempre em jejum"
+     ],
+     "c": 0,
+     "com": "A FDA classifica a terbinafina como inibidora forte do CYP2D6; a bula cita tricíclicos e betabloqueadores e diz que o efeito persiste semanas após a suspensão. A bula pede transaminases antes do início. Pode ser tomada com ou sem alimento."
+    },
+    {
+     "p": "Sobre o uso de amorolfina esmalte 5% na onicomicose, a orientação correta é:",
+     "alt": [
+      "Aplicar diariamente por 30 dias e suspender",
+      "Usar a mesma lixa nas unhas sadias e doentes",
+      "Aplicar sobre o esmalte cosmético sem removê-lo",
+      "Usar 1 ou 2 vezes por semana por meses, lixando antes a área doente",
+      "Indicado mesmo com matriz ungueal acometida, dispensando antifúngico oral"
+     ],
+     "c": 3,
+     "com": "A bula do Loceryl® (Anvisa, 2025) orienta remover esmalte cosmético e resíduo anterior, lixar a área afetada e aplicar 1 ou 2 vezes por semana, por cerca de 6 meses nas mãos e 9 a 12 meses nos pés. A lixa da unha doente não deve ser usada na sadia. Com matriz acometida, a bula prevê associação ao antifúngico sistêmico a critério médico."
+    },
+    {
+     "p": "Transplantado renal em uso de tacrolimo inicia voriconazol. Pela bula do Vfend®, a conduta sobre o tacrolimo é:",
+     "alt": [
+      "Manter a dose e dosar após um mês",
+      "Dobrar a dose, pois o voriconazol é indutor do CYP3A4",
+      "Reduzir a um terço da dose e dosar com frequência",
+      "Suspender o tacrolimo durante o tratamento",
+      "Trocar o tacrolimo por sirolimo"
+     ],
+     "c": 2,
+     "com": "A bula do Vfend® manda reduzir o tacrolimo para um terço da dose ao iniciar o voriconazol e acompanhar o nível com frequência, porque o voriconazol inibe o CYP3A4. Voriconazol com sirolimo é contraindicado. Suspender o imunossupressor arrisca rejeição."
+    },
+    {
+     "p": "Sobre o cetoconazol, assinale a alternativa correta.",
+     "alt": [
+      "O comprimido é primeira escolha para pitiríase versicolor extensa",
+      "O creme 20 mg/g é isento para micoses de pele",
+      "O xampu exige retenção de receita pela IN 360/2025",
+      "A bula brasileira do comprimido indica tinha do pé",
+      "A FDA liberou o comprimido para onicomicose em 2017"
+     ],
+     "c": 1,
+     "com": "O cetoconazol creme até 20 mg/g está na lista de isentos (IN 285/2024, Anexo I da IN 404/2025). O comprimido teve uso restrito pela FDA e suspensão na União Europeia em 2013 por hepatotoxicidade; a bula padrão brasileira (Anvisa, 2015) o limita a micoses sistêmicas quando outros tratamentos falham. A IN 360/2025 não lista antifúngicos."
+    },
+    {
+     "p": "Paciente vai receber posaconazol para profilaxia antifúngica. Sobre a dispensação, é correto:",
+     "alt": [
+      "Comprimido e suspensão podem ser trocados mantendo a mesma dose em mg",
+      "A suspensão deve ser tomada em jejum",
+      "O posaconazol é inibidor fraco do CYP3A4",
+      "Sem refeição completa, a bula prefere a suspensão",
+      "Comprimido de liberação retardada deve ser tomado com alimento"
+     ],
+     "c": 4,
+     "com": "A bula do Noxafil® orienta o comprimido de liberação retardada com alimento e a suspensão com refeição completa; as apresentações não são substituíveis entre si; quem não consegue fazer refeição completa deve usar o comprimido. A FDA classifica o posaconazol como inibidor forte do CYP3A4."
+    }
+   ]
+  }
+ ],
+ "fontes": [
+  "Anvisa. Instrução Normativa nº 285, de 7 de março de 2024 (Lista de Medicamentos Isentos de Prescrição). Diário Oficial da União nº 49, 12 mar. 2024.",
+  "Anvisa. Instrução Normativa nº 404, de 10 de novembro de 2025 (altera e republica o Anexo I da IN nº 285/2024; inclui omeprazol 20 mg). Diário Oficial da União nº 217, 13 nov. 2025, Seção 1, p. 123.",
+  "Anvisa. Instrução Normativa nº 388, de 29 de julho de 2025 (inclusão de ciclopirox na LMIP), conferida por resumo e pelo Anexo I consolidado da IN nº 404/2025.",
+  "Anvisa. Instrução Normativa nº 360, de 23 de abril de 2025 (lista de antimicrobianos sob prescrição com retenção, RDC nº 471/2021). Versão oficial em inglês em gov.br/anvisa.",
+  "Ministério da Saúde (Brasil). Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis (PCDT IST). Brasília, 2022. Quadros 29 e 33.",
+  "Ministério da Saúde (Brasil). Nota Informativa nº 9/2022-CGDR/DCCI/SVS/MS: uso da flucitosina 500 mg no tratamento da meningite criptocócica e dispensação no SUS. Novembro de 2022.",
+  "Centers for Disease Control and Prevention. Sexually Transmitted Infections Treatment Guidelines, 2021: Vulvovaginal Candidiasis. https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm",
+  "Pappas PG, Kauffman CA, Andes DR, et al. Clinical Practice Guideline for the Management of Candidiasis: 2016 Update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62(4):e1-e50.",
+  "U.S. Food and Drug Administration. Drug Development and Drug Interactions: table of substrates, inhibitors and inducers (conteúdo atualizado em 29/05/2026).",
+  "Medicines and Healthcare products Regulatory Agency (Reino Unido). Drug Safety Update: miconazole (Daktarin) over-the-counter oral gel contraindicated in patients taking warfarin. 26 set. 2017.",
+  "U.S. National Library of Medicine, DailyMed. Bulas de Diflucan® (fluconazol, 04/2026), Sporanox® cápsulas (itraconazol, 07/2026), Vfend® (voriconazol, 03/2026), Noxafil® (posaconazol, 03/2026), Cresemba® (isavuconazol, 05/2025), terbinafina comprimidos 250 mg (04/2026), cetoconazol comprimidos (02/2026), griseofulvina (Sandoz, 11/2025), Ancobon® (flucitosina, 05/2022).",
+  "U.S. National Library of Medicine, DailyMed. Bulas de AmBisome® (anfotericina B lipossomal, 10/2026), anfotericina B desoxicolato para injeção (2025), Cancidas® (caspofungina, 10/2026), micafungina para injeção (05/2026) e Eraxis® (anidulafungina, 08/2025).",
+  "U.S. National Library of Medicine, DailyMed. Bulas de venda livre de Lamisil AT® creme (terbinafina, 11/2025) e Lotrimin AF® spray (miconazol).",
+  "Galderma Brasil. Bula de Loceryl® esmalte (cloridrato de amorolfina 50 mg/mL), aprovada pela Anvisa em 04/12/2025.",
+  "Medley. Bula de cetoconazol 200 mg comprimidos (genérico), atualizada conforme bula padrão aprovada pela Anvisa em 25/08/2015.",
+  "European Medicines Agency. Ketoconazole: Article 31 referral, anexo II (recomendação de suspensão do cetoconazol oral na União Europeia), 2013. Documento localizado em busca; conteúdo conferido por resumo secundário.",
+  "Bulas brasileiras reconferidas em 15/10/2026 (semente do módulo de antimicrobianos): fluconazol 150 mg, Lamisil® (terbinafina) e nistatina suspensão oral 100 mil UI/mL."
+ ]
+}

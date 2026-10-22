@@ -1,0 +1,766 @@
+{
+ "id": "m14",
+ "num": 12,
+ "titulo": "Quimioterapia antineoplásica",
+ "escopo": "Princípios da quimioterapia, citotóxicos por classe, hormonioterapia, terapia-alvo oral e imunoterapia, cuidados de suporte, dispensação de antineoplásicos orais e segurança na manipulação (RDC 220/2004, NR 32). Foco no que o farmacêutico confere, prepara, orienta e reconhece como urgência.",
+ "topicos": [
+  {
+   "id": "m14-principios",
+   "titulo": "Princípios da quimioterapia antineoplásica",
+   "resumo": "<p>Quimioterapia antineoplásica é o uso de fármacos para destruir células tumorais ou impedir que elas se multipliquem. O termo cobre quatro grupos: os <strong>citotóxicos clássicos</strong> (alquilantes, platinas, antimetabólitos, antimitóticos, inibidores de topoisomerase), a hormonioterapia, a terapia-alvo e a imunoterapia. O tratamento pode ter intenção curativa, adjuvante (depois da cirurgia, para eliminar doença microscópica), neoadjuvante (antes da cirurgia, para reduzir o tumor) ou paliativa (controlar sintomas e prolongar a vida).</p>\n<p>O farmacêutico participa em vários pontos: avalia a prescrição, prepara as doses injetáveis na central de quimioterapia, dispensa os antineoplásicos orais, orienta o paciente e o cuidador e reconhece as urgências do tratamento. A conduta terapêutica é do oncologista; a conferência e a segurança do processo são responsabilidade compartilhada da equipe.</p>\n<h3>Ciclo celular e alvo dos citotóxicos</h3>\n<p>A célula que se divide passa pelas fases G1 (crescimento e preparo), S (síntese de DNA), G2 (preparo para a mitose) e M (mitose). Células que não estão se dividindo ficam em G0, fora do ciclo. Muitos citotóxicos atuam em uma fase específica; outros lesam o DNA em qualquer fase.</p>\n<div class=\"tab\"><table><thead><tr><th>Fase</th><th>O que acontece</th><th>Fármacos que atuam ali</th></tr></thead><tbody>\n<tr><td>S</td><td>Duplicação do DNA</td><td>Antimetabólitos (metotrexato, fluoruracila, capecitabina, citarabina, gemcitabina); etoposídeo e irinotecano</td></tr>\n<tr><td>G2</td><td>Preparo da divisão</td><td>Bleomicina, etoposídeo</td></tr>\n<tr><td>M</td><td>Mitose (fuso mitótico)</td><td>Alcaloides da vinca (vincristina, vimblastina, vinorelbina) e taxanos (paclitaxel, docetaxel)</td></tr>\n<tr><td>Qualquer fase, inclusive G0</td><td>Lesão direta do DNA</td><td>Alquilantes (ciclofosfamida, ifosfamida, melfalana), platinas (cisplatina, carboplatina, oxaliplatina)</td></tr>\n</tbody></table></div>\n<p>Os fármacos <strong>ciclo-específicos</strong> dependem de a célula estar naquela fase: o efeito cresce mais com o tempo de exposição do que com a dose, por isso alguns são dados em infusão prolongada ou em dias seguidos. Os <strong>ciclo-inespecíficos</strong> agem em células que estão ou não se dividindo e têm efeito que cresce com a dose. As antraciclinas têm ação em várias fases e costumam ser descritas como pouco dependentes do ciclo.</p>\n<h3>Cinética tumoral e administração em ciclos</h3>\n<p>Um tumor tem uma fração de células em divisão (fração de crescimento). Quanto maior essa fração, maior a sensibilidade aos citotóxicos ciclo-específicos. Pelo modelo clássico de morte logarítmica, cada aplicação elimina uma proporção constante das células, e não um número fixo: se uma dose mata 99% das células, restam 1%, e uma nova aplicação é necessária para reduzir esse resto. Por isso o tratamento é dado em <strong>ciclos</strong> (por exemplo, a cada 21 ou 28 dias), com intervalo que permite a recuperação da medula óssea e das mucosas.</p>\n<p>O ponto mais baixo das contagens sanguíneas depois de uma aplicação é o <strong>nadir</strong>. Para a maioria dos citotóxicos ele ocorre em geral entre 7 e 14 dias após a aplicação, com variação entre fármacos e esquemas. Febre nesse período é a situação de maior risco do tratamento.</p>\n<h3>Índice terapêutico estreito</h3>\n<p>Os citotóxicos não distinguem bem a célula tumoral da célula normal que se divide rápido. Medula óssea, mucosa do tubo digestivo, folículo piloso e gônadas sofrem primeiro: daí neutropenia, anemia, plaquetopenia, mucosite, diarreia, alopecia e infertilidade. A distância entre a dose eficaz e a dose tóxica é pequena, e um erro de cálculo de 10% a 20% já pode causar toxicidade grave. Alguns fármacos têm ainda <strong>toxicidade cumulativa</strong>: o dano cresce com a soma de todas as doses recebidas ao longo da vida (doxorrubicina no coração, bleomicina no pulmão, cisplatina no rim e na audição).</p>\n<h3>Poliquimioterapia</h3>\n<p>A maior parte dos protocolos associa fármacos. Os princípios da associação são: usar fármacos ativos isoladamente contra aquele tumor, com mecanismos diferentes e com toxicidades que não se somam no mesmo órgão, para aumentar a morte celular e reduzir a chance de resistência. Os esquemas recebem siglas, como AC (doxorrubicina e ciclofosfamida), FOLFOX (fluoruracila, leucovorina e oxaliplatina) e R-CHOP (rituximabe, ciclofosfamida, doxorrubicina, vincristina e prednisona). A sigla não substitui a prescrição: a dose de cada componente, a via, o dia do ciclo e a velocidade de infusão precisam estar escritos.</p>\n<h3>Dose por superfície corporal</h3>\n<p>A maioria dos citotóxicos é prescrita em <strong>mg/m<sup>2</sup></strong> de superfície corporal (SC). A fórmula de Mosteller é a mais usada: SC (m<sup>2</sup>) = raiz quadrada de [altura (cm) x peso (kg) / 3.600]. Exemplo: 170 cm e 70 kg dão SC de 1,82 m<sup>2</sup>; um protocolo de 175 mg/m<sup>2</sup> resulta em cerca de 318 mg. Outros fármacos usam mg/kg, dose fixa ou área sob a curva.</p>\n<p>A carboplatina é calculada pela fórmula de Calvert: dose total (mg) = AUC alvo x (TFG + 25), com resultado em mg e não em mg/m<sup>2</sup> (bula FDA da carboplatina, 2026). A TFG usada vem do método definido no protocolo do serviço; neste material, a estimativa padrão da função renal é a CKD-EPI 2021, e bulas antigas citam a depuração de creatinina por Cockcroft-Gault. Em pacientes obesos, a ASCO recomenda dose plena pelo peso real, sem limitar a SC por rotina (ASCO, atualização de 2021).</p>\n<div class=\"cx chave\"><b>Ponto-chave</b><p>Toda dose de citotóxico tem três números que precisam fechar: a dose do protocolo (mg/m<sup>2</sup>, mg/kg ou AUC), a medida do paciente (SC, peso ou TFG) e a dose total em mg. Se um deles não confere, a dose não é preparada nem dispensada.</p></div>\n<h3>Conferência da prescrição</h3>\n<p>A RDC 220/2004 da Anvisa manda que o responsável pela preparação avalie a prescrição antes de manipular. A conferência farmacêutica segue uma sequência fixa:</p>\n<ul>\n<li>Identificação do paciente, diagnóstico e protocolo; ciclo e dia do ciclo; data da última aplicação.</li>\n<li>Peso e altura atuais; recálculo da SC e de cada dose; variação de peso acima do limite definido pelo serviço exige nova prescrição.</li>\n<li>Exames do dia: hemograma com neutrófilos e plaquetas, função renal (TFG) e hepática, conforme o protocolo.</li>\n<li>Dose cumulativa dos fármacos com limite (antraciclinas, bleomicina).</li>\n<li>Via, diluente, volume, tempo de infusão, estabilidade e compatibilidade.</li>\n<li>Pré-medicação, antieméticos e hidratação previstos no protocolo.</li>\n<li>Dupla checagem independente por outro profissional antes da liberação.</li>\n</ul>\n<div class=\"cx lei\"><b>O que diz a norma</b><p>\"O responsável pela preparação deve avaliar a prescrição médica observando: adequação da mesma aos protocolos estabelecidos pela EMTA; legibilidade [...]; viabilidade, estabilidade e compatibilidade físico-química dos componentes\" (RDC 220/2004, Anexo III, item 5.2). Até outubro de 2026 não foi localizada norma da Anvisa que revogue a RDC 220/2004.</p></div>\n<div class=\"cx alerta\"><b>Atenção</b><p>Os erros mais graves de quimioterapia são de unidade e de período: confundir mg com mg/m<sup>2</sup>, dose diária com dose total do ciclo, dose de um dia com a soma de cinco dias. Prescrição com abreviatura ambígua, sem SC ou sem dia do ciclo volta ao prescritor.</p></div>\n<div class=\"cx balcao\"><b>No balcão</b><p>Paciente apresenta receita de capecitabina com a dose escrita em mg/m<sup>2</sup>, sem a dose em mg nem o número de comprimidos por tomada. O farmacêutico não calcula sozinho a dose para entregar: contata o serviço de oncologia, confirma a dose total em mg, o número de comprimidos de cada tomada, os dias de uso e os dias de pausa, e registra a intervenção.</p></div>"
+  },
+  {
+   "id": "m14-citotoxicos",
+   "titulo": "Agentes citotóxicos por classe",
+   "resumo": "<p>Os citotóxicos são agrupados pelo mecanismo. Cada classe tem uma toxicidade que a caracteriza e que orienta a conferência da prescrição, a pré-medicação e a orientação ao paciente. A tabela resume as classes; o texto detalha os pontos que mais aparecem na prática.</p>\n<div class=\"tab\"><table><thead><tr><th>Classe</th><th>Mecanismo</th><th>Exemplos</th><th>Toxicidade marcante</th></tr></thead><tbody>\n<tr><td>Alquilantes</td><td>Ligam grupos alquil ao DNA e formam pontes entre as fitas</td><td>Ciclofosfamida, ifosfamida, melfalana, clorambucila, bussulfano, dacarbazina, temozolomida</td><td>Mielossupressão; cistite hemorrágica (ciclofosfamida, ifosfamida); leucemia secundária</td></tr>\n<tr><td>Platinas</td><td>Formam ligações cruzadas no DNA</td><td>Cisplatina, carboplatina, oxaliplatina</td><td>Rim, audição e nervos (cisplatina); plaquetas (carboplatina); neuropatia pelo frio (oxaliplatina)</td></tr>\n<tr><td>Antimetabólitos</td><td>Imitam folato, purinas ou pirimidinas e bloqueiam a síntese de DNA</td><td>Metotrexato, fluoruracila, capecitabina, gemcitabina, citarabina, mercaptopurina, pemetrexede</td><td>Mucosite, diarreia, mielossupressão; síndrome mão-pé (fluoropirimidinas)</td></tr>\n<tr><td>Antimitóticos</td><td>Alteram os microtúbulos do fuso mitótico</td><td>Vincristina, vimblastina, vinorelbina, paclitaxel, docetaxel</td><td>Neuropatia periférica; hipersensibilidade (taxanos)</td></tr>\n<tr><td>Inibidores de topoisomerase</td><td>Impedem o reparo das quebras do DNA</td><td>Irinotecano, topotecano (tipo I); etoposídeo e antraciclinas (tipo II)</td><td>Diarreia (irinotecano); cardiotoxicidade cumulativa (antraciclinas)</td></tr>\n<tr><td>Antibióticos antitumorais</td><td>Quebram ou intercalam o DNA</td><td>Bleomicina, mitomicina, dactinomicina</td><td>Fibrose pulmonar (bleomicina)</td></tr>\n</tbody></table></div>\n<h3>Alquilantes</h3>\n<p>A ciclofosfamida e a ifosfamida são pró-fármacos ativados no fígado. Um dos metabólitos, a acroleína, irrita a bexiga e causa <strong>cistite hemorrágica</strong>. A prevenção inclui hidratação abundante e esvaziamento frequente da bexiga; com a ifosfamida, e com ciclofosfamida em dose alta, usa-se também a mesna, que neutraliza a acroleína na urina. A ifosfamida pode ainda causar encefalopatia (confusão, sonolência) e lesão renal (bulas FDA da ciclofosfamida e da ifosfamida, 2026). A temozolomida, oral, é usada em tumores cerebrais e tem alto potencial emetogênico entre os orais. Os alquilantes em geral reduzem a fertilidade e aumentam, anos depois, o risco de leucemia secundária.</p>\n<h3>Platinas</h3>\n<p>A <strong>cisplatina</strong> é nefrotóxica de forma dose-dependente e cumulativa: exige hidratação antes e depois da aplicação, com diurese mantida por 24 horas, e controle de creatinina e eletrólitos, sobretudo magnésio e potássio. Causa ototoxicidade (zumbido, perda auditiva), neuropatia e é de alto risco emetogênico. Não deve entrar em contato com agulhas ou equipos com peças de alumínio, que a inativam (bula FDA da cisplatina, 2026). A <strong>carboplatina</strong> tem menos efeito renal e emetogênico, mas mais mielossupressão, sobretudo plaquetopenia; a dose é calculada pela fórmula de Calvert. A <strong>oxaliplatina</strong> causa neuropatia aguda desencadeada pelo frio (formigamento nas mãos e na boca ao tocar ou beber algo gelado) e neuropatia crônica cumulativa.</p>\n<div class=\"cx alerta\"><b>Atenção</b><p>Cisplatina e carboplatina têm nomes parecidos e doses muito diferentes: trocar uma pela outra é erro clássico e potencialmente fatal. A conferência compara o nome do fármaco com o protocolo e a forma de cálculo (mg/m<sup>2</sup> para cisplatina, AUC para carboplatina).</p></div>\n<h3>Antimetabólitos</h3>\n<p>O <strong>metotrexato</strong> inibe a di-hidrofolato redutase. Em dose alta (500 mg/m<sup>2</sup> ou mais), exige resgate com leucovorina (ácido folínico), hidratação, alcalinização da urina e dosagem sérica do fármaco; entre 100 e menos de 500 mg/m<sup>2</sup>, o resgate é considerado (bula FDA do metotrexato, 2026). Anti-inflamatórios, inibidores da bomba de prótons, penicilinas, sulfonamidas e probenecida reduzem a eliminação e aumentam a toxicidade. No tratamento de neoplasias, produtos com ácido fólico podem reduzir a eficácia e só entram quando o médico indica.</p>\n<p>A <strong>fluoruracila</strong> inibe a timidilato sintase; a leucovorina potencializa o efeito. A <strong>capecitabina</strong> é um pró-fármaco oral da fluoruracila. As duas são degradadas pela enzima di-hidropirimidina desidrogenase (DPD), codificada pelo gene DPYD: pacientes com deficiência de DPD têm toxicidade grave e às vezes fatal (mucosite, diarreia, neutropenia). A bula americana da capecitabina recomenda testar variantes do DPYD antes de iniciar, salvo urgência, e traz alerta em destaque de sangramento grave com varfarina e outros antagonistas da vitamina K (bula FDA da capecitabina, 2026). Síndrome mão-pé (vermelhidão, dor e descamação de palmas e plantas) e diarreia são os efeitos que mais limitam a dose.</p>\n<p>A mercaptopurina é usada na manutenção da leucemia linfoblástica aguda, muitas vezes junto com metotrexato oral semanal; o alopurinol aumenta muito a sua toxicidade e exige redução de dose definida pelo médico. O pemetrexede exige suplementação de ácido fólico e vitamina B12 prescrita pela equipe para reduzir a toxicidade.</p>\n<h3>Antimitóticos</h3>\n<p>A <strong>vincristina</strong> causa neuropatia periférica e autonômica (constipação, íleo paralítico) e é vesicante. Por via intratecal, é quase sempre fatal: a bula determina que seja diluída em bolsa flexível e rotulada com o alerta \"para uso intravenoso, fatal por outras vias\" (bula FDA da vincristina, 2026). A dose de adulto em bula é 1,4 mg/m<sup>2</sup>, e a dose máxima por aplicação segue o protocolo.</p>\n<p>O <strong>paclitaxel</strong> é veiculado em óleo de rícino polioxietilado, que causa reações de hipersensibilidade; todos os pacientes recebem pré-medicação com corticosteroide, anti-histamínico H1 e anti-H2, e o fármaco não deve ser dado em tumor sólido com neutrófilos abaixo de 1.500/mm<sup>3</sup> (bula FDA do paclitaxel, 2026). O docetaxel causa retenção hídrica e neutropenia, com pré-medicação por corticosteroide definida no protocolo. Os dois causam neuropatia e alopecia.</p>\n<h3>Inibidores de topoisomerase e antraciclinas</h3>\n<p>O <strong>irinotecano</strong> causa dois tipos de diarreia: a precoce, nas primeiras horas, com sintomas colinérgicos (suor, cólica, salivação), tratada com atropina; e a tardia, que pode ser grave e é tratada logo com loperamida, além de hidratação. Pacientes com atividade reduzida da enzima UGT1A1 têm mais neutropenia (bula FDA do irinotecano, 2026).</p>\n<p>As antraciclinas (doxorrubicina, epirrubicina, daunorrubicina, idarrubicina) causam <strong>cardiomiopatia</strong> proporcional à dose cumulativa. Para a doxorrubicina a cada 3 semanas, a bula estima risco de 1% a 2% com 300 mg/m<sup>2</sup> acumulados, 3% a 5% com 400 mg/m<sup>2</sup>, 5% a 8% com 450 mg/m<sup>2</sup> e 6% a 20% com 500 mg/m<sup>2</sup>; doses prévias de outras antraciclinas entram na soma (bula FDA da doxorrubicina, Pfizer, 2026). A função cardíaca é avaliada antes e durante o tratamento. O dexrazoxano é um cardioprotetor indicado, pela bula americana, para quem já recebeu 300 mg/m<sup>2</sup> de doxorrubicina e vai continuar. As antraciclinas são vesicantes e deixam a urina avermelhada por um ou dois dias. A doxorrubicina lipossomal tem farmacocinética própria e não substitui a convencional.</p>\n<h3>Bleomicina</h3>\n<p>A bleomicina quase não causa mielossupressão, mas pode causar pneumonite e <strong>fibrose pulmonar</strong>, mais frequentes em idosos e acima de 400 unidades de dose total; cerca de 1% dos pacientes com linfoma tem reação idiossincrática grave (hipotensão, febre, confusão, sibilância) (bula FDA da bleomicina, 2026). A dose é em unidades, escrita por extenso.</p>\n<div class=\"cx balcao\"><b>No balcão</b><p>O paciente em quimioterapia ambulatorial costuma voltar à drogaria por sintomas. Constipação em quem usa vincristina, diarreia em quem usa irinotecano ou capecitabina e formigamento ao frio em quem usa oxaliplatina são esperados, mas o manejo segue o plano da equipe: antes de indicar laxante, antidiarreico ou analgésico, pergunte qual é o protocolo e se a equipe deixou orientação escrita. Evite anti-inflamatório em quem usa metotrexato ou cisplatina e oriente que urina avermelhada nos dias seguintes à doxorrubicina é esperada.</p></div>\n<div class=\"cx exemplo\"><b>Caso</b><p>Homem de 62 anos em uso de varfarina inicia capecitabina. O farmacêutico da farmácia ambulatorial identifica a interação com alerta em bula, avisa o oncologista e o serviço de anticoagulação para controle de INR mais frequente e orienta o paciente sobre sinais de sangramento.</p></div>"
+  },
+  {
+   "id": "m14-hormonio-alvo",
+   "titulo": "Hormonioterapia e terapia-alvo oral",
+   "resumo": "<p>Parte dos tumores depende de hormônios para crescer, como o câncer de mama com receptor hormonal positivo e o câncer de próstata. A <strong>hormonioterapia</strong> bloqueia o receptor ou reduz a produção do hormônio. A <strong>terapia-alvo</strong> atua em uma proteína alterada da célula tumoral, como uma tirosina-quinase. Os dois grupos são, em grande parte, orais, usados por meses ou anos, e chegam ao farmacêutico na farmácia ambulatorial, na farmácia de componente especializado e na drogaria.</p>\n<h3>Tamoxifeno e inibidores da aromatase</h3>\n<p>O <strong>tamoxifeno</strong> é um modulador seletivo do receptor de estrogênio: bloqueia o receptor na mama e tem efeito estrogênico no endométrio e na coagulação. A dose usual é 20 mg por dia. Aumenta o risco de câncer de endométrio, de acidente vascular cerebral e de tromboembolismo; sangramento vaginal anormal deve ser investigado. Com anticoagulantes cumarínicos, o efeito anticoagulante pode aumentar muito, e a bula contraindica a associação no uso preventivo (bula FDA do tamoxifeno, 2026). O tamoxifeno é substrato de CYP3A, CYP2C9 e CYP2D6; a rifampicina reduz a sua exposição em 86%. O metabólito mais ativo (endoxifeno) depende do CYP2D6, e inibidores potentes dessa enzima, como paroxetina, fluoxetina e bupropiona, podem reduzir a sua formação; na escolha de antidepressivo para fogachos, a equipe costuma preferir alternativas com pouca inibição do CYP2D6.</p>\n<p>A hormonioterapia adjuvante do câncer de mama dura anos (em geral 5, às vezes até 10), e a adesão cai com o tempo, sobretudo por fogachos e dores articulares. Perguntar ativamente sobre esses efeitos a cada dispensação ajuda a manter o tratamento.</p>\n<p>Os <strong>inibidores da aromatase</strong> (anastrozol 1 mg, letrozol 2,5 mg e exemestano 25 mg, uma vez ao dia) bloqueiam a conversão periférica de andrógenos em estrogênio e servem para mulheres na pós-menopausa. Causam artralgia, fogachos, perda de massa óssea e aumento do colesterol; a bula sugere acompanhar a densidade mineral óssea e o colesterol (bula FDA do anastrozol, 2026). Em mulher na pré-menopausa, só funcionam com supressão ovariana.</p>\n<h3>Câncer de próstata</h3>\n<ul>\n<li>Análogos do GnRH (gosserrelina, leuprorrelina, triptorrelina): injetáveis de depósito que suprimem a testosterona; no início podem causar piora transitória (flare), e o médico pode associar antiandrogênico nas primeiras semanas.</li>\n<li>Antiandrogênicos: bicalutamida, flutamida, enzalutamida, apalutamida, darolutamida. A enzalutamida reduz o limiar convulsivo e é indutora potente de CYP3A4, com muitas interações.</li>\n<li><strong>Abiraterona</strong>: inibe a CYP17 e a síntese de andrógenos. Dose de 1 g uma vez ao dia, com prednisona, <strong>em jejum</strong>: nada de comida 2 horas antes e 1 hora depois, comprimido inteiro com água. Pode causar hepatotoxicidade e excesso mineralocorticoide (hipertensão, hipocalemia, edema), por isso o corticosteroide é obrigatório (bula FDA da abiraterona, 2026). Comida aumenta muito a absorção e a toxicidade.</li>\n</ul>\n<h3>Inibidores de tirosina-quinase</h3>\n<p>Os inibidores de tirosina-quinase (ITQ) têm sufixo <em>-tinibe</em>. O <strong>imatinibe</strong> inibe a proteína BCR-ABL da leucemia mieloide crônica e o receptor KIT dos tumores estromais gastrointestinais (GIST). A dose usual é 400 mg por dia, tomada <strong>com refeição e um copo grande de água</strong> para reduzir a irritação gástrica; quem não consegue engolir pode dissolver o comprimido em água ou suco de maçã. Causa edema e retenção hídrica (o paciente deve se pesar com regularidade), cãibras, náusea e citopenias. Indutores fortes de CYP3A4 (dexametasona, fenitoína, carbamazepina, rifampicina, fenobarbital) devem ser evitados porque reduzem a exposição; inibidores fortes e suco de toranja (grapefruit) aumentam. O imatinibe, por sua vez, eleva a concentração de substratos de CYP3A4, como triazolobenzodiazepínicos, di-hidropiridinas e algumas estatinas (bula FDA do imatinibe, 2026).</p>\n<div class=\"tab\"><table><thead><tr><th>Fármaco oral</th><th>Como tomar</th><th>Interação ou cuidado principal</th></tr></thead><tbody>\n<tr><td>Imatinibe</td><td>Com refeição e copo grande de água</td><td>Evitar indutores fortes de CYP3A4 e toranja; edema</td></tr>\n<tr><td>Abiraterona</td><td>Em jejum (2 h antes, 1 h depois)</td><td>Sempre com prednisona; fígado, potássio, pressão</td></tr>\n<tr><td>Capecitabina</td><td>Até 30 min após refeição, 2 vezes ao dia</td><td>Varfarina; teste de DPYD; mão-pé</td></tr>\n<tr><td>Tamoxifeno</td><td>Uma vez ao dia, com ou sem alimento</td><td>Cumarínicos; inibidores potentes de CYP2D6; trombose</td></tr>\n<tr><td>Enzalutamida</td><td>Uma vez ao dia</td><td>Indutor forte de CYP3A4; convulsão</td></tr>\n<tr><td>Inibidores da aromatase</td><td>Uma vez ao dia</td><td>Osso, artralgia; só pós-menopausa</td></tr>\n</tbody></table></div>\n<p>Outros ITQ comuns: dasatinibe e nilotinibe (leucemia mieloide crônica; o nilotinibe é tomado em jejum e prolonga o intervalo QT), erlotinibe, gefitinibe e osimertinibe (câncer de pulmão com mutação de EGFR; causam erupção acneiforme e diarreia), sunitinibe e pazopanibe (rim; hipertensão e alteração hepática). Vários ITQ, como dasatinibe, erlotinibe e gefitinibe, dependem do pH gástrico para absorção, e inibidores da bomba de prótons ou antiácidos reduzem o efeito; a bula de cada produto define se a associação deve ser evitada ou separada por horário. Inibidores de CDK4/6 (palbociclibe, ribociclibe, abemaciclibe) somam-se à hormonioterapia no câncer de mama e causam neutropenia; o ribociclibe prolonga o QT e o abemaciclibe causa diarreia frequente.</p>\n<div class=\"cx chave\"><b>Ponto-chave</b><p>Para os antineoplásicos orais, o alimento e o CYP3A4 mudam a exposição de forma relevante. A conferência inclui a regra de tomada em relação à refeição e a lista completa do paciente: medicamentos de prescrição, MIP, fitoterápicos (erva-de-são-joão é indutora de CYP3A4) e sucos.</p></div>\n<div class=\"cx balcao\"><b>No balcão</b><p>Paciente em uso de imatinibe pede um remédio para azia e conta que o neurologista iniciou carbamazepina. Para a azia, oriente e verifique na bula do ITQ se há restrição a antiácido; para a carbamazepina, contate o oncologista, porque o indutor reduz a exposição ao imatinibe e pode comprometer o controle da leucemia. Registre a intervenção. Em qualquer antineoplásico oral, desaconselhe chás e suplementos sem conversar com a equipe.</p></div>\n<div class=\"cx exemplo\"><b>Caso</b><p>Mulher de 48 anos em tamoxifeno chega com receita de paroxetina para fogachos. O farmacêutico explica ao prescritor que a paroxetina inibe fortemente o CYP2D6 e pode reduzir a formação do metabólito ativo do tamoxifeno; o médico troca por outra opção. A paciente é orientada a procurar o ginecologista se tiver sangramento vaginal.</p></div>"
+  },
+  {
+   "id": "m14-imunoterapia",
+   "titulo": "Imunoterapia oncológica e anticorpos monoclonais",
+   "resumo": "<p>Anticorpos monoclonais são proteínas produzidas por biotecnologia que se ligam a um alvo específico. Em oncologia, eles bloqueiam um receptor da célula tumoral, marcam a célula para destruição pelo sistema imune, levam um citotóxico até ela (conjugados anticorpo-fármaco) ou liberam a resposta imune contra o tumor (inibidores de checkpoint). O sufixo indica a origem: <em>-ximabe</em> (quimérico), <em>-zumabe</em> (humanizado) e <em>-umabe</em> (humano).</p>\n<h3>Anticorpos dirigidos ao tumor</h3>\n<div class=\"tab\"><table><thead><tr><th>Alvo</th><th>Exemplos</th><th>Uso principal</th><th>Cuidado marcante</th></tr></thead><tbody>\n<tr><td>HER2</td><td>Trastuzumabe, pertuzumabe</td><td>Câncer de mama e gástrico HER2+</td><td>Queda da fração de ejeção; avaliar o coração</td></tr>\n<tr><td>CD20</td><td>Rituximabe, obinutuzumabe</td><td>Linfomas B, leucemia linfocítica crônica</td><td>Reação infusional; reativação de hepatite B</td></tr>\n<tr><td>VEGF</td><td>Bevacizumabe</td><td>Cólon, pulmão, ovário</td><td>Hipertensão, proteinúria, sangramento, perfuração, cicatrização lenta</td></tr>\n<tr><td>EGFR</td><td>Cetuximabe, panitumumabe</td><td>Cólon sem mutação de RAS, cabeça e pescoço</td><td>Erupção acneiforme, hipomagnesemia</td></tr>\n</tbody></table></div>\n<p>Esses efeitos orientam perguntas simples na dispensação de outros medicamentos. Paciente em trastuzumabe com falta de ar ao esforço, inchaço nas pernas ou ganho rápido de peso pode ter queda da função cardíaca. Paciente em bevacizumabe precisa de pressão arterial controlada e tem cirurgias e extrações dentárias programadas com a equipe, porque o fármaco atrasa a cicatrização e a bula define o intervalo de suspensão antes e depois do procedimento. Paciente em cetuximabe com erupção no rosto e no tronco recebe orientação de hidratante e fotoproteção, e a equipe decide o tratamento.</p>\n<p>Os conjugados anticorpo-fármaco, como trastuzumabe entansina e trastuzumabe deruxtecana, unem o anticorpo a um citotóxico. Têm nome parecido com o do trastuzumabe isolado, dose diferente e toxicidade própria (o deruxtecano pode causar doença pulmonar intersticial). Trocar um pelo outro é erro grave. O mesmo cuidado vale para apresentações intravenosas e subcutâneas do mesmo anticorpo, que não são intercambiáveis na dose.</p>\n<h3>Reações à infusão e triagem antes do anticorpo</h3>\n<p>Anticorpos podem causar reação à infusão, mais comum na primeira aplicação: febre, calafrios, rubor, coceira, falta de ar, broncoespasmo e queda de pressão. Com o rituximabe, por exemplo, a primeira infusão começa em velocidade baixa e sobe por etapas, com pré-medicação por analgésico, anti-histamínico e, conforme o protocolo, corticosteroide. A enfermagem interrompe a infusão ao primeiro sinal e a equipe decide o reinício. Antes de anti-CD20, o protocolo inclui sorologia para hepatite B, porque a imunossupressão pode reativar o vírus.</p>\n<p>Trastuzumabe, rituximabe e bevacizumabe têm biossimilares registrados no Brasil. A escolha do produto é da instituição e da equipe, e a rastreabilidade exige registrar o nome comercial e o lote de cada aplicação, inclusive para notificação de evento adverso.</p>\n<h3>Inibidores de checkpoint imunológico</h3>\n<p>Os linfócitos T têm \"freios\" (checkpoints) que evitam ataque a tecidos próprios. Tumores usam esses freios para escapar. Os inibidores de checkpoint bloqueiam o freio e liberam o linfócito:</p>\n<ul>\n<li>Anti-PD-1: pembrolizumabe, nivolumabe.</li>\n<li>Anti-PD-L1: atezolizumabe, durvalumabe, avelumabe.</li>\n<li>Anti-CTLA-4: ipilimumabe (com mais toxicidade, sobretudo quando associado a anti-PD-1).</li>\n</ul>\n<p>São usados em melanoma, pulmão, rim, bexiga, cabeça e pescoço, alguns tumores digestivos e linfoma de Hodgkin, sozinhos ou com quimioterapia. Isoladamente, têm risco emetogênico mínimo e não exigem antiemético profilático de rotina (ASCO, antiemese, 2020).</p>\n<h3>Eventos adversos imunomediados</h3>\n<p>Ao liberar o sistema imune, esses fármacos podem causar inflamação em qualquer órgão. Os eventos surgem em geral nas primeiras semanas ou meses, mas podem aparecer depois do fim do tratamento. São reconhecidos pelos sintomas e tratados pela equipe, conforme a gravidade, com suspensão do fármaco e corticosteroide; em casos graves, outros imunossupressores (ASCO, eventos imunomediados, 2021). A bula do pembrolizumabe indica suspensão definitiva em evento grau 4 e quando não se consegue reduzir a prednisona a 10 mg por dia ou menos em 12 semanas (bula FDA, 2026).</p>\n<div class=\"tab\"><table><thead><tr><th>Órgão</th><th>Evento</th><th>Sinal que o paciente percebe</th></tr></thead><tbody>\n<tr><td>Pele</td><td>Dermatite, prurido; raramente reação grave</td><td>Coceira, manchas, bolhas, lesão em mucosa</td></tr>\n<tr><td>Intestino</td><td>Colite</td><td>Diarreia, sangue nas fezes, dor abdominal</td></tr>\n<tr><td>Fígado</td><td>Hepatite</td><td>Urina escura, olhos amarelados, náusea</td></tr>\n<tr><td>Pulmão</td><td>Pneumonite</td><td>Tosse nova, falta de ar</td></tr>\n<tr><td>Glândulas</td><td>Tireoidite, hipofisite, insuficiência adrenal, diabetes tipo 1</td><td>Cansaço, cefaleia, tontura, sede e urina em excesso</td></tr>\n<tr><td>Rim, coração, nervos</td><td>Nefrite, miocardite (rara, grave), neuropatias</td><td>Inchaço, dor no peito, palpitação, fraqueza</td></tr>\n</tbody></table></div>\n<p>O hipotireoidismo é dos eventos mais frequentes e costuma exigir levotiroxina por tempo prolongado. A insuficiência adrenal e o diabetes tipo 1 podem se apresentar de forma súbita e exigir atendimento de urgência.</p>\n<div class=\"cx alerta\"><b>Atenção</b><p>Diarreia em paciente que usa inibidor de checkpoint pode ser colite imunomediada. Loperamida por conta própria pode atrasar o diagnóstico. A orientação é contatar a equipe oncológica no mesmo dia; diarreia volumosa, com sangue ou com dor abdominal vai para atendimento de urgência.</p></div>\n<h3>Papel do farmacêutico</h3>\n<ul>\n<li>Na conferência: fármaco, dose (fixa ou por peso), intervalo, número da aplicação, exames do protocolo (função tireoidiana, glicemia, enzimas hepáticas, creatinina) e pré-medicação quando prevista (rituximabe, por exemplo).</li>\n<li>Na preparação: os anticorpos são proteínas; não se agitam, seguem diluente, filtro e estabilidade da bula.</li>\n<li>Na orientação: entregar ou reforçar o cartão de alerta do paciente, explicar que qualquer sintoma novo deve ser comunicado, mesmo meses depois, e conferir a adesão ao corticosteroide quando prescrito, inclusive o desmame.</li>\n<li>Na dispensação de outros medicamentos: lembrar que corticosteroide em dose alta por semanas aumenta o risco de infecções e de hiperglicemia, e que a equipe pode indicar profilaxias.</li>\n</ul>\n<div class=\"cx exemplo\"><b>Caso</b><p>Mulher de 59 anos em pembrolizumabe há quatro meses chega à farmácia queixando-se de cansaço, frio e ganho de peso e pede um suplemento \"para energia\". O farmacêutico lembra que hipotireoidismo é evento imunomediado frequente, não indica o suplemento e orienta contato com a equipe oncológica para dosar a função tireoidiana.</p></div>\n<div class=\"cx balcao\"><b>No balcão</b><p>Homem de 66 anos em nivolumabe pede antidiarreico: está com seis evacuações líquidas por dia há dois dias. O farmacêutico não indica loperamida, explica que pode ser efeito imunológico do tratamento e orienta contato imediato com a equipe oncológica ou ida ao pronto atendimento, levando a lista dos medicamentos e a informação do tratamento.</p></div>"
+  },
+  {
+   "id": "m14-suporte",
+   "titulo": "Toxicidades e cuidados de suporte",
+   "resumo": "<p>Os cuidados de suporte previnem e tratam os efeitos do tratamento: náusea e vômito, mucosite, diarreia, neutropenia febril, extravasamento e alterações metabólicas. Boa parte desses cuidados passa pelo farmacêutico, que confere se o antiemético corresponde ao risco do protocolo, orienta o uso em casa e reconhece quando o paciente precisa de urgência.</p>\n<h3>Náusea e vômito induzidos por quimioterapia</h3>\n<p>A náusea e o vômito são classificados pelo momento: <strong>agudos</strong> (0 a 24 horas após a aplicação), <strong>tardios</strong> (24 a 120 horas), antecipatórios (antes da aplicação, por condicionamento) e irruptivos (apesar da profilaxia). A prevenção depende do risco emetogênico do fármaco mais emetogênico do esquema (MASCC/ESMO, 2023).</p>\n<div class=\"tab\"><table><thead><tr><th>Risco (venosos)</th><th>Vômito sem profilaxia</th><th>Exemplos</th><th>Profilaxia usual</th></tr></thead><tbody>\n<tr><td>Alto</td><td>Mais de 90%</td><td>Cisplatina, ciclofosfamida a partir de 1,5 g/m<sup>2</sup>, AC (antraciclina + ciclofosfamida)</td><td>Antagonista NK1 + antagonista 5-HT3 + dexametasona + olanzapina</td></tr>\n<tr><td>Moderado</td><td>30% a 90%</td><td>Carboplatina (topo da faixa), oxaliplatina, irinotecano, doxorrubicina, ifosfamida</td><td>Antagonista 5-HT3 + dexametasona; NK1 associado com carboplatina AUC 4 ou mais</td></tr>\n<tr><td>Baixo</td><td>10% a 30%</td><td>Paclitaxel, docetaxel, fluoruracila, gemcitabina, etoposídeo, pemetrexede</td><td>Um fármaco em dose única (dexametasona ou antagonista 5-HT3)</td></tr>\n<tr><td>Mínimo</td><td>Menos de 10%</td><td>Vincristina, vinorelbina, bleomicina, rituximabe, trastuzumabe, pembrolizumabe, nivolumabe</td><td>Sem profilaxia de rotina</td></tr>\n</tbody></table></div>\n<p>No alto risco, a profilaxia de quatro fármacos é dada antes da aplicação. Nos esquemas sem antraciclina (cisplatina, por exemplo), dexametasona e olanzapina continuam nos dias 2 a 4; no esquema AC, a dexametasona fica só no dia 1 e a olanzapina segue nos dias 2 a 4. A dose mais estudada de olanzapina é 10 mg ao dia; se a sedação preocupa, 5 mg e tomada ao deitar são opções. O aprepitante oral é usado em 125 mg no dia 1 e 80 mg nos dias 2 e 3 (MASCC/ESMO, 2023). A recomendação de acrescentar antagonista NK1 na carboplatina com AUC de 4 ou mais vem da ASCO (2017, mantida na atualização de 2020). Entre os orais, ciclofosfamida, imatinibe, temozolomida e vinorelbina estão no grupo moderado a alto; capecitabina e metotrexato, no grupo mínimo a baixo.</p>\n<div class=\"tab\"><table><thead><tr><th>Antiemético</th><th>Mecanismo</th><th>Cuidados</th></tr></thead><tbody>\n<tr><td>Ondansetrona, granisetrona, palonosetrona</td><td>Antagonistas 5-HT3</td><td>Constipação, cefaleia; ondansetrona prolonga QT</td></tr>\n<tr><td>Aprepitante, fosaprepitante, netupitanto</td><td>Antagonistas NK1</td><td>Aprepitante inibe CYP3A4 (reduzir dexametasona em 50% na associação); reduz eficácia de contraceptivo hormonal até 28 dias após; INR com varfarina</td></tr>\n<tr><td>Dexametasona</td><td>Corticosteroide</td><td>Insônia, hiperglicemia, dispepsia</td></tr>\n<tr><td>Olanzapina</td><td>Antipsicótico (bloqueio de vários receptores)</td><td>Sedação; cuidado em idosos e com outros depressores</td></tr>\n<tr><td>Metoclopramida</td><td>Antagonista D2</td><td>Sintomas extrapiramidais; resgate</td></tr>\n</tbody></table></div>\n<p>Os dados do aprepitante são da bula FDA (2026), que manda usar método contraceptivo alternativo ou de reforço durante o uso e por 28 dias depois.</p>\n<h3>Mucosite e diarreia</h3>\n<p>Mucosite é a inflamação da mucosa da boca e do tubo digestivo, comum com fluoruracila, metotrexato, antraciclinas e radioterapia de cabeça e pescoço. A higiene oral é a base: escova macia, bochechos com soro fisiológico ou solução de bicarbonato conforme o serviço, evitar enxaguatório com álcool, alimentos ácidos, muito quentes ou duros, álcool e fumo. Dor que impede comer ou beber, placas brancas e febre exigem a equipe. A diarreia exige hidratação e o esquema escrito pela equipe (irinotecano, fluoropirimidinas, ITQ); diarreia com febre, sangue, tontura ou mais de seis evacuações por dia é sinal de alarme.</p>\n<h3>Neutropenia febril</h3>\n<p>Neutropenia febril é febre em paciente com neutrófilos muito baixos. A definição usada nas diretrizes norte-americanas é temperatura oral única de 38,3 °C ou mais, ou de 38 °C ou mais por mais de uma hora, com neutrófilos abaixo de 500/mm<sup>3</sup> ou com queda esperada abaixo disso. A infecção progride rápido, e a ASCO e a IDSA recomendam iniciar o antibiótico empírico <strong>em até 1 hora</strong> da chegada ao serviço (ASCO/IDSA, 2018). O fator estimulador de colônias (filgrastim, pegfilgrastim) é usado em esquemas de risco, conforme a equipe; causa dor óssea, que costuma responder a analgésico simples indicado pela equipe. O paciente que aplica em casa recebe orientação de aplicação subcutânea, rodízio de locais, conservação em geladeira entre 2 e 8 °C sem congelar e descarte da seringa em recipiente rígido.</p>\n<div class=\"cx alerta\"><b>Atenção</b><p>Paciente em quimioterapia com febre não deve receber antitérmico no balcão para \"esperar passar\". A orientação é procurar já o pronto atendimento indicado pelo serviço de oncologia, informando que está em quimioterapia. O antitérmico pode mascarar a febre e atrasar o antibiótico.</p></div>\n<h3>Extravasamento</h3>\n<p>Extravasamento é a saída do fármaco da veia para o tecido. Os <strong>vesicantes</strong> causam bolhas e necrose: antraciclinas, alcaloides da vinca, mecloretamina, dactinomicina, mitomicina. Os <strong>irritantes</strong> causam dor e inflamação sem necrose habitual: platinas, etoposídeo, alguns taxanos (que em concentração alta podem se comportar como vesicantes). A conduta geral é parar a infusão, aspirar o que for possível pelo acesso, retirar o cateter, elevar o membro e aplicar a medida específica: compressa fria para antraciclinas, com dexrazoxano em esquema próprio conforme o protocolo; compressa morna e hialuronidase para alcaloides da vinca (bula FDA da vincristina, 2026; ESMO-EONS, 2012). A RDC 220/2004 exige protocolo escrito para extravasamento e registro no prontuário (Anexo IV, itens 3.2 e 3.9).</p>\n<h3>Outras toxicidades</h3>\n<ul>\n<li>Síndrome de lise tumoral: destruição rápida de tumor volumoso libera potássio, fósforo e ácido úrico; prevenção com hidratação e alopurinol ou rasburicase, conforme o risco.</li>\n<li>Alopecia: começa em geral 2 a 4 semanas após o início e é reversível na maioria dos esquemas.</li>\n<li>Fadiga, alteração do paladar, náusea crônica e neuropatia afetam a adesão e merecem pergunta ativa.</li>\n<li>Vacinas de vírus vivo são evitadas durante a quimioterapia; o calendário é definido pela equipe.</li>\n</ul>\n<div class=\"cx balcao\"><b>No balcão</b><p>Mulher em quimioterapia com AC volta no segundo dia com náusea e pergunta se pode tomar \"mais um comprimido\" de ondansetrona. Confira o esquema prescrito para os dias seguintes (olanzapina nos dias 2 a 4, por exemplo), oriente tomar como está escrito, fracionar as refeições e beber líquidos aos poucos. Vômitos que impedem beber água ou tomar os medicamentos por mais de um dia, tontura ao levantar ou urina muito escassa exigem contato com a equipe.</p></div>"
+  },
+  {
+   "id": "m14-orais-dispensacao",
+   "titulo": "Quimioterápicos orais na dispensação",
+   "resumo": "<p>Os antineoplásicos orais trazem o tratamento para dentro de casa. O paciente vira responsável pela dose, pelo horário, pelos dias de pausa, pelo manuseio e pelo descarte, sem a dupla checagem que existe na central de quimioterapia. Erros de dose, uso contínuo de um esquema que tinha pausa e abandono por efeito adverso são frequentes. O farmacêutico da farmácia ambulatorial, da farmácia de alto custo ou da drogaria é muitas vezes o último profissional a ver a prescrição antes do uso.</p>\n<h3>Conferência da receita do antineoplásico oral</h3>\n<p>A receita de antineoplásico oral precisa mostrar, de forma que o paciente entenda: dose em mg por tomada, número de comprimidos de cada concentração, número de tomadas por dia, dias de uso e de pausa, duração do ciclo e data de início. Exemplos de esquemas com pausa:</p>\n<div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>Esquema típico</th><th>Erro a evitar</th></tr></thead><tbody>\n<tr><td>Capecitabina</td><td>2 vezes ao dia por 14 dias, pausa de 7 dias (ciclo de 21)</td><td>Tomar sem pausa; arredondar errado a dose</td></tr>\n<tr><td>Temozolomida</td><td>5 dias a cada 28 (no esquema adjuvante)</td><td>Continuar após o 5º dia</td></tr>\n<tr><td>Metotrexato oral</td><td>Uma vez por semana, no mesmo dia</td><td>Tomar todo dia</td></tr>\n<tr><td>Imatinibe, tamoxifeno, inibidores da aromatase, abiraterona</td><td>Uso diário contínuo</td><td>Parar por conta de efeito adverso; regra de alimento</td></tr>\n</tbody></table></div>\n<p>A dose de capecitabina é arredondada para comprimidos inteiros (bula FDA, 2026); quando há duas concentrações, a orientação por escrito mostra quantos de cada uma.</p>\n<h3>Metotrexato em dose semanal</h3>\n<p>O metotrexato oral em dose baixa (artrite reumatoide, psoríase e manutenção de algumas leucemias) é tomado <strong>uma vez por semana</strong>. Tomá-lo todos os dias por engano causou mortes; a bula americana descreve esse erro como a causa mais comum de eventos graves por erro de medicação com o fármaco (bula FDA do metotrexato, 2026). Em 2019, a Agência Europeia de Medicamentos determinou alertas mais visíveis na embalagem, cartão do paciente, apresentação em blíster e que quem prescreve ou dispensa confirme, a cada receita, que o paciente entende o uso semanal (EMA, 2019).</p>\n<ul>\n<li>Combinar com o paciente um dia fixo da semana e escrever o dia na caixa.</li>\n<li>Quando houver ácido fólico prescrito em uso não oncológico, explicar o dia e a dose dele, diferentes do metotrexato.</li>\n<li>Recusar ou esclarecer receita com \"1 comprimido ao dia\" de metotrexato sem indicação oncológica expressa.</li>\n<li>Sinais de intoxicação: feridas na boca, diarreia, febre, manchas roxas ou sangramento, falta de ar: suspender e procurar atendimento.</li>\n</ul>\n<div class=\"cx alerta\"><b>Atenção</b><p>Receita de metotrexato 2,5 mg com \"tomar 4 comprimidos\" sem a frequência é ambígua e deve ser esclarecida com o prescritor antes da dispensação. Registre a confirmação. Anti-inflamatório e sulfametoxazol com trimetoprima, frequentemente pedidos no balcão, aumentam a toxicidade do metotrexato.</p></div>\n<h3>Adesão e doses perdidas</h3>\n<p>A adesão aos orais por meses ou anos cai com efeitos adversos, com o custo e com a falta de sintomas. Ferramentas simples ajudam: calendário com os dias de uso e de pausa, alarme no celular, diário de tomadas e de efeitos, revisão das sobras a cada retorno. Para doses perdidas e vômito após a dose, segue-se a bula de cada produto: na capecitabina, a dose perdida não é reposta e não se toma dose extra depois de vômito, segue-se a próxima no horário (bula FDA, 2026). A regra geral é não dobrar dose.</p>\n<h3>Interações frequentes no balcão</h3>\n<ul>\n<li>Metotrexato com anti-inflamatórios, sulfametoxazol com trimetoprima, penicilinas e inibidores da bomba de prótons: mais toxicidade.</li>\n<li>Capecitabina com varfarina: sangramento; INR mais frequente durante o uso e até um mês depois.</li>\n<li>Imatinibe e outros ITQ com indutores (carbamazepina, fenitoína, rifampicina, erva-de-são-joão) ou inibidores de CYP3A4 (claritromicina, cetoconazol, itraconazol) e suco de toranja.</li>\n<li>Alguns ITQ com antiácidos e inibidores da bomba de prótons: menor absorção, conforme a bula de cada produto.</li>\n<li>Abiraterona com alimento: absorção muito maior.</li>\n</ul>\n<p>Quase todos os antineoplásicos podem causar dano fetal. A paciente em idade fértil e o homem com parceira em idade fértil recebem orientação de contracepção eficaz durante o tratamento e pelo período que a bula indica depois dele; gravidez suspeita exige contato imediato com a equipe.</p>\n<h3>Manuseio em casa</h3>\n<ul>\n<li>Engolir inteiro; não partir, mastigar ou triturar, salvo orientação expressa da bula (o imatinibe pode ser dissolvido em água ou suco de maçã; a capecitabina não deve ser cortada nem triturada).</li>\n<li>Lavar as mãos antes e depois; o cuidador que manipula o comprimido usa luvas descartáveis.</li>\n<li>Gestantes e mulheres que amamentam não devem manipular o medicamento de outra pessoa.</li>\n<li>Guardar na embalagem original, separado dos medicamentos da família, longe de crianças, calor e umidade; não usar porta-comprimidos compartilhado.</li>\n<li>Por alguns dias depois da dose, fezes, urina, vômito e suor podem conter resíduos do fármaco: dar descarga com a tampa fechada, lavar a roupa suja de fluidos separada, usar luvas para limpar. Em serviços de saúde, a RDC 220/2004 exige avental e luvas no manuseio de excretas de pacientes que receberam terapia antineoplásica nas últimas 48 horas (Anexo V, item 1.3.1).</li>\n</ul>\n<h3>Descarte</h3>\n<p>Sobras, comprimidos vencidos ou de tratamento suspenso não vão para o lixo comum, a pia ou o vaso sanitário. A orientação é devolver na farmácia que dispensou ou no serviço de oncologia, na embalagem original, para destinação como resíduo químico perigoso conforme o plano de gerenciamento de resíduos do estabelecimento.</p>\n<div class=\"cx balcao\"><b>No balcão</b><p>Na primeira dispensação de antineoplásico oral, use roteiro fixo: confira a receita (dose, dias, pausa), pergunte por todos os medicamentos, MIP, fitoterápicos e suplementos, explique a regra de alimento, a conduta em dose perdida e vômito, os efeitos esperados e os sinais de urgência (febre, diarreia intensa, sangramento, falta de ar), o manuseio e o descarte. Entregue por escrito e confirme pedindo que o paciente repita como vai tomar.</p></div>\n<div class=\"cx exemplo\"><b>Caso</b><p>Cuidadora busca capecitabina para o pai e diz que ele \"está tomando direto desde o mês passado\". O farmacêutico confere a receita (14 dias com 7 de pausa), percebe que o paciente não fez a pausa e tem feridas na boca e diarreia, orienta suspender e contatar o serviço de oncologia no mesmo dia e comunica o oncologista.</p></div>"
+  },
+  {
+   "id": "m14-manipulacao",
+   "titulo": "Manipulação e segurança ocupacional",
+   "resumo": "<p>Os antineoplásicos são medicamentos perigosos para quem os manipula: muitos são carcinogênicos, mutagênicos ou teratogênicos, e a exposição repetida a pequenas quantidades é um risco ocupacional. As vias de exposição são a inalação de aerossóis e partículas, o contato com a pele e as mucosas, a ingestão por mãos contaminadas e o acidente com material perfurocortante. Os riscos existem no recebimento, no armazenamento, no preparo, no transporte, na administração, no manuseio de excretas e no descarte.</p>\n<h3>Competência para o preparo</h3>\n<p>O preparo de antineoplásicos e de outros medicamentos com risco ocupacional ao manipulador é atribuição privativa do farmacêutico em estabelecimentos de saúde (Resolução CFF 288/1996, com redação da Resolução CFF 565/2012 e alterações posteriores). O conselho exige qualificação específica em oncologia, validada pelo CRF, nos termos da resolução vigente. O Serviço de Terapia Antineoplásica precisa de farmacêutico responsável técnico pelas atividades de farmácia (RDC 220/2004, Anexo I, item 5.2.7).</p>\n<h3>Estrutura e boas práticas de preparação</h3>\n<p>A RDC 220/2004 aprovou o regulamento técnico de funcionamento dos Serviços de Terapia Antineoplásica e segue como referência; até outubro de 2026 não foi localizada norma que a revogue. Os pontos centrais para o farmacêutico:</p>\n<div class=\"tab\"><table><thead><tr><th>Exigência</th><th>O que a norma diz</th><th>Item</th></tr></thead><tbody>\n<tr><td>Sala de preparo</td><td>Exclusiva, com pelo menos 5 m<sup>2</sup> por cabine</td><td>Anexo I, 7.2.2</td></tr>\n<tr><td>Cabine</td><td>Cabine de Segurança Biológica Classe II B2</td><td>Anexo I, 7.2.2.1</td></tr>\n<tr><td>Validação da cabine</td><td>Semestral e após movimentação ou reparo</td><td>Anexo I, 7.4</td></tr>\n<tr><td>Funcionamento</td><td>Ligada 30 min antes e 30 min depois do trabalho; interrupção para a manipulação</td><td>Anexo III, 3.1 e 3.2</td></tr>\n<tr><td>Luvas</td><td>Dois pares estéreis, trocados a cada hora ou se houver dano</td><td>Anexo III, 5.3.5</td></tr>\n<tr><td>Rótulo</td><td>Paciente, composição, volume, data e hora, validade, conservação, responsável</td><td>Anexo III, 5.4.2</td></tr>\n</tbody></table></div>\n<p>O avental é longo ou macacão, de baixa liberação de partículas e baixa permeabilidade, com frente fechada, mangas longas e punho elástico; as luvas são de punho longo, sem talco e estéreis (Anexo III, item 4). Cada produto é inspecionado e desinfetado antes de entrar na sala; a identificação do paciente é conferida antes, durante e depois da manipulação; o produto final passa por inspeção visual para vazamento, partículas e precipitação.</p>\n<h3>Técnica de preparo</h3>\n<p>A técnica busca evitar aerossol e respingo: manter pressão negativa no frasco ao aspirar, usar seringas e equipos com conexão de rosca (luer-lock), preencher o equipo com solução sem fármaco antes de adicionar o antineoplásico e trabalhar no centro da cabine, sem bloquear as grelhas. Dispositivos de sistema fechado reduzem a contaminação e atendem à exigência da NR 32 de dispositivos que minimizem aerossóis. A admissão e o acompanhamento periódico dos funcionários incluem exames médicos pelo programa de controle médico de saúde ocupacional (RDC 220/2004, Anexo I, item 5.3).</p>\n<h3>Proteção do trabalhador pela NR 32</h3>\n<p>A Norma Regulamentadora 32 do Ministério do Trabalho (texto atualizado até a Portaria MTP 4.219/2022) tem seção própria para quimioterápicos antineoplásicos (item 32.3.9.4). Exige área exclusiva com vestiário de barreira de dupla câmara, sala de preparo, local administrativo e armazenamento exclusivo; no vestiário, pia, lava-olhos e chuveiro de emergência; cabine Classe II B2. Ao empregador compete proibir comer, beber, fumar, usar adornos e maquiagem; <strong>afastar gestantes e nutrizes</strong>; fornecer avental impermeável, fechado nas costas, de manga comprida e punho justo; fornecer dispositivos que reduzam aerossóis e acidentes no preparo, na administração e no transporte. É vedado iniciar qualquer atividade sem EPI e continuar a manipulação se a cabine parar. Os trabalhadores recebem capacitação inicial e continuada sobre vias de exposição, efeitos, procedimentos e acidentes (item 32.3.10).</p>\n<div class=\"cx lei\"><b>O que diz a norma</b><p>Com relação aos quimioterápicos antineoplásicos, compete ao empregador \"afastar das atividades as trabalhadoras gestantes e nutrizes\" (NR 32, item 32.3.9.4.6, alínea b).</p></div>\n<h3>Kit de derramamento e acidentes</h3>\n<p>Deve haver kit de derramamento identificado nas áreas de manipulação, armazenamento, administração e no transporte. Pela RDC 220/2004 (Anexo V, item 1.1.1), contém no mínimo luvas de procedimento, avental de baixa permeabilidade, compressas absorventes, proteção respiratória, proteção ocular, sabão, descrição do procedimento, formulário de registro do acidente e recipiente identificado para os resíduos. A NR 32 traz lista semelhante (item 32.3.9.4.9.3).</p>\n<ul>\n<li>Acidente pessoal: retirar logo a roupa contaminada, lavar a pele com água e sabão; olhos e mucosas com água ou solução isotônica em abundância, com acompanhamento médico.</li>\n<li>Derramamento no ambiente: isolar e sinalizar a área, paramentar-se, limitar com compressas absorventes, recolher pó com compressa umedecida e líquido com compressa seca, lavar com água e sabão em abundância e descartar fragmentos e compressas como resíduo do serviço.</li>\n<li>Na cabine: descontaminar toda a superfície interna; se o filtro HEPA foi atingido, isolar a cabine até a troca.</li>\n<li>Todo acidente é registrado em formulário próprio.</li>\n</ul>\n<div class=\"cx alerta\"><b>Atenção</b><p>A cabine de fluxo laminar horizontal usada para nutrição parenteral protege o produto e sopra o ar em direção a quem trabalha. Antineoplásico só é preparado em Cabine de Segurança Biológica Classe II B2 (RDC 220/2004; NR 32).</p></div>\n<h3>Transporte e armazenamento</h3>\n<p>A preparação rotulada vai em embalagem impermeável e transparente, que preserve o rótulo (RDC 220/2004, Anexo III, item 5.4.3), em recipiente que resista a quedas, com kit de derramamento no percurso. O estoque de antineoplásicos fica em área exclusiva, separado dos demais medicamentos, com identificação de risco. Ampolas e frascos chegam com possível contaminação externa: o recebimento usa luvas.</p>\n<div class=\"cx balcao\"><b>No balcão</b><p>Na farmácia comunitária, antineoplásicos orais chegam em embalagem fechada. Dispense na embalagem original, sem fracionar nem contar comprimidos soltos em bandeja comum. Se um frasco quebrar ou um comprimido se partir, use luvas, recolha com papel umedecido, lave a superfície com água e sabão e descarte como resíduo químico do estabelecimento. Funcionária gestante não deve manipular esses produtos.</p></div>"
+  }
+ ],
+ "mapas": [
+  {
+   "id": "m14-mapa-citotoxicos",
+   "titulo": "Citotóxicos: classes, toxicidades e dose",
+   "centro": "Citotóxicos",
+   "ramos": [
+    {
+     "t": "Princípios de dose",
+     "itens": [
+      "Dose em mg/m² (Mosteller), mg/kg ou AUC",
+      "Carboplatina: AUC x (TFG + 25), resultado em mg",
+      "Nadir em geral entre 7 e 14 dias",
+      "Dupla checagem antes de liberar"
+     ]
+    },
+    {
+     "t": "Alquilantes",
+     "itens": [
+      "Ciclofosfamida, ifosfamida: cistite hemorrágica",
+      "Prevenção: hidratação e mesna",
+      "Ifosfamida: encefalopatia",
+      "Tardio: leucemia secundária, infertilidade"
+     ]
+    },
+    {
+     "t": "Platinas",
+     "itens": [
+      "Cisplatina: rim, audição, emese alta",
+      "Cisplatina: hidratar, Mg e K; sem alumínio",
+      "Carboplatina: plaquetopenia",
+      "Oxaliplatina: neuropatia pelo frio"
+     ]
+    },
+    {
+     "t": "Antimetabólitos",
+     "itens": [
+      "MTX alta dose: resgate com leucovorina",
+      "MTX + AINE, IBP, sulfa: toxicidade",
+      "5-FU e capecitabina: DPD (gene DPYD)",
+      "Capecitabina + varfarina: sangramento"
+     ]
+    },
+    {
+     "t": "Antimitóticos",
+     "itens": [
+      "Vincristina: neuropatia, constipação",
+      "Vincristina intratecal: fatal",
+      "Paclitaxel: pré-medicação obrigatória",
+      "Taxanos: neuropatia e neutropenia"
+     ]
+    },
+    {
+     "t": "Topoisomerase",
+     "itens": [
+      "Irinotecano precoce: atropina",
+      "Irinotecano tardio: loperamida logo",
+      "Doxorrubicina: coração, dose cumulativa",
+      "Bleomicina: pulmão, acima de 400 unidades"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m14-mapa-suporte",
+   "titulo": "Toxicidades e cuidados de suporte",
+   "centro": "Cuidados de suporte",
+   "ramos": [
+    {
+     "t": "Risco emetogênico",
+     "itens": [
+      "Alto: cisplatina, AC, ciclofosfamida alta",
+      "Alto: NK1 + 5-HT3 + dexa + olanzapina",
+      "AC: dexametasona só no dia 1",
+      "Mínimo: vinca, bleomicina, checkpoint"
+     ]
+    },
+    {
+     "t": "Antieméticos",
+     "itens": [
+      "Ondansetrona: constipação, QT",
+      "Aprepitante: CYP3A4, dexa pela metade",
+      "Aprepitante: contraceptivo falha até 28 dias",
+      "Olanzapina 10 mg; 5 mg se sedação"
+     ]
+    },
+    {
+     "t": "Neutropenia febril",
+     "itens": [
+      "38,3 °C uma vez ou 38 °C por 1 hora",
+      "Neutrófilos abaixo de 500/mm³",
+      "Antibiótico em até 1 hora",
+      "Balcão: não dar antitérmico e esperar"
+     ]
+    },
+    {
+     "t": "Mucosite e diarreia",
+     "itens": [
+      "Escova macia, bochecho sem álcool",
+      "Diarreia com febre ou sangue: urgência",
+      "Seguir o esquema escrito da equipe"
+     ]
+    },
+    {
+     "t": "Extravasamento",
+     "itens": [
+      "Vesicantes: antraciclinas e vinca",
+      "Parar, aspirar, retirar, elevar",
+      "Antraciclina: frio e dexrazoxano",
+      "Vinca: calor e hialuronidase"
+     ]
+    },
+    {
+     "t": "Imunomediados",
+     "itens": [
+      "Colite, pneumonite, hepatite",
+      "Tireoide, hipófise, adrenal, diabetes tipo 1",
+      "Podem surgir após o fim do tratamento",
+      "Diarreia: não dar loperamida por conta"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m14-mapa-orais-seguranca",
+   "titulo": "Orais, hormonioterapia e segurança na manipulação",
+   "centro": "Orais e manipulação",
+   "ramos": [
+    {
+     "t": "Hormonioterapia",
+     "itens": [
+      "Tamoxifeno: trombose, endométrio, cumarínico",
+      "Tamoxifeno: evitar inibidor forte de CYP2D6",
+      "Aromatase: osso, artralgia, pós-menopausa",
+      "Abiraterona: jejum e prednisona"
+     ]
+    },
+    {
+     "t": "Terapia-alvo oral",
+     "itens": [
+      "Imatinibe: com refeição e água",
+      "ITQ: indutor de CYP3A4 reduz efeito",
+      "Toranja e erva-de-são-joão: evitar",
+      "Alguns ITQ: IBP reduz absorção"
+     ]
+    },
+    {
+     "t": "Dispensação",
+     "itens": [
+      "Dose em mg, dias de uso e de pausa",
+      "MTX oral: uma vez por semana",
+      "Dose perdida: não dobrar",
+      "Sobras: devolver, nunca no lixo"
+     ]
+    },
+    {
+     "t": "Manuseio em casa",
+     "itens": [
+      "Não partir nem triturar sem bula",
+      "Cuidador com luvas; gestante não manipula",
+      "Embalagem original, longe de crianças"
+     ]
+    },
+    {
+     "t": "RDC 220/2004",
+     "itens": [
+      "CSB Classe II B2, sala de 5 m² por cabine",
+      "Cabine 30 min antes e depois",
+      "Dois pares de luvas, troca a cada hora",
+      "Kit de derramamento em todas as áreas"
+     ]
+    },
+    {
+     "t": "NR 32",
+     "itens": [
+      "Afastar gestantes e nutrizes",
+      "Avental impermeável fechado nas costas",
+      "Sem EPI ou cabine parada: não manipula",
+      "Capacitação inicial e continuada"
+     ]
+    }
+   ]
+  }
+ ],
+ "apoio": [
+  {
+   "tipo": "tabela",
+   "id": "m14-tab-citotoxicos",
+   "titulo": "Citotóxicos: toxicidade marcante e o que conferir",
+   "colunas": [
+    "Fármaco",
+    "Classe",
+    "Toxicidade marcante",
+    "O que conferir ou orientar"
+   ],
+   "linhas": [
+    [
+     "Ciclofosfamida",
+     "Alquilante",
+     "Cistite hemorrágica, mielossupressão",
+     "Hidratação; mesna em dose alta"
+    ],
+    [
+     "Ifosfamida",
+     "Alquilante",
+     "Cistite hemorrágica, encefalopatia, rim",
+     "Mesna; sinais de confusão"
+    ],
+    [
+     "Cisplatina",
+     "Platina",
+     "Rim, audição, nervos; emese alta",
+     "Hidratação, creatinina, Mg e K; não usar alumínio"
+    ],
+    [
+     "Carboplatina",
+     "Platina",
+     "Plaquetopenia",
+     "Dose por Calvert (mg); não trocar com cisplatina"
+    ],
+    [
+     "Oxaliplatina",
+     "Platina",
+     "Neuropatia desencadeada pelo frio",
+     "Evitar bebida e contato gelados"
+    ],
+    [
+     "Metotrexato",
+     "Antimetabólito",
+     "Mucosite, medula, rim",
+     "Alta dose: leucovorina; AINE, IBP, sulfa"
+    ],
+    [
+     "Fluoruracila e capecitabina",
+     "Antimetabólito",
+     "Mucosite, diarreia, mão-pé",
+     "DPYD; varfarina; pausa do ciclo"
+    ],
+    [
+     "Vincristina",
+     "Alcaloide da vinca",
+     "Neuropatia, constipação; vesicante",
+     "Só intravenosa; bolsa rotulada"
+    ],
+    [
+     "Paclitaxel",
+     "Taxano",
+     "Hipersensibilidade, neuropatia",
+     "Pré-medicação; neutrófilos acima de 1.500/mm³"
+    ],
+    [
+     "Irinotecano",
+     "Inibidor de topoisomerase I",
+     "Diarreia precoce e tardia",
+     "Atropina; loperamida conforme equipe"
+    ],
+    [
+     "Doxorrubicina",
+     "Antraciclina",
+     "Cardiomiopatia cumulativa; vesicante",
+     "Somar doses prévias; urina vermelha"
+    ],
+    [
+     "Bleomicina",
+     "Antibiótico antitumoral",
+     "Fibrose pulmonar",
+     "Dose total; idoso; tosse e falta de ar"
+    ]
+   ],
+   "nota": "Bulas FDA (DailyMed/openFDA) consultadas em outubro de 2026. Doses e esquemas: protocolo do serviço."
+  },
+  {
+   "tipo": "tabela",
+   "id": "m14-tab-antiemese",
+   "titulo": "Profilaxia antiemética pelo risco do esquema venoso",
+   "colunas": [
+    "Risco",
+    "Exemplos",
+    "Dia 1",
+    "Dias seguintes"
+   ],
+   "linhas": [
+    [
+     "Alto, sem antraciclina",
+     "Cisplatina",
+     "NK1 + 5-HT3 + dexametasona + olanzapina",
+     "Dexametasona e olanzapina nos dias 2 a 4"
+    ],
+    [
+     "Alto, AC",
+     "Doxorrubicina ou epirrubicina + ciclofosfamida",
+     "NK1 + 5-HT3 + dexametasona + olanzapina",
+     "Olanzapina nos dias 2 a 4; dexametasona não"
+    ],
+    [
+     "Moderado",
+     "Oxaliplatina, irinotecano, carboplatina",
+     "5-HT3 + dexametasona (NK1 com carboplatina AUC 4 ou mais)",
+     "Conforme o protocolo"
+    ],
+    [
+     "Baixo",
+     "Paclitaxel, docetaxel, fluoruracila, gemcitabina",
+     "Um fármaco em dose única",
+     "Sem profilaxia de rotina"
+    ],
+    [
+     "Mínimo",
+     "Vincristina, bleomicina, rituximabe, inibidores de checkpoint",
+     "Sem profilaxia de rotina",
+     "Sem profilaxia de rotina"
+    ]
+   ],
+   "nota": "MASCC/ESMO 2023 (classificação e alto risco); ASCO 2017 e 2020 (carboplatina e checkpoint). Aprepitante oral: 125 mg no dia 1 e 80 mg nos dias 2 e 3."
+  },
+  {
+   "tipo": "tabela",
+   "id": "m14-tab-orais",
+   "titulo": "Antineoplásicos orais: tomada, interação e orientação",
+   "colunas": [
+    "Fármaco",
+    "Como tomar",
+    "Interação principal",
+    "Orientação de balcão"
+   ],
+   "linhas": [
+    [
+     "Capecitabina",
+     "Até 30 min após refeição, 2 vezes ao dia",
+     "Varfarina",
+     "14 dias de uso e 7 de pausa (esquema típico); mão-pé"
+    ],
+    [
+     "Metotrexato oral",
+     "Uma vez por semana",
+     "AINE, sulfametoxazol com trimetoprima, IBP",
+     "Dia fixo da semana escrito na caixa"
+    ],
+    [
+     "Imatinibe",
+     "Com refeição e copo grande de água",
+     "Indutores e inibidores de CYP3A4; toranja",
+     "Pesar-se; edema e cãibras"
+    ],
+    [
+     "Abiraterona",
+     "Jejum: 2 h antes e 1 h depois",
+     "Alimento aumenta a absorção",
+     "Sempre com prednisona"
+    ],
+    [
+     "Tamoxifeno",
+     "Uma vez ao dia",
+     "Cumarínicos; inibidores fortes de CYP2D6",
+     "Sangramento vaginal e sinais de trombose"
+    ],
+    [
+     "Anastrozol, letrozol, exemestano",
+     "Uma vez ao dia",
+     "Tamoxifeno reduz o letrozol",
+     "Osso, artralgia, adesão por anos"
+    ],
+    [
+     "Temozolomida",
+     "Dias de uso definidos no ciclo",
+     "Conferir a lista completa do paciente",
+     "Antiemético antes; não continuar após os dias do ciclo"
+    ]
+   ]
+  },
+  {
+   "tipo": "checklist",
+   "id": "m14-check-prescricao",
+   "titulo": "Conferência da prescrição de quimioterapia",
+   "itens": [
+    "Conferir nome completo, data de nascimento e registro do paciente",
+    "Conferir diagnóstico, protocolo, ciclo e dia do ciclo",
+    "Conferir peso e altura atuais e recalcular a superfície corporal",
+    "Recalcular cada dose (mg/m², mg/kg ou AUC) e comparar com a dose total em mg",
+    "Conferir hemograma, função renal (TFG) e hepática exigidos pelo protocolo",
+    "Somar a dose cumulativa de antraciclinas e bleomicina",
+    "Conferir via, diluente, volume, tempo de infusão e estabilidade",
+    "Conferir pré-medicação, hidratação e antieméticos pelo risco emetogênico",
+    "Distinguir nomes parecidos (cisplatina e carboplatina; trastuzumabe e conjugados)",
+    "Fazer dupla checagem independente e registrar a liberação"
+   ]
+  },
+  {
+   "tipo": "checklist",
+   "id": "m14-check-oral",
+   "titulo": "Primeira dispensação de antineoplásico oral",
+   "itens": [
+    "Conferir dose em mg, número de comprimidos por tomada e tomadas por dia",
+    "Conferir dias de uso, dias de pausa e data de início",
+    "Levantar todos os medicamentos, MIP, fitoterápicos e suplementos em uso",
+    "Explicar a regra de alimento (com refeição, em jejum ou indiferente)",
+    "Explicar a conduta em dose perdida e em vômito após a dose",
+    "Orientar sinais de urgência: febre, diarreia intensa, sangramento, falta de ar",
+    "Orientar manuseio: não partir, luvas para o cuidador, gestante não manipula",
+    "Orientar guarda na embalagem original e devolução das sobras",
+    "Orientar contracepção conforme a bula",
+    "Pedir que o paciente repita como vai tomar e entregar por escrito"
+   ]
+  },
+  {
+   "tipo": "fluxo",
+   "id": "m14-fluxo-febre",
+   "titulo": "Paciente em quimioterapia com febre no balcão",
+   "passos": [
+    {
+     "t": "Paciente ou familiar pede antitérmico e relata febre",
+     "tipo": "inicio"
+    },
+    {
+     "t": "Perguntar se está em quimioterapia ou usa antineoplásico oral e a data da última aplicação",
+     "tipo": "acao"
+    },
+    {
+     "t": "Está em tratamento antineoplásico, sobretudo nas últimas 3 semanas?",
+     "tipo": "decisao",
+     "sim": "Tratar como possível neutropenia febril",
+     "nao": "Seguir a avaliação habitual de febre no balcão"
+    },
+    {
+     "t": "Temperatura de 38 °C ou mais, calafrios, prostração ou queda de pressão?",
+     "tipo": "decisao",
+     "sim": "Encaminhar já ao pronto atendimento indicado pelo serviço de oncologia",
+     "nao": "Orientar medir a temperatura e contatar a equipe oncológica no mesmo dia"
+    },
+    {
+     "t": "Não dispensar antitérmico para esperar a febre passar em casa",
+     "tipo": "alerta"
+    },
+    {
+     "t": "Orientar levar a lista de medicamentos e a informação do protocolo",
+     "tipo": "acao"
+    },
+    {
+     "t": "Lembrar que o antibiótico deve começar em até 1 hora da chegada",
+     "tipo": "acao"
+    },
+    {
+     "t": "Registrar o atendimento e o encaminhamento",
+     "tipo": "fim"
+    }
+   ]
+  },
+  {
+   "tipo": "fluxo",
+   "id": "m14-fluxo-derramamento",
+   "titulo": "Derramamento de antineoplásico fora da cabine",
+   "passos": [
+    {
+     "t": "Derramamento de pó ou líquido de antineoplásico",
+     "tipo": "inicio"
+    },
+    {
+     "t": "Houve contato com pele, olhos ou roupa?",
+     "tipo": "decisao",
+     "sim": "Retirar a roupa, lavar a pele com água e sabão; olhos com água ou solução isotônica em abundância e avaliação médica",
+     "nao": "Seguir para o controle da área"
+    },
+    {
+     "t": "Isolar e sinalizar a área; buscar o kit de derramamento",
+     "tipo": "acao"
+    },
+    {
+     "t": "Paramentar-se: avental de baixa permeabilidade, luvas, proteção respiratória e ocular",
+     "tipo": "acao"
+    },
+    {
+     "t": "O material derramado é pó?",
+     "tipo": "decisao",
+     "sim": "Recolher com compressa absorvente umedecida",
+     "nao": "Limitar e recolher com compressas absorventes secas"
+    },
+    {
+     "t": "Lavar a área com água e sabão em abundância",
+     "tipo": "acao"
+    },
+    {
+     "t": "Descartar compressas, fragmentos e EPI no recipiente identificado para resíduo do serviço",
+     "tipo": "acao"
+    },
+    {
+     "t": "Não varrer nem usar aspirador: espalha partículas",
+     "tipo": "alerta"
+    },
+    {
+     "t": "Registrar o acidente em formulário próprio (RDC 220/2004, Anexo V)",
+     "tipo": "fim"
+    }
+   ]
+  },
+  {
+   "tipo": "cartoes",
+   "id": "m14-cartoes",
+   "titulo": "Cartões de revisão",
+   "itens": [
+    {
+     "f": "Fórmula de Mosteller",
+     "v": "SC (m²) = raiz quadrada de [altura (cm) x peso (kg) / 3.600]."
+    },
+    {
+     "f": "Fórmula de Calvert",
+     "v": "Dose de carboplatina (mg) = AUC alvo x (TFG + 25)."
+    },
+    {
+     "f": "Quando ocorre o nadir da maioria dos citotóxicos?",
+     "v": "Em geral entre 7 e 14 dias após a aplicação."
+    },
+    {
+     "f": "Fármacos que agem na fase M",
+     "v": "Alcaloides da vinca e taxanos."
+    },
+    {
+     "f": "Prevenção da cistite hemorrágica por ifosfamida",
+     "v": "Hidratação e mesna."
+    },
+    {
+     "f": "Cisplatina: três toxicidades marcantes",
+     "v": "Nefrotoxicidade, ototoxicidade e neuropatia (além de emese alta)."
+    },
+    {
+     "f": "Oxaliplatina: efeito típico",
+     "v": "Neuropatia aguda desencadeada pelo frio."
+    },
+    {
+     "f": "Metotrexato em dose alta exige",
+     "v": "Resgate com leucovorina, hidratação e dosagem sérica."
+    },
+    {
+     "f": "Gene que prevê toxicidade grave de fluoruracila e capecitabina",
+     "v": "DPYD (enzima DPD)."
+    },
+    {
+     "f": "Vincristina por via intratecal",
+     "v": "Quase sempre fatal; diluir em bolsa e rotular só intravenosa."
+    },
+    {
+     "f": "Doxorrubicina: o que entra na dose cumulativa?",
+     "v": "Todas as doses de antraciclinas e antracenedionas já recebidas."
+    },
+    {
+     "f": "Irinotecano: diarreia tardia",
+     "v": "Loperamida logo, hidratação e contato com a equipe."
+    },
+    {
+     "f": "Abiraterona: como tomar",
+     "v": "Em jejum (nada 2 h antes e 1 h depois), com prednisona."
+    },
+    {
+     "f": "Imatinibe: como tomar",
+     "v": "Com refeição e um copo grande de água."
+    },
+    {
+     "f": "Neutropenia febril: prazo do antibiótico",
+     "v": "Em até 1 hora da chegada ao serviço (ASCO/IDSA 2018)."
+    },
+    {
+     "f": "Cabine exigida para preparar antineoplásico",
+     "v": "Cabine de Segurança Biológica Classe II B2 (RDC 220/2004; NR 32)."
+    },
+    {
+     "f": "Quem a NR 32 manda afastar da manipulação?",
+     "v": "Trabalhadoras gestantes e nutrizes."
+    }
+   ]
+  },
+  {
+   "tipo": "questoes",
+   "id": "m14-questoes",
+   "titulo": "Questões de fixação",
+   "itens": [
+    {
+     "p": "Paciente de 1,82 m² de superfície corporal tem prescrito paclitaxel 175 mg/m². A dose total esperada, aproximadamente, é:",
+     "alt": [
+      "96 mg",
+      "318 mg",
+      "175 mg",
+      "350 mg",
+      "cerca de 3 g"
+     ],
+     "c": 1,
+     "com": "Dose total = 175 mg/m² x 1,82 m² = 318,5 mg. 175 mg (C) é a dose por m², não a total; 96 mg (A) divide em vez de multiplicar; 350 mg (D) supõe 2 m²; 3 g (E) é erro de ordem de grandeza. A conferência compara dose por m², SC e dose total."
+    },
+    {
+     "p": "Na conferência de uma prescrição de carboplatina, o farmacêutico deve lembrar que a dose calculada pela fórmula de Calvert é expressa em:",
+     "alt": [
+      "mg/m² de superfície corporal",
+      "mg/kg de peso real",
+      "mg/kg de peso ideal",
+      "mg totais",
+      "Unidades por m²"
+     ],
+     "c": 3,
+     "com": "Pela fórmula de Calvert, dose (mg) = AUC alvo x (TFG + 25), e o resultado é a dose total em mg (bula FDA da carboplatina, 2026). Prescrever ou interpretar como mg/m² (A) é erro grave. Peso (B, C) e unidades (E) não entram nessa fórmula."
+    },
+    {
+     "p": "Mulher de 55 anos fará cisplatina em dose alta. Sobre esse fármaco, é correto afirmar:",
+     "alt": [
+      "Exige hidratação e controle de eletrólitos",
+      "Pode ser trocada por carboplatina na mesma dose",
+      "Tem risco emetogênico mínimo",
+      "A principal toxicidade é a fibrose pulmonar",
+      "Pode ser preparada com agulha de alumínio"
+     ],
+     "c": 0,
+     "com": "A cisplatina é nefrotóxica de forma cumulativa e exige hidratação com diurese por 24 horas e controle de creatinina e eletrólitos (bula FDA, 2026). Não é intercambiável com a carboplatina (B), tem alto risco emetogênico (C, MASCC/ESMO 2023), a fibrose pulmonar é da bleomicina (D) e o alumínio inativa a cisplatina (E)."
+    },
+    {
+     "p": "Paciente com câncer de mama fará doxorrubicina e ciclofosfamida (AC). Pela MASCC/ESMO 2023, a profilaxia antiemética adequada é:",
+     "alt": [
+      "Ondansetrona isolada no dia 1",
+      "Dexametasona isolada nos dias 1 a 4",
+      "NK1 + 5-HT3 + dexametasona + olanzapina, com dexametasona até o dia 4",
+      "NK1, 5-HT3, dexametasona e olanzapina; dexametasona só no dia 1",
+      "Nenhuma profilaxia de rotina"
+     ],
+     "c": 3,
+     "com": "AC é de alto risco: quatro fármacos antes da aplicação, olanzapina nos dias 2 a 4 e dexametasona só no dia 1 (MASCC/ESMO 2023). A dexametasona até o dia 4 (C) é para alto risco sem antraciclina, como a cisplatina. Ondansetrona isolada (A), dexametasona isolada (B) e ausência de profilaxia (E) são insuficientes."
+    },
+    {
+     "p": "Homem de 70 anos em quimioterapia, com última aplicação há 9 dias, chega à drogaria com febre de 38,5 °C e pede dipirona. A conduta correta é:",
+     "alt": [
+      "Dispensar dipirona e orientar retorno se a febre durar três dias",
+      "Indicar antibiótico de amplo espectro",
+      "Dispensar paracetamol, que não mascara infecção",
+      "Orientar dieta leve e repouso",
+      "Encaminhar já ao pronto atendimento indicado pela oncologia"
+     ],
+     "c": 4,
+     "com": "Febre no período do nadir sugere neutropenia febril, urgência em que o antibiótico deve começar em até 1 hora da chegada (ASCO/IDSA 2018). Antitérmico para esperar (A, C) atrasa o atendimento; o farmacêutico não prescreve antibiótico (B); repouso (D) ignora o risco."
+    },
+    {
+     "p": "A receita de metotrexato 2,5 mg para artrite reumatoide diz \"tomar 4 comprimidos\", sem frequência. O farmacêutico deve:",
+     "alt": [
+      "Dispensar e orientar 4 comprimidos por dia",
+      "Esclarecer a frequência com o prescritor",
+      "Dispensar e orientar 1 comprimido por dia",
+      "Dispensar e orientar a dose a cada 12 horas",
+      "Dispensar só ácido fólico até o retorno"
+     ],
+     "c": 1,
+     "com": "Metotrexato oral em dose baixa é semanal, e o uso diário por engano já causou mortes (bula FDA, 2026). A EMA (2019) determinou que quem dispensa confirme o entendimento do uso semanal. Qualquer interpretação diária (A, C, D) é perigosa, e trocar o tratamento (E) não cabe ao farmacêutico."
+    },
+    {
+     "p": "Paciente em imatinibe para leucemia mieloide crônica começa a usar carbamazepina. O risco principal dessa associação é:",
+     "alt": [
+      "Aumento importante da exposição ao imatinibe",
+      "Hipoglicemia grave",
+      "Síndrome serotoninérgica",
+      "Redução da exposição ao imatinibe",
+      "Aumento do INR"
+     ],
+     "c": 3,
+     "com": "A carbamazepina é indutora forte de CYP3A4 e reduz a exposição ao imatinibe; a bula manda evitar indutores fortes (bula FDA, 2026). O aumento (A) ocorre com inibidores fortes e suco de toranja. Hipoglicemia (B), síndrome serotoninérgica (C) e INR (E) não são o efeito esperado."
+    },
+    {
+     "p": "Sobre a abiraterona no câncer de próstata, é correto orientar:",
+     "alt": [
+      "Tomar com a refeição mais gordurosa do dia",
+      "Partir o comprimido para facilitar",
+      "Usar com prednisona e em jejum",
+      "Suspender a prednisona após 1 mês",
+      "Tomar a cada 8 horas"
+     ],
+     "c": 2,
+     "com": "A bula manda tomar 1 g uma vez ao dia em jejum (nada 2 h antes e 1 h depois), comprimido inteiro, com prednisona, por causa do excesso mineralocorticoide (bula FDA, 2026). Alimento aumenta a absorção e a toxicidade (A); não se parte (B), não se suspende o corticosteroide por conta (D) e a tomada é única (E)."
+    },
+    {
+     "p": "Paciente em pembrolizumabe relata seis evacuações líquidas por dia há dois dias e pede loperamida. A conduta correta é:",
+     "alt": [
+      "Orientar contato imediato com a equipe",
+      "Dispensar loperamida em dose máxima",
+      "Indicar probiótico e aguardar uma semana",
+      "Dispensar sais de reidratação e liberar",
+      "Orientar suspender o tratamento por conta própria"
+     ],
+     "c": 0,
+     "com": "Diarreia em uso de inibidor de checkpoint pode ser colite imunomediada, tratada pela equipe com suspensão e corticosteroide conforme a gravidade (ASCO 2021). Loperamida (B), espera (C) ou só reidratar (D) podem atrasar o diagnóstico. A decisão sobre o tratamento é do oncologista (E)."
+    },
+    {
+     "p": "Sobre a manipulação de antineoplásicos, segundo a RDC 220/2004 e a NR 32, é correto afirmar:",
+     "alt": [
+      "A cabine de fluxo laminar horizontal é suficiente",
+      "Um único par de luvas é trocado ao fim do turno",
+      "Gestantes podem manipular com dupla luva",
+      "A cabine pode ser ligada só no início do preparo",
+      "Exige cabine de segurança biológica II B2"
+     ],
+     "c": 4,
+     "com": "A RDC 220/2004 (Anexo I, 7.2.2.1) e a NR 32 (32.3.9.4.5) exigem CSB Classe II B2, ligada 30 min antes e depois do trabalho (D errada). O fluxo laminar horizontal sopra o ar contra o manipulador (A). São dois pares de luvas trocados a cada hora (B), e a NR 32 manda afastar gestantes e nutrizes (C)."
+    },
+    {
+     "p": "Mulher de 46 anos em tamoxifeno recebe receita de paroxetina para fogachos. O farmacêutico deve considerar que:",
+     "alt": [
+      "A paroxetina aumenta o efeito do tamoxifeno",
+      "A paroxetina pode reduzir a formação de endoxifeno",
+      "Não há interação conhecida",
+      "O tamoxifeno deve ser tomado em jejum por causa disso",
+      "A paroxetina causa sangramento vaginal"
+     ],
+     "c": 1,
+     "com": "O tamoxifeno é substrato de CYP2D6 (bula FDA, 2026), e o metabólito mais ativo, o endoxifeno, depende dessa enzima. A paroxetina é inibidora potente de CYP2D6 e pode reduzir a sua formação, por isso a equipe costuma preferir alternativa. Não aumenta o efeito (A); a interação é conhecida (C); não há regra de jejum (D); o sangramento vaginal se relaciona ao tamoxifeno no endométrio (E)."
+    }
+   ]
+  }
+ ],
+ "fontes": [
+  "Anvisa. Resolução RDC nº 220, de 21 de setembro de 2004. Aprova o Regulamento Técnico de funcionamento dos Serviços de Terapia Antineoplásica. Diário Oficial da União, 23 set. 2004; retificação em 2 mar. 2005 (texto consolidado do portal Saúde Legis consultado em reprodução da Vigilância Sanitária do Rio de Janeiro, out. 2026; não foi localizada norma revogadora).",
+  "Brasil. Ministério do Trabalho. Norma Regulamentadora nº 32: Segurança e Saúde no Trabalho em Serviços de Saúde (Portaria MTb nº 485/2005, texto atualizado até a Portaria MTP nº 4.219, de 20 dez. 2022), item 32.3.9.4 e 32.3.10. https://www.gov.br/trabalho-e-emprego/ (consultada em out. 2026).",
+  "Conselho Federal de Farmácia. Resolução nº 288, de 21 de março de 1996, com redação dada pela Resolução nº 565, de 6 de dezembro de 2012, e alteração pela Resolução nº 640, de 27 de abril de 2017 (preparo de antineoplásicos pelo farmacêutico; conferida por resumo de busca, texto consolidado não reaberto).",
+  "Herrstedt J, Clark-Snow R, Ruhlmann CH, et al. 2023 updated MASCC/ESMO consensus recommendations: prevention of nausea and vomiting following high-emetic-risk antineoplastic agents. Support Care Cancer. Publicado em 21 dez. 2023. doi:10.1007/s00520-023-08221-4 (texto completo no PubMed Central, PMC10739516).",
+  "Jordan K, et al. Emetic risk classification and evaluation of the emetogenicity of antineoplastic agents: updated MASCC/ESMO consensus recommendation. Support Care Cancer. 2023 (texto completo no PubMed Central, PMC10739277).",
+  "Hesketh PJ, Kris MG, Basch E, et al. Antiemetics: ASCO Guideline Update. J Clin Oncol. 2020;38(24):2782-2797 (resumo no PubMed, PMID 32658626).",
+  "Hesketh PJ, et al. Antiemetics: American Society of Clinical Oncology clinical practice guideline update. J Clin Oncol. 2017 (conferida por resumos de busca).",
+  "Taplitz RA, Kennedy EB, Bow EJ, et al. Outpatient Management of Fever and Neutropenia in Adults Treated for Malignancy: ASCO and IDSA Clinical Practice Guideline Update. J Clin Oncol. 2018;36(14):1443-1453 (resumo no PubMed, PMID 29461916).",
+  "Schneider BJ, Naidoo J, Santomasso BD, et al. Management of Immune-Related Adverse Events in Patients Treated With Immune Checkpoint Inhibitor Therapy: ASCO Guideline Update. J Clin Oncol. 2021;39(36):4073-4126 (registro no PubMed, PMID 34724392).",
+  "Griggs JJ, Bohlke K, Balaban EP, et al. Appropriate Systemic Therapy Dosing for Obese Adult Patients With Cancer: ASCO Guideline Update. J Clin Oncol. 2021;39(18):2037-2048 (resumo no PubMed, PMID 33939491).",
+  "Pérez Fidalgo JA, García Fabregat L, Cervantes A, et al. Management of chemotherapy extravasation: ESMO-EONS Clinical Practice Guidelines. Ann Oncol. 2012;23 Suppl 7:vii167-173 (registro no PubMed consultado; texto integral não reaberto).",
+  "European Medicines Agency. Methotrexate-containing medicinal products: Article 31 referral (recomendação do PRAC de 11 jul. 2019; decisões da Comissão Europeia de out. 2019). https://www.ema.europa.eu/ (consultada em out. 2026).",
+  "U.S. Food and Drug Administration. Bulas (prescribing information) via DailyMed/openFDA, versões de 2026, consultadas em out. 2026: capecitabina, doxorrubicina (Pfizer), doxorrubicina lipossomal, bleomicina, vincristina, metotrexato injetável, cisplatina, carboplatina, ciclofosfamida, ifosfamida, paclitaxel, irinotecano, imatinibe, tamoxifeno, anastrozol, abiraterona, pembrolizumabe, dexrazoxano e aprepitante."
+ ]
+}

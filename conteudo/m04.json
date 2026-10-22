@@ -1,8 +1,8 @@
 {
  "id": "m04",
- "num": 4,
- "titulo": "Sistema cardiovascular e renal",
- "escopo": "Fisiologia da pressão arterial e do SRAA, classificação e metas da Diretriz Brasileira de Hipertensão Arterial 2025, aferição de PA na farmácia (RDC 44/2009), classes de anti-hipertensivos e diuréticos, associações e cuidados com o rim no balcão (TFGe por CKD-EPI 2021, nefrotóxicos e ajuste renal).",
+ "num": 2,
+ "titulo": "Sistema cardiovascular",
+ "escopo": "Pressão arterial e aferição na farmácia, anti-hipertensivos (IECA, BRA, betabloqueadores, bloqueadores dos canais de cálcio, associações e escolha pela Diretriz Brasileira de Hipertensão Arterial 2025) e antiarrítmicos (eletrofisiologia básica, classificação de Vaughan Williams, amiodarona, propafenona, sotalol, controle de frequência, digoxina, anticoagulação na fibrilação atrial pela Diretriz Brasileira de Fibrilação Atrial 2025 e fármacos que prolongam o QT), com efeitos adversos, interações e orientação ao paciente.",
  "topicos": [
   {
    "id": "m04-pa-afericao",
@@ -30,19 +30,14 @@
    "resumo": "<p>Os bloqueadores dos canais de cálcio (BCC) impedem a entrada de cálcio pelos canais do tipo L nas células musculares lisas dos vasos e, conforme o grupo, também nas células do coração. Menos cálcio dentro da célula significa menos contração: as arteríolas relaxam e a resistência periférica cai. A DBHA 2025 destaca que todos reduzem a PA de forma semelhante em doses equipotentes e se associam bem com outras classes.</p> <p>A divisão que importa no balcão é entre os <strong>di-hidropiridínicos</strong>, que agem quase só nos vasos, e os <strong>não di-hidropiridínicos</strong> (verapamil e diltiazem), que agem também no nó sinusal e no nó atrioventricular, reduzindo frequência cardíaca e condução.</p> <h3>Di-hidropiridínicos</h3> <div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>Dose diária habitual</th><th>Tomadas/dia</th></tr></thead><tbody> <tr><td>Anlodipino</td><td>2,5 a 10 mg</td><td>1</td></tr> <tr><td>Levanlodipino</td><td>2,5 a 5 mg</td><td>1</td></tr> <tr><td>Nifedipino</td><td>10 a 60 mg</td><td>1 a 3 (conforme a formulação)</td></tr> <tr><td>Felodipino</td><td>2,5 a 10 mg</td><td>1</td></tr> <tr><td>Lercanidipino</td><td>10 a 20 mg</td><td>1</td></tr> <tr><td>Manidipino</td><td>10 a 20 mg</td><td>1</td></tr> <tr><td>Nitrendipino</td><td>10 a 30 mg</td><td>1</td></tr> <tr><td>Lacidipino</td><td>2 a 6 mg</td><td>1</td></tr> </tbody></table></div> <p>Doses conforme a DBHA 2025 (Quadro 7.3). O <strong>anlodipino</strong> é o mais usado: meia-vida longa, uma tomada diária, disponível no SUS. O levanlodipino é o enantiômero ativo do anlodipino, por isso a dose é a metade.</p> <p>O <strong>nifedipino</strong> merece atenção à formulação. Na HA crônica usam-se as formas de liberação prolongada (retard ou de liberação controlada), que não podem ser partidas, mastigadas ou trituradas. A cápsula de liberação imediata causa queda brusca de PA e taquicardia reflexa e não é usada para tratar HA crônica. Na gestação, a DBHA 2025 cita a nifedipina de ação prolongada entre as opções de primeira linha.</p> <h4>Efeitos adversos</h4> <ul> <li><strong>Edema maleolar</strong>: inchaço de tornozelos, dependente da dose, causado por dilatação arteriolar sem dilatação venosa correspondente. Não é retenção de sódio, por isso responde mal a diurético. A DBHA 2025 observa que melhora com associação a IECA ou BRA, que dilatam o lado venoso.</li> <li>Cefaleia, rubor facial, calor, palpitação e taquicardia reflexa (mais com os de ação curta).</li> <li>Hiperplasia gengival, principalmente com nifedipino; higiene oral ajuda.</li> </ul> <p>A DBHA 2025 recomenda evitar di-hidropiridínicos na insuficiência cardíaca com fração de ejeção reduzida e em taquiarritmias.</p> <h3>Não di-hidropiridínicos</h3> <p><strong>Verapamil</strong> (120 a 360 mg/dia, 1 a 2 tomadas na forma de liberação prolongada) e <strong>diltiazem</strong> (80 a 240 mg/dia, 1 a 2 tomadas) são pouco usados hoje para HA isolada. O uso principal é controlar frequência na fibrilação atrial e tratar angina quando o BB não pode ser usado. Efeitos: bradicardia, bloqueio atrioventricular, piora de insuficiência cardíaca e constipação intestinal (típica do verapamil). Não devem ser associados a BB nem usados com frequência cardíaca abaixo de 50 bpm ou na insuficiência cardíaca com fração de ejeção reduzida (DBHA 2025).</p> <h3>Outros usos</h3> <p>Os BCC também tratam angina estável, porque dilatam as coronárias e, no caso de verapamil e diltiazem, reduzem o consumo de oxigênio do coração. O nifedipino de liberação prolongada é usado na gestação e, por indicação médica, como tocolítico em ambiente hospitalar. Pomadas de diltiazem manipuladas são usadas na fissura anal, e o anlodipino tem uso no fenômeno de Raynaud. São indicações que o farmacêutico encontra em receitas e precisa reconhecer para não estranhar a prescrição em pessoa sem hipertensão.</p> <h3>Interações pelo CYP3A4</h3> <p>Todos os BCC são metabolizados pelo CYP3A4, e verapamil e diltiazem também <strong>inibem</strong> essa enzima. Isso gera interações frequentes no balcão:</p> <ul> <li><strong>Sinvastatina</strong>: verapamil, diltiazem e anlodipino aumentam a exposição à sinvastatina e o risco de miopatia e rabdomiólise; a bula da sinvastatina lista os três entre as interações relevantes. A FDA limitou a sinvastatina a 10 mg/dia com verapamil ou diltiazem e a 20 mg/dia com anlodipino. Alternativas como atorvastatina em dose ajustada ou rosuvastatina são decisão do prescritor.</li> <li><strong>Inibidores fortes do CYP3A4</strong> (claritromicina, cetoconazol, itraconazol, ritonavir): aumentam o efeito do BCC, com hipotensão e edema.</li> <li><strong>Indutores</strong> (rifampicina, carbamazepina, fenitoína, erva-de-são-joão): reduzem o efeito.</li> <li><strong>Suco de toranja (grapefruit)</strong>: aumenta a exposição a felodipino e nifedipino.</li> <li>Verapamil e diltiazem elevam os níveis de digoxina, ciclosporina e alguns anticoagulantes diretos.</li> </ul> <div class=\"cx chave\"><b>Ponto-chave</b><p>Di-hidropiridínico: vaso; dá edema de tornozelo e cefaleia. Verapamil e diltiazem: coração; dão bradicardia e não combinam com betabloqueador. Os três mais vendidos (anlodipino, verapamil, diltiazem) limitam a dose de sinvastatina.</p></div> <div class=\"cx balcao\"><b>No balcão</b><p>Cliente com tornozelos inchados pedindo diurético \"para desinchar\" deve ser perguntado sobre anlodipino ou nifedipino. Explique que diurético não resolve esse edema e oriente levar a queixa ao médico, que pode reduzir a dose ou associar IECA ou BRA. Ao dispensar sinvastatina, confira se a pessoa usa algum BCC e qual a dose da estatina. Oriente engolir inteiros os comprimidos de liberação prolongada.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Senhora de 68 anos, em uso de diltiazem 180 mg/dia para fibrilação atrial, traz nova receita de sinvastatina 40 mg. O farmacêutico identifica a interação (limite de 10 mg/dia de sinvastatina com diltiazem, segundo a FDA), entra em contato com o prescritor e registra a sugestão de ajuste ou troca da estatina.</p></div>"
   },
   {
-   "id": "m04-diureticos",
-   "titulo": "Diuréticos",
-   "resumo": "<p>Diuréticos aumentam a eliminação de sódio e água pelo rim. Cada classe age em um segmento do néfron, e o local de ação explica a potência, os distúrbios eletrolíticos e o uso clínico. Na HA, o efeito inicial vem da perda de volume; com o tempo, a resistência vascular periférica também cai, e é esse efeito tardio que mantém a PA controlada.</p> <h3>O néfron em quatro paradas</h3> <ol> <li><strong>Túbulo proximal</strong>: reabsorve cerca de dois terços do sódio filtrado, em parte trocado por hidrogênio com ajuda da anidrase carbônica. Aqui age a acetazolamida.</li> <li><strong>Alça de Henle, ramo ascendente espesso</strong>: cotransportador Na-K-2Cl. Aqui agem os diuréticos de alça, os mais potentes.</li> <li><strong>Túbulo contornado distal</strong>: cotransportador Na-Cl. Aqui agem os tiazídicos e análogos.</li> <li><strong>Ducto coletor</strong>: canal de sódio (ENaC) controlado pela aldosterona, que troca sódio por potássio. Aqui agem os poupadores de potássio.</li> </ol> <p>Um ponto de fisiologia explica por que tiazídicos e diuréticos de alça espoliam potássio: eles fazem chegar mais sódio ao ducto coletor, onde parte é trocada por potássio, que vai embora na urina. Os poupadores bloqueiam justamente essa troca.</p> <h3>Tiazídicos e análogos</h3> <p>São os diuréticos da HA. A DBHA 2025 lista: <strong>hidroclorotiazida</strong> até 50 mg/dia (no SUS, 25 a 50 mg em uma tomada; na prática, 12,5 a 25 mg em associações), <strong>clortalidona</strong> 12,5 a 25 mg/dia e <strong>indapamida</strong> de liberação prolongada 1,5 a 3 mg/dia, todos em uma tomada. Doses maiores aumentam os efeitos metabólicos sem acrescentar efeito anti-hipertensivo relevante. Clortalidona e indapamida têm ação mais longa, e a diretriz recomenda trocar a hidroclorotiazida por uma delas quando a PA não controla com três classes.</p> <p>Efeitos adversos e alertas:</p> <ul> <li><strong>Hipocalemia</strong> e hipomagnesemia: cãibras, fraqueza, arritmias; perigosas em quem usa digoxina.</li> <li><strong>Hiponatremia</strong>: principal risco em idosas magras; confusão, quedas, sonolência.</li> <li><strong>Hiperuricemia</strong>: pode desencadear crise de gota; a DBHA 2025 contraindica na gota ativa.</li> <li>Hiperglicemia e aumento de lipídios, dose-dependentes.</li> <li>Hipercalcemia leve (reduzem a excreção urinária de cálcio, efeito útil em litíase cálcica).</li> <li>Fotossensibilidade e reações em quem tem alergia a sulfonamidas (estrutura semelhante).</li> <li>Aumento da litemia em quem usa lítio.</li> </ul> <p>Na doença renal crônica avançada, os tiazídicos perdem eficácia, e a diretriz considera clortalidona e diurético de alça nesse cenário.</p> <h3>Diuréticos de alça</h3> <p><strong>Furosemida</strong> (20 a 240 mg/dia, 1 a 3 tomadas, DBHA 2025) e <strong>bumetanida</strong> são indicados em estados edematosos: insuficiência cardíaca, doença renal crônica, síndrome nefrótica e cirrose (associados à espironolactona). Na HA sem edema não são primeira escolha, porque o efeito é curto e intenso. Efeitos: desidratação, hipotensão, hipocalemia, hipomagnesemia, hiperuricemia, alcalose metabólica e ototoxicidade em doses altas intravenosas ou com aminoglicosídeos. Ao contrário dos tiazídicos, aumentam a excreção de cálcio.</p> <h3>Poupadores de potássio</h3> <ul> <li><strong>Espironolactona</strong> (25 a 100 mg/dia): antagonista do receptor mineralocorticoide. É o quarto fármaco na HA resistente (DBHA 2025, recomendação forte), tem papel na insuficiência cardíaca, no hiperaldosteronismo e na ascite. Efeitos: hipercalemia (sobretudo com IECA ou BRA e na doença renal), ginecomastia, mastalgia, redução de libido e irregularidade menstrual.</li> <li><strong>Eplerenona</strong> (25 a 100 mg/dia): mais seletiva, sem efeitos hormonais; mesma hipercalemia.</li> <li><strong>Amilorida</strong> (2,5 a 5 mg/dia): bloqueia o ENaC; no Brasil aparece associada a tiazídico.</li> </ul> <h3>Inibidores da anidrase carbônica e osmóticos</h3> <p>A <strong>acetazolamida</strong> (Diamox®) tem efeito diurético fraco e não é anti-hipertensivo. Usos: glaucoma (250 mg a 1 g/dia), prevenção do mal agudo da montanha (500 mg a 1 g/dia, segundo a bula) e algumas formas de epilepsia. Causa acidose metabólica, parestesias de extremidades, gosto metálico em bebidas gaseificadas e litíase. É uma sulfonamida.</p> <p>O <strong>manitol</strong> é um diurético osmótico de uso intravenoso hospitalar: filtrado e não reabsorvido, puxa água para a urina. É usado na hipertensão intracraniana e no glaucoma agudo; não tem lugar na farmácia comercial.</p> <h3>Como reconhecer os distúrbios mais comuns</h3> <div class=\"tab\"><table><thead><tr><th>Distúrbio</th><th>Quem tem mais risco</th><th>Sinais que o cliente relata</th></tr></thead><tbody> <tr><td>Hipocalemia</td><td>Tiazídico ou alça em dose alta, diarreia, uso de laxantes</td><td>Cãibras, fraqueza, palpitação, constipação</td></tr> <tr><td>Hipercalemia</td><td>Espironolactona ou amilorida com IECA/BRA, DRC, diabetes</td><td>Fraqueza, formigamento, palpitação; muitas vezes nenhum sintoma</td></tr> <tr><td>Hiponatremia</td><td>Idosos com tiazídico, uso associado de antidepressivos</td><td>Confusão, sonolência, náusea, quedas</td></tr> <tr><td>Desidratação</td><td>Diurético de alça, calor, vômitos, idosos com pouca ingestão de água</td><td>Tontura ao levantar, boca seca, urina escura e escassa</td></tr> <tr><td>Crise de gota</td><td>Tiazídico ou alça em quem já tem ácido úrico alto</td><td>Dor intensa, vermelhidão e inchaço em uma articulação, típica no dedão do pé</td></tr> </tbody></table></div> <p>Diuréticos estão na lista de substâncias proibidas no esporte, porque podem mascarar outras substâncias na urina e provocar perda rápida de peso para competições por categoria. Atletas federados devem consultar o médico do esporte antes de usar qualquer diurético, inclusive em associações anti-hipertensivas.</p> <div class=\"cx alerta\"><b>Atenção</b><p>Diurético não é emagrecedor. O peso perdido é água e volta em dias, com risco de desidratação, hipocalemia, arritmia e lesão renal. Pedido de furosemida \"para desinchar\" ou \"para perder peso\" sem receita deve ser recusado, com orientação. Furosemida e hidroclorotiazida são de venda sob prescrição.</p></div> <h3>Horário de tomada</h3> <p>A DBHA 2025 informa que anti-hipertensivos podem ser tomados pela manhã ou à noite com eficácia semelhante. Para diuréticos, porém, a tomada pela manhã evita acordar à noite para urinar (noctúria), que atrapalha o sono e aumenta o risco de queda em idosos. Quando a furosemida é prescrita em duas tomadas, a segunda costuma ficar no início da tarde. Quem vai sair de casa por muitas horas pode combinar com o médico o melhor horário.</p> <div class=\"cx balcao\"><b>No balcão</b><p>Ao dispensar um diurético: oriente tomar pela manhã, levantar devagar, beber água conforme orientação médica (há pacientes com restrição hídrica na insuficiência cardíaca), não usar sal light ou suplemento de potássio com espironolactona sem orientação, procurar atendimento se houver cãibras intensas, fraqueza, palpitação ou confusão, e evitar AINE. Em vômitos ou diarreia intensos, o diurético pode precisar de suspensão temporária; essa decisão deve ser orientada pelo médico.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Idosa de 82 anos, em uso de hidroclorotiazida 25 mg e sertralina, é trazida pela filha porque está \"confusa e sonolenta há dois dias\". O farmacêutico reconhece risco de hiponatremia (tiazídico, idade, inibidor seletivo da recaptação de serotonina) e orienta avaliação médica no mesmo dia, sem sugerir suspensão por conta própria.</p></div>"
-  },
-  {
    "id": "m04-associacoes",
    "titulo": "Associações e escolha do anti-hipertensivo",
    "resumo": "<p>A escolha do anti-hipertensivo é decisão médica, mas o farmacêutico precisa entender a lógica para reconhecer prescrições coerentes, duplicidades e associações perigosas. A DBHA 2025 organiza o tratamento em torno de três ideias: classes preferenciais, associação desde o início para a maioria e comprimido único sempre que possível.</p> <h3>Classes preferenciais e o octeto do tratamento</h3> <p>As classes preferenciais para tratar HA e reduzir eventos cardiovasculares e renais são: <strong>diuréticos tiazídicos ou similares, IECA ou BRA e BCC</strong> (recomendação forte, certeza alta). O BB entra na base quando há indicação específica (angina, pós-infarto, insuficiência cardíaca, arritmias, fibrilação atrial, diálise, mulher que deseja engravidar). A diretriz representa isso como um \"octeto\": mudanças de estilo de vida na base, depois as classes preferenciais, depois espironolactona e, no topo, os fármacos menos usados (simpatolíticos centrais, alfabloqueadores e vasodilatadores diretos).</p> <h3>Monoterapia ou associação</h3> <p>Para a maioria dos hipertensos, a DBHA 2025 recomenda iniciar com <strong>associação dupla em doses baixas, preferencialmente em comprimido único</strong>: IECA ou BRA combinado com BCC ou com diurético tiazídico. A monoterapia fica reservada para:</p> <ul> <li>pré-hipertensão (130 a 139/80 a 89 mmHg) com alto risco cardiovascular;</li> <li>HA estágio 1 de baixo risco (a critério médico, pode ser associação);</li> <li>pessoas frágeis, muito idosas (80 anos ou mais) ou com hipotensão ortostática sintomática.</li> </ul> <p>Se a meta não for atingida com duas classes, o passo seguinte é a associação tripla (IECA ou BRA + BCC + tiazídico). Persistindo acima da meta com as três em doses adequadas, configura-se HA resistente, e o quarto fármaco recomendado é a <strong>espironolactona</strong> (ou eplerenona se houver intolerância). A diretriz reforça rever o paciente a cada 4 semanas até atingir a meta, verificar adesão sempre e combater a inércia terapêutica.</p> <div class=\"cx chave\"><b>Ponto-chave</b><p>Sequência típica: IECA/BRA + BCC ou tiazídico (comprimido único) → tripla IECA/BRA + BCC + tiazídico → espironolactona. Betabloqueador quando há indicação cardíaca específica.</p></div> <h3>Por que a dose fixa ajuda</h3> <p>Cada comprimido a mais reduz a adesão. A associação em dose fixa soma mecanismos complementares (por exemplo, o IECA ou BRA reduz o edema do anlodipino e a perda de potássio do tiazídico), permite doses menores de cada componente e simplifica a rotina. O lado negativo é a menor flexibilidade de ajuste e o risco de duplicidade quando o paciente recebe a associação e também um componente isolado.</p> <h3>O que não associar</h3> <div class=\"tab\"><table><thead><tr><th>Associação</th><th>Problema</th></tr></thead><tbody> <tr><td>IECA + BRA</td><td>Contraindicada: hipercalemia, hipotensão e lesão renal sem benefício</td></tr> <tr><td>IECA ou BRA + alisquireno no diabético</td><td>Mesmo problema do duplo bloqueio</td></tr> <tr><td>BB + verapamil ou diltiazem</td><td>Bradicardia e bloqueio atrioventricular</td></tr> <tr><td>Dois fármacos da mesma classe</td><td>Duplicidade (ex.: anlodipino + nifedipino; dose fixa + componente isolado)</td></tr> <tr><td>Espironolactona + suplemento de potássio ou sal light</td><td>Hipercalemia, principalmente com IECA/BRA e doença renal</td></tr> <tr><td>Clonidina suspensa antes do BB</td><td>Crise hipertensiva por rebote</td></tr> </tbody></table></div> <h3>Outras classes</h3> <div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>Dose diária habitual</th><th>Uso principal</th><th>Cuidado marcante</th></tr></thead><tbody> <tr><td>Clonidina</td><td>0,2 a 0,9 mg em 2 a 3 tomadas</td><td>HA resistente; intolerância à espironolactona</td><td>Rebote grave se suspensa de repente; boca seca, sonolência</td></tr> <tr><td>Metildopa</td><td>500 mg a 2 g em 2 tomadas</td><td>HA na gestação (praticamente a única indicação)</td><td>Sonolência; hepatite e anemia hemolítica raras</td></tr> <tr><td>Hidralazina</td><td>50 a 200 mg em 2 a 3 tomadas</td><td>HA resistente; gestação</td><td>Taquicardia reflexa, retenção de sódio; síndrome lúpus-like em dose alta. Não usar isolada</td></tr> <tr><td>Minoxidil oral</td><td>5 a 40 mg em 1 tomada</td><td>HA refratária</td><td>Hirsutismo, retenção hídrica; proibido na gestação</td></tr> <tr><td>Doxazosina</td><td>1 a 16 mg em 1 tomada</td><td>Associação; hiperplasia prostática</td><td>Hipotensão na primeira dose: iniciar ao deitar</td></tr> <tr><td>Prazosina</td><td>1 a 20 mg em 2 a 3 tomadas</td><td>Associação</td><td>Hipotensão postural; aumentar a cada 2 dias</td></tr> </tbody></table></div> <p>Doses conforme a DBHA 2025 (Quadro 7.7). Na gestação, a diretriz recomenda iniciar com metildopa ou BCC di-hidropiridínico (nifedipina de ação prolongada ou anlodipino); IECA e BRA são formalmente contraindicados, assim como o atenolol e os antagonistas mineralocorticoides, como a espironolactona (DBHA 2025, cap. 10).</p> <h3>SUS e Farmácia Popular</h3> <p>A DBHA 2025 traz, pela primeira vez, um capítulo sobre a HA no SUS. O Quadro 14.8 lista no Programa Farmácia Popular: captopril 25 mg, enalapril 10 mg, losartana 50 mg, hidroclorotiazida 25 mg, espironolactona 25 mg, furosemida 40 mg, atenolol 25 mg, propranolol 40 mg e succinato de metoprolol 25 mg. No componente básico da assistência farmacêutica aparecem também anlodipino, nifedipino, verapamil, metildopa, hidralazina, doxazosina e outras apresentações. O elenco e as regras de dispensação mudam: consulte as normas vigentes do programa antes de orientar o cliente.</p> <h3>Adesão: onde o farmacêutico mais contribui</h3> <p>A HA quase não dá sintomas, e muitas pessoas tomam o remédio só \"quando a pressão sobe\" ou abandonam o tratamento ao sentir um efeito adverso. A DBHA 2025 inclui a verificação de adesão em toda revisão. No balcão, o farmacêutico pode perguntar de forma aberta e sem julgamento (\"quantas vezes nesta semana o senhor esqueceu algum comprimido?\"), conferir a data da última compra em relação à quantidade dispensada, simplificar horários junto com o prescritor, sugerir associação em dose fixa quando houver mais de um comprimido da mesma combinação e orientar o uso de alarmes ou organizadores. Efeitos adversos relatados devem ser registrados e comunicados, e casos graves notificados à Anvisa pelo sistema de farmacovigilância.</p> <div class=\"cx balcao\"><b>No balcão</b><p>Peça ao hipertenso a lista de todos os remédios, inclusive os de outros médicos e os comprados sem receita. Procure duplicidade de classe e combinações proibidas. Pergunte sobre efeitos que levam ao abandono: tosse (IECA), tornozelo inchado (BCC), cansaço (BB), urinar à noite (diurético). Ofereça organizador de doses ou tabela de horários quando houver três ou mais comprimidos.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Paciente de 59 anos usa \"losartana 50 mg + hidroclorotiazida 12,5 mg\" e anlodipino 5 mg, com PA 148/92 mmHg nas medidas da farmácia por três visitas. Relata que toma o anlodipino só quando \"sente a pressão alta\". O farmacêutico corrige o uso intermitente, explica que o tratamento é contínuo, combina horário fixo e orienta retorno ao médico com o registro das medidas, que pode avaliar trocar a hidroclorotiazida por clortalidona ou ajustar doses.</p></div>"
   },
   {
-   "id": "m04-rim",
-   "titulo": "Rim e medicamentos no balcão",
-   "resumo": "<p>O rim filtra o sangue, elimina fármacos e seus metabólitos, regula água, sódio, potássio e ácido-base e produz eritropoetina e a forma ativa da vitamina D. A doença renal crônica (DRC) é silenciosa nas fases iniciais e muito ligada a HA e diabetes, justamente o público que mais frequenta a farmácia. Muitos medicamentos de uso corrente pioram a função renal ou se acumulam quando ela está reduzida.</p> <h3>Como estimar a função renal</h3> <p>A medida usada na prática é a <strong>taxa de filtração glomerular estimada (TFGe)</strong>, calculada a partir da creatinina sérica, idade e sexo. A equação padrão atual é a <strong>CKD-EPI 2021</strong>, que retirou o coeficiente racial das versões anteriores. Os laboratórios geralmente já informam a TFGe no laudo. A fórmula de Cockcroft-Gault, que estima a depuração de creatinina (ClCr) a partir do peso, não é o padrão. Algumas bulas antigas ainda ajustam a dose por ClCr; nesses casos, o ajuste é decidido pelo prescritor com o dado disponível, e a referência para classificar a função renal continua sendo a TFGe por CKD-EPI 2021.</p> <div class=\"tab\"><table><thead><tr><th>Categoria</th><th>TFGe (mL/min/1,73 m²)</th><th>Descrição</th></tr></thead><tbody> <tr><td>G1</td><td>≥ 90</td><td>Normal ou alta (DRC só se houver outro marcador de lesão)</td></tr> <tr><td>G2</td><td>60 a 89</td><td>Levemente reduzida</td></tr> <tr><td>G3a</td><td>45 a 59</td><td>Leve a moderadamente reduzida</td></tr> <tr><td>G3b</td><td>30 a 44</td><td>Moderada a gravemente reduzida</td></tr> <tr><td>G4</td><td>15 a 29</td><td>Gravemente reduzida</td></tr> <tr><td>G5</td><td>&lt; 15</td><td>Falência renal</td></tr> </tbody></table></div> <p>Classificação KDIGO. A DRC é definida por alteração de estrutura ou função renal por mais de 3 meses: TFGe abaixo de 60 ou marcador de lesão, como albuminúria (relação albumina/creatinina na urina ≥ 30 mg/g).</p> <h3>Nefrotóxicos de balcão</h3> <p>Os <strong>anti-inflamatórios não esteroides</strong> (ibuprofeno, naproxeno, diclofenaco, nimesulida, cetoprofeno, inibidores seletivos da COX-2) são os principais. Eles inibem prostaglandinas que mantêm a arteríola aferente dilatada. Em rim saudável e hidratado isso pouco importa; em idosos, desidratados, cardiopatas, cirróticos ou com DRC, a filtração cai e pode haver lesão renal aguda. Os AINE também retêm sódio, elevam a PA, causam hipercalemia e reduzem o efeito de anti-hipertensivos e diuréticos.</p> <div class=\"cx alerta\"><b>Atenção</b><p>\"Triple whammy\" é o nome dado à combinação de <strong>IECA ou BRA + diurético + AINE</strong>. O diurético reduz o volume, o IECA ou BRA dilata a arteríola eferente e o AINE contrai a aferente: a pressão de filtração despenca. Em coorte britânica com 487 mil usuários de anti-hipertensivos, a combinação tripla aumentou em 31% a taxa de lesão renal aguda, e o risco foi maior nos primeiros 30 dias de uso (razão de taxas 1,82) (Lapi et al., BMJ 2013). É uma das interações mais relevantes que o farmacêutico pode evitar no balcão.</p></div> <p>Outros pontos de atenção:</p> <ul> <li>Laxantes e enemas com fosfato de sódio: risco de nefropatia por fosfato e distúrbios eletrolíticos em idosos e renais.</li> <li>Antiácidos e laxantes com magnésio ou alumínio: acumulam na DRC avançada.</li> <li>Suplementos de potássio e sal light: hipercalemia em quem tem DRC ou usa IECA, BRA ou espironolactona.</li> <li>Produtos \"naturais\" e suplementos de procedência duvidosa: composição incerta, com casos de contaminação e adulteração.</li> <li>Desidratação por vômitos, diarreia ou calor em quem usa diurético, IECA, BRA, metformina ou iSGLT2.</li> </ul> <h3>Dias de doença</h3> <p>Em quadros agudos com vômitos, diarreia ou febre que impedem a hidratação, alguns medicamentos aumentam o risco de lesão renal ou de acidose: diuréticos, IECA, BRA, AINE, metformina e iSGLT2. Vários serviços entregam ao paciente um plano escrito de \"dias de doença\" dizendo quais pausar temporariamente e quando retomar. O farmacêutico pode reforçar esse plano, mas não deve criar um por conta própria: a pausa precisa ser orientada pelo médico.</p> <h3>Proteção renal: iSGLT2</h3> <p>Os inibidores do SGLT2 (dapagliflozina, empagliflozina) reduzem a progressão da DRC e eventos cardiovasculares, com ou sem diabetes, e a DBHA 2025 recomenda favorecer seu uso na HA com DRC, ao lado do IECA ou BRA e, em diabéticos, da finerenona e dos agonistas de GLP-1. No SUS, a dapagliflozina tem critérios definidos em protocolo para DRC. O tema é detalhado no módulo de sistema endócrino.</p> <h3>Sinais de alerta que o farmacêutico percebe</h3> <p>A DRC costuma ser descoberta tarde. No contato frequente com hipertensos e diabéticos, o farmacêutico pode notar sinais que justificam avaliação: urina espumosa persistente, inchaço de pálpebras pela manhã ou de pernas, aumento da vontade de urinar à noite, cansaço sem explicação, perda de apetite e coceira na pele em fases avançadas. A DBHA 2025 recomenda, na avaliação de todo hipertenso, dosar creatinina com cálculo da TFGe e pesquisar albuminúria ou proteinúria. Perguntar \"quando foi o último exame de sangue e de urina?\" é uma forma simples de estimular esse acompanhamento.</p> <h3>Ajuste renal de fármacos comuns</h3> <div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>O que acontece na DRC</th><th>Conduta usual</th></tr></thead><tbody> <tr><td>Metformina</td><td>Acúmulo e risco de acidose lática</td><td>Máximo 1 g/dia se TFGe &lt; 45 mL/min/1,73 m²; suspender se &lt; 30 (SBD 2026)</td></tr> <tr><td>Glibenclamida</td><td>Metabólitos ativos acumulam: hipoglicemia prolongada</td><td>Evitar; prescritor costuma preferir gliclazida MR</td></tr> <tr><td>Sitagliptina, vildagliptina</td><td>Acúmulo</td><td>Redução de dose conforme bula; linagliptina sem ajuste</td></tr> <tr><td>Atenolol</td><td>Eliminação renal</td><td>Redução de dose ou intervalo</td></tr> <tr><td>Espironolactona, IECA, BRA</td><td>Hipercalemia</td><td>Monitorar potássio e creatinina</td></tr> <tr><td>Antimicrobianos (amoxicilina, aciclovir, nitrofurantoína, fluoroquinolonas)</td><td>Acúmulo ou perda de eficácia</td><td>Ajuste de dose ou de escolha conforme bula</td></tr> <tr><td>Gabapentina, pregabalina</td><td>Acúmulo: sonolência, tontura, quedas</td><td>Redução de dose conforme TFG</td></tr> <tr><td>Alopurinol, colchicina</td><td>Acúmulo e toxicidade</td><td>Dose ajustada e cautela com interações</td></tr> <tr><td>Anticoagulantes diretos, enoxaparina</td><td>Acúmulo: sangramento</td><td>Ajuste conforme bula e TFG</td></tr> </tbody></table></div> <p>A tabela é um guia de alerta. O número exato de corte e a nova dose estão na bula de cada produto e são definidos pelo prescritor.</p> <h3>Hipercalemia e alimentação</h3> <p>Pessoas com DRC em uso de IECA, BRA ou espironolactona costumam receber orientação de controlar potássio na dieta. Banana, laranja, água de coco, feijão, tomate e frutas secas são ricos em potássio, e o sal light troca parte do sódio por cloreto de potássio. O farmacêutico não deve prescrever dieta, mas precisa saber disso para não indicar suplemento de potássio, isotônico ou sal light a esses clientes. Exames de potássio acima do valor de referência relatados pelo cliente justificam contato com o médico antes da próxima dose de espironolactona.</p> <h3>Exames com contraste</h3> <p>O contraste iodado de tomografias e cateterismos pode reduzir a função renal em pessoas com DRC, desidratação ou diabetes. Pacientes em uso de metformina recebem orientação específica sobre pausa e reavaliação da função renal (detalhada no módulo de sistema endócrino). Antes do exame, o serviço de imagem costuma perguntar sobre creatinina, metformina, diuréticos e AINE; o farmacêutico pode ajudar o cliente a levar a lista atualizada de medicamentos.</p> <div class=\"cx balcao\"><b>No balcão</b><p>Antes de indicar ou dispensar um AINE, pergunte: tem pressão alta, problema nos rins, insuficiência cardíaca ou diabetes? Usa remédio de pressão ou diurético? Tem mais de 65 anos? Se sim, prefira analgésico sem efeito renal (paracetamol ou dipirona, respeitando contraindicações) e oriente avaliação médica para dor persistente. Peça ao paciente com DRC o último resultado de creatinina e TFGe e anote no cadastro.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Homem de 74 anos, em uso de enalapril e hidroclorotiazida, pede nimesulida para dor no joelho. Está com diarreia há dois dias. O farmacêutico identifica o risco de lesão renal (IECA + diurético + AINE + desidratação), não indica o AINE, orienta hidratação oral, sugere paracetamol em dose adequada para a dor e encaminha ao médico pela diarreia e para avaliar o uso dos anti-hipertensivos durante o quadro.</p></div>"
+   "id": "m04-antiarritmicos",
+   "titulo": "Antiarrítmicos",
+   "resumo": "<p>Arritmia é a alteração na formação ou na condução do impulso elétrico do coração. A mais comum é a <strong>fibrilação atrial</strong> (FA): os átrios disparam de forma desorganizada e o ventrículo responde de modo irregular. O farmacêutico confere dose, interação, exames de controle e sinais de toxicidade.</p> <h3>Eletrofisiologia básica</h3> <p>No potencial de ação do ventrículo, a fase 0 é a entrada rápida de sódio, a fase 2 (platô) depende do cálcio e a fase 3 é a repolarização pela saída de potássio. Os nós sinusal e atrioventricular (AV) dependem de corrente lenta de cálcio e do tônus autonômico, por isso respondem a betabloqueadores, verapamil, diltiazem e digoxina. No ECG, o PR mede a passagem pelo nó AV, o QRS a despolarização ventricular e o <strong>intervalo QT</strong> a despolarização somada à repolarização (QTc, quando corrigido pela frequência). QT longo predispõe a <em>torsades de pointes</em>, taquicardia ventricular que pode causar síncope e morte súbita.</p> <h3>Classificação de Vaughan Williams</h3> <p>É a classificação usada pela Diretriz Brasileira de Fibrilação Atrial 2025 (SBC), que lembra que poucos antiarrítmicos estão à venda no Brasil.</p> <div class=\"tab\"><table><thead><tr><th>Classe</th><th>Mecanismo</th><th>Exemplos</th><th>Efeito no ECG</th></tr></thead><tbody> <tr><td>I</td><td>Bloqueio dos canais de sódio (IA, IB, IC)</td><td>Propafenona (IC); lidocaína (IB, venosa)</td><td>QRS mais largo (IC)</td></tr> <tr><td>II</td><td>Bloqueio beta-adrenérgico</td><td>Metoprolol, bisoprolol, atenolol, carvedilol</td><td>FC menor, PR mais longo</td></tr> <tr><td>III</td><td>Bloqueio dos canais de potássio</td><td>Amiodarona, sotalol</td><td>QT mais longo</td></tr> <tr><td>IV</td><td>Bloqueio dos canais de cálcio no nó AV</td><td>Verapamil, diltiazem</td><td>FC menor, PR mais longo</td></tr> </tbody></table></div> <p>Segundo a diretriz, só amiodarona e propafenona estão disponíveis no Brasil para a cardioversão farmacológica da FA, e só a amiodarona serve na cardiopatia estrutural.</p> <h3>Amiodarona</h3> <p>A <strong>amiodarona</strong> (Ancoron® e genéricos) é de classe III (bloqueio de potássio), com ações das quatro classes. É o antiarrítmico mais eficaz para manter o ritmo sinusal e pode ser usado na insuficiência cardíaca. A diretriz cita ataque oral de 600 a 800 mg/dia em doses divididas até o total de 10 g e manutenção de 200 a 400 mg uma vez ao dia; no controle de frequência, 100 a 400 mg/dia (Diretriz Brasileira de FA 2025). É muito lipossolúvel: a meia-vida média é de 58 dias (15 a 142), e efeitos e interações persistem por semanas a meses depois da suspensão (bula FDA da amiodarona, 2020).</p> <div class=\"tab\"><table><thead><tr><th>Órgão</th><th>Toxicidade</th><th>Controle</th></tr></thead><tbody> <tr><td>Tireoide</td><td>Hipotireoidismo em até 10% e hipertireoidismo em cerca de 2% (rica em iodo)</td><td>TSH e T4 livre periódicos</td></tr> <tr><td>Pulmão</td><td>Pneumonite e fibrose; tosse seca, dispneia, febre</td><td>Radiografia de tórax e função pulmonar</td></tr> <tr><td>Fígado</td><td>Elevação de transaminases, hepatite</td><td>Reduzir ou suspender se transaminases acima de 3 vezes o normal</td></tr> <tr><td>Olho</td><td>Microdepósitos na córnea (comuns, reversíveis); neuropatia óptica (rara, grave)</td><td>Avaliação oftalmológica</td></tr> <tr><td>Pele</td><td>Fotossensibilidade; coloração azul-acinzentada em uso longo</td><td>Fotoproteção</td></tr> </tbody></table></div> <p>Frequências da bula americana (FDA, 2020); a diretriz pede esses controles periodicamente no uso crônico.</p> <p>Interações (bula FDA): a <strong>varfarina</strong> pode ter o efeito dobrado em poucos dias, e a bula orienta reduzir a dose em um terço a metade e monitorar o RNI; a <strong>digoxina</strong> deve ser reduzida pela metade ou suspensa; a sinvastatina fica limitada a 20 mg/dia e a lovastatina a 40 mg/dia; toranja (grapefruit) deve ser evitada; com sofosbuvir houve bradicardia grave.</p> <h3>Propafenona</h3> <p>A <strong>propafenona</strong> (classe IC) é indicada só para quem não tem isquemia nem cardiopatia estrutural; disfunção do ventrículo esquerdo contraindica o uso (Diretriz Brasileira de FA 2025, com base no estudo CAST). A dose usual vai de 150 mg duas vezes ao dia a 300 mg três vezes ao dia, sem passar de 900 mg/dia (bula FDA, 2021). Na estratégia <em>pill in the pocket</em>, o paciente orientado pelo cardiologista toma 450 a 600 mg em dose única no início da crise. A bula contraindica o uso na insuficiência cardíaca, na síndrome de Brugada, em bradicardia e broncoespasmo. Efeitos comuns: gosto metálico, tontura, náusea. A agranulocitose é rara e surge em geral nos primeiros 2 a 3 meses: febre ou dor de garganta exigem hemograma. Eleva a digoxina, potencializa a varfarina e não deve ser associada a um inibidor do CYP2D6 (paroxetina) junto com um inibidor do CYP3A4.</p> <h3>Sotalol e o intervalo QT</h3> <p>O <strong>sotalol</strong> soma bloqueio beta (classe II) e bloqueio de potássio (classe III). A eliminação é renal: a Diretriz Brasileira de FA 2025 manda reduzir a dose com clearance de creatinina abaixo de 60 mL/min e contraindica abaixo de 40 mL/min; a dose usual é de 80 a 160 mg duas vezes ao dia. A bula americana (FDA, 2023) exige início ou reinício em serviço com monitorização contínua de ECG por pelo menos 3 dias, contraindica iniciar na FA com QTc acima de 450 ms ou potássio abaixo de 4 mEq/L e manda reduzir ou suspender se o QT chegar a 500 ms. Antiácidos com alumínio e magnésio ficam 2 horas longe do sotalol. Diretriz e bula usam o clearance de creatinina; o laudo costuma trazer a TFG por CKD-EPI 2021, e a dúvida em idoso ou pessoa de baixo peso vai para o prescritor.</p> <h3>Controle da frequência</h3> <p>Quando se mantém o paciente em FA, o alvo é frequência de repouso abaixo de 80 bpm, ou abaixo de 110 bpm no paciente sem sintomas (Diretriz Brasileira de FA 2025). Os <strong>betabloqueadores</strong> são os preferenciais; verapamil e diltiazem são alternativa, mas não com fração de ejeção abaixo de 40%; a digoxina entra quando o controle segue inadequado.</p> <div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>Dose oral diária (SBC 2025, Tabela 20)</th></tr></thead><tbody> <tr><td>Metoprolol (succinato)</td><td>50 a 400 mg</td></tr> <tr><td>Diltiazem</td><td>180 a 360 mg</td></tr> <tr><td>Verapamil</td><td>80 a 480 mg</td></tr> <tr><td>Digoxina</td><td>0,0625 a 0,25 mg</td></tr> </tbody></table></div> <h3>Digoxina</h3> <p>A <strong>digoxina</strong> inibe a bomba de sódio e potássio do miócito e aumenta o tônus vagal, o que reduz a condução pelo nó AV. A janela terapêutica é estreita: a bula americana associa níveis abaixo de 0,5 ng/mL a menor eficácia e acima de 2 ng/mL a mais toxicidade, e a diretriz brasileira descreve aumento de mortalidade com concentração acima de 1,2 ng/mL. A dosagem sérica é colhida logo antes da próxima dose ou pelo menos 6 horas depois da última (bula FDA).</p> <p>Sinais de intoxicação: anorexia, náusea, vômito, confusão no idoso, visão amarelo-esverdeada, bradicardia, bloqueios e arritmias ventriculares. Aumentam o risco a <strong>hipocalemia</strong> (diuréticos, ver o módulo Sistema renal), a hipomagnesemia, a hipercalcemia, a idade, o baixo peso e a função renal reduzida; a diretriz manda evitar a digoxina na doença renal avançada. Amiodarona, verapamil, propafenona, claritromicina e quinidina elevam a digoxina em mais de 50%, e a bula orienta dosar antes e reduzir a dose em 30 a 50%.</p> <div class=\"cx alerta\"><b>Atenção</b><p>Idoso com digoxina e furosemida que chega com náusea, vômito, confusão ou visão amarelada pode estar intoxicado. Não indique antiemético: encaminhe para atendimento no mesmo dia.</p></div> <h3>Anticoagulação na fibrilação atrial</h3> <p>A FA forma trombos no átrio e aumenta muito o risco de AVC. A diretriz brasileira de 2025 adotou o escore <strong>CHA<sub>2</sub>DS<sub>2</sub>-VA</strong>, sem o sexo feminino: insuficiência cardíaca, hipertensão, diabetes, doença vascular e idade de 65 a 74 anos valem 1 ponto; idade de 75 anos ou mais e AVC, AIT ou embolia prévios valem 2. Com 2 pontos ou mais, a anticoagulação é recomendada; com 1, pode ser instituída após pesar sangramento e preferência; com 0, não há indicação. Os anticoagulantes orais diretos (ACOD: apixabana, rivaroxabana, dabigatrana, edoxabana) são preferíveis à varfarina, exceto em prótese valvar mecânica ou estenose mitral moderada a grave (varfarina com RNI de 2 a 3). Antiagregante sozinho não previne AVC na FA, e HAS-BLED de 3 ou mais indica alto risco de sangramento, sem contraindicar.</p> <h3>Fármacos que prolongam o QT</h3> <p>A referência prática é o <strong>CredibleMeds</strong> (crediblemeds.org, da AZCERT, cadastro gratuito). Ele separa risco conhecido de <em>torsades</em> (mesmo em dose habitual), risco possível (prolongam o QT, sem evidência de <em>torsades</em> na dose habitual) e risco condicional (com dose excessiva, hipocalemia ou interação). Estão na lista, entre outros, amiodarona, sotalol, claritromicina, eritromicina, azitromicina, fluoroquinolonas, ondansetrona, domperidona, haloperidol, citalopram, escitalopram, metadona, fluconazol e hidroxicloroquina; a categoria de cada um deve ser conferida no site, porque muda. O risco cresce com a soma de fármacos, idade, bradicardia, hipocalemia e hipomagnesemia.</p> <div class=\"cx chave\"><b>Ponto-chave</b><p>Amiodarona mexe com tireoide, pulmão, fígado, olho e pele e interage com varfarina, digoxina e sinvastatina. Propafenona só sem cardiopatia estrutural. Sotalol começa internado e depende do rim e do QT. Digoxina: hipocalemia e amiodarona precipitam intoxicação.</p></div> <div class=\"cx balcao\"><b>No balcão</b><p>Pergunte sobre palpitação, desmaio, falta de ar, tosse nova e visão alterada, e confira a data dos últimos exames (TSH, transaminases, potássio, ECG). Em toda receita nova para quem usa amiodarona, sotalol ou digoxina, procure fármacos de QT e interações e contate o prescritor quando houver soma de risco. Oriente não dobrar dose esquecida, usar protetor solar com amiodarona e procurar atendimento se o pulso ficar muito lento.</p></div>"
   }
  ],
  "mapas": [
@@ -111,61 +106,63 @@
    ]
   },
   {
-   "id": "m04-mapa-diureticos-rim",
-   "titulo": "Diuréticos e rim",
-   "centro": "Diuréticos e rim",
+   "id": "m04-mapa-antiarritmicos",
+   "titulo": "Antiarrítmicos",
+   "centro": "Antiarrítmicos",
    "ramos": [
     {
-     "t": "Tiazídicos e análogos",
+     "t": "Vaughan Williams",
      "itens": [
-      "Túbulo distal, cotransportador Na-Cl",
-      "HCTZ, clortalidona 12,5-25 mg, indapamida",
-      "Hipo K, hipo Na, hiperuricemia, hiperglicemia",
-      "Gota ativa: contraindicado"
+      "I: sódio (propafenona é IC)",
+      "II: betabloqueadores",
+      "III: potássio (amiodarona, sotalol)",
+      "IV: verapamil e diltiazem"
      ]
     },
     {
-     "t": "Diuréticos de alça",
+     "t": "Amiodarona",
      "itens": [
-      "Alça de Henle: Na-K-2Cl",
-      "Furosemida 20-240 mg/dia",
-      "Edema: IC, DRC, cirrose",
-      "Hipo K, hipo Mg, ototoxicidade"
+      "Tireoide: hipo ou hipertireoidismo",
+      "Pulmão: tosse, dispneia, fibrose",
+      "Fígado, córnea e fotossensibilidade",
+      "Varfarina: reduzir 1/3 a 1/2 e checar RNI",
+      "Digoxina pela metade; sinvastatina até 20 mg"
      ]
     },
     {
-     "t": "Poupadores de K",
+     "t": "Propafenona e sotalol",
      "itens": [
-      "Espironolactona: 4º fármaco na HA resistente",
-      "Ginecomastia com espironolactona",
-      "Amilorida: associada a tiazídico",
-      "Hipercalemia com IECA/BRA e DRC"
+      "Propafenona: só sem cardiopatia estrutural",
+      "Propafenona: febre e dor de garganta, hemograma",
+      "Sotalol: início com ECG contínuo por 3 dias",
+      "Sotalol: QT ≥ 500 ms reduz ou suspende"
      ]
     },
     {
-     "t": "Outros diuréticos",
+     "t": "Controle de frequência",
      "itens": [
-      "Acetazolamida: glaucoma, mal da montanha",
-      "Acetazolamida: acidose, parestesia",
-      "Manitol: osmótico, só hospitalar"
+      "Betabloqueador é o preferencial",
+      "Verapamil/diltiazem: evitar se FEVE < 40%",
+      "Meta: FC < 80 bpm; leniente < 110 bpm",
+      "Digoxina se o controle seguir inadequado"
      ]
     },
     {
-     "t": "Função renal",
+     "t": "Digoxina",
      "itens": [
-      "TFGe por CKD-EPI 2021, sem raça",
-      "DRC: TFGe < 60 ou albuminúria > 3 meses",
-      "G3a 45-59; G3b 30-44; G4 15-29",
-      "Metformina: suspender se TFGe < 30"
+      "Acima de 1,2 ng/mL: mais mortalidade",
+      "Náusea, visão amarelada, bradicardia",
+      "Hipocalemia e hipomagnesemia: toxicidade",
+      "Amiodarona, verapamil e claritromicina elevam"
      ]
     },
     {
-     "t": "Balcão",
+     "t": "FA e QT",
      "itens": [
-      "Diurético pela manhã: evita noctúria",
-      "IECA/BRA + diurético + AINE: lesão renal",
-      "Diurético não emagrece",
-      "Vômito/diarreia: médico orienta pausas"
+      "CHA2DS2-VA ≥ 2: anticoagular",
+      "ACOD; varfarina se prótese mecânica",
+      "CredibleMeds: risco de QT por fármaco",
+      "Soma de fármacos de QT: avisar o prescritor"
      ]
     }
    ]
@@ -278,66 +275,67 @@
   },
   {
    "tipo": "tabela",
-   "id": "m04-tab-diureticos",
-   "titulo": "Diuréticos por local de ação",
+   "id": "m04-tab-antiarritmicos",
+   "titulo": "Antiarrítmicos: classe, ECG, efeitos e interações",
    "colunas": [
-    "Local no néfron",
     "Classe",
     "Exemplos",
-    "Potência",
-    "Eletrólitos e metabolismo",
-    "Uso principal"
+    "Efeito no ECG",
+    "Efeitos adversos",
+    "Interações"
    ],
    "linhas": [
     [
-     "Túbulo proximal",
-     "Inibidor da anidrase carbônica",
-     "Acetazolamida",
-     "Fraca",
-     "Acidose metabólica; hipocalemia",
-     "Glaucoma; mal da montanha"
+     "IA (sódio e potássio)",
+     "Quinidina, procainamida (uso raro)",
+     "QRS e QT mais longos",
+     "<i>Torsades de pointes</i>; diarreia (quinidina)",
+     "Quinidina dobra a digoxina"
     ],
     [
-     "Alça de Henle (ramo ascendente espesso)",
-     "Diurético de alça",
-     "Furosemida, bumetanida",
-     "Alta",
-     "Hipo K, hipo Mg, hiperuricemia, perda de cálcio",
-     "Edema: IC, DRC, cirrose"
+     "IB (sódio)",
+     "Lidocaína venosa, hospitalar",
+     "Pouca alteração",
+     "Confusão e convulsão em dose alta",
+     "Uso agudo com monitorização"
     ],
     [
-     "Túbulo contornado distal",
-     "Tiazídico e análogos",
-     "Hidroclorotiazida, clortalidona, indapamida",
-     "Moderada",
-     "Hipo K, hipo Na, hiperuricemia, hiperglicemia, retenção de cálcio",
-     "Hipertensão arterial"
+     "IC (sódio)",
+     "Propafenona",
+     "PR e QRS mais longos",
+     "Gosto metálico, tontura, flutter IC, agranulocitose rara",
+     "Eleva digoxina e varfarina; evitar inibidor de CYP2D6 com inibidor de CYP3A4"
     ],
     [
-     "Ducto coletor (receptor de aldosterona)",
-     "Antagonista mineralocorticoide",
-     "Espironolactona, eplerenona",
-     "Fraca",
-     "Hipercalemia",
-     "HA resistente; IC; hiperaldosteronismo; ascite"
+     "II (beta)",
+     "Metoprolol, bisoprolol, atenolol, carvedilol",
+     "FC menor, PR mais longo",
+     "Bradicardia, fadiga, broncoespasmo, mascara hipoglicemia",
+     "Verapamil ou diltiazem: bradicardia e bloqueio"
     ],
     [
-     "Ducto coletor (ENaC)",
-     "Bloqueador de canal de sódio",
-     "Amilorida",
-     "Fraca",
-     "Hipercalemia",
-     "Associação com tiazídico"
+     "III (potássio)",
+     "Amiodarona; sotalol",
+     "QT mais longo, FC menor",
+     "Amiodarona: tireoide, pulmão, fígado, olho, pele. Sotalol: <i>torsades</i>, broncoespasmo",
+     "Amiodarona: varfarina, digoxina, sinvastatina até 20 mg. Sotalol: outros fármacos de QT; antiácido 2 h antes ou depois"
     ],
     [
-     "Todo o néfron (efeito osmótico)",
-     "Diurético osmótico",
-     "Manitol (IV)",
-     "Variável",
-     "Distúrbios de sódio e água",
-     "Hipertensão intracraniana; uso hospitalar"
+     "IV (cálcio)",
+     "Verapamil, diltiazem",
+     "FC menor, PR mais longo",
+     "Bradicardia, bloqueio AV, constipação (verapamil)",
+     "Inibem o CYP3A4: sinvastatina até 10 mg; elevam a digoxina"
+    ],
+    [
+     "Digitálico",
+     "Digoxina",
+     "PR mais longo; infradesnível de ST em colher",
+     "Náusea, vômito, visão amarelada, bradicardia, arritmias",
+     "Amiodarona, verapamil, propafenona, claritromicina; hipocalemia por diurético"
     ]
-   ]
+   ],
+   "nota": "Classes conforme a Diretriz Brasileira de Fibrilação Atrial 2025 (SBC). Efeitos e interações conforme as bulas americanas (FDA) de amiodarona (2020), propafenona (2021), sotalol (2023) e digoxina (Lanoxin) e a bula da sinvastatina já citada no módulo. O risco de QT de cada fármaco deve ser conferido no CredibleMeds."
   },
   {
    "tipo": "fluxo",
@@ -412,7 +410,7 @@
   },
   {
    "tipo": "cartoes",
-   "id": "m04-cartoes",
+   "id": "m04-cartoes-cv",
    "titulo": "Cartões de revisão: cardiovascular e renal",
    "itens": [
     {
@@ -476,22 +474,30 @@
      "v": "Espironolactona (eplerenona se intolerância)"
     },
     {
-     "f": "Tiazídico e gota",
-     "v": "Eleva o ácido úrico; contraindicado na gota ativa"
+     "f": "Classe de Vaughan Williams da amiodarona",
+     "v": "Predominantemente III (potássio), com ações das quatro classes"
     },
     {
-     "f": "Triple whammy",
-     "v": "IECA ou BRA + diurético + AINE: risco de lesão renal aguda"
+     "f": "Amiodarona iniciada em quem usa varfarina (bula FDA)",
+     "v": "Reduzir a varfarina em 1/3 a 1/2 e monitorar o RNI"
     },
     {
-     "f": "Equação padrão para TFGe",
-     "v": "CKD-EPI 2021, sem coeficiente racial"
+     "f": "Digoxina sérica associada a mais mortalidade na FA (SBC 2025)",
+     "v": "Acima de 1,2 ng/mL"
+    },
+    {
+     "f": "Sinais clássicos de intoxicação digitálica",
+     "v": "Náusea, vômito, confusão, visão amarelo-esverdeada, bradicardia"
+    },
+    {
+     "f": "Escore de AVC na FA na diretriz de 2025",
+     "v": "CHA2DS2-VA: ≥ 2 anticoagular; 1 considerar; 0 não indicar"
     }
    ]
   },
   {
    "tipo": "questoes",
-   "id": "m04-questoes",
+   "id": "m04-questoes-cv",
    "titulo": "Questões de fixação: cardiovascular e renal",
    "itens": [
     {
@@ -591,18 +597,6 @@
      "com": "Verapamil e diltiazem inibem o CYP3A4 e elevam a sinvastatina, aumentando o risco de miopatia e rabdomiólise. A FDA limitou a sinvastatina a 10 mg/dia com esses fármacos (20 mg/dia com anlodipino). O verapamil não é indutor."
     },
     {
-     "p": "Senhora de 80 anos em uso de hidroclorotiazida chega confusa e sonolenta. O distúrbio mais provável relacionado ao diurético é:",
-     "alt": [
-      "Hiponatremia",
-      "Hipercalemia",
-      "Hipocalcemia",
-      "Alcalose respiratória",
-      "Hipoglicemia"
-     ],
-     "c": 0,
-     "com": "Tiazídicos causam hiponatremia, sobretudo em idosas magras, com confusão, sonolência e quedas. Eles tendem a causar hipocalemia (não hipercalemia) e retenção de cálcio (hipercalcemia leve). Encaminhar para avaliação no mesmo dia."
-    },
-    {
      "p": "Na DBHA 2025, a estratégia inicial recomendada para a maioria dos hipertensos é:",
      "alt": [
       "Betabloqueador em monoterapia para todos os pacientes",
@@ -615,16 +609,40 @@
      "com": "A diretriz recomenda iniciar a maioria com associação dupla (IECA ou BRA + BCC ou tiazídico), em doses baixas e de preferência em comprimido único. Monoterapia fica para pré-hipertensão de alto risco, estágio 1 de baixo risco, frágeis e muito idosos. BB entra em indicações específicas."
     },
     {
-     "p": "Homem de 70 anos usa losartana e hidroclorotiazida e pede ibuprofeno para dor lombar; está com diarreia há dois dias. Qual o principal risco?",
+     "p": "Senhor de 72 anos usa varfarina com RNI estável há meses e traz receita nova de amiodarona 200 mg/dia. A conduta mais adequada do farmacêutico é:",
      "alt": [
-      "Hipercalcemia sintomática pelo ibuprofeno",
-      "Lesão renal aguda (BRA, diurético, AINE e desidratação)",
-      "Broncoespasmo grave desencadeado pelo ibuprofeno",
-      "Hipoglicemia grave pela interação com a hidroclorotiazida",
-      "Hepatite medicamentosa causada pela losartana associada"
+      "Avisar o prescritor do risco de sangramento e do RNI precoce",
+      "Dispensar sem comentário, pois a interação só aparece após um ano",
+      "Orientar o paciente a suspender a varfarina enquanto usar amiodarona",
+      "Orientar dobrar a varfarina, porque a amiodarona é indutora enzimática",
+      "Trocar a amiodarona por propafenona, que não interage com a varfarina"
+     ],
+     "c": 0,
+     "com": "A bula da amiodarona (FDA) descreve aumento do tempo de protrombina em poucos dias e orienta reduzir a varfarina em um terço a metade com monitorização do RNI. A amiodarona inibe o metabolismo, não induz. Suspender anticoagulante por conta própria expõe a AVC, e a propafenona também potencializa a varfarina (bula FDA), além de não ser troca que caiba ao farmacêutico."
+    },
+    {
+     "p": "Idosa de 81 anos, em uso de digoxina 0,25 mg/dia e furosemida, chega à farmácia com náusea, vômito há dois dias e queixa de enxergar tudo amarelado. A interpretação e a conduta corretas são:",
+     "alt": [
+      "Gastroenterite viral; indicar antiemético e soro de reidratação oral por três dias",
+      "Efeito esperado da furosemida; manter tudo e reavaliar na próxima consulta de rotina",
+      "Possível intoxicação digitálica; atendimento médico no mesmo dia",
+      "Catarata inicial; orientar consulta oftalmológica de rotina e manter os remédios",
+      "Falta de digoxina no sangue; orientar tomar uma dose extra para controlar o coração"
+     ],
+     "c": 2,
+     "com": "Náusea, vômito e visão amarelo-esverdeada são sinais clássicos de intoxicação digitálica (bula da digoxina). Idade, função renal reduzida e hipocalemia por diurético de alça aumentam o risco, e a Diretriz Brasileira de FA 2025 associa níveis acima de 1,2 ng/mL a mais mortalidade. Antiemético mascara o quadro; dose extra agrava a intoxicação."
+    },
+    {
+     "p": "Mulher de 64 anos usa sotalol 80 mg duas vezes ao dia para fibrilação atrial e apresenta receita de claritromicina para sinusite. O problema e a conduta são:",
+     "alt": [
+      "Nenhum problema, pois o sotalol não tem relação com o intervalo QT",
+      "Soma de risco de QT; contatar o prescritor sobre alternativa",
+      "Claritromicina reduz o efeito do sotalol; orientar dobrar a dose",
+      "Risco de hipoglicemia; orientar comer a cada três horas no tratamento",
+      "Dispensar e orientar separar as tomadas em duas horas para evitar o efeito"
      ],
      "c": 1,
-     "com": "É o triple whammy: diurético reduz volume, BRA dilata a eferente e AINE contrai a aferente, derrubando a filtração; a desidratação piora. Preferir analgésico sem efeito renal e encaminhar ao médico."
+     "com": "Sotalol e claritromicina prolongam o QT e aparecem no CredibleMeds; a bula do sotalol (FDA) manda evitar outros fármacos que prolongam o QT. O farmacêutico contata o prescritor, que pode escolher antimicrobiano sem esse risco. Separar horários não resolve interação farmacodinâmica, e dobrar sotalol aumenta o risco de <i>torsades</i>."
     }
    ]
   }
@@ -643,6 +661,12 @@
   "Bula de Capoten (captopril): posologia, tomar 1 hora antes das refeições. Texto de bula consultado em bula.com.br, 2026.",
   "Bula de Zocor (sinvastatina): interações com anlodipino, verapamil, diltiazem e amiodarona. Texto de bula consultado em bula.com.br, 2026.",
   "Bula de Selozok (succinato de metoprolol): posologia. Texto de bula consultado em bula.com.br, 2026.",
-  "Bula de Diamox (acetazolamida): posologia. Texto de bula consultado em bula.com.br, 2026."
+  "Bula de Diamox (acetazolamida): posologia. Texto de bula consultado em bula.com.br, 2026.",
+  "Cintra FD, Pisani CF, Rezende AGS, et al. Diretriz Brasileira de Fibrilação Atrial 2025 (SBC). Arquivos Brasileiros de Cardiologia, 2025;122(9):e20250618. doi:10.36660/abc.20250618. Conferidos a Tabela 5 (CHA2DS2-VA), a Tabela 6 (HAS-BLED), a Tabela 8 (doses dos ACOD), as Tabelas 20 e 21 e as seções 7.1 a 7.2.3. https://abccardiol.org/article/diretriz-brasileira-de-fibrilacao-atrial-2025/",
+  "FDA. Pacerone (amiodarona, comprimidos): prescribing information, revisão de setembro de 2020 (doses, meia-vida, toxicidades, monitorização e interações com varfarina, digoxina, sinvastatina, lovastatina, sofosbuvir e toranja). openFDA/DailyMed, consultado em out. 2026.",
+  "FDA. Propafenona, comprimidos (Aurobindo): prescribing information, revisão de dezembro de 2021 (indicações, contraindicações, dose máxima de 900 mg/dia, CAST, agranulocitose, interações). openFDA/DailyMed, consultado em out. 2026.",
+  "FDA. Sotalol, comprimidos: prescribing information, revisão de outubro de 2023 (início com monitorização por 3 dias, limites de QTc, potássio, intervalo por clearance de creatinina, antiácidos). openFDA/DailyMed, consultado em out. 2026.",
+  "FDA. Lanoxin (digoxina, comprimidos): prescribing information (seções 2.5, 5.3, 7.2 e 10.1: níveis séricos, sinais de toxicidade, fatores de risco e interações). openFDA/DailyMed, consultado em out. 2026.",
+  "AZCERT. CredibleMeds: QTdrugs List e definições das categorias de risco de torsades de pointes (risco conhecido, possível e condicional). https://crediblemeds.org, consultado em out. 2026."
  ]
 }

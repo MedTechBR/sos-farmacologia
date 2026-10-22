@@ -1,0 +1,786 @@
+{
+ "id": "m10",
+ "num": 5,
+ "titulo": "Sistema gastrointestinal",
+ "escopo": "Antiulcerosos e inibidores da bomba de prótons (incluindo o omeprazol isento de prescrição), erradicação do Helicobacter pylori, antieméticos e procinéticos, laxantes, antidiarreicos e reidratação oral, antiespasmódicos e fármacos da doença inflamatória intestinal. Fontes principais: LMIP (IN 285/2024 com a IN 404/2025), V Consenso Brasileiro sobre H. pylori (2026), PCDT da Doença de Crohn (2026) e da Retocolite Ulcerativa (2024), manejo da diarreia do Ministério da Saúde e alertas da EMA e da FDA.",
+ "topicos": [
+  {
+   "id": "m10-antiulcerosos",
+   "titulo": "Secreção ácida e antiulcerosos",
+   "resumo": "<p>A célula parietal do estômago produz ácido clorídrico por meio da <strong>bomba de prótons</strong> (H<sup>+</sup>/K<sup>+</sup>-ATPase), que troca o H<sup>+</sup> do citoplasma pelo K<sup>+</sup> da luz gástrica. Três estímulos ativam essa célula: a histamina (receptor H2), liberada pelas células enterocromafins-símiles; a gastrina (receptor CCK2); e a acetilcolina vagal (receptor M3). A mucosa se defende com muco, bicarbonato, fluxo sanguíneo e prostaglandinas (PGE2 e PGI2), que reduzem a secreção de ácido e estimulam a produção de muco.</p>\n<p>Úlcera péptica e esofagite surgem quando a agressão supera a defesa. As duas causas principais de úlcera são a infecção por <em>Helicobacter pylori</em> e os anti-inflamatórios não esteroides (AINE), incluindo o AAS em dose baixa: ao inibir a COX-1, o AINE retira as prostaglandinas que protegem a mucosa. Na doença do refluxo gastroesofágico (DRGE), o conteúdo do estômago volta ao esôfago e o ácido é o principal agressor. Dispepsia é o nome do desconforto ou dor na parte alta do abdome, com ou sem queimação, empachamento e saciedade precoce.</p>\n<h3>Classes de antiulcerosos</h3>\n<div class=\"tab\"><table><thead><tr><th>Classe</th><th>Exemplos</th><th>Mecanismo</th><th>Uso principal</th></tr></thead><tbody>\n<tr><td>Inibidor da bomba de prótons (IBP)</td><td>Omeprazol, pantoprazol, lansoprazol, esomeprazol, rabeprazol</td><td>Inibe de forma irreversível a H<sup>+</sup>/K<sup>+</sup>-ATPase</td><td>DRGE, úlcera, erradicação do <em>H. pylori</em>, prevenção de lesão por AINE</td></tr>\n<tr><td>Antagonista H2</td><td>Famotidina, cimetidina</td><td>Bloqueia o receptor H2 da célula parietal</td><td>Sintomas leves; menos potente que o IBP</td></tr>\n<tr><td>Antiácido</td><td>Hidróxido de alumínio, hidróxido de magnésio, carbonato de cálcio, bicarbonato de sódio</td><td>Neutraliza o ácido já secretado</td><td>Alívio rápido de azia ocasional</td></tr>\n<tr><td>Alginato</td><td>Alginato de sódio com bicarbonato e carbonato de cálcio</td><td>Forma uma camada que flutua sobre o conteúdo gástrico</td><td>Azia e regurgitação depois das refeições</td></tr>\n<tr><td>Protetor de mucosa</td><td>Sucralfato</td><td>Em meio ácido, adere à base da úlcera</td><td>Úlcera, em casos selecionados</td></tr>\n<tr><td>Análogo de prostaglandina</td><td>Misoprostol</td><td>Análogo da PGE1: reduz o ácido e aumenta o muco</td><td>Prevenção de úlcera por AINE (no Brasil, uso hospitalar)</td></tr>\n</tbody></table></div>\n<h3>Inibidores da bomba de prótons</h3>\n<p>Os IBP são <strong>pró-fármacos</strong>. Absorvidos no intestino, chegam à célula parietal pelo sangue e, no canalículo ácido, viram a forma ativa, que se liga de modo covalente à bomba. Só inibem bombas que estão ativas, por isso a tomada deve ocorrer 30 a 60 minutos antes da refeição, quando a célula parietal vai ser estimulada (V Consenso Brasileiro sobre <em>H. pylori</em>, 2026, tabela de doses). Como a ligação é irreversível, o efeito dura mais que a meia-vida plasmática, que é curta, e o efeito pleno aparece depois de alguns dias de uso contínuo. Por isso o IBP não serve para aliviar uma azia na hora.</p>\n<p>O fármaco é destruído pelo ácido, então vem em cápsula com microgrânulos gastrorresistentes ou em comprimido revestido. A cápsula não deve ser mastigada e o comprimido não deve ser partido. Abrir a cápsula e misturar os grânulos num alimento só é aceitável quando a bula do produto prevê essa forma de uso.</p>\n<div class=\"tab\"><table><thead><tr><th>IBP</th><th>Dose padrão diária do adulto</th><th>Observação</th></tr></thead><tbody>\n<tr><td>Omeprazol</td><td>20 mg</td><td>Inibe o CYP2C19; interage com clopidogrel</td></tr>\n<tr><td>Esomeprazol</td><td>20 a 40 mg</td><td>Isômero S do omeprazol; mesma interação com clopidogrel</td></tr>\n<tr><td>Pantoprazol</td><td>40 mg</td><td>Menor efeito sobre o CYP2C19</td></tr>\n<tr><td>Lansoprazol</td><td>30 mg</td><td>Existe forma orodispersível</td></tr>\n<tr><td>Rabeprazol</td><td>20 mg</td><td>Menos dependente do CYP2C19</td></tr>\n</tbody></table></div>\n<p>As doses acima são as de referência das bulas para DRGE e úlcera. Na erradicação do <em>H. pylori</em>, o IBP é usado duas vezes ao dia, em dose maior (ver o tópico de <em>H. pylori</em>). Os IBP são metabolizados pelo CYP2C19 e pelo CYP3A4. Pessoas metabolizadoras rápidas do CYP2C19 inativam o fármaco mais depressa e podem ter resposta menor.</p>\n<h3>Antagonistas H2</h3>\n<p>A <strong>famotidina</strong> e a cimetidina bloqueiam o receptor H2 e reduzem sobretudo a secreção noturna e a basal. Agem em cerca de uma hora e são menos potentes que os IBP; no uso contínuo, o efeito diminui em poucas semanas (tolerância). A cimetidina inibe várias enzimas do CYP450 (aumenta varfarina, fenitoína e teofilina) e tem efeito antiandrogênico (ginecomastia), razões pelas quais quase não é usada. A ranitidina saiu do mercado a partir de 2019 e 2020, depois que se detectou nitrosamina (NDMA) em lotes do insumo: houve recolhimentos no Brasil por determinação ou pedido da Anvisa, e a FDA pediu a retirada do produto do mercado americano em abril de 2020. Nenhum antagonista H2 consta da Lista de Medicamentos Isentos de Prescrição (LMIP, IN 285/2024, Anexo I na redação da IN 404/2025, conferido em out. 2026): a famotidina é vendida sob prescrição.</p>\n<h3>Antiácidos e alginatos</h3>\n<p>Os antiácidos neutralizam o ácido em minutos, com efeito curto. O hidróxido de alumínio prende o intestino e o hidróxido de magnésio solta; por isso costumam vir associados. Na doença renal crônica, alumínio e magnésio se acumulam. O bicarbonato de sódio traz carga de sódio e pode causar alcalose; o carbonato de cálcio em dose alta e por tempo longo pode elevar o cálcio. Os alginatos formam uma barreira que flutua sobre o conteúdo gástrico e reduzem a regurgitação. Antiácidos, alginatos e várias associações com simeticona constam da LMIP.</p>\n<div class=\"cx alerta\"><b>Atenção</b><p>Antiácidos com alumínio, magnésio ou cálcio e o sucralfato formam complexos com quinolonas, tetraciclinas, levotiroxina, sais de ferro e bisfosfonatos e reduzem a absorção deles. Oriente intervalo de pelo menos 2 horas ou o intervalo descrito na bula do outro medicamento.</p></div>\n<h3>Sucralfato</h3>\n<p>O sucralfato é um sal de alumínio da sacarose sulfatada. Em pH ácido, forma uma pasta que adere ao tecido lesado e protege a úlcera da pepsina e do ácido. Quase não é absorvido; o efeito adverso mais comum é a constipação. Deve ser tomado em jejum, separado de outros medicamentos, e evitado em quem tem doença renal crônica avançada, pelo alumínio.</p>\n<h3>Misoprostol</h3>\n<p>O misoprostol, análogo da PGE1, reduz a secreção ácida e reforça a defesa da mucosa. Em muitos países é usado para prevenir úlcera em quem precisa de AINE. Causa diarreia e cólica e provoca contração uterina, o que o torna abortivo e teratogênico. No Brasil, integra a lista C1 da Portaria 344/98 (lista atualizada pela RDC 1.036/2026), e o adendo da lista restringe a compra e o uso a estabelecimentos hospitalares cadastrados na autoridade sanitária. Na prática, não é dispensado em drogaria.</p>\n<div class=\"cx balcao\"><b>No balcão</b><p>Diante de queixa de azia, pergunte com que frequência ela ocorre, há quanto tempo, se piora ao deitar, se a pessoa usa AINE, AAS, anticoagulante, bisfosfonato ou corticoide, se está grávida e se há sinal de alarme (dificuldade ou dor para engolir, vômitos persistentes, sangue no vômito, fezes pretas, emagrecimento, anemia, dor no peito). Para azia ocasional, antiácido ou alginato resolvem; para azia frequente sem sinal de alarme, há a opção do omeprazol 20 mg isento de prescrição (detalhada no tópico seguinte). Sinal de alarme ou dor no peito: encaminhar.</p></div>\n<div class=\"cx chave\"><b>Ponto-chave</b><p>Antiácido alivia em minutos e dura pouco. IBP demora dias para o efeito pleno e é tomado antes do café da manhã. Antagonista H2 fica no meio e perde efeito com o uso contínuo.</p></div>\n"
+  },
+  {
+   "id": "m10-ibp-uso-prolongado",
+   "titulo": "Uso prolongado de IBP e omeprazol isento de prescrição",
+   "resumo": "<p>Os IBP estão entre os medicamentos mais usados no mundo, e muitas pessoas os tomam por anos sem saber por quê. É comum o IBP ser iniciado como \"protetor\" durante uma internação ou junto com vários medicamentos e nunca mais ser revisto. O farmacêutico tem papel direto em duas frentes: identificar o uso prolongado sem indicação clara e orientar o uso correto do omeprazol isento de prescrição.</p>\n<h3>Quando o uso prolongado tem indicação</h3>\n<ul>\n<li>DRGE com esofagite grave, esôfago de Barrett ou sintomas que voltam toda vez que o IBP é suspenso.</li>\n<li>Prevenção de úlcera em quem usa AINE ou AAS e tem risco alto de sangramento: idade avançada, úlcera ou sangramento prévio, uso associado de anticoagulante, antiagregante ou corticoide.</li>\n<li>Síndromes de hipersecreção, como a de Zollinger-Ellison, e algumas situações acompanhadas por especialista.</li>\n</ul>\n<p>Fora dessas situações, a orientação da AGA (Clinical Practice Update sobre desprescrição de IBP, 2022) é revisar a indicação de todo paciente em uso contínuo. A mesma revisão observa que a decisão de suspender deve se basear na falta de indicação, e não no medo dos efeitos adversos, porque boa parte das associações vem de estudos observacionais.</p>\n<h3>Riscos associados ao uso prolongado</h3>\n<div class=\"tab\"><table><thead><tr><th>Efeito</th><th>Explicação provável</th><th>O que observar</th></tr></thead><tbody>\n<tr><td>Hipomagnesemia</td><td>Redução da absorção intestinal de magnésio (alerta da FDA, 2011)</td><td>Cãibra, tremor, arritmia; maior risco com diurético e digoxina</td></tr>\n<tr><td>Deficiência de vitamina B12</td><td>A liberação da B12 dos alimentos depende de ácido</td><td>Idoso, vegetariano, uso de metformina; anemia e neuropatia</td></tr>\n<tr><td>Fraturas</td><td>Possível redução da absorção de cálcio (alerta da FDA, 2010)</td><td>Dose alta e uso por mais de um ano; osteoporose</td></tr>\n<tr><td>Diarreia por <em>Clostridioides difficile</em></td><td>Menos ácido, menor barreira contra bactérias (alerta da FDA, 2012)</td><td>Diarreia que não melhora, sobretudo após antibiótico ou internação</td></tr>\n<tr><td>Absorção menor de ferro</td><td>O ferro não heme precisa de ácido para ser absorvido</td><td>Anemia ferropriva que não responde ao sulfato ferroso</td></tr>\n<tr><td>Nefrite intersticial aguda</td><td>Reação de hipersensibilidade, rara (bulas dos IBP)</td><td>Queda da função renal, febre, erupção</td></tr>\n</tbody></table></div>\n<h3>Interações dos IBP</h3>\n<ul>\n<li><b>Clopidogrel</b>: é pró-fármaco ativado pelo CYP2C19. Omeprazol e esomeprazol inibem essa enzima e reduzem o efeito antiagregante; a FDA recomenda evitar a associação. Quando o paciente com clopidogrel precisa de IBP, o pantoprazol é a opção com menor interação.</li>\n<li><b>Fármacos que dependem de acidez para dissolver</b>: cetoconazol e itraconazol orais, atazanavir e rilpivirina (as bulas desses antirretrovirais contraindicam ou restringem o uso com IBP), sais de ferro e levotiroxina (pode ser preciso ajustar a dose pelo TSH).</li>\n<li><b>Metotrexato em dose alta</b>: o IBP pode reduzir a eliminação e elevar o nível sérico (bulas dos IBP).</li>\n<li><b>Bisacodil revestido</b>: o revestimento se dissolve antes da hora com IBP, antiácido ou leite, o que causa irritação gástrica (bula do Dulcolax®).</li>\n</ul>\n<h3>Como se faz a desprescrição</h3>\n<p>Quem não tem indicação para uso contínuo pode reduzir a dose ou suspender, com acompanhamento. Depois de semanas de uso, a suspensão pode causar <strong>hipersecreção ácida de rebote</strong>, com azia por alguns dias ou semanas, que o paciente confunde com a volta da doença. Antiácido ou alginato sob demanda ajudam nesse período (AGA, 2022). Pacientes com esôfago de Barrett, esofagite grave ou sangramento digestivo prévio não devem parar por conta própria. A decisão é do prescritor; o farmacêutico identifica o caso, conversa com o paciente e encaminha com a informação organizada.</p>\n<h3>Omeprazol isento de prescrição</h3>\n<p>A Instrução Normativa nº 404/2025 incluiu o omeprazol 20 mg na LMIP, com a indicação de alívio de azia e queimação frequentes. O voto da Diretoria Colegiada que aprovou a medida (Voto nº 261/2025, processo 25351.918052/2023-80) prevê apresentações MIP com 7 ou 14 unidades, rotulagem própria sem tarja vermelha e uso por até 14 dias. O parecer da Gerência de Farmacovigilância citado no voto pede intervalo de pelo menos 4 meses entre cada ciclo, informado na embalagem. O mesmo registro pode manter apresentações tarjadas e isentas, que devem ser distinguíveis pela rotulagem (RDC 882/2024, art. 14).</p>\n<div class=\"cx lei\"><b>O que diz a norma</b><p>IN 404/2025, art. 1º, parágrafo único: \"Inclusão do produto omeprazol, cápsula dura e cápsula dura de liberação retardada, 20 mg.\" Na LMIP, a indicação é \"Alívio de sintomas frequentes (que ocorrem por dois ou mais dias na semana) de azia e queimação\". Vigência: 7 dias após a publicação no DOU de 13/11/2025 (art. 3º).</p></div>\n<div class=\"tab\"><table><thead><tr><th>Situação</th><th>Enquadramento</th></tr></thead><tbody>\n<tr><td>Omeprazol 20 mg, caixa MIP (7 ou 14 cápsulas), azia em 2 ou mais dias por semana</td><td>Isento de prescrição, com orientação</td></tr>\n<tr><td>Omeprazol 20 mg em caixa com mais de 14 cápsulas</td><td>Sob prescrição (apresentação tarjada)</td></tr>\n<tr><td>Omeprazol 40 mg, pantoprazol, esomeprazol, lansoprazol, rabeprazol</td><td>Sob prescrição: não constam da LMIP</td></tr>\n<tr><td>Azia ocasional, que precisa de alívio imediato</td><td>Antiácido ou alginato (MIP); o IBP demora a agir</td></tr>\n</tbody></table></div>\n<h3>Sinais de alarme na azia e na dispepsia</h3>\n<p>Dificuldade ou dor para engolir, vômitos persistentes, sangue no vômito ou vômito em borra de café, fezes pretas e pastosas (melena), emagrecimento sem explicação, anemia, massa abdominal, história familiar de câncer gástrico e sintomas que começam em idade mais avançada pedem avaliação médica e, em geral, endoscopia. Dor no peito que piora com esforço, falta de ar ou suor frio pode ser infarto e não deve ser tratada como azia.</p>\n<div class=\"cx balcao\"><b>No balcão</b><p>Na dispensação do omeprazol MIP, oriente 1 cápsula ao dia, em jejum, 30 a 60 minutos antes do café da manhã, inteira, por até 14 dias, e explique que o alívio completo pode levar alguns dias. Se os sintomas não melhorarem em 14 dias, voltarem antes de 4 meses ou houver sinal de alarme, a pessoa precisa de consulta. Pergunte por clopidogrel, antirretroviral, metotrexato e antifúngico oral. Registre a orientação. Para o usuário crônico de IBP, pergunte quem indicou, por quê e há quanto tempo, e sugira revisão com o prescritor quando a indicação não estiver clara.</p></div>\n<div class=\"cx exemplo\"><b>Caso</b><p>Homem de 58 anos, em uso de clopidogrel após angioplastia, pede omeprazol porque tem azia três vezes por semana. Conduta: não dispensar omeprazol MIP por causa da interação com o clopidogrel; orientar antiácido ou alginato para alívio pontual e consulta com o cardiologista ou médico assistente, que pode avaliar pantoprazol e investigar a dispepsia.</p></div>\n"
+  },
+  {
+   "id": "m10-helicobacter",
+   "titulo": "Erradicação do Helicobacter pylori",
+   "resumo": "<p>O <em>Helicobacter pylori</em> é um bacilo gram-negativo espiralado que vive na camada de muco do estômago. Produz urease, que transforma ureia em amônia e cria um microambiente menos ácido em volta da bactéria. A infecção costuma ser adquirida na infância, dentro da família, e persiste por toda a vida se não for tratada. Ela causa gastrite crônica em praticamente todos os infectados e está associada a úlcera péptica, adenocarcinoma gástrico e linfoma MALT gástrico.</p>\n<p>A referência brasileira vigente é o <strong>V Consenso Brasileiro sobre a infecção por <em>H. pylori</em></strong> (Coelho LGV et al., Arq Gastroenterol, 2026), que atualizou o IV Consenso de 2018. A principal mudança é a resposta ao aumento da resistência bacteriana: tratamentos de 14 dias, ênfase na terapia quádrupla com bismuto e espaço para os bloqueadores ácidos competitivos de potássio (P-CAB), como a vonoprazana.</p>\n<h3>Quem deve ser testado e tratado</h3>\n<ul>\n<li>Toda pessoa infectada deve receber tratamento de erradicação, em especial quem tem gastrite crônica, úlcera péptica, lesões pré-cancerosas do estômago ou linfoma MALT (V Consenso, afirmações 4, 5, 8 e 9).</li>\n<li>Dispepsia não investigada em pessoas de até 45 anos, sem sinal de alarme: estratégia \"testar e tratar\" com teste não invasivo (afirmação 6). Com sinal de alarme ou falha de tratamento: endoscopia com biópsia (afirmação 18).</li>\n<li>Quem vai iniciar AINE, AAS ou antiagregante de uso prolongado: testar e, se positivo, erradicar antes (afirmação 12).</li>\n<li>Parentes de primeiro grau de pessoa com câncer gástrico (afirmação 11) e pacientes em uso crônico de IBP ou P-CAB por DRGE (afirmação 14).</li>\n</ul>\n<h3>Esquemas de primeira linha</h3>\n<div class=\"tab\"><table><thead><tr><th>Esquema</th><th>Composição</th><th>Duração</th><th>Quando usar</th></tr></thead><tbody>\n<tr><td>Quádrupla com bismuto</td><td>IBP ou P-CAB 2 vezes ao dia + subcitrato de bismuto 240 mg 2 vezes ao dia + tetraciclina 500 mg 4 vezes ao dia + metronidazol 400 a 500 mg 4 vezes ao dia</td><td>10 a 14 dias</td><td>Preferencial (afirmação 28)</td></tr>\n<tr><td>Tripla com claritromicina</td><td>IBP ou P-CAB + amoxicilina + claritromicina</td><td>14 dias</td><td>Só se a resistência local à claritromicina for menor que 15% ou houver teste de sensibilidade; pode ser otimizada com bismuto</td></tr>\n<tr><td>Dupla com amoxicilina em dose alta</td><td>Amoxicilina 3 a 4 g/dia em 3 ou 4 tomadas + IBP em dose alta 3 ou 4 vezes ao dia ou vonoprazana 20 mg 2 vezes ao dia</td><td>14 dias</td><td>Quando o bismuto não está disponível</td></tr>\n<tr><td>Concomitante</td><td>IBP ou P-CAB + claritromicina + amoxicilina + metronidazol</td><td>14 dias</td><td>Sem bismuto e sem teste de sensibilidade</td></tr>\n</tbody></table></div>\n<p>No esquema com IBP, o consenso usa dose de 32 a 40 mg de equivalente de omeprazol duas vezes ao dia (dose padrão) e indica tomar o IBP 30 a 60 minutos antes da refeição. O V Consenso registra resistência à claritromicina, às fluoroquinolonas e aos nitroimidazólicos nas cinco regiões do Brasil, motivo pelo qual a tripla clássica com IBP deixou de ser a primeira escolha. Kits prontos de tripla terapia ainda existem no mercado, e o farmacêutico pode encontrá-los em receitas.</p>\n<div class=\"cx chave\"><b>Ponto-chave</b><p>No Brasil, os sais de bismuto só são obtidos em farmácia de manipulação, e a cápsula única com bismuto, metronidazol e tetraciclina não está disponível (V Consenso, 2026). O uso da vonoprazana no tratamento do <em>H. pylori</em> no país é descrito no consenso como uso fora da bula.</p></div>\n<h3>Segunda linha, resgate e alergia à penicilina</h3>\n<ul>\n<li><b>Segunda linha</b> (afirmação 29): não repetir o esquema que falhou. Opções: quádrupla com bismuto por 10 a 14 dias ou levofloxacino, amoxicilina e bismuto com IBP ou P-CAB por 14 dias. Sem bismuto, dupla com amoxicilina em dose alta.</li>\n<li><b>Resgate</b> (afirmação 30): não repetir claritromicina nem levofloxacino. A quádrupla com bismuto é preferida quando a resistência é desconhecida. A rifabutina (150 mg 2 vezes ao dia, com amoxicilina 1 g 2 vezes ao dia e IBP, por 14 dias) não é comercializada no Brasil, precisa ser importada e, no SUS, é reservada a micobactérias resistentes.</li>\n<li><b>Alergia à penicilina</b> (afirmação 32): quádrupla com bismuto, metronidazol e tetraciclina. Sempre que possível, confirmar a alergia com testes, porque muitos rótulos de alergia não se confirmam.</li>\n<li><b>Probióticos</b> (afirmação 33): algumas cepas podem reduzir efeitos adversos e aumentar um pouco a taxa de erradicação, sempre como adjuvantes; sozinhos não erradicam a bactéria.</li>\n</ul>\n<h3>Confirmação da erradicação</h3>\n<p>O padrão não invasivo é o teste respiratório com ureia marcada com <sup>13</sup>C; o antígeno fecal monoclonal é alternativa válida. Sorologia não serve para confirmar cura, porque os anticorpos persistem (afirmação 17). Para evitar falso negativo, o paciente deve estar sem IBP ou P-CAB há 14 dias, sem antibiótico e sem bismuto há 4 semanas e sem antagonista H2 há 2 horas; antiácido, alginato e sucralfato não precisam ser suspensos (afirmação 20). Na prática, o controle é feito pelo menos 4 semanas depois do fim do tratamento.</p>\n<h3>Dispensação e orientação</h3>\n<p>Amoxicilina, claritromicina, metronidazol, tetraciclina e levofloxacino são antimicrobianos sujeitos à RDC 471/2021 e à IN 360/2025: receita em duas vias, válida por 10 dias a partir da emissão, com retenção de uma via e escrituração. O subcitrato de bismuto vem de farmácia de manipulação, também mediante prescrição.</p>\n<div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>Orientação ao paciente</th></tr></thead><tbody>\n<tr><td>Metronidazol</td><td>Gosto metálico e náusea são comuns. Não ingerir álcool durante o tratamento e pelo período indicado na bula depois dele (reação semelhante à do dissulfiram)</td></tr>\n<tr><td>Tetraciclina</td><td>Tomar com água, longe de leite, antiácido, ferro e cálcio; não deitar logo depois (esofagite); evitar sol. Contraindicada na gestação e em crianças menores de 8 anos (bula)</td></tr>\n<tr><td>Subcitrato de bismuto</td><td>Escurece as fezes e a língua; é esperado. Fezes pretas, pastosas e fétidas, com fraqueza ou tontura, sugerem sangramento e exigem atendimento</td></tr>\n<tr><td>Claritromicina</td><td>Inibe o CYP3A4: conferir estatinas, varfarina, alguns antiarrítmicos e outros fármacos que prolongam o QT</td></tr>\n<tr><td>Amoxicilina</td><td>Diarreia é comum; erupção ou falta de ar exigem suspensão e atendimento</td></tr>\n</tbody></table></div>\n<div class=\"cx balcao\"><b>No balcão</b><p>A quádrupla tem muitos comprimidos por dia, e a adesão é o que mais decide o resultado. Monte com o paciente uma tabela de horários, explique que os efeitos adversos costumam ser toleráveis e que o tratamento deve ir até o fim, mesmo com melhora da dor. Confira alergia, gestação, uso de álcool e interações da claritromicina. Lembre que o teste de controle exige a suspensão do IBP 14 dias antes.</p></div>\n<div class=\"cx exemplo\"><b>Caso</b><p>Mulher de 39 anos traz receita de quádrupla com bismuto manipulado por 14 dias e conta que costuma beber vinho nos fins de semana. Conduta: dispensar os antimicrobianos com retenção da receita, orientar abstinência de álcool durante o metronidazol e pelo prazo da bula depois dele, separar a tetraciclina do leite e dos antiácidos, avisar sobre as fezes escuras e entregar a tabela de horários.</p></div>\n"
+  },
+  {
+   "id": "m10-antiemeticos",
+   "titulo": "Antieméticos e procinéticos",
+   "resumo": "<p>O vômito é um reflexo coordenado pelo tronco cerebral. O centro do vômito, no bulbo, recebe sinais de quatro origens: a <strong>zona quimiorreceptora do gatilho</strong>, na área postrema, fora da barreira hematoencefálica, rica em receptores D2, 5-HT3 e NK1; o aparelho vestibular, via receptores H1 e muscarínicos (cinetose); o trato digestivo, via nervo vago e serotonina liberada pelas células enterocromafins; e o córtex (ansiedade, dor, cheiros). Cada classe de antiemético atua num desses receptores, e a escolha depende da causa.</p>\n<div class=\"tab\"><table><thead><tr><th>Classe</th><th>Exemplos</th><th>Uso principal</th><th>Efeito adverso típico</th></tr></thead><tbody>\n<tr><td>Antagonista D2 (benzamidas)</td><td>Metoclopramida, bromoprida</td><td>Náusea e vômito em geral; procinético</td><td>Distonia, acatisia, discinesia tardia, sonolência</td></tr>\n<tr><td>Antagonista D2 periférico</td><td>Domperidona</td><td>Náusea e vômito; preferida no Parkinson</td><td>Prolongamento do QT, arritmia</td></tr>\n<tr><td>Antagonista 5-HT3</td><td>Ondansetrona</td><td>Quimioterapia, pós-operatório, gastroenterite</td><td>Cefaleia, constipação, prolongamento do QT</td></tr>\n<tr><td>Anti-H1 e anticolinérgico</td><td>Dimenidrinato, meclozina</td><td>Cinetose, labirintopatias</td><td>Sonolência, boca seca, retenção urinária</td></tr>\n<tr><td>Antagonista NK1</td><td>Aprepitanto</td><td>Quimioterapia altamente emetogênica (hospital)</td><td>Fadiga; interações pelo CYP3A4</td></tr>\n</tbody></table></div>\n<h3>Metoclopramida e bromoprida</h3>\n<p>A metoclopramida bloqueia receptores D2 no centro do vômito e no tubo digestivo e estimula receptores 5-HT4, o que acelera o esvaziamento gástrico: é antiemética e procinética. Atravessa a barreira hematoencefálica e por isso causa <strong>efeitos extrapiramidais</strong>: distonia aguda (torcicolo, olhos virados para cima, trismo), mais frequente em crianças e jovens, e acatisia. O uso prolongado, sobretudo em idosos, pode causar discinesia tardia, movimento involuntário que pode ser irreversível; a FDA colocou advertência em tarja na bula americana e recomenda evitar uso por mais de 12 semanas.</p>\n<p>Em 2013, a EMA restringiu a metoclopramida ao uso de curta duração: no máximo 5 dias, dose máxima de 0,5 mg/kg por dia (no adulto, 10 mg até 3 vezes ao dia, total de 30 mg/dia), contraindicação abaixo de 1 ano e, em crianças, só como segunda opção. Também retirou indicações crônicas, como gastroparesia, dispepsia e DRGE, e orientou aplicar a dose intravenosa em bolus lento de pelo menos 3 minutos. A bromoprida, benzamida muito usada no Brasil, tem o mesmo mecanismo e o mesmo risco extrapiramidal. As duas pioram o Parkinson e anulam o efeito da levodopa, e a posologia segue a bula de cada produto.</p>\n<h3>Domperidona</h3>\n<p>A domperidona bloqueia receptores D2 periféricos e da área postrema e quase não entra no cérebro, por isso causa poucos efeitos extrapiramidais e é o antiemético preferido em quem tem Parkinson. O risco dela é cardíaco: prolonga o intervalo QT e foi associada a arritmia ventricular e morte súbita, sobretudo em doses altas e em pessoas acima de 60 anos. Em 2014, a EMA limitou o uso ao alívio de náusea e vômito, com dose de 10 mg até 3 vezes ao dia (máximo de 30 mg/dia), por no máximo uma semana, e contraindicou o uso em doença cardíaca, alteração de condução, insuficiência hepática grave e junto com fármacos que prolongam o QT ou inibidores potentes do CYP3A4 (cetoconazol, claritromicina, eritromicina, ritonavir).</p>\n<h3>Ondansetrona</h3>\n<p>A ondansetrona bloqueia receptores 5-HT3 no vago e na área postrema. É a base da prevenção de vômito na quimioterapia e no pós-operatório e foi incluída pelo Ministério da Saúde no manejo da diarreia aguda: no Plano B, uma dose única se houver vômitos persistentes durante a reidratação oral (2 mg de 6 meses a 2 anos; 4 mg de mais de 2 a 10 anos, até 30 kg; 8 mg acima de 10 anos ou 30 kg), com o alerta de não usar em gestantes (cartaz Manejo do paciente com diarreia, MS). A ondansetrona prolonga o QT de forma dose-dependente; em 2012 a FDA retirou a dose intravenosa única de 32 mg e fixou o máximo de 16 mg por dose intravenosa. Causa constipação e cefaleia e, com outros serotoninérgicos, pode contribuir para síndrome serotoninérgica (bula americana).</p>\n<div class=\"cx alerta\"><b>Atenção</b><p>Domperidona e ondansetrona somam risco de arritmia com outros fármacos que prolongam o QT (macrolídeos, quinolonas, antipsicóticos, citalopram, metadona, hidroxicloroquina) e com hipopotassemia ou hipomagnesemia, comuns em quem vomita ou tem diarreia. Distonia após metoclopramida ou bromoprida é urgência que tem tratamento rápido: encaminhar.</p></div>\n<h3>Cinetose</h3>\n<p>Na cinetose (enjoo de movimento), o conflito entre visão e aparelho vestibular estimula o centro do vômito por vias histaminérgicas e colinérgicas, e os antagonistas D2 e 5-HT3 funcionam mal. Os anti-H1 de primeira geração são a escolha. A <strong>meclozina</strong> 50 mg consta da LMIP para profilaxia e tratamento da cinetose (IN 285/2024, Anexo I). O dimenidrinato não está na LMIP e é vendido sob prescrição. Os dois causam sonolência e efeito anticolinérgico, somam sedação com álcool e benzodiazepínicos e devem ser evitados ou usados com cuidado em idosos, em quem dirige e em quem tem glaucoma de ângulo fechado ou hiperplasia prostática. A dose preventiva é tomada antes da viagem, no intervalo indicado na bula.</p>\n<h3>Situações que pedem encaminhamento</h3>\n<ul>\n<li>Vômitos em lactente, criança pequena, idoso frágil ou gestante (náusea da gestação deve ser conduzida no pré-natal).</li>\n<li>Vômito com sangue ou em borra de café, dor abdominal intensa, abdome distendido sem evacuar nem eliminar gases.</li>\n<li>Rigidez de nuca, febre alta, cefaleia intensa, confusão ou trauma de crânio recente.</li>\n<li>Sinais de desidratação ou incapacidade de manter líquidos.</li>\n</ul>\n<div class=\"cx balcao\"><b>No balcão</b><p>Nenhum antiemético de uso oral para náusea e vômito em geral consta da LMIP: metoclopramida, bromoprida, domperidona, ondansetrona e dimenidrinato são vendidos sob prescrição. Para quem chega com vômitos, a conduta do farmacêutico é hidratar com sais de reidratação oral em pequenos goles, investigar sinais de alarme e encaminhar quando preciso. Na dispensação de metoclopramida ou bromoprida para criança ou jovem, explique os sinais de distonia; na de domperidona, confira doenças cardíacas e fármacos que prolongam o QT.</p></div>\n<div class=\"cx exemplo\"><b>Caso</b><p>Rapaz de 19 anos volta à farmácia com o pescoço torcido e os olhos desviados para cima, horas depois de tomar bromoprida receitada para vômito. Conduta: reconhecer distonia aguda por antagonista D2, orientar não tomar nova dose e encaminhar ao pronto atendimento, onde o tratamento com anticolinérgico costuma resolver o quadro rapidamente; notificar a reação no sistema de farmacovigilância.</p></div>\n"
+  },
+  {
+   "id": "m10-laxantes",
+   "titulo": "Laxantes",
+   "resumo": "<p>Constipação é a evacuação difícil ou pouco frequente. Os critérios de Roma IV para constipação funcional incluem, entre outros, esforço para evacuar, fezes duras, sensação de esvaziamento incompleto e menos de três evacuações por semana. Na maioria das pessoas tem causa funcional, ligada a pouca fibra, pouca água e pouca atividade física. Antes de indicar laxante, o farmacêutico procura duas coisas: sinal de alarme e medicamento que prende o intestino.</p>\n<h3>Medicamentos que causam constipação</h3>\n<p>Opioides (inclusive codeína e tramadol), anticolinérgicos (antidepressivos tricíclicos, oxibutinina, anti-H1 de primeira geração, escopolamina), bloqueadores de canal de cálcio (sobretudo verapamil), sais de ferro e de cálcio, antiácidos com alumínio, sucralfato, ondansetrona, diuréticos e antipsicóticos como a clozapina. Hipotireoidismo, diabetes, gestação e imobilidade também contribuem.</p>\n<h3>Classes de laxantes</h3>\n<div class=\"tab\"><table><thead><tr><th>Classe</th><th>Exemplos</th><th>Mecanismo</th><th>Início</th><th>Cuidados</th></tr></thead><tbody>\n<tr><td>Formadores de massa</td><td>Psílio (<em>Plantago ovata</em>), policarbofila cálcica</td><td>Retêm água e aumentam o volume das fezes</td><td>1 a 3 dias</td><td>Tomar com bastante água; podem obstruir se houver estenose ou pouca ingestão de líquido</td></tr>\n<tr><td>Osmóticos</td><td>Lactulose, macrogol (polietilenoglicol), hidróxido de magnésio</td><td>Retêm água na luz do intestino</td><td>1 a 2 dias</td><td>Lactulose causa gases e cólica no início; magnésio se acumula na doença renal</td></tr>\n<tr><td>Estimulantes</td><td>Bisacodil, picossulfato de sódio, sene</td><td>Estimulam o plexo mioentérico e a secreção</td><td>6 a 12 horas por via oral</td><td>Cólica; uso crônico só com orientação; hipopotassemia no abuso</td></tr>\n<tr><td>Emolientes e lubrificantes</td><td>Óleo mineral, docusato</td><td>Amolecem e lubrificam as fezes</td><td>1 a 3 dias</td><td>Óleo mineral: risco de pneumonia lipoídica por aspiração; reduz absorção de vitaminas A, D, E e K</td></tr>\n<tr><td>Retais</td><td>Supositório de glicerina, bisacodil, enema de sorbitol com laurilsulfato de sódio</td><td>Estímulo local e amolecimento</td><td>Minutos a 1 hora</td><td>Uso pontual; fecaloma pede avaliação</td></tr>\n</tbody></table></div>\n<p>A diretriz conjunta da AGA e do ACG sobre constipação crônica idiopática (2023) dá recomendação forte ao macrogol, ao picossulfato de sódio e a fármacos de prescrição como prucaloprida e linaclotida, e recomendação condicional a fibras, lactulose, sene e óxido de magnésio. Na prática, a sequência começa por ajuste de dieta, água e atividade física; segue com fibra ou osmótico para uso regular; e reserva o estimulante para uso de resgate ou por curto período.</p>\n<h3>Condição de venda</h3>\n<p>Constam da LMIP (IN 285/2024, Anexo I na redação da IN 404/2025): bisacodil 5 mg em comprimido revestido, picossulfato de sódio 7,5 mg/mL em solução oral, lactulose 667 mg/mL, policarbofila cálcica 625 mg, enema de sorbitol com laurilsulfato de sódio e associações de macrogol com eletrólitos (estas com a observação de uso sob orientação de profissional de saúde em preparo para exame ou cirurgia). O bisacodil e o picossulfato trazem na lista a mesma observação para preparo de colonoscopia, uso que segue o protocolo do serviço.</p>\n<p>Doses de referência das bulas: lactulose (Lactulona®) de 15 a 30 mL por dia no adulto; bisacodil (Dulcolax®) de 5 a 10 mg à noite no adulto e na criança acima de 10 anos. O comprimido de bisacodil é revestido para dissolver no intestino: não deve ser partido nem tomado junto com leite, antiácido ou IBP.</p>\n<h3>Uso crônico</h3>\n<p>A ideia de que o estimulante \"vicia\" ou destrói o intestino tem pouca sustentação nos estudos atuais, mas o uso diário sem orientação mascara doenças, causa cólica e, em quem abusa (por exemplo, em transtornos alimentares), provoca desidratação e hipopotassemia. Na constipação por opioide, fibra sozinha costuma piorar o quadro; o habitual é associar osmótico e estimulante desde o início do opioide, e há antagonistas opioides de ação periférica para casos resistentes, sob prescrição.</p>\n<h3>Idoso, criança e gestante</h3>\n<ul>\n<li><b>Idoso</b>: preferir macrogol ou lactulose. Evitar óleo mineral em acamado, em quem engasga ou tem refluxo (aspiração). Evitar sais de magnésio e enemas de fosfato na doença renal; a FDA alertou em 2014 para lesão renal e distúrbio eletrolítico com doses acima do recomendado de fosfato de sódio de venda livre. Confusão, dor ou distensão podem indicar fecaloma.</li>\n<li><b>Criança</b>: a constipação funcional é comum no desfralde e na entrada na escola. Mudança alimentar e de hábito vêm primeiro, e o tratamento medicamentoso cabe ao pediatra, que costuma usar macrogol ou lactulose. Lactente com constipação desde o nascimento, distensão, vômitos ou ganho de peso ruim precisa de avaliação médica. Óleo mineral não deve ser usado em lactentes.</li>\n<li><b>Gestante</b>: fibras, água, lactulose e macrogol (pouca absorção sistêmica) são a primeira opção; estimulante por curto período, com orientação do pré-natal. Óleo de rícino é evitado porque pode estimular contrações uterinas, e o óleo mineral reduz a absorção de vitaminas lipossolúveis.</li>\n</ul>\n<div class=\"cx alerta\"><b>Atenção</b><p>Constipação recente em adulto sem causa evidente, sangue nas fezes, afinamento das fezes, emagrecimento, anemia, dor abdominal intensa, abdome distendido sem eliminar gases ou vômitos pedem avaliação médica. Pessoas acima de 45 a 50 anos com mudança do hábito intestinal devem ser orientadas sobre rastreamento de câncer colorretal com o médico.</p></div>\n<div class=\"cx balcao\"><b>No balcão</b><p>Pergunte há quanto tempo, como eram as evacuações antes, se há sangue ou dor, se começou algum medicamento novo, quanto de água e de fibra a pessoa ingere e se já usa laxante. Para uso pontual em adulto sem alarme, um MIP osmótico ou estimulante resolve. Ensine a tomar o psílio e a policarbofila com um copo cheio de água, a esperar 1 a 2 dias pelo efeito do osmótico e a não usar estimulante todos os dias por conta própria.</p></div>\n<div class=\"cx exemplo\"><b>Caso</b><p>Senhora de 76 anos começou tramadol após fratura de punho e está há 5 dias sem evacuar, sem dor intensa nem vômitos. A filha pede óleo mineral. Conduta: explicar o risco de aspiração com óleo mineral em idosa; orientar macrogol ou lactulose e líquidos, avisar o prescritor sobre a constipação pelo opioide e encaminhar se surgir distensão, dor forte, vômitos ou ausência de evacuação após mais 2 dias.</p></div>\n"
+  },
+  {
+   "id": "m10-antidiarreicos",
+   "titulo": "Antidiarreicos e reidratação oral",
+   "resumo": "<p>Diarreia aguda é o aumento do número de evacuações, com fezes amolecidas ou líquidas, por até 14 dias. A maioria dos casos é viral e melhora sozinha. O risco principal é a <strong>desidratação</strong>, mais grave em lactentes, idosos e pessoas com doença crônica. Quando dura mais de 14 dias, fala-se em diarreia persistente, que exige investigação (cartaz Manejo do paciente com diarreia, Ministério da Saúde).</p>\n<h3>Sais de reidratação oral</h3>\n<p>No intestino com diarreia, o cotransporte de sódio e glicose (SGLT1) continua funcionando: cada glicose absorvida leva junto sódio, e a água acompanha. Por isso a solução de reidratação oral (SRO) precisa ter as duas coisas na proporção certa. A fórmula de osmolaridade reduzida da OMS e do UNICEF tem 75 mmol/L de sódio, 75 mmol/L de glicose, 20 mmol/L de potássio, 65 mmol/L de cloreto e 10 mmol/L de citrato, com osmolaridade total de 245 mOsm/L.</p>\n<ul>\n<li>Dissolver o envelope em 1 litro de água filtrada ou fervida e fria; não ferver a solução pronta nem acrescentar açúcar.</li>\n<li>Descartar a solução 24 horas após o preparo.</li>\n<li>Refrigerante, isotônico esportivo e suco industrializado não substituem a SRO: têm açúcar demais e sódio de menos. O cartaz do MS orienta não usar refrigerante e não adoçar chá ou suco.</li>\n</ul>\n<div class=\"tab\"><table><thead><tr><th>Plano</th><th>Situação</th><th>Conduta (cartaz do MS)</th></tr></thead><tbody>\n<tr><td>A</td><td>Sem desidratação</td><td>Em casa: mais líquido que o habitual após cada evacuação e vômito (menores de 1 ano, 50 a 100 mL; 1 a 10 anos, 100 a 200 mL; acima de 10 anos, o que aceitar), manter a alimentação e o aleitamento; zinco para menores de 5 anos</td></tr>\n<tr><td>B</td><td>Com desidratação</td><td>No serviço de saúde: SRO 50 a 100 mL/kg (média de 75 mL/kg) em 4 a 6 horas; ondansetrona em dose única se vômitos persistentes; sem melhora em 6 horas, internação</td></tr>\n<tr><td>C</td><td>Desidratação grave</td><td>Hidratação venosa no hospital</td></tr>\n</tbody></table></div>\n<p>Para classificar a hidratação, o cartaz do MS observa estado geral, olhos, sede, lágrimas, boca e língua, sinal da prega abdominal e pulso. Com desidratação, a pessoa fica irritada ou intranquila, com olhos fundos, sem lágrimas, boca seca, sede intensa (bebe rápido e com avidez) e prega que desaparece lentamente. Na desidratação grave, fica letárgica ou inconsciente, não consegue beber, tem pulso fraco ou ausente e prega que demora mais de 2 segundos para desaparecer. Na dúvida entre duas classificações, vale o pior cenário.</p>\n<p>O zinco reduz a duração e a gravidade da diarreia em crianças: 10 mg/dia até 6 meses e 20 mg/dia de mais de 6 meses a menores de 5 anos, uma vez ao dia, por 10 a 14 dias (cartaz do MS). A LMIP inclui soluções e pós de reidratação com gliconato de zinco (IN 285/2024, Anexo I).</p>\n<h3>Antidiarreicos</h3>\n<p>O cartaz do Ministério da Saúde é direto: antidiarreicos não devem ser usados no manejo da diarreia aguda. Eles não tratam a desidratação e, na diarreia invasiva, podem reter o agente no intestino.</p>\n<div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>Mecanismo</th><th>Condição de venda</th><th>Cuidados</th></tr></thead><tbody>\n<tr><td>Loperamida (Imosec®)</td><td>Agonista opioide mu periférico: reduz motilidade e secreção</td><td>Sob prescrição (fora da LMIP)</td><td>Não usar com sangue nas fezes, febre alta, colite por antibiótico ou colite ulcerativa em atividade; contraindicada abaixo de 2 anos (bula americana)</td></tr>\n<tr><td>Racecadotrila (Tiorfan®)</td><td>Inibe a encefalinase intestinal: reduz a secreção sem alterar a motilidade</td><td>Sob prescrição (fora da LMIP)</td><td>Adulto: 100 mg de início e depois a cada 8 horas, até parar a diarreia, por no máximo 7 dias (bula); granulado pediátrico acima de 3 meses; reações cutâneas graves são raras</td></tr>\n<tr><td><em>Saccharomyces boulardii</em></td><td>Probiótico (levedura)</td><td>LMIP até 250 mg</td><td>Coadjuvante; evitar em imunossuprimido grave e em quem tem cateter venoso central</td></tr>\n</tbody></table></div>\n<div class=\"cx alerta\"><b>Atenção</b><p>A FDA alertou em 2016 para arritmias graves e mortes com doses altas de loperamida, em geral por abuso para efeito opioide ou por uso sem orientação; o rótulo de prescrição americano limita a 16 mg por dia. Em 2018, a FDA pediu embalagens menores para a loperamida de venda livre nos Estados Unidos.</p></div>\n<h3>Antibiótico e antiparasitário</h3>\n<p>Segundo o cartaz do MS, antibiótico só é usado na diarreia com sangue (disenteria) com comprometimento do estado geral ou na cólera grave; nas demais situações não tem eficácia e aumenta a resistência. Antiparasitário fica para amebíase e giardíase com diagnóstico. Diarreia que começa durante ou depois de antibiótico, sobretudo com febre e dor, pode ser infecção por <em>Clostridioides difficile</em> e precisa de avaliação.</p>\n<h3>Medicamentos e diarreia</h3>\n<p>Antibióticos, metformina, colchicina, sais de magnésio, misoprostol, inibidores seletivos da recaptação de serotonina e laxantes usados às escondidas causam diarreia. No sentido inverso, a diarreia e a desidratação mudam o efeito de outros fármacos: vômito ou diarreia intensa logo após o anticoncepcional oral reduzem a absorção (seguir a orientação da bula para comprimido perdido), e pessoas em uso de diurético, IECA, BRA, metformina ou inibidor do SGLT2 devem procurar o prescritor se não conseguirem se hidratar, pelo risco de lesão renal e acidose.</p>\n<div class=\"cx balcao\"><b>No balcão</b><p>Pergunte idade, tempo de evolução, número de evacuações, sangue ou muco, febre, vômitos, quanto a pessoa urina, viagem, uso recente de antibiótico e se outras pessoas da casa estão doentes. Ensine o preparo da SRO e quanto oferecer após cada evacuação. Encaminhe no mesmo dia se houver sinal de alerta do cartaz do MS (piora da diarreia, sangue nas fezes, diminuição da urina, muita sede, vômitos repetidos, recusa de alimentos ou ausência de melhora em 2 dias) e também lactente, idoso frágil, gestante ou imunossuprimido.</p></div>\n<div class=\"cx exemplo\"><b>Caso</b><p>Mãe pede \"remédio para cortar a diarreia\" do filho de 3 anos, com 5 evacuações líquidas por dia há 2 dias, sem sangue, brincando e urinando bem. Conduta: não indicar antidiarreico; orientar SRO, de 100 a 200 mL após cada evacuação, manter a alimentação, explicar os sinais de alerta e orientar consulta para avaliação do zinco, que o MS recomenda para menores de 5 anos.</p></div>\n"
+  },
+  {
+   "id": "m10-sii-dii",
+   "titulo": "Intestino irritável, antiespasmódicos e doença inflamatória intestinal",
+   "resumo": "<p>Síndrome do intestino irritável (SII) e doença inflamatória intestinal (DII) causam dor abdominal e mudança do hábito intestinal, mas são doenças muito diferentes. A SII é um distúrbio da interação intestino-cérebro: há hipersensibilidade visceral e alteração da motilidade, sem inflamação nem lesão. A DII (doença de Crohn e retocolite ulcerativa) é inflamação crônica imunomediada, com lesão da mucosa, sangramento, risco de complicações e tratamento com imunossupressores.</p>\n<h3>Intestino irritável</h3>\n<p>Pelos critérios de Roma IV, a SII é dor abdominal recorrente, pelo menos 1 dia por semana nos últimos 3 meses, associada a dois ou mais destes itens: relação com a evacuação, mudança na frequência ou mudança na forma das fezes, com início dos sintomas há pelo menos 6 meses. Os subtipos são com predomínio de constipação, de diarreia ou misto. O diagnóstico é médico e pressupõe a ausência de sinais de alarme.</p>\n<p>A diretriz da Sociedade Britânica de Gastroenterologia (BSG, 2021) propõe começar por orientação alimentar, atividade física e fibra solúvel (psílio), evitando farelo de trigo, que piora gases e dor. Para a dor, antiespasmódicos e óleo de hortelã-pimenta têm recomendação fraca. Para o subtipo com diarreia, a loperamida pode reduzir a frequência das evacuações; para o subtipo com constipação, osmóticos como o macrogol. Os antidepressivos tricíclicos em dose baixa (amitriptilina) agem como neuromoduladores da dor visceral e são a segunda linha com recomendação forte, sob prescrição.</p>\n<h3>Antiespasmódicos</h3>\n<div class=\"tab\"><table><thead><tr><th>Grupo</th><th>Exemplos</th><th>Mecanismo</th><th>Condição de venda</th></tr></thead><tbody>\n<tr><td>Antimuscarínico quaternário</td><td>Butilbrometo de escopolamina (Buscopan®)</td><td>Bloqueia receptores muscarínicos do músculo liso; atravessa pouco a barreira hematoencefálica</td><td>LMIP: comprimido 10 mg, solução oral 10 mg/mL e associações com dipirona ou paracetamol</td></tr>\n<tr><td>Bloqueadores de canal de cálcio intestinais</td><td>Brometo de pinavério, brometo de otilônio</td><td>Reduzem a entrada de cálcio na musculatura lisa do cólon</td><td>Sob prescrição</td></tr>\n<tr><td>Modulador opioide periférico</td><td>Trimebutina</td><td>Atua em receptores opioides do intestino e regula a motilidade</td><td>Sob prescrição</td></tr>\n</tbody></table></div>\n<p>Posologia de referência do butilbrometo de escopolamina (bula do Buscopan®): adultos e maiores de 6 anos, 10 a 20 mg, 3 a 5 vezes ao dia. Os efeitos anticolinérgicos (boca seca, taquicardia, retenção urinária, visão borrada) são mais prováveis com doses altas e em idosos. Evitar em glaucoma de ângulo fechado, retenção urinária por hiperplasia prostática, miastenia gravis, megacólon e taquiarritmia. A associação com dipirona traz todas as restrições da dipirona.</p>\n<div class=\"cx alerta\"><b>Atenção</b><p>Antiespasmódico não deve mascarar dor abdominal sem diagnóstico. Dor que começa perto do umbigo e migra para o lado direito inferior, dor com febre, abdome rígido, dor em gestante, vômitos persistentes ou dor que acorda a pessoa à noite exigem atendimento no mesmo dia.</p></div>\n<h3>Doença inflamatória intestinal</h3>\n<p>A <strong>doença de Crohn</strong> acomete qualquer segmento do tubo digestivo, da boca ao ânus, de forma segmentar e transmural, mais o íleo, o cólon e a região perianal, e pode causar estenoses e fístulas. A <strong>retocolite ulcerativa</strong> acomete a mucosa do reto e se estende de forma contínua pelo cólon. Diarreia com sangue ou muco, dor, evacuação noturna, perda de peso, febre e anemia sugerem DII e não combinam com SII.</p>\n<div class=\"tab\"><table><thead><tr><th>Classe</th><th>Fármacos no PCDT</th><th>Papel</th><th>Monitorização e cuidados</th></tr></thead><tbody>\n<tr><td>Aminossalicilatos</td><td>Sulfassalazina; mesalazina oral, supositório e enema</td><td>Base da retocolite leve a moderada; no Crohn, só doença colônica leve</td><td>Hemograma, urina e função renal; sulfassalazina reduz folato e colore a urina de laranja</td></tr>\n<tr><td>Corticoides</td><td>Prednisona; metilprednisolona e hidrocortisona intravenosas</td><td>Induzem a remissão; não servem para manutenção</td><td>Retirada gradual; glicemia, pressão, osso, infecção</td></tr>\n<tr><td>Imunossupressores</td><td>Azatioprina, metotrexato (Crohn), ciclosporina (retocolite grave)</td><td>Manutenção e redução do corticoide</td><td>Hemograma e transaminases; metotrexato com ácido fólico</td></tr>\n<tr><td>Biológicos</td><td>Infliximabe, adalimumabe, certolizumabe pegol, vedolizumabe, ustequinumabe</td><td>Doença moderada a grave ou refratária</td><td>Rastrear tuberculose e infecções antes; sem vacinas vivas</td></tr>\n<tr><td>Inibidor de JAK</td><td>Tofacitinibe (retocolite)</td><td>Retocolite moderada a grave</td><td>Infecções, herpes-zóster, trombose</td></tr>\n</tbody></table></div>\n<p>O PCDT da Retocolite Ulcerativa (Portaria Conjunta SAES/SECTICS nº 9/2024) prevê mesalazina oral de 2 a 4,8 g ao dia, supositório de mesalazina para proctite e enema para colite esquerda, azatioprina de 2 a 2,5 mg/kg/dia e infliximabe 5 mg/kg nas semanas 0, 2 e 6 e depois a cada 8 semanas. O PCDT da Doença de Crohn (Portaria Conjunta SAES/SCTIE nº 51/2026, que revogou a de 2017) usa sulfassalazina na doença colônica leve, corticoide na doença ileal e nas formas moderadas a graves, azatioprina ou metotrexato intramuscular semanal na manutenção, anti-TNF como biológico de primeira linha e ustequinumabe ou vedolizumabe como segunda linha. O mesmo PCDT orienta parar de fumar e evitar AINE, que podem agravar a doença, e destaca o cuidado farmacêutico na adesão e no acompanhamento.</p>\n<div class=\"cx alerta\"><b>Atenção</b><p>Azatioprina com alopurinol ou febuxostate (inibidores da xantina oxidase) pode causar mielossupressão grave: a associação exige decisão do prescritor e ajuste de dose. O metotrexato da DII é semanal; tomá-lo todo dia por engano é erro potencialmente fatal. Azatioprina aumenta o risco de câncer de pele: oriente fotoproteção.</p></div>\n<h3>Dispensação pelo Componente Especializado</h3>\n<p>Os medicamentos dos PCDT de Crohn e de retocolite ulcerativa são dispensados pelo Componente Especializado da Assistência Farmacêutica (CEAF), na farmácia estadual. A solicitação exige o Laudo de Solicitação, Avaliação e Autorização de Medicamentos (LME), a receita e os exames e documentos que o PCDT pede, e é renovada periodicamente. Os biológicos são conservados entre 2 °C e 8 °C e transportados em embalagem térmica; o paciente precisa de orientação sobre aplicação, descarte e sinais de infecção.</p>\n<div class=\"cx balcao\"><b>No balcão</b><p>Na pessoa com DII, loperamida e antiespasmódicos durante uma crise podem precipitar megacólon tóxico; diarreia com sangue, febre ou distensão é motivo de contato imediato com a equipe. Oriente sobre AINE (preferir paracetamol para dor, com conhecimento do médico), vacinas (inativadas sim, vivas não durante imunossupressão), adesão à mesalazina mesmo sem sintomas e exames periódicos. Na SII, confirme que não há sinal de alarme antes de indicar escopolamina ou fibra.</p></div>\n<div class=\"cx exemplo\"><b>Caso</b><p>Jovem de 24 anos com doença de Crohn em uso de azatioprina procura a farmácia com febre e dor de garganta há 2 dias e pede um anti-inflamatório. Conduta: não indicar AINE; explicar que febre em uso de azatioprina pode ser sinal de neutropenia ou infecção e encaminhar para avaliação no mesmo dia, com hemograma.</p></div>\n"
+  }
+ ],
+ "mapas": [
+  {
+   "id": "m10-mapa-acido",
+   "titulo": "Acidez, IBP e H. pylori",
+   "centro": "Acidez gástrica",
+   "ramos": [
+    {
+     "t": "IBP",
+     "itens": [
+      "Pró-fármaco; bloqueio irreversível",
+      "30 a 60 min antes do café",
+      "Efeito pleno em dias, não na hora",
+      "Omeprazol + clopidogrel: evitar",
+      "Suspensão: rebote ácido"
+     ]
+    },
+    {
+     "t": "Outros antiulcerosos",
+     "itens": [
+      "Antiácido: alívio em minutos",
+      "H2: tolerância em semanas",
+      "Sucralfato: alumínio, separar 2 h",
+      "Misoprostol: C1, só hospital"
+     ]
+    },
+    {
+     "t": "Omeprazol MIP",
+     "itens": [
+      "20 mg, caixa de 7 ou 14 (IN 404/2025)",
+      "Azia em 2 ou mais dias/semana",
+      "Até 14 dias; ciclos a cada 4 meses",
+      "40 mg e outros IBP: prescrição"
+     ]
+    },
+    {
+     "t": "Uso prolongado",
+     "itens": [
+      "Revisar indicação de todo usuário",
+      "Magnésio baixo, B12 baixa",
+      "Fratura e C. difficile",
+      "Ferro e levotiroxina absorvem menos"
+     ]
+    },
+    {
+     "t": "H. pylori",
+     "itens": [
+      "V Consenso Brasileiro, 2026",
+      "Quádrupla com bismuto, 10 a 14 dias",
+      "Tripla só se resistência < 15%",
+      "Bismuto só manipulado no Brasil",
+      "Controle: IBP suspenso 14 dias"
+     ]
+    },
+    {
+     "t": "Alarme",
+     "itens": [
+      "Disfagia, vômito com sangue",
+      "Fezes pretas, anemia",
+      "Emagrecimento",
+      "Dor no peito: pensar em infarto"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m10-mapa-motilidade",
+   "titulo": "Náusea, constipação e diarreia",
+   "centro": "Motilidade e balcão",
+   "ramos": [
+    {
+     "t": "Antagonistas D2",
+     "itens": [
+      "Metoclopramida: até 5 dias (EMA 2013)",
+      "Distonia em jovens; discinesia em idosos",
+      "Domperidona: QT, máx. 30 mg/dia",
+      "Pioram o Parkinson (exceto domperidona)"
+     ]
+    },
+    {
+     "t": "5-HT3 e cinetose",
+     "itens": [
+      "Ondansetrona: QT, constipação",
+      "Diarreia: dose única no Plano B",
+      "Meclozina 50 mg: MIP na cinetose",
+      "Dimenidrinato: sob prescrição"
+     ]
+    },
+    {
+     "t": "Laxantes",
+     "itens": [
+      "Massa: psílio, com muita água",
+      "Osmótico: macrogol, lactulose",
+      "Estimulante: bisacodil, resgate",
+      "Óleo mineral: evitar no idoso"
+     ]
+    },
+    {
+     "t": "Diarreia aguda",
+     "itens": [
+      "SRO: 1 envelope em 1 L, usar em 24 h",
+      "Zinco < 5 anos: 10 a 14 dias",
+      "Antidiarreico: não usar (MS)",
+      "Loperamida e racecadotrila: prescrição"
+     ]
+    },
+    {
+     "t": "Encaminhar",
+     "itens": [
+      "Sangue nas fezes, febre alta",
+      "Pouca urina, muita sede",
+      "Lactente, idoso frágil, gestante",
+      "Sem melhora em 2 dias"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m10-mapa-sii-dii",
+   "titulo": "Intestino irritável e DII",
+   "centro": "SII x DII",
+   "ramos": [
+    {
+     "t": "SII",
+     "itens": [
+      "Funcional, sem inflamação",
+      "Roma IV: dor 1 dia/semana, 3 meses",
+      "Fibra solúvel; evitar farelo",
+      "Tricíclico em dose baixa: 2ª linha"
+     ]
+    },
+    {
+     "t": "Antiespasmódicos",
+     "itens": [
+      "Escopolamina 10 mg: MIP",
+      "Pinavério, otilônio: prescrição",
+      "Evitar: glaucoma, retenção urinária",
+      "Não mascarar dor sem diagnóstico"
+     ]
+    },
+    {
+     "t": "DII: doenças",
+     "itens": [
+      "Crohn: boca ao ânus, transmural",
+      "Retocolite: reto e cólon, contínua",
+      "Sangue, febre, perda de peso",
+      "AINE e tabaco pioram"
+     ]
+    },
+    {
+     "t": "DII: fármacos",
+     "itens": [
+      "Mesalazina 2 a 4,8 g/dia (RCU)",
+      "Corticoide: só indução",
+      "Azatioprina 2 a 2,5 mg/kg/dia",
+      "Anti-TNF, vedolizumabe, ustequinumabe"
+     ]
+    },
+    {
+     "t": "Segurança",
+     "itens": [
+      "Azatioprina + alopurinol: risco grave",
+      "Metotrexato é semanal",
+      "Biológico: rastrear tuberculose",
+      "Sem vacina viva na imunossupressão"
+     ]
+    },
+    {
+     "t": "CEAF",
+     "itens": [
+      "PCDT Crohn: Portaria 51/2026",
+      "PCDT RCU: Portaria 9/2024",
+      "LME, receita e exames",
+      "Biológico: 2 °C a 8 °C"
+     ]
+    }
+   ]
+  }
+ ],
+ "apoio": [
+  {
+   "tipo": "tabela",
+   "id": "m10-tab-venda",
+   "titulo": "Condição de venda dos fármacos gastrointestinais",
+   "colunas": [
+    "Fármaco",
+    "Na LMIP?",
+    "Observação"
+   ],
+   "linhas": [
+    [
+     "Omeprazol 20 mg",
+     "Sim, caixa MIP",
+     "Azia frequente, até 14 dias (IN 404/2025)"
+    ],
+    [
+     "Omeprazol 40 mg, pantoprazol, esomeprazol, lansoprazol",
+     "Não",
+     "Sob prescrição"
+    ],
+    [
+     "Famotidina",
+     "Não",
+     "Sob prescrição; nenhum H2 na LMIP"
+    ],
+    [
+     "Antiácidos (alumínio, magnésio, cálcio), magaldrato, alginato",
+     "Sim",
+     "Conforme forma e concentração da lista"
+    ],
+    [
+     "Misoprostol",
+     "Não",
+     "Lista C1 (Portaria 344/98); só hospital cadastrado"
+    ],
+    [
+     "Metoclopramida, bromoprida, domperidona, ondansetrona",
+     "Não",
+     "Sob prescrição"
+    ],
+    [
+     "Dimenidrinato",
+     "Não",
+     "Sob prescrição"
+    ],
+    [
+     "Meclozina 50 mg",
+     "Sim",
+     "Profilaxia e tratamento da cinetose"
+    ],
+    [
+     "Bisacodil 5 mg, picossulfato 7,5 mg/mL, lactulose 667 mg/mL",
+     "Sim",
+     "Laxativo"
+    ],
+    [
+     "Policarbofila cálcica 625 mg",
+     "Sim",
+     "Hábito intestinal na diverticulose e na SII"
+    ],
+    [
+     "Sais de reidratação com gliconato de zinco",
+     "Sim",
+     "Diarreia aguda"
+    ],
+    [
+     "<i>Saccharomyces boulardii</i> 250 mg",
+     "Sim",
+     "Coadjuvante na diarreia"
+    ],
+    [
+     "Loperamida, racecadotrila",
+     "Não",
+     "Sob prescrição"
+    ],
+    [
+     "Butilbrometo de escopolamina 10 mg e associações",
+     "Sim",
+     "Cólica; associações com dipirona ou paracetamol"
+    ],
+    [
+     "Mesalazina, azatioprina, biológicos",
+     "Não",
+     "Prescrição; no SUS, pelo CEAF"
+    ]
+   ],
+   "nota": "Conferido no Anexo I da IN 285/2024 na redação da IN 404/2025 (DOU 13/11/2025). Um produto só é MIP se o registro dele foi adequado à lista: confira a embalagem."
+  },
+  {
+   "tipo": "tabela",
+   "id": "m10-tab-antiemeticos",
+   "titulo": "Antieméticos: limites e riscos",
+   "colunas": [
+    "Fármaco",
+    "Receptor",
+    "Limite de referência",
+    "Risco principal",
+    "Fonte"
+   ],
+   "linhas": [
+    [
+     "Metoclopramida",
+     "D2 e 5-HT4",
+     "0,5 mg/kg/dia; adulto 10 mg até 3 vezes ao dia; até 5 dias; não usar abaixo de 1 ano",
+     "Distonia, discinesia tardia",
+     "EMA, 2013"
+    ],
+    [
+     "Bromoprida",
+     "D2",
+     "Conforme bula",
+     "Efeitos extrapiramidais",
+     "Bula"
+    ],
+    [
+     "Domperidona",
+     "D2 periférico",
+     "10 mg até 3 vezes ao dia; máx. 30 mg/dia; até 1 semana",
+     "QT, arritmia, morte súbita",
+     "EMA, 2014"
+    ],
+    [
+     "Ondansetrona",
+     "5-HT3",
+     "Até 16 mg por dose intravenosa; na diarreia, dose única oral por idade",
+     "QT, constipação",
+     "FDA, 2012; MS"
+    ],
+    [
+     "Meclozina",
+     "H1",
+     "50 mg (MIP na cinetose)",
+     "Sonolência, efeito anticolinérgico",
+     "LMIP"
+    ]
+   ]
+  },
+  {
+   "tipo": "tabela",
+   "id": "m10-tab-ibp-interacoes",
+   "titulo": "Interações dos antiulcerosos",
+   "colunas": [
+    "Antiulceroso",
+    "Interage com",
+    "Efeito",
+    "Conduta"
+   ],
+   "linhas": [
+    [
+     "Omeprazol, esomeprazol",
+     "Clopidogrel",
+     "Menor ativação do clopidogrel (CYP2C19)",
+     "Evitar; prescritor avalia pantoprazol"
+    ],
+    [
+     "IBP em geral",
+     "Atazanavir, rilpivirina",
+     "Menor absorção do antirretroviral",
+     "Conferir bula; em geral contraindicado"
+    ],
+    [
+     "IBP em geral",
+     "Cetoconazol e itraconazol orais, sais de ferro",
+     "Menor absorção",
+     "Avisar o prescritor; monitorar resposta"
+    ],
+    [
+     "IBP em geral",
+     "Levotiroxina",
+     "Absorção pode cair",
+     "Controle do TSH"
+    ],
+    [
+     "IBP em geral",
+     "Metotrexato em dose alta",
+     "Nível sérico maior",
+     "Avisar a equipe"
+    ],
+    [
+     "Antiácidos, sucralfato",
+     "Quinolonas, tetraciclinas, levotiroxina, ferro, bisfosfonatos",
+     "Complexação e menor absorção",
+     "Separar pelo menos 2 horas"
+    ],
+    [
+     "Cimetidina",
+     "Varfarina, fenitoína, teofilina",
+     "Inibição do CYP450",
+     "Preferir outro antiulceroso"
+    ]
+   ]
+  },
+  {
+   "tipo": "fluxo",
+   "id": "m10-fluxo-azia",
+   "titulo": "Cliente com azia ou queimação no balcão",
+   "passos": [
+    {
+     "t": "Cliente relata azia, queimação ou regurgitação",
+     "tipo": "inicio"
+    },
+    {
+     "t": "Há dor no peito com esforço, falta de ar ou suor frio?",
+     "tipo": "decisao",
+     "sim": "Pode ser cardíaco: acionar o SAMU (192)",
+     "nao": "Seguir a avaliação"
+    },
+    {
+     "t": "Há sinal de alarme: dificuldade para engolir, vômitos persistentes, sangue no vômito, fezes pretas, emagrecimento, anemia?",
+     "tipo": "decisao",
+     "sim": "Encaminhar para avaliação médica; não mascarar com IBP",
+     "nao": "Seguir a avaliação"
+    },
+    {
+     "t": "Perguntar por AINE, AAS, anticoagulante, clopidogrel, bisfosfonato, antirretroviral e gestação",
+     "tipo": "acao"
+    },
+    {
+     "t": "A azia ocorre em 2 ou mais dias por semana?",
+     "tipo": "decisao",
+     "sim": "Avaliar omeprazol 20 mg MIP por até 14 dias, se não houver interação",
+     "nao": "Antiácido ou alginato sob demanda"
+    },
+    {
+     "t": "Usa clopidogrel ou antirretroviral que depende de acidez?",
+     "tipo": "alerta"
+    },
+    {
+     "t": "Orientar tomada em jejum, medidas de estilo de vida e retorno se não melhorar em 14 dias ou se voltar antes de 4 meses",
+     "tipo": "acao"
+    },
+    {
+     "t": "Registrar a orientação e encaminhar quando necessário",
+     "tipo": "fim"
+    }
+   ]
+  },
+  {
+   "tipo": "fluxo",
+   "id": "m10-fluxo-diarreia",
+   "titulo": "Diarreia aguda no balcão",
+   "passos": [
+    {
+     "t": "Cliente ou responsável relata diarreia",
+     "tipo": "inicio"
+    },
+    {
+     "t": "Há sinal de desidratação grave: letargia, não consegue beber, pulso fraco?",
+     "tipo": "decisao",
+     "sim": "Encaminhar imediatamente para serviço de saúde (Plano C)",
+     "nao": "Seguir a avaliação"
+    },
+    {
+     "t": "Há sangue nas fezes, febre alta, vômitos repetidos, pouca urina, muita sede ou mais de 14 dias de evolução?",
+     "tipo": "decisao",
+     "sim": "Encaminhar para atendimento no mesmo dia",
+     "nao": "Seguir a avaliação"
+    },
+    {
+     "t": "É lactente, idoso frágil, gestante ou imunossuprimido, ou usou antibiótico recentemente?",
+     "tipo": "decisao",
+     "sim": "Encaminhar para avaliação",
+     "nao": "Plano A em casa"
+    },
+    {
+     "t": "Ensinar o preparo da SRO e o volume após cada evacuação; manter alimentação e aleitamento",
+     "tipo": "acao"
+    },
+    {
+     "t": "Não indicar antidiarreico; loperamida e racecadotrila são de prescrição",
+     "tipo": "alerta"
+    },
+    {
+     "t": "Criança menor de 5 anos: orientar sobre zinco por 10 a 14 dias",
+     "tipo": "acao"
+    },
+    {
+     "t": "Retornar ou procurar serviço se não melhorar em 2 dias ou surgir sinal de alerta",
+     "tipo": "fim"
+    }
+   ]
+  },
+  {
+   "tipo": "checklist",
+   "id": "m10-check-hpylori",
+   "titulo": "Dispensação do tratamento do H. pylori",
+   "itens": [
+    "Conferir a receita de antimicrobiano: duas vias, dentro de 10 dias da emissão",
+    "Reter a via da farmácia e escriturar",
+    "Perguntar sobre alergia a penicilina e gestação",
+    "Conferir interações da claritromicina com estatinas e fármacos que prolongam o QT",
+    "Orientar abstinência de álcool com metronidazol",
+    "Separar tetraciclina de leite, antiácido, ferro e cálcio",
+    "Avisar que o bismuto escurece fezes e língua",
+    "Montar tabela de horários com o paciente",
+    "Reforçar que o tratamento vai até o último dia",
+    "Explicar que o teste de controle exige IBP suspenso há 14 dias"
+   ]
+  },
+  {
+   "tipo": "checklist",
+   "id": "m10-check-ibp",
+   "titulo": "Revisão do usuário crônico de IBP",
+   "itens": [
+    "Perguntar quem indicou o IBP, para quê e há quanto tempo",
+    "Verificar se há Barrett, esofagite grave ou sangramento prévio",
+    "Verificar uso de AINE, AAS, anticoagulante ou corticoide",
+    "Conferir clopidogrel, antirretrovirais, levotiroxina e ferro",
+    "Perguntar por cãibras, formigamento, anemia e diarreia persistente",
+    "Explicar o rebote ácido se houver suspensão",
+    "Encaminhar ao prescritor com as informações organizadas"
+   ]
+  },
+  {
+   "tipo": "cartoes",
+   "id": "m10-cartoes",
+   "titulo": "Cartões de revisão",
+   "itens": [
+    {
+     "f": "Por que o IBP é tomado antes do café da manhã?",
+     "v": "Só inibe bombas ativas, estimuladas pela refeição."
+    },
+    {
+     "f": "Omeprazol isento de prescrição: concentração e embalagem",
+     "v": "20 mg, caixas de 7 ou 14 cápsulas (IN 404/2025)."
+    },
+    {
+     "f": "Omeprazol MIP: duração e intervalo",
+     "v": "Até 14 dias; pelo menos 4 meses entre ciclos."
+    },
+    {
+     "f": "IBP que menos interage com clopidogrel",
+     "v": "Pantoprazol."
+    },
+    {
+     "f": "Algum antagonista H2 está na LMIP?",
+     "v": "Não. A famotidina é vendida sob prescrição."
+    },
+    {
+     "f": "Misoprostol no Brasil",
+     "v": "Lista C1; compra e uso só em hospital cadastrado."
+    },
+    {
+     "f": "Esquema preferencial para H. pylori (V Consenso, 2026)",
+     "v": "Quádrupla com bismuto, 10 a 14 dias."
+    },
+    {
+     "f": "Tripla com claritromicina: quando aceitar?",
+     "v": "Resistência local menor que 15% ou teste de sensibilidade."
+    },
+    {
+     "f": "Suspensão antes do teste de controle do H. pylori",
+     "v": "IBP 14 dias; antibiótico e bismuto 4 semanas."
+    },
+    {
+     "f": "Metoclopramida: limites da EMA (2013)",
+     "v": "Até 5 dias; 0,5 mg/kg/dia; não abaixo de 1 ano."
+    },
+    {
+     "f": "Domperidona: principal risco",
+     "v": "Prolongamento do QT e arritmia."
+    },
+    {
+     "f": "Antiemético isento para cinetose",
+     "v": "Meclozina 50 mg."
+    },
+    {
+     "f": "Composição da SRO de osmolaridade reduzida",
+     "v": "Sódio 75, glicose 75 mmol/L; 245 mOsm/L."
+    },
+    {
+     "f": "Zinco na diarreia infantil (MS)",
+     "v": "10 mg/dia até 6 meses; 20 mg/dia até 5 anos; 10 a 14 dias."
+    },
+    {
+     "f": "Laxante a evitar no idoso acamado",
+     "v": "Óleo mineral (aspiração)."
+    },
+    {
+     "f": "Interação grave da azatioprina",
+     "v": "Alopurinol ou febuxostate: mielossupressão."
+    },
+    {
+     "f": "Onde o SUS dispensa mesalazina e biológicos da DII",
+     "v": "No CEAF, com LME e exames do PCDT."
+    }
+   ]
+  },
+  {
+   "tipo": "questoes",
+   "id": "m10-questoes",
+   "titulo": "Questões de fixação",
+   "itens": [
+    {
+     "p": "Mulher de 45 anos relata azia e queimação 3 a 4 dias por semana há um mês, sem dificuldade para engolir, vômitos, emagrecimento ou fezes escuras. Não usa outros medicamentos. Pela LMIP vigente (IN 285/2024 com a IN 404/2025), a opção isenta de prescrição adequada para esse padrão de sintoma é:",
+     "alt": [
+      "Omeprazol 20 mg em caixa MIP, 1 cápsula ao dia em jejum, por até 14 dias",
+      "Famotidina 20 mg à noite, por 30 dias, como opção isenta de prescrição de primeira escolha",
+      "Pantoprazol 40 mg em jejum, por 28 dias, porque é o IBP com menos interações e por isso isento",
+      "Omeprazol 40 mg em jejum, por 8 semanas, para cicatrizar uma possível esofagite antes da consulta",
+      "Domperidona 10 mg antes das refeições, por tempo indeterminado, para acelerar o esvaziamento gástrico"
+     ],
+     "c": 0,
+     "com": "A IN 404/2025 incluiu na LMIP o omeprazol 20 mg para alívio de azia e queimação frequentes (dois ou mais dias por semana); o voto que aprovou a medida prevê caixas de 7 ou 14 unidades e uso por até 14 dias. Nenhum antagonista H2 está na LMIP; pantoprazol, omeprazol 40 mg e domperidona são de prescrição, e a domperidona não trata azia (EMA, 2014)."
+    },
+    {
+     "p": "Homem de 63 anos em uso de clopidogrel após stent coronariano pede omeprazol MIP para azia frequente. A conduta mais adequada do farmacêutico é:",
+     "alt": [
+      "Dispensar o omeprazol e orientar intervalo de 12 horas entre os dois medicamentos para evitar a interação",
+      "Dispensar esomeprazol, que não tem interação com o clopidogrel por ser o isômero ativo do omeprazol",
+      "Não dispensar o omeprazol e encaminhar ao médico, que pode avaliar o pantoprazol",
+      "Orientar a suspensão do clopidogrel durante os 14 dias de omeprazol e retomar depois",
+      "Dispensar ranitidina, que substitui o IBP sem interação e está disponível sem prescrição"
+     ],
+     "c": 2,
+     "com": "Omeprazol e esomeprazol inibem o CYP2C19, que ativa o clopidogrel, e a FDA recomenda evitar a associação; o pantoprazol tem menor efeito sobre essa enzima. Separar horários não resolve a inibição enzimática. Suspender antiagregante após stent é perigoso. A ranitidina saiu do mercado por contaminação com NDMA, e nenhum H2 é MIP."
+    },
+    {
+     "p": "Segundo o V Consenso Brasileiro sobre a infecção por Helicobacter pylori (2026), o esquema preferencial de primeira linha é:",
+     "alt": [
+      "IBP, amoxicilina e claritromicina por 7 dias, em kit pronto, para qualquer paciente",
+      "Quádrupla com bismuto, tetraciclina, metronidazol e IBP ou P-CAB, por 10 a 14 dias",
+      "Levofloxacino, amoxicilina e IBP por 10 dias, reservando o bismuto para o resgate após duas falhas",
+      "Rifabutina, amoxicilina e IBP por 14 dias, pela baixa resistência no Brasil",
+      "Metronidazol isolado por 14 dias, associado a probiótico em dose alta para aumentar a erradicação"
+     ],
+     "c": 1,
+     "com": "O V Consenso (afirmação 28) coloca a quádrupla com bismuto, metronidazol e tetraciclina, com IBP ou P-CAB, por 10 a 14 dias, como preferencial. A tripla com claritromicina só é aceita com resistência local menor que 15% ou teste de sensibilidade, e em 14 dias. Levofloxacino é segunda linha; rifabutina é resgate e precisa ser importada; probiótico é apenas adjuvante."
+    },
+    {
+     "p": "Paciente vai fazer teste respiratório com ureia marcada para confirmar a erradicação do H. pylori e usa omeprazol diariamente. Pelo V Consenso Brasileiro (2026), a orientação correta é:",
+     "alt": [
+      "Suspender o omeprazol só na véspera do exame, porque o efeito do IBP acaba em 24 horas",
+      "Manter o omeprazol, porque o IBP não interfere em testes respiratórios, apenas na biópsia",
+      "Trocar o omeprazol por sucralfato 4 semanas antes, porque o sucralfato também precisa ser suspenso",
+      "Suspender o IBP 14 dias antes do exame; antiácido e alginato podem ser usados nesse período",
+      "Fazer sorologia no lugar do teste respiratório, que dispensa a suspensão do IBP e confirma a cura"
+     ],
+     "c": 3,
+     "com": "A afirmação 20 do V Consenso pede suspensão de IBP e P-CAB por 14 dias, de antibióticos e bismuto por 4 semanas e de antagonista H2 por 2 horas; sucralfato, alginato e antiácidos não precisam ser suspensos. A sorologia não serve para confirmar erradicação porque os anticorpos persistem (afirmação 17)."
+    },
+    {
+     "p": "Rapaz de 17 anos recebeu metoclopramida para vômitos e, horas depois, apresenta torcicolo e desvio dos olhos para cima. Esse quadro corresponde a:",
+     "alt": [
+      "Síndrome serotoninérgica por excesso de serotonina no tubo digestivo, típica dos procinéticos",
+      "Hipoglicemia causada pelo jejum prolongado durante o quadro de vômitos e pela medicação",
+      "Prolongamento do QT com torsades de pointes, efeito típico das benzamidas em jovens",
+      "Crise convulsiva focal por intoxicação, que exige suspender todos os antieméticos por 30 dias",
+      "Distonia aguda por bloqueio D2 no sistema nervoso central, mais comum em jovens"
+     ],
+     "c": 4,
+     "com": "A metoclopramida atravessa a barreira hematoencefálica e, ao bloquear receptores D2, causa efeitos extrapiramidais; a distonia aguda é mais frequente em crianças e jovens (EMA, 2013). É urgência com tratamento rápido (anticolinérgico) e deve ser notificada. O risco de QT é mais associado a domperidona e ondansetrona."
+    },
+    {
+     "p": "Sobre a domperidona, as restrições adotadas pela EMA em 2014 incluem:",
+     "alt": [
+      "Uso liberado por tempo indeterminado na gastroparesia e na dispepsia funcional do adulto",
+      "Dose máxima de 80 mg por dia, dividida em 4 tomadas, para náusea de qualquer origem",
+      "Dose máxima de 30 mg/dia, por até 1 semana, só para alívio de náusea e vômito",
+      "Associação preferencial com claritromicina para potencializar o efeito procinético",
+      "Indicação principal para azia, inchaço abdominal e regurgitação em adultos e idosos"
+     ],
+     "c": 2,
+     "com": "A EMA (2014) restringiu a domperidona ao alívio de náusea e vômito, com 10 mg até 3 vezes ao dia (máximo de 30 mg/dia), normalmente por até uma semana, e contraindicou o uso com fármacos que prolongam o QT e com inibidores potentes do CYP3A4, como a claritromicina. As indicações de azia e inchaço foram retiradas."
+    },
+    {
+     "p": "Cliente vai viajar de barco e pede algo para enjoo. Não tem glaucoma nem problema de próstata e não vai dirigir. Entre as opções, a que consta da LMIP para cinetose é:",
+     "alt": [
+      "Meclozina 50 mg, tomada antes da viagem conforme a bula",
+      "Dimenidrinato com piridoxina, que é isento por ser associação com vitamina",
+      "Ondansetrona orodispersível de 8 mg, que dispensa água e age mais rápido na cinetose",
+      "Metoclopramida 10 mg, que bloqueia a via vestibular e é isenta em dose única",
+      "Bromoprida em gotas, que é isenta quando usada por menos de 3 dias"
+     ],
+     "c": 0,
+     "com": "A LMIP (IN 285/2024, Anexo I) inclui o dicloridrato de meclozina 50 mg para profilaxia e tratamento da cinetose. O dimenidrinato não está na lista e é vendido sob prescrição. Ondansetrona, metoclopramida e bromoprida são de prescrição e funcionam mal na cinetose, que depende de vias histaminérgicas e colinérgicas."
+    },
+    {
+     "p": "Mãe relata que o filho de 2 anos tem diarreia líquida há 1 dia, sem sangue, está ativo e urina normalmente. Pelo cartaz Manejo do paciente com diarreia do Ministério da Saúde, a orientação correta inclui:",
+     "alt": [
+      "Loperamida em gotas para reduzir as evacuações e evitar a desidratação nas primeiras 24 horas",
+      "Suspender o leite e os alimentos sólidos até a diarreia parar, oferecendo só refrigerante sem gás",
+      "Antibiótico oral por 3 dias, porque a diarreia infantil costuma ser bacteriana nessa idade",
+      "SRO de 100 a 200 mL após cada evacuação, manter a alimentação e zinco por 10 a 14 dias",
+      "Racecadotrila em sachê, que é isenta de prescrição para crianças acima de 3 meses"
+     ],
+     "c": 3,
+     "com": "No Plano A, o cartaz do MS orienta mais líquido após cada evacuação (de 1 a 10 anos, 100 a 200 mL), manter a alimentação e dar zinco a menores de 5 anos (20 mg/dia acima de 6 meses, por 10 a 14 dias). Antidiarreicos não devem ser usados; loperamida é contraindicada abaixo de 2 anos e racecadotrila é de prescrição. Antibiótico só na disenteria com comprometimento do estado geral ou na cólera grave."
+    },
+    {
+     "p": "Senhora de 80 anos, acamada, com engasgos frequentes, está constipada. A filha pede óleo mineral. O principal motivo para desaconselhar esse laxante é:",
+     "alt": [
+      "Causar hipermagnesemia grave em idosos com função renal normal",
+      "Risco de aspiração e pneumonia lipoídica em quem engasga ou fica deitado",
+      "Ser o laxante de efeito mais lento, levando mais de uma semana para agir",
+      "Ter interação grave com anti-hipertensivos, causando hipotensão ao levantar",
+      "Estar proibido para maiores de 65 anos pela lista de medicamentos isentos"
+     ],
+     "c": 1,
+     "com": "O óleo mineral pode ser aspirado e causar pneumonia lipoídica, risco maior em idosos acamados, pessoas com disfagia ou refluxo e crianças pequenas; também reduz a absorção de vitaminas lipossolúveis. Hipermagnesemia é risco do hidróxido de magnésio na doença renal. Para idosos, macrogol e lactulose são preferidos."
+    },
+    {
+     "p": "Sobre a loperamida, assinale a alternativa correta:",
+     "alt": [
+      "Está na LMIP e é a primeira escolha para diarreia com sangue e febre em adultos",
+      "Pode ser usada em lactentes porque age apenas no intestino e não é absorvida",
+      "Atua inibindo a encefalinase intestinal, sem alterar a motilidade do intestino",
+      "Doses acima do teto da bula não trazem risco cardíaco, apenas constipação intensa",
+      "É de venda sob prescrição e, em dose alta, pode causar arritmia grave"
+     ],
+     "c": 4,
+     "com": "A loperamida (agonista opioide periférico) não está na LMIP. A FDA alertou em 2016 para arritmias graves e mortes com doses altas, em geral por abuso; o rótulo de prescrição americano limita a 16 mg/dia e contraindica o uso abaixo de 2 anos. Não deve ser usada com sangue nas fezes ou febre alta. A inibição da encefalinase é o mecanismo da racecadotrila."
+    },
+    {
+     "p": "Paciente com doença de Crohn em uso de azatioprina passou a tomar alopurinol para gota, prescrito por outro médico. O risco principal dessa associação é:",
+     "alt": [
+      "Redução do efeito da azatioprina por indução enzimática hepática",
+      "Hiperuricemia de rebote, porque a azatioprina aumenta a produção de ácido úrico",
+      "Mielossupressão grave por acúmulo dos metabólitos ativos da azatioprina",
+      "Hipoglicemia, por inibição da gliconeogênese hepática pelos dois fármacos juntos",
+      "Nenhum risco relevante, porque os dois são usados em doses baixas e em horários diferentes"
+     ],
+     "c": 2,
+     "com": "O alopurinol inibe a xantina oxidase, via que inativa a azatioprina; os metabólitos ativos se acumulam e podem causar mielossupressão grave. A associação exige decisão do prescritor, redução da dose e monitorização com hemograma. O PCDT da Doença de Crohn (2026) recomenda hemograma e transaminases durante o uso de azatioprina."
+    },
+    {
+     "p": "Na dispensação de mesalazina e de biológicos para retocolite ulcerativa pelo SUS, é correto afirmar:",
+     "alt": [
+      "São retirados na unidade básica com receita simples, sem laudo, pelo Componente Básico",
+      "São dispensados pelo CEAF, com LME, receita e os exames e documentos exigidos pelo PCDT",
+      "São comprados pelo paciente na drogaria e reembolsados pelo Farmácia Popular mediante nota fiscal",
+      "Só podem ser dispensados em hospital, durante a internação, porque todos são de uso intravenoso",
+      "Dispensam rastreamento de tuberculose quando o paciente não tem tosse no momento da solicitação"
+     ],
+     "c": 1,
+     "com": "Os medicamentos do PCDT da Retocolite Ulcerativa (Portaria Conjunta SAES/SECTICS nº 9/2024) são dispensados pelo Componente Especializado da Assistência Farmacêutica, com LME, receita e os exames exigidos. A mesalazina é oral ou retal. Antes de biológicos, os PCDT de DII exigem investigar tuberculose ativa e latente."
+    }
+   ]
+  }
+ ],
+ "fontes": [
+  "Anvisa. Instrução Normativa nº 404, de 10 de novembro de 2025. Altera a Lista de Medicamentos Isentos de Prescrição (inclusão do omeprazol 20 mg) e republica o Anexo I da IN nº 285/2024. Diário Oficial da União nº 217, 13 nov. 2025, Seção 1, p. 123. Texto integral conferido em out. 2026.",
+  "Anvisa. Instrução Normativa nº 285, de 7 de março de 2024. Lista de Medicamentos Isentos de Prescrição (LMIP). Diário Oficial da União, 12 mar. 2024.",
+  "Anvisa. Diretoria Colegiada. Voto nº 261/2025/SEI/DIRE2/ANVISA, processo 25351.918052/2023-80 (ROP 18/2025): inclusão do omeprazol 20 mg na LMIP. https://www.gov.br/anvisa/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria/votos/2025/rop-18.2025/2-4.pdf",
+  "Anvisa. Resolução da Diretoria Colegiada RDC nº 882, de 14 de junho de 2024. Enquadramento de medicamentos como isentos de prescrição.",
+  "Brasil. Ministério da Saúde. Portaria SVS/MS nº 344, de 12 de maio de 1998, e lista vigente atualizada pela RDC nº 1.036/2026 (Atualização n. 101, DOU 13/07/2026): misoprostol na lista C1.",
+  "Anvisa. RDC nº 471, de 23 de fevereiro de 2021, alterada pela RDC nº 973/2025, e Instrução Normativa nº 360/2025: antimicrobianos, receita em duas vias e validade de 10 dias.",
+  "Coelho LGV, Sanches BSF, Maguilnik I, et al. V Consenso Brasileiro sobre a infecção por Helicobacter pylori (Vth Brazilian Consensus Conference on Helicobacter pylori infection). Arq Gastroenterol. 2026;63. DOI: 10.1590/S0004-2803.24612026-043. https://www.scielo.br/j/ag/a/G9BpZdBB8tHTKdF9b5nmSbp/",
+  "Brasil. Ministério da Saúde. Portaria Conjunta SAES/SCTIE nº 51, de 18 de maio de 2026. Aprova o Protocolo Clínico e Diretrizes Terapêuticas da Doença de Crohn; revoga a Portaria Conjunta nº 14/2017. Relatório de Recomendação Conitec nº 1079/2025.",
+  "Brasil. Ministério da Saúde. Portaria Conjunta SAES/SECTICS nº 9, de 12 de setembro de 2024. Aprova o Protocolo Clínico e Diretrizes Terapêuticas da Retocolite Ulcerativa; revoga a Portaria Conjunta nº 22/2021.",
+  "Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Manejo do paciente com diarreia: avaliação do estado de hidratação do paciente (cartaz). Página atualizada em 10/07/2026. https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dda/publicacoes",
+  "European Medicines Agency. Metoclopramide-containing medicines: Article 31 referral. Decisão da Comissão Europeia de 20 dez. 2013.",
+  "European Medicines Agency. Domperidone-containing medicines: Article 31 referral. Decisão da Comissão Europeia de 1º set. 2014.",
+  "FDA. Drug Safety Communication: updated information on 32 mg intravenous ondansetron (Zofran) dose and pre-market ECG findings. 2012.",
+  "FDA. Drug Safety Communications sobre inibidores da bomba de prótons: fraturas (2010), hipomagnesemia (2011) e diarreia por Clostridium difficile (2012); interação de omeprazol e esomeprazol com clopidogrel (2009 e 2010).",
+  "FDA. Drug Safety Communication: serious heart problems with high doses of the antidiarrheal medicine loperamide (Imodium), including from abuse and misuse. 7 jun. 2016; atualização sobre embalagens, 30 jan. 2018.",
+  "FDA. Drug Safety Communication: possible harm from exceeding recommended dose of over-the-counter sodium phosphate products to treat constipation. 8 jan. 2014.",
+  "Targownik LE, Fisher DA, Saini SD. AGA Clinical Practice Update on De-Prescribing of Proton Pump Inhibitors: Expert Review. Gastroenterology. 2022;162(4):1334-1342. DOI: 10.1053/j.gastro.2021.12.247.",
+  "Chang L, Chey WD, Imdad A, et al. American Gastroenterological Association-American College of Gastroenterology Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation. Gastroenterology. 2023;164(7):1086-1106. DOI: 10.1053/j.gastro.2023.03.214.",
+  "Vasant DH, Paine PA, Black CJ, et al. British Society of Gastroenterology guidelines on the management of irritable bowel syndrome. Gut. 2021;70(7):1214-1240. DOI: 10.1136/gutjnl-2021-324598.",
+  "Mearin F, Lacy BE, Chang L, et al. Bowel Disorders (Roma IV). Gastroenterology. 2016. DOI: 10.1053/j.gastro.2016.02.031.",
+  "World Health Organization; UNICEF. Oral rehydration salts: production of the new ORS (osmolaridade reduzida). WHO, 2006.",
+  "Bulas para posologia e condição de venda: Tiorfan® (Bagó, cápsula 100 mg, reprodução em portal de bulas, out. 2026); Buscopan®, Lactulona®, Dulcolax®, Imosec®, Famox® e Dramin®, conforme conferência registrada no módulo Medicamentos isentos de prescrição do SOS Farmácia (out. 2026)."
+ ]
+}

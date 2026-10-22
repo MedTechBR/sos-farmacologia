@@ -1,0 +1,734 @@
+{
+ "id": "m13",
+ "num": 11,
+ "titulo": "Antiparasitários",
+ "escopo": "Anti-helmínticos, antiprotozoários intestinais e urogenitais, escabicidas e pediculicidas, com esquemas por parasita, criança, gestante e família, condição de venda (LMIP, RDC 471/2021), os fármacos dos programas do SUS para malária, doença de Chagas, leishmanioses e toxoplasmose (guia de malária de 2026, PCDT de Chagas de 2018, PCDT IST de 2022) e a evidência sobre ivermectina e vermífugo preventivo.",
+ "topicos": [
+  {
+   "id": "m13-parasitoses-alvos",
+   "titulo": "Parasitoses e alvos terapêuticos",
+   "resumo": "<p>Os parasitas que interessam à farmácia formam três grupos com biologia e tratamento próprios. Os <strong>helmintos</strong> são vermes multicelulares: nematódeos (cilíndricos, como <i>Ascaris lumbricoides</i>, <i>Enterobius vermicularis</i>, os ancilostomídeos, <i>Trichuris trichiura</i> e <i>Strongyloides stercoralis</i>), cestódeos (achatados e segmentados, como as tênias e o <i>Hymenolepis nana</i>) e trematódeos (como o <i>Schistosoma mansoni</i>). Os <strong>protozoários</strong> são unicelulares: no intestino, <i>Giardia lamblia</i>, <i>Entamoeba histolytica</i> e <i>Cryptosporidium</i>; no trato urogenital, <i>Trichomonas vaginalis</i>; no sangue e nos tecidos, os plasmódios da malária, o <i>Trypanosoma cruzi</i> (doença de Chagas), as leishmânias e o <i>Toxoplasma gondii</i>. Os <strong>ectoparasitas</strong> vivem na pele e nos pelos: o ácaro da escabiose (<i>Sarcoptes scabiei</i>) e os piolhos.</p><p>A classificação orienta a escolha do fármaco. Os anti-helmínticos atuam em estruturas que só existem no verme ou que nele funcionam de modo diferente (tubulina, canais iônicos do nervo e do músculo do parasita). Os antiprotozoários exploram o metabolismo anaeróbio desses micro-organismos. Poucos fármacos atravessam as duas fronteiras: o albendazol tem indicação na giardíase de crianças, e a nitazoxanida age em protozoários e em alguns helmintos. Fora dessas exceções, o \"vermífugo\" comprado para \"limpar o intestino\" não trata giardíase, amebíase nem esquistossomose.</p><h3>Alvos dos fármacos</h3><div class=\"tab\"><table><thead><tr><th>Alvo no parasita</th><th>Fármacos</th><th>Efeito</th><th>Parasitas sensíveis</th></tr></thead><tbody><tr><td>Beta-tubulina (formação de microtúbulos)</td><td>Albendazol, mebendazol</td><td>Bloqueio da captação de glicose; morte em dias</td><td>Nematódeos; larvas de cestódeos</td></tr><tr><td>Canal de cloreto dependente de glutamato</td><td>Ivermectina</td><td>Hiperpolarização e paralisia flácida</td><td>Nematódeos, ácaros, piolhos</td></tr><tr><td>Receptor nicotínico do músculo do verme</td><td>Levamisol, pirantel</td><td>Paralisia espástica; verme eliminado vivo</td><td>Nematódeos intestinais</td></tr><tr><td>Entrada de cálcio no tegumento</td><td>Praziquantel</td><td>Contração e lesão do tegumento</td><td>Esquistossomos, tênias</td></tr><tr><td>Redução do grupo nitro em anaeróbios</td><td>Metronidazol, secnidazol, tinidazol, benznidazol, nifurtimox</td><td>Radicais que lesam o DNA</td><td>Protozoários anaeróbios; <i>T. cruzi</i></td></tr><tr><td>Enzima PFOR do metabolismo anaeróbio</td><td>Nitazoxanida</td><td>Falta de energia</td><td>Protozoários e alguns helmintos</td></tr><tr><td>Canal de sódio da membrana nervosa</td><td>Permetrina, deltametrina</td><td>Despolarização prolongada e paralisia</td><td>Ácaros, piolhos</td></tr></tbody></table></div><p>A seletividade vem de diferenças entre o alvo do parasita e o do hospedeiro. A beta-tubulina dos helmintos liga os benzimidazóis com afinidade muito maior que a tubulina humana. Os canais de cloreto dependentes de glutamato, alvo principal da ivermectina, não existem em mamíferos; em doses altas, ela também ativa canais de cloreto ligados ao GABA, que no ser humano estão no sistema nervoso central, protegido pela glicoproteína P da barreira hematoencefálica. Por isso a bula da ivermectina contraindica o uso em meningite e em outras afecções do sistema nervoso central, e a superdosagem causa tontura, ataxia, convulsões e coma (FDA). Os nitroimidazóis só são ativados por enzimas de baixo potencial redox presentes em anaeróbios, o que poupa as células humanas. Os piretroides (permetrina e deltametrina) agem no canal de sódio do inseto e do ácaro, que é mais sensível que o humano, e a absorção pela pele íntegra é pequena.</p><h3>Onde o fármaco precisa chegar</h3><p>Na verminose intestinal, o alvo está na luz do intestino, e absorção baixa é vantagem: o mebendazol quase não chega ao sangue, o que reduz efeitos sistêmicos. Nas formas teciduais (neurocisticercose, hidatidose, larva migrans), o fármaco precisa ser absorvido. O albendazol é pouco absorvido em jejum, e a bula do Zentel® informa que uma refeição rica em gordura aumenta a absorção em cerca de cinco vezes; no fígado ele é convertido em sulfóxido de albendazol, o metabólito ativo sistêmico. O praziquantel é bem absorvido, mas sofre efeito de primeira passagem intenso, e indutores como a rifampicina reduzem seus níveis a ponto de a associação ser contraindicada (bula de Farmanguinhos). Os nitroimidazóis têm boa absorção oral e alcançam tecidos, o que permite tratar a amebíase hepática por via oral.</p><h3>Ciclo, reinfecção e diagnóstico</h3><p>Os anti-helmínticos matam vermes, mas não os ovos (CDC). Na enterobíase, a fêmea deposita ovos na região perianal à noite; a coceira leva os ovos às unhas e à boca, e a reinfecção é a regra. Daí a segunda dose cerca de duas semanas depois e a higiene da casa. O <i>Strongyloides</i> faz autoinfecção e pode persistir por décadas no mesmo hospedeiro; em uso de corticoide ou com imunossupressão, a carga parasitária pode aumentar de forma explosiva (hiperinfecção), com risco de morte. Áscaris, ancilostomídeos e tricúris são transmitidos pelo solo contaminado por fezes; a tênia, por carne malcozida; a giárdia e a ameba, por água e alimentos contaminados; o esquistossomo, pelo contato da pele com água doce onde vivem caramujos infectados.</p><p>O diagnóstico das parasitoses intestinais é feito pelo exame parasitológico de fezes, de preferência em mais de uma amostra, porque a eliminação de ovos e cistos é intermitente. Eosinofilia no hemograma sugere helminto com fase tecidual. Sem diagnóstico, o tratamento é empírico e muitas vezes erra o alvo. Para dimensionar o problema: a OMS estima cerca de 1,5 bilhão de pessoas com helmintíases transmitidas pelo solo no mundo e mais de 600 milhões com <i>S. stercoralis</i> (ficha da OMS, 2023).</p><div class=\"cx chave\"><b>Ponto-chave</b><p>\"Vermífugo\" não é uma classe farmacológica. Cada fármaco cobre um conjunto de parasitas: o mebendazol cobre os nematódeos intestinais comuns, mas a bula não o indica para estrongiloidíase nem para protozoários; o metronidazol trata giárdia e ameba e não age em vermes. A pergunta útil no balcão é qual parasita é provável e quem precisa ir ao médico.</p></div><div class=\"cx balcao\"><b>No balcão</b><p>Diante do pedido de \"um remédio para verme\", pergunte para quem é (idade e peso), quais os sintomas (coceira anal noturna, verme visto nas fezes, diarreia, dor abdominal), se há gestação ou possibilidade de gravidez, se outras pessoas da casa têm o mesmo quadro, se há uso de corticoide ou imunossupressão e se houve viagem ou banho de rio ou lagoa. Encaminhe: diarreia com sangue ou muco, febre, perda de peso, criança menor de 2 anos, gestante, imunossuprimido, eliminação de \"pedaços brancos e achatados\" (proglotes de tênia) e febre após estada na região amazônica, que exige teste de malária no mesmo dia.</p></div>"
+  },
+  {
+   "id": "m13-anti-helminticos",
+   "titulo": "Anti-helmínticos",
+   "resumo": "<p>Os anti-helmínticos de uso comunitário no Brasil são o albendazol, o mebendazol e a ivermectina. O praziquantel é distribuído pelo SUS para esquistossomose e também trata teníase. Levamisol e pamoato de pirantel têm papel restrito. As doses abaixo seguem as bulas brasileiras consultadas; o esquema final é o da prescrição.</p><h3>Benzimidazóis: albendazol e mebendazol</h3><p>Ligam-se à beta-tubulina do verme, impedem a formação de microtúbulos e bloqueiam a captação de glicose. O parasita esgota o glicogênio e morre ao longo de dias, sem expulsão imediata. Em dose única ou curso curto são bem tolerados: dor abdominal, náusea e diarreia são os efeitos mais comuns.</p><p>O <strong>albendazol</strong> (Zentel®, comprimido mastigável de 400 mg e suspensão a 4%, em que 10 mL correspondem a 400 mg) é indicado a adultos e crianças acima de 2 anos. Nas verminoses intestinais pode ser tomado com ou sem alimento; o comprimido pode ser engolido com água, mastigado ou triturado para a criança. É contraindicado na gravidez, na suspeita de gravidez e em quem planeja engravidar, e na amamentação só deve ser usado se o benefício justificar o risco (bula do Zentel®). Convulsão ou sintoma neurológico depois da dose exige atendimento: pode revelar neurocisticercose que não era conhecida.</p><p>O <strong>mebendazol</strong> (Pantelmin®, comprimido de 500 mg e suspensão de 20 mg/mL) é pouco absorvido e age na luz intestinal. É contraindicado abaixo de 1 ano, pelo relato de convulsões; entre 1 e 2 anos, só se o benefício justificar. A bula pede evitar o uso junto com metronidazol, pela suspeita de relação com síndrome de Stevens-Johnson e necrólise epidérmica tóxica, e avisar o médico sobre uso de cimetidina. Na gestação, só com orientação médica.</p><div class=\"tab\"><table><thead><tr><th>Parasita</th><th>Albendazol (bula do Zentel®)</th><th>Mebendazol (bula do Pantelmin®)</th><th>Outras opções</th></tr></thead><tbody><tr><td>Ascaris, ancilostomídeos, Trichuris</td><td>400 mg em dose única</td><td>500 mg em dose única ou suspensão 100 mg 2 vezes ao dia por 3 dias</td><td>Ivermectina (ascaridíase); levamisol (só ascaridíase)</td></tr><tr><td>Enterobius (oxiúro)</td><td>400 mg em dose única</td><td>500 mg em dose única</td><td>CDC: repetir a dose em 2 semanas</td></tr><tr><td>Strongyloides</td><td>400 mg ao dia por 3 dias</td><td>Sem indicação na bula</td><td>Ivermectina cerca de 200 mcg/kg em dose única</td></tr><tr><td>Taenia (teníase)</td><td>400 mg ao dia por 3 dias</td><td>Suspensão: adulto 200 mg, criança 100 mg, 2 vezes ao dia por 3 dias</td><td>Praziquantel 5 a 10 mg/kg em dose única</td></tr><tr><td>Hymenolepis nana</td><td>400 mg ao dia por 3 dias</td><td>Sem indicação na bula</td><td>Praziquantel 15 a 25 mg/kg em dose única</td></tr><tr><td>Giardíase</td><td>Criança de 2 a 12 anos: 400 mg ao dia por 5 dias</td><td>Sem indicação na bula</td><td>Nitroimidazóis, nitazoxanida</td></tr><tr><td>Larva migrans cutânea</td><td>400 mg ao dia por 1 a 3 dias</td><td>Sem indicação na bula</td><td>Tiabendazol tópico</td></tr><tr><td>Schistosoma mansoni</td><td>Sem indicação</td><td>Sem indicação</td><td>Praziquantel 50 mg/kg (adulto) ou 60 mg/kg (criança acima de 4 anos), dose única</td></tr></tbody></table></div><p>Em uso prolongado e em dose alta, como na neurocisticercose e na hidatidose (dose por peso, sempre com refeição, ciclos de 28 dias na hidatidose), o albendazol pode causar supressão da medula óssea e elevação de transaminases. A bula norte-americana do Albenza® (revisão de 2019) pede hemograma e transaminases no início de cada ciclo e a cada 2 semanas, teste de gravidez antes de iniciar e contracepção eficaz durante o tratamento e por 1 mês depois. Na neurocisticercose, a morte dos cistos inflama o tecido ao redor: o tratamento é especializado, com corticoide, anticonvulsivante quando preciso e exame de retina antes de começar.</p><h3>Ivermectina</h3><p>Lactona macrocíclica que abre canais de cloreto dependentes de glutamato no nervo e no músculo do parasita, causando paralisia. Na Revectina® (comprimido de 6 mg), a dose alvo é de cerca de 200 mcg/kg em dose única para estrongiloidíase, filariose, ascaridíase, escabiose e pediculose, e de cerca de 150 mcg/kg na oncocercose. A bula manda ingerir com água; o CDC observa que tomar com alimento aumenta a biodisponibilidade. É contraindicada abaixo de 15 kg ou de 5 anos e em meningite e outras afecções do sistema nervoso central; na gestação e na amamentação, só com orientação médica. A bula desaconselha o uso com barbitúricos, benzodiazepínicos, ácido valproico e oxibato de sódio, pede cautela com depressores do sistema nervoso central e álcool e cita relatos raros de aumento do RNI com varfarina.</p><div class=\"tab\"><table><thead><tr><th>Peso</th><th>Comprimidos de 6 mg (cerca de 200 mcg/kg)</th></tr></thead><tbody><tr><td>15 a 24 kg</td><td>Meio comprimido</td></tr><tr><td>25 a 35 kg</td><td>1</td></tr><tr><td>36 a 50 kg</td><td>1 e meio</td></tr><tr><td>51 a 65 kg</td><td>2</td></tr><tr><td>66 a 79 kg</td><td>2 e meio</td></tr><tr><td>80 kg ou mais</td><td>Calcular 200 mcg/kg</td></tr></tbody></table></div><p>Na estrongiloidíase, a ivermectina é a escolha. A bula pede exames de fezes repetidos para confirmar a cura e prevê nova terapia em imunocomprometidos, inclusive pessoas com HIV, a critério médico.</p><h3>Praziquantel</h3><p>Aumenta a entrada de cálcio nas células do verme, com contração intensa e lesão do tegumento, que expõe o parasita ao sistema imune. O comprimido de 600 mg de Farmanguinhos é distribuído pelo SUS. Pela bula, na esquistossomose a dose é de 50 mg/kg para adultos e 60 mg/kg para crianças acima de 4 anos, em dose única; na teníase, 5 a 10 mg/kg em dose única; na himenolepíase, 15 a 25 mg/kg em dose única. Os comprimidos são engolidos inteiros, durante a refeição, sem mastigar, porque o gosto amargo provoca vômito. A bula orienta repouso de pelo menos 3 horas após a tomada, evitar dirigir e operar máquinas no dia e até 1 dia depois e, na lactação, amamentar só 72 horas após a dose. É contraindicado na cisticercose ocular, em associação com rifampicina ou cetoconazol, na insuficiência hepática ou renal grave e abaixo de 4 anos. Carbamazepina, fenitoína, dexametasona e cloroquina reduzem seus níveis; cimetidina, cetoconazol e suco de toranja os elevam.</p><h3>Levamisol e pirantel</h3><p>Os dois ativam receptores nicotínicos do músculo do verme e causam paralisia espástica; o parasita é eliminado vivo. O levamisol consta da LMIP apenas para ascaridíase (IN 285/2024). O pamoato de pirantel é usado em outros países na enterobíase, na dose de 11 mg/kg (máximo de 1 g), repetida em 2 semanas (CDC). Não foi possível confirmar se há apresentação de uso humano comercializada hoje no Brasil; antes de orientar, confira o registro do produto.</p><h3>Criança, gestante e família</h3><ul><li><strong>Idade mínima</strong> pela bula: mebendazol a partir de 1 ano (entre 1 e 2 anos, com avaliação médica); albendazol acima de 2 anos; ivermectina a partir de 15 kg e 5 anos; praziquantel acima de 4 anos.</li><li><strong>Gestante</strong>: albendazol contraindicado; mebendazol, ivermectina e praziquantel só com orientação médica. Na enterobíase, o CDC sugere adiar o tratamento para o terceiro trimestre quando possível; a OMS admite albendazol ou mebendazol no segundo e no terceiro trimestres dentro de programas de quimioterapia preventiva.</li><li><strong>Família na enterobíase</strong>: o CDC recomenda duas doses com intervalo de 2 semanas, porque o fármaco não mata os ovos, e higiene para todos os moradores. A bula brasileira do mebendazol não prevê repetição: a segunda dose e o tratamento simultâneo dos moradores com sintomas são combinados com o prescritor.</li><li><strong>Higiene</strong>: lavar as mãos após usar o banheiro e antes de comer, manter unhas curtas, trocar diariamente roupa íntima e de cama, lavar frutas e verduras, beber água tratada ou fervida e andar calçado.</li></ul><div class=\"cx alerta\"><b>Atenção</b><p>Quem vai iniciar corticoide em dose alta ou imunossupressor, ou vive com HTLV-1 ou HIV avançado, pode ter estrongiloidíase silenciosa que evolui para hiperinfecção grave. Se a receita de corticoide prolongado for de alguém de área endêmica com eosinofilia ou queixas intestinais, comunique ao prescritor a possibilidade de investigar ou tratar com ivermectina. Albendazol ou mebendazol em dose única não substituem a ivermectina nesse cenário.</p></div><div class=\"cx balcao\"><b>No balcão</b><p>Mulher de 26 anos pede albendazol \"para a família toda, de seis em seis meses\". Pergunte se há gestante ou possibilidade de gravidez (contraindicado), criança menor de 2 anos e quem tem sintomas. O albendazol é de venda sob prescrição (bula do Zentel®). Para nematódeos intestinais com sintomas típicos, o mebendazol consta da LMIP (comprimido de 500 mg e suspensão de 20 mg/mL; IN 285/2024). Sem sintomas, oriente higiene e consulta: tratamento periódico de toda a casa sem diagnóstico não é conduta de balcão.</p></div>"
+  },
+  {
+   "id": "m13-protozoarios",
+   "titulo": "Protozoários intestinais e urogenitais",
+   "resumo": "<p>Os protozoários intestinais e urogenitais mais vistos na farmácia são <i>Giardia lamblia</i>, <i>Entamoeba histolytica</i>, <i>Cryptosporidium</i> e <i>Trichomonas vaginalis</i>. Os fármacos são os nitroimidazóis (metronidazol, secnidazol e tinidazol) e a nitazoxanida. A farmacologia antibacteriana do metronidazol e do secnidazol, inclusive na vaginose bacteriana, está no módulo Antimicrobianos; aqui interessa o uso antiparasitário.</p><h3>Quadros clínicos</h3><ul><li><strong>Giardíase</strong>: diarreia aquosa ou gordurosa, distensão, flatulência e, em crianças, perda de peso e má absorção. Transmissão por água e alimentos com cistos e de pessoa a pessoa, comum em creches.</li><li><strong>Amebíase</strong>: muitos portadores não têm sintomas; a forma invasiva causa colite com sangue e muco e, mais raramente, abscesso hepático (febre e dor no lado direito do abdome superior), quadro de tratamento médico.</li><li><strong>Criptosporidiose</strong>: diarreia aquosa autolimitada no imunocompetente, prolongada e grave no imunossuprimido.</li><li><strong>Tricomoníase</strong>: infecção sexualmente transmissível; na mulher, corrimento amarelo-esverdeado, bolhoso e com odor, prurido e ardor; no homem, quase sempre sem sintomas. As parcerias sexuais também são tratadas.</li></ul><h3>Nitroimidazóis</h3><p>Entram na célula como pró-fármacos e são reduzidos por proteínas de transporte de elétrons próprias de anaeróbios e protozoários (como a ferredoxina), gerando radicais que fragmentam o DNA. A principal diferença entre eles está na meia-vida: a do metronidazol, de cerca de 8 horas, exige várias tomadas; o secnidazol e o tinidazol têm meia-vida longa e permitem dose única. Efeitos comuns: gosto metálico, náusea, cefaleia e urina escura; em uso prolongado, neuropatia periférica.</p><div class=\"tab\"><table><thead><tr><th>Indicação (adulto)</th><th>Metronidazol</th><th>Secnidazol (bula do Secnidal®)</th></tr></thead><tbody><tr><td>Giardíase</td><td>250 mg 3 vezes ao dia por 5 dias (bula do Flagyl®)</td><td>2 g em dose única</td></tr><tr><td>Amebíase intestinal</td><td>500 mg 4 vezes ao dia por 5 a 7 dias (bula do Flagyl®)</td><td>2 g em dose única</td></tr><tr><td>Amebíase hepática</td><td>500 mg 4 vezes ao dia por 7 a 10 dias (bula do Flagyl®)</td><td>1,5 a 2 g ao dia por 5 a 7 dias</td></tr><tr><td>Tricomoníase</td><td>2 g em dose única ou 500 mg de 12/12 h por 7 dias (PCDT IST 2022)</td><td>2 g em dose única, mesma dose para o parceiro</td></tr></tbody></table></div><p>O secnidazol vem em comprimidos de 1 g, e os dois comprimidos da dose de 2 g são tomados juntos, com líquido, em uma refeição, de preferência à noite após o jantar, sem partir nem mastigar. Para crianças, a bula do Flagyl® remete à suspensão de benzoilmetronidazol, com dose por peso conforme a bula pediátrica. O tinidazol também é usado em dose única nessas indicações; a disponibilidade comercial no Brasil varia e deve ser conferida antes de orientar. Na amebíase invasiva, alguns esquemas associam ao nitroimidazol um amebicida de ação na luz intestinal, decisão do prescritor.</p><h3>Tricomoníase pelo PCDT IST</h3><p>O PCDT para Atenção Integral às Pessoas com IST do Ministério da Saúde (2022, a versão publicada na página de PCDT do Ministério em outubro de 2026) traz como primeira opção, inclusive para gestantes e lactantes, metronidazol 400 mg, 5 comprimidos por via oral em dose única (2 g), ou metronidazol 250 mg, 2 comprimidos de 12/12 horas por 7 dias (Quadro 35). O protocolo orienta:</p><ul><li>tratar as parcerias sexuais com o mesmo esquema, de preferência presencialmente, com oferta de testes para sífilis, HIV e hepatites B e C;</li><li>suspender as relações sexuais durante o tratamento e mantê-lo durante a menstruação;</li><li>evitar álcool durante o tratamento (o PCDT descreve efeito antabuse, com mal-estar, náusea, tontura e gosto metálico);</li><li>na pessoa vivendo com HIV em uso de ritonavir, dar intervalo de 2 horas entre o metronidazol e o ritonavir, para reduzir náusea e vômito;</li><li>na tricomoníase com alteração na citologia oncológica, tratar e repetir a citologia após 3 meses.</li></ul><p>Na profilaxia de IST após violência sexual, o mesmo PCDT não permite o metronidazol no primeiro trimestre da gestação. A diferença mostra que o contexto define a conduta: tratamento de infecção diagnosticada na gestante, sim; profilaxia no primeiro trimestre, não.</p><h3>Nitazoxanida</h3><p>Derivado nitrotiazolídico que inibe a piruvato-ferredoxina oxidorredutase (PFOR), enzima essencial ao metabolismo energético anaeróbio. Tem espectro amplo, com protozoários e helmintos, e é usada sobretudo em giardíase e criptosporidiose. Adulto: 500 mg de 12/12 horas por 3 dias. Criança a partir de 1 ano: suspensão de 20 mg/mL, 7,5 mg/kg de 12/12 horas, conforme a bula do Annita®. Tomar sempre com alimento. Urina e esperma podem ficar amarelo-esverdeados, sem significado clínico. A suspensão reconstituída vale 7 dias. Por causa da alta ligação a proteínas plasmáticas, a bula pede cautela com varfarina e fenitoína.</p><h3>Álcool, dissulfiram e outras interações</h3><p>As bulas brasileiras pedem evitar álcool durante o tratamento e por pelo menos 1 dia depois com o metronidazol (Flagyl®) e por até 4 dias depois com o secnidazol (Secnidal®). Estudos recentes questionam a reação dissulfiram-símile clássica (discussão no módulo Antimicrobianos), mas a orientação da bula e do PCDT vale na dispensação, inclusive para medicamentos que contêm álcool. Outras interações:</p><ul><li><strong>Dissulfiram</strong>: as bulas citam reações psicóticas e estado confusional com o uso conjunto.</li><li><strong>Varfarina</strong>: aumento do efeito anticoagulante e do risco de sangramento; a bula do Secnidal® pede controle do tempo de protrombina durante o tratamento e por até 8 dias depois.</li><li><strong>Mebendazol</strong>: evitar a associação com metronidazol (bula do Pantelmin®). O pedido de \"vermífugo e remédio para ameba juntos\" leva exatamente a essa combinação; confira com o prescritor.</li></ul><h3>Gestação, amamentação e regra de venda</h3><p>O secnidazol é contraindicado na gestação, na suspeita de gravidez e na amamentação (bula do Secnidal®). O metronidazol atravessa a placenta e passa para o leite; o PCDT o mantém como primeira opção para tricomoníase em gestantes e lactantes, e a bula pede evitar exposição desnecessária do lactente. Metronidazol, secnidazol e tinidazol de uso sistêmico são antimicrobianos da RDC 471/2021: receita em duas vias, com retenção, válida por 10 dias (IN 360/2025; detalhes no módulo Antimicrobianos). A nitazoxanida é de venda sob prescrição; a retenção de receita que a RDC 405/2020 lhe impôs na pandemia foi retirada em setembro de 2020.</p><div class=\"cx alerta\"><b>Atenção</b><p>Encaminhe para avaliação médica: diarreia com sangue ou muco, febre alta, sinais de desidratação (boca seca, pouca urina, prostração), dor no lado direito do abdome superior com febre, diarreia por mais de 14 dias, diarreia em imunossuprimido e qualquer diarreia em lactente com recusa alimentar.</p></div><div class=\"cx balcao\"><b>No balcão</b><p>Homem de 30 anos traz receita de secnidazol 2 g para ele e para a parceira, com diagnóstico de tricomoníase. Oriente tomar os dois comprimidos de uma vez, em uma refeição, de preferência à noite após o jantar, sem partir nem mastigar; não beber álcool durante o tratamento e por 4 dias depois; evitar relações sexuais até os dois completarem o tratamento; procurar a unidade de saúde para testes de sífilis, HIV e hepatites. Pergunte se a parceira está grávida ou amamentando: nesse caso o secnidazol é contraindicado pela bula, e o prescritor deve ser avisado, já que o PCDT prevê metronidazol para gestantes e lactantes.</p></div>"
+  },
+  {
+   "id": "m13-ectoparasitoses",
+   "titulo": "Escabiose e pediculose",
+   "resumo": "<p>Escabiose e pediculose são ectoparasitoses frequentes em creches, escolas, instituições de longa permanência e casas com muitos moradores. Boa parte do tratamento é tópica e isenta de prescrição, e o farmacêutico costuma ser o primeiro profissional consultado. As falhas mais comuns vêm da aplicação incorreta, da falta de tratamento simultâneo dos contatos e da repetição fora do prazo.</p><h3>Escabiose</h3><p>A fêmea do <i>Sarcoptes scabiei</i> escava túneis na camada córnea da pele, onde põe ovos. A reação alérgica ao ácaro e às suas fezes provoca prurido intenso, pior à noite, que surge semanas após a primeira infestação e em poucos dias na reinfestação. As lesões predominam entre os dedos, nos punhos, nas axilas, na cintura, nas nádegas, nos genitais e nas mamas; em lactentes, atingem também palmas, plantas e couro cabeludo. A transmissão é por contato pele a pele prolongado e, em menor grau, por roupas e lençóis. A <strong>sarna crostosa</strong> (norueguesa), com grande número de ácaros e crostas espessas, ocorre em imunossuprimidos e idosos institucionalizados, é muito contagiosa e exige tratamento oral e tópico combinados, sob orientação médica (CDC).</p><div class=\"tab\"><table><thead><tr><th>Produto</th><th>Enquadramento</th><th>Como usar (bula)</th><th>Cuidados</th></tr></thead><tbody><tr><td>Permetrina 5% (50 mg/mL)</td><td>LMIP, escabiose</td><td>Pele limpa, seca e fria, do pescoço aos pés; retirar no banho após 8 a 14 horas; segunda aplicação em 7 a 10 dias se surgirem lesões novas</td><td>Adulto até 30 g por aplicação; 6 a 12 anos até 15 g; 2 a 5 anos até 7,5 g</td></tr><tr><td>Permetrina 1% (10 mg/mL)</td><td>LMIP, pediculose</td><td>Cabelo molhado, deixar 10 minutos, enxaguar e passar pente fino; repetir em 7 a 14 dias se houver piolhos (bula do Nedax®)</td><td>Enxaguar sobre a pia com água morna, não quente (CDC)</td></tr><tr><td>Deltametrina 0,2 mg/mL</td><td>LMIP: pediculose, ftiríase, escabiose</td><td>No banho, deixar 5 minutos e enxaguar, por 4 dias seguidos; repetir 7 dias após a última aplicação (bula do Deltacid®)</td><td>Evitar contato com olhos e mucosas</td></tr><tr><td>Benzoato de benzila</td><td>Notificação simplificada (LMN)</td><td>Diluir conforme a bula (Sanasar®: 1:1 em adultos e 1:3 em crianças)</td><td>Irritante: ardor e dermatite</td></tr><tr><td>Ivermectina oral</td><td>Venda sob prescrição</td><td>Cerca de 200 mcg/kg; bula: dose única e reavaliação em 1 a 2 semanas; CDC: 2 doses com 7 a 14 dias de intervalo</td><td>A partir de 15 kg e 5 anos</td></tr></tbody></table></div><p>O enquadramento segue a Lista de Medicamentos Isentos de Prescrição (IN 285/2024, com as alterações das IN 388/2025 e 404/2025) e a lista de medicamentos de notificação simplificada. Permetrina e deltametrina são piretroides; o CDC considera a permetrina 5% e a ivermectina oral as duas opções de primeira linha na escabiose clássica, com eficácia semelhante, e lembra que a permetrina tem aprovação da FDA a partir de 2 meses de idade.</p><h3>Como aplicar a permetrina 5%</h3><ol><li>Cortar as unhas e aplicar com a pele limpa, seca e fria, não logo após banho quente.</li><li>Espalhar em toda a pele do pescoço aos pés, inclusive entre os dedos, sob as unhas, nas dobras, nos genitais e nas nádegas; em criança e idoso, incluir o couro cabeludo, poupando olhos e boca.</li><li>Reaplicar nas mãos se forem lavadas durante o período de contato.</li><li>Manter por 8 a 14 horas (aplicar à noite é prático) e retirar no banho.</li><li>Trocar roupa de vestir, de cama e de banho depois da retirada.</li><li>Repetir em 7 a 10 dias se surgirem lesões novas, como prevê a bula; o CDC observa que duas ou mais aplicações com cerca de uma semana de intervalo podem ser necessárias.</li></ol><h3>Contatos, roupas e prurido residual</h3><p>Todos os moradores e parceiros com contato próximo são tratados no mesmo dia, com ou sem sintomas, para evitar a reinfestação cruzada. Roupas de cama, toalhas e roupas usadas nos dias anteriores ao tratamento são lavadas com água quente ou guardadas fechadas em saco plástico por alguns dias, porque o ácaro sobrevive pouco tempo fora da pele. O prurido pode persistir por algumas semanas após um tratamento correto e, segundo a bula da permetrina 5%, raramente indica falha; hidratante e anti-histamínico oral prescrito aliviam. Lesões novas depois de 2 semanas sugerem falha ou reinfestação e pedem reavaliação.</p><h3>Pediculose</h3><p>O <i>Pediculus humanus capitis</i> vive no couro cabeludo e se alimenta de sangue; a fêmea cola as lêndeas na base do fio. A transmissão é por contato direto de cabeça com cabeça; pentes, bonés e travesseiros têm papel menor. O diagnóstico depende de ver o piolho vivo. Os pediculicidas matam o piolho, mas nem sempre a lêndea, e a segunda aplicação atinge as ninfas recém-eclodidas (o CDC indica repetir a permetrina 1% no nono dia). Há resistência à permetrina em proporção desconhecida, e o CDC recomenda não repetir o mesmo produto mais de duas ou três vezes sem sucesso. O pente fino em cabelo úmido, mecha por mecha, completa o tratamento. A ivermectina oral, de venda sob prescrição, é alternativa do médico em casos resistentes: o CDC cita 200 ou 400 mcg/kg em dose única, repetida em 9 a 10 dias, a partir de 15 kg e fora da gestação. A ftiríase (piolho do púbis) é tratada como pediculose, com avaliação de outras IST.</p><div class=\"cx alerta\"><b>Atenção</b><p>Não use inseticida doméstico, produto veterinário (como carrapaticidas e ivermectina de uso animal), querosene ou álcool na pele ou no couro cabeludo: há risco de intoxicação, queimadura e incêndio. Encaminhe para avaliação médica gestante, lactante, criança menor de 2 anos, pele com feridas extensas ou sinais de infecção secundária (pus, crostas amareladas, febre) e suspeita de sarna crostosa.</p></div><div class=\"cx balcao\"><b>No balcão</b><p>Mãe de uma menina de 7 anos com piolho recorrente pede \"o mais forte\". Confirme se viu piolho vivo e pergunte quantas vezes já tratou e com qual produto. Oriente permetrina 1% ou deltametrina conforme a bula, a técnica correta (tempo de contato, enxágue com água morna sobre a pia, pente fino), a reaplicação no prazo da bula e a checagem de todos os moradores no mesmo dia. Se já houve duas ou três falhas com o mesmo produto, troque de produto ou encaminhe ao pediatra, que pode considerar ivermectina oral.</p></div><div class=\"cx exemplo\"><b>Caso</b><p>Casal com prurido noturno há 3 semanas, lesões entre os dedos e na cintura; o filho de 10 anos começou a coçar. Conduta: permetrina 5% para os três na mesma noite, com a técnica correta e respeitando a quantidade máxima por faixa etária, troca e lavagem das roupas, reaplicação em 7 a 10 dias se surgirem lesões novas e aviso de que a coceira pode durar algumas semanas. Encaminhar se houver lesões infectadas ou piora.</p></div>"
+  },
+  {
+   "id": "m13-doencas-sus",
+   "titulo": "Malária, doença de Chagas, leishmanioses e toxoplasmose",
+   "resumo": "<p>Malária, doença de Chagas, leishmanioses, esquistossomose e toxoplasmose na gestação são tratadas com medicamentos do <strong>Componente Estratégico da Assistência Farmacêutica</strong>: o Ministério da Saúde adquire e distribui, e a dispensação é gratuita na rede pública, em unidades definidas por estados e municípios. Vários desses fármacos não estão à venda no comércio. O farmacêutico da rede pública dispensa, confere o esquema por peso, orienta e acompanha; o da drogaria reconhece o quadro e encaminha sem demora. Os esquemas abaixo vêm dos documentos oficiais citados e servem para conferência, não para prescrição.</p><h3>Malária</h3><p>Quase todos os casos brasileiros vêm da região amazônica, com predomínio do <i>Plasmodium vivax</i>. Febre em quem esteve na região nas semanas anteriores é suspeita de malária e exige gota espessa ou teste rápido no mesmo dia. Pelo documento \"Esquemas recomendados para o tratamento da malária no Brasil\" (Ministério da Saúde, 1ª edição revisada, 2026, baseado no Guia de tratamento da malária no Brasil, 3ª edição, 2026), a prescrição e a dispensação dos antimaláricos são gratuitas e feitas apenas com resultado positivo. As apresentações do programa são cloroquina 150 mg, primaquina 5 e 15 mg, tafenoquina 50 e 150 mg, arteméter 20 mg com lumefantrina 120 mg, artesunato com mefloquina (25/50 mg e 100/200 mg) e artesunato injetável.</p><div class=\"tab\"><table><thead><tr><th>Situação</th><th>Fármacos (guia de 2026)</th><th>Ponto de conferência</th></tr></thead><tbody><tr><td><i>P. vivax</i>, G6PD a partir de 6,1 UI/gHb</td><td>Cloroquina por 3 dias e tafenoquina em dose única</td><td>Tafenoquina só com cloroquina; não usar com hemoglobina até 7 g/dL, abaixo de 10 kg ou de 2 anos</td></tr><tr><td><i>P. vivax</i>, G6PD de 4,1 a 6,0 UI/gHb</td><td>Cloroquina por 3 dias e primaquina por 7 dias</td><td>Abaixo de 10 kg ou de 1 ano, sem cloroquina (o guia traz alternativas)</td></tr><tr><td><i>P. vivax</i>, G6PD até 4,0 UI/gHb</td><td>Cloroquina por 3 dias e primaquina semanal</td><td>Primaquina diária tem risco de hemólise</td></tr><tr><td><i>P. vivax</i> na gestante</td><td>Cloroquina por 3 dias e cloroquina semanal até 1 mês de amamentação; depois, primaquina por 7 dias</td><td>Primaquina e tafenoquina não podem ser usadas na gestação</td></tr><tr><td><i>P. falciparum</i></td><td>Combinação com artemisinina (arteméter e lumefantrina ou artesunato e mefloquina) e primaquina em dose única</td><td>Gestante: combinação com artemisinina, sem primaquina</td></tr><tr><td>Malária grave</td><td>Artesunato injetável em hospital de referência</td><td>Sinal de gravidade exige remoção imediata</td></tr></tbody></table></div><p>Orientações gerais do guia que o farmacêutico reforça na dispensação: dose ajustada pelo peso (por idade só quando não for possível pesar); tratamento completo para a espécie; não dividir nem compartilhar comprimidos; tomar de preferência no mesmo horário e após uma refeição; se houver vômito em até 60 minutos, repetir a dose; teste de G6PD obrigatório antes de escolher o esquema do <i>P. vivax</i>, exceto em menores de 2 anos, gestantes e puérperas até o primeiro mês de amamentação. A primaquina não pode ser usada por gestantes, puérperas até um mês de amamentação e menores de 6 meses. Urina escura, pele e olhos amarelados, tontura ou falta de ar durante o uso de primaquina ou tafenoquina indicam hemólise e exigem serviço de urgência.</p><h3>Doença de Chagas</h3><p>Pelo PCDT da doença de Chagas (Portaria SCTIE/MS nº 57/2018, relatório Conitec nº 397), o <strong>benznidazol</strong> é a primeira linha (comprimidos de 100 mg e de 12,5 mg, pediátrico). Adulto: 5 mg/kg/dia, em 1 a 3 tomadas, por 60 dias; acima de 60 kg, alternativa de 300 mg/dia pelo número de dias equivalente ao peso, no máximo 80 dias. Criança: 5 a 10 mg/kg/dia, em 2 tomadas, por 60 dias; o comprimido pediátrico pode ser dissolvido em água, suco de laranja ou leite. O nifurtimox (comprimido de 120 mg) é segunda linha, fornecido pelo Ministério sob demanda em caso de intolerância ou resistência ao benznidazol.</p><p>Tratam-se a fase aguda, a forma crônica indeterminada ou digestiva em crianças, adolescentes e adultos com menos de 50 anos e, por decisão compartilhada, a cardiopatia inicial; a cardiopatia avançada não é tratada com antiparasitário. Os eventos adversos do benznidazol ocorrem em cerca de metade dos pacientes: dermatite e exantema (30 a 44%), intolerância gastrointestinal, parestesias por neuropatia periférica e artralgia; há risco de neutropenia, e o PCDT recomenda hemograma 3 semanas após o início. Na gestante com doença crônica, o tratamento não é feito; na fase aguda grave, trata-se em qualquer idade gestacional; na aguda não grave, de preferência a partir do segundo trimestre.</p><h3>Leishmanioses</h3><p>A leishmaniose tegumentar (lesões de pele e de mucosa) e a visceral, ou calazar (febre prolongada, aumento do baço e do fígado, anemia), são tratadas em serviços de referência. O SUS dispõe de antimoniato de meglumina injetável, formulações de anfotericina B, pentamidina e, desde a Portaria SCTIE/MS nº 56/2018, de <strong>miltefosina</strong> oral em primeira linha para a forma tegumentar. Os antimoniais pentavalentes exigem acompanhamento clínico e eletrocardiográfico pelo risco de arritmia, e os esquemas seguem os manuais do Ministério.</p><p>A miltefosina foi incluída na lista C1 da Portaria 344/98 pela RDC 337/2020 por ser teratogênica. Pela Nota Técnica Conjunta nº 110/2025 do Ministério da Saúde, a dose é de 2,5 mg/kg/dia em 2 a 3 tomadas, até 100 mg/dia, por 28 dias; acima de 30 kg, 2 cápsulas de 50 mg ao dia; a cápsula de 10 mg passou a atender crianças de 2 a 12 anos, sem uso na forma mucosa pediátrica. Para quem pode engravidar: beta-HCG negativo até 24 horas antes do início e mensal até 4 meses após o fim (a cada 2 semanas se o ciclo for irregular), um método contraceptivo altamente efetivo associado a um de barreira desde 30 dias antes, durante e por 4 meses após o tratamento, e termo de responsabilidade assinado. As doses são tomadas durante ou logo após as refeições; náusea, vômito e diarreia ocorrem em 21 a 60% dos pacientes e pedem boa hidratação para proteger o rim; ureia, creatinina e enzimas hepáticas são dosadas antes, até 15 dias após o início e ao final. É contraindicada na gravidez, em lesão hepática ou renal grave, na síndrome de Sjögren-Larsson e na intolerância hereditária à galactose. A nota admite dispensar o tratamento completo de 28 dias de uma vez.</p><h3>Toxoplasmose na gestação</h3><p>Na gestante com infecção aguda, o objetivo é reduzir a transmissão ao feto e tratar o feto infectado. A espiramicina, macrolídeo que se concentra na placenta, é usada para reduzir a transmissão; quando há infecção fetal confirmada ou provável, o esquema passa a sulfadiazina, pirimetamina e ácido folínico. A pirimetamina inibe a di-hidrofolato redutase. O ácido folínico (folinato de cálcio) já é folato reduzido: protege a medula da mãe sem precisar dessa enzima e é pouco aproveitado pelo parasita. Trocar ácido folínico por ácido fólico é erro de dispensação. O esquema pede hemograma periódico, e a sulfadiazina pede boa hidratação pelo risco de cristais na urina. Doses e momento de troca seguem o protocolo de pré-natal de alto risco do serviço.</p><div class=\"cx chave\"><b>Ponto-chave</b><p>Nesses programas, o farmacêutico confere peso, idade, gestação e exames que definem o esquema (G6PD na malária, beta-HCG na miltefosina, hemograma no benznidazol e na pirimetamina), orienta tratamento completo e reconhece o efeito adverso que exige retorno. Em todos eles, a notificação da doença e o registro da dispensação seguem as regras da vigilância.</p></div><div class=\"cx balcao\"><b>No balcão</b><p>Homem de 42 anos voltou há 10 dias de uma pescaria no Amazonas e pede antitérmico para febre com calafrios. Oriente teste de malária no mesmo dia, em unidade de saúde, sem esperar a febre passar. Na dispensação do tratamento, confira peso, gestação, resultado do teste de G6PD e a combinação prescrita, explique que a cloroquina e a primaquina ou a tafenoquina fazem parte do mesmo tratamento e que ele deve ser completado mesmo com a melhora da febre, e descreva os sinais de hemólise que exigem retorno imediato.</p></div>"
+  },
+  {
+   "id": "m13-automedicacao",
+   "titulo": "Automedicação com ivermectina e vermífugo preventivo",
+   "resumo": "<p>Dois pedidos frequentes no balcão envolvem antiparasitários sem indicação definida: ivermectina para prevenir ou tratar viroses, hábito que ganhou força na pandemia de COVID-19, e o \"vermífugo de seis em seis meses\" para a família inteira. Nos dois casos, o farmacêutico precisa conhecer a evidência e explicar o risco de forma clara e respeitosa.</p><h3>Ivermectina e COVID-19</h3><p>O interesse começou em 2020, com um estudo em cultura de células em que a ivermectina inibia o SARS-CoV-2 em concentrações muito acima das alcançadas no sangue com doses humanas. Seguiram-se estudos pequenos e de baixa qualidade. Em 31 de março de 2021, a OMS recomendou usar a ivermectina contra COVID-19 apenas em ensaios clínicos, depois de analisar 16 ensaios randomizados com 2.407 participantes e classificar a certeza da evidência como muito baixa para mortalidade, ventilação mecânica, internação e tempo até a melhora. Os grandes ensaios randomizados publicados depois foram negativos:</p><ul><li><strong>TOGETHER</strong> (Reis e colaboradores, NEJM, 2022), conduzido no Brasil: em pacientes ambulatoriais, a ivermectina não reduziu a hospitalização nem a observação prolongada em serviço de emergência.</li><li><strong>ACTIV-6</strong> (Naggie e colaboradores, JAMA, 2022 e 2023): nem a dose usual nem a dose maior por 6 dias encurtaram o tempo até a recuperação sustentada em adultos com COVID-19 leve a moderada.</li></ul><p>A FDA não aprovou nem autorizou a ivermectina para tratar ou prevenir COVID-19 e lista como efeitos da superdosagem náusea, vômitos, diarreia, hipotensão, reações alérgicas, tontura, ataxia, convulsões, coma e morte. Produtos veterinários são concentrados para animais de grande porte e contêm excipientes não avaliados em humanos. Em agosto de 2021, alerta de saúde do CDC registrou aumento das ligações a centros de toxicologia por exposição à ivermectina, inclusive a produtos veterinários.</p><h3>Regra de venda no Brasil</h3><p>Em julho de 2020, a RDC 405/2020 submeteu cloroquina, hidroxicloroquina, nitazoxanida e ivermectina a controle especial temporário, com receita em duas vias, retenção da primeira e validade de 30 dias. Em 1º de setembro de 2020, a Diretoria Colegiada da Anvisa retirou ivermectina e nitazoxanida da norma, por não haver risco de desabastecimento. Desde então, a ivermectina oral é de venda sob prescrição, sem retenção da receita, e não consta da LMIP. Vender sem receita é infração sanitária, mesmo sem retenção.</p><h3>Uso repetido e interações</h3><p>Quem toma ivermectina toda semana \"para prevenir\" acumula exposição sem benefício. O risco cresce com depressores do sistema nervoso central e álcool (a bula desaconselha a associação com barbitúricos, benzodiazepínicos, ácido valproico e oxibato de sódio), em idosos com doença hepática, renal ou cardíaca e em quem usa varfarina, pelos relatos de aumento do RNI. Em meningite ou outra doença do sistema nervoso central, a ivermectina é contraindicada. Reação adversa relatada no balcão deve ser notificada no VigiMed.</p><p>Esse uso indevido precisa ser separado dos usos legítimos, sempre com prescrição e dose por peso: estrongiloidíase, escabiose, pediculose resistente e as demais indicações da bula. Tratar a estrongiloidíase antes de corticoide prolongado em pessoa vinda de área endêmica é um exemplo de indicação apropriada, oposto da dose semanal tomada contra viroses. Na dispensação com receita, a conferência de peso, idade, gestação e medicamentos em uso continua obrigatória.</p><div class=\"cx alerta\"><b>Atenção</b><p>Confusão, sonolência excessiva, desequilíbrio ao andar, visão turva, tremor ou convulsão em quem usou ivermectina, sobretudo em dose repetida ou de produto veterinário, é emergência: oriente atendimento imediato e contato com o Centro de Informação e Assistência Toxicológica (CIATox, Disque-Intoxicação 0800 722 6001).</p></div><h3>Vermífugo \"preventivo\"</h3><p>Para áreas onde as helmintíases transmitidas pelo solo são endêmicas, a OMS recomenda tratamento periódico de grupos de risco sem diagnóstico individual prévio: crianças em idade pré-escolar e escolar, mulheres em idade reprodutiva (incluindo gestantes no segundo e no terceiro trimestres e lactantes) e adultos em ocupações de risco, com albendazol 400 mg ou mebendazol 500 mg (ficha da OMS, atualizada em janeiro de 2023). É estratégia de saúde pública: depende de dados de prevalência, de cobertura de pelo menos 75% e de reavaliação após 5 a 6 anos para ajustar a frequência. No SUS, ações desse tipo são planejadas pela vigilância para territórios e grupos definidos. Essa lógica não se transfere para a casa, sem sintomas, em cidade com saneamento.</p><p>A automedicação periódica tem custos concretos:</p><ul><li>expõe ao albendazol gestantes que ainda não sabem da gravidez, situação em que ele é contraindicado;</li><li>trata crianças pequenas fora da faixa etária da bula;</li><li>cria falsa segurança diante de giardíase, amebíase, estrongiloidíase ou esquistossomose, que os vermífugos comuns não tratam ou tratam mal;</li><li>atrasa o exame de fezes e a consulta de quem tem anemia, diarreia persistente ou perda de peso.</li></ul><h3>Como conduzir a conversa</h3><p>Comece pelo motivo do pedido: medo de verme por causa de um sintoma, conselho de parente, notícia de rede social. Explique o que a evidência mostra em linguagem simples, sem ridicularizar a crença, e ofereça o que de fato ajuda: higiene das mãos e dos alimentos, água tratada, calçado, consulta e exame quando houver sintomas. Se o quadro for típico de nematódeo intestinal em adulto ou criança acima de 1 ano, sem sinal de alarme e sem gestação, o mebendazol da LMIP pode ser orientado conforme a bula. Registre a orientação.</p><div class=\"cx balcao\"><b>No balcão</b><p>Cliente de 58 anos, em uso de varfarina e clonazepam, pede \"ivermectina para a família tomar uma vez por mês contra gripe\". Explique que os estudos grandes não mostraram proteção contra viroses, que o medicamento exige prescrição e que, no caso dele, há interação com o clonazepam (a bula desaconselha o uso com benzodiazepínicos) e com a varfarina (aumento do RNI). Reforce a vacinação contra influenza e COVID-19 conforme o calendário, pergunte se alguém da casa tem sintomas de verme ou de sarna e oriente avaliação quando houver.</p></div>"
+  }
+ ],
+ "mapas": [
+  {
+   "id": "m13-mapa-helmintos",
+   "titulo": "Anti-helmínticos",
+   "centro": "Anti-helmínticos",
+   "ramos": [
+    {
+     "t": "Albendazol",
+     "itens": [
+      "400 mg dose única: áscaris, oxiúro, ancilostomídeo",
+      "400 mg/dia por 3 dias: estrongiloides, tênia",
+      "Acima de 2 anos; contraindicado na gravidez",
+      "Uso prolongado: hemograma e transaminases"
+     ]
+    },
+    {
+     "t": "Mebendazol",
+     "itens": [
+      "Comprimido 500 mg dose única (LMIP)",
+      "Suspensão 20 mg/mL: 5 mL 2 vezes/dia por 3 dias",
+      "Contraindicado abaixo de 1 ano",
+      "Evitar junto com metronidazol (SSJ)"
+     ]
+    },
+    {
+     "t": "Ivermectina",
+     "itens": [
+      "Cerca de 200 mcg/kg em dose única",
+      "A partir de 15 kg e 5 anos",
+      "Escolha na estrongiloidíase",
+      "Cautela: depressores do SNC, varfarina"
+     ]
+    },
+    {
+     "t": "Praziquantel",
+     "itens": [
+      "Esquistossomose: 50 mg/kg adulto, 60 mg/kg criança",
+      "Teníase: 5 a 10 mg/kg em dose única",
+      "Com rifampicina: contraindicado",
+      "Inteiro, na refeição; não dirigir no dia"
+     ]
+    },
+    {
+     "t": "Reinfecção e família",
+     "itens": [
+      "O fármaco não mata os ovos",
+      "Oxiúro: 2ª dose em 2 semanas (CDC)",
+      "Mãos, unhas curtas, roupa de cama",
+      "Corticoide e estrongiloides: hiperinfecção"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m13-mapa-protozoarios-pele",
+   "titulo": "Protozoários e ectoparasitas",
+   "centro": "Protozoários e pele",
+   "ramos": [
+    {
+     "t": "Nitroimidazóis",
+     "itens": [
+      "Ativados só em anaeróbios; lesam o DNA",
+      "Giardíase: metronidazol 250 mg 3x/dia, 5 dias",
+      "Secnidazol 2 g dose única, após o jantar",
+      "Álcool: 1 dia (metro), 4 dias (secni)"
+     ]
+    },
+    {
+     "t": "Tricomoníase (PCDT 2022)",
+     "itens": [
+      "Metronidazol 2 g em dose única",
+      "Ou 500 mg de 12/12 h por 7 dias",
+      "Tratar parcerias; sem relações",
+      "Primeira opção também na gestante"
+     ]
+    },
+    {
+     "t": "Nitazoxanida",
+     "itens": [
+      "Inibe PFOR: giárdia e Cryptosporidium",
+      "500 mg de 12/12 h por 3 dias, com alimento",
+      "Urina amarelo-esverdeada sem importância",
+      "Varfarina e fenitoína: cautela"
+     ]
+    },
+    {
+     "t": "Escabiose",
+     "itens": [
+      "Permetrina 5%: pescoço aos pés, 8 a 14 h",
+      "Repetir em 7 a 10 dias se lesão nova",
+      "Tratar todos os contatos no mesmo dia",
+      "Prurido residual por semanas"
+     ]
+    },
+    {
+     "t": "Pediculose",
+     "itens": [
+      "Permetrina 1%: 10 min em cabelo molhado",
+      "Deltametrina: 4 dias seguidos",
+      "Pente fino e segunda aplicação",
+      "2 a 3 falhas: trocar ou encaminhar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m13-mapa-sus-automedicacao",
+   "titulo": "Programas do SUS e automedicação",
+   "centro": "SUS e uso indevido",
+   "ramos": [
+    {
+     "t": "Malária (guia 2026)",
+     "itens": [
+      "Grátis e só com teste positivo",
+      "Vivax: cloroquina e tafenoquina ou primaquina",
+      "Teste de G6PD define o esquema",
+      "Primaquina proibida na gestante",
+      "Vômito em até 60 min: repetir a dose"
+     ]
+    },
+    {
+     "t": "Chagas (PCDT 2018)",
+     "itens": [
+      "Benznidazol 5 mg/kg/dia por 60 dias",
+      "Exantema em 30 a 44%",
+      "Hemograma 3 semanas após o início",
+      "Nifurtimox: segunda linha"
+     ]
+    },
+    {
+     "t": "Leishmanioses",
+     "itens": [
+      "Miltefosina oral, lista C1",
+      "Contracepção de 30 dias antes a 4 meses após",
+      "Antimoniato e anfotericina: em serviço",
+      "Miltefosina na refeição; hidratar"
+     ]
+    },
+    {
+     "t": "Toxoplasmose",
+     "itens": [
+      "Espiramicina: reduz a transmissão",
+      "Sulfadiazina, pirimetamina e folínico",
+      "Ácido folínico, nunca fólico",
+      "Hemograma; hidratação com sulfadiazina"
+     ]
+    },
+    {
+     "t": "Ivermectina e COVID-19",
+     "itens": [
+      "OMS 2021: só em ensaio clínico",
+      "TOGETHER e ACTIV-6: sem benefício",
+      "Superdose: ataxia, convulsão, coma",
+      "Produto veterinário: nunca em pessoas"
+     ]
+    },
+    {
+     "t": "Vermífugo preventivo",
+     "itens": [
+      "OMS: programa em área endêmica",
+      "Sem sintoma: higiene e consulta",
+      "Risco: gestante sem saber, bebê"
+     ]
+    }
+   ]
+  }
+ ],
+ "apoio": [
+  {
+   "tipo": "tabela",
+   "id": "m13-tab-parasitas",
+   "titulo": "Parasitoses comuns: transmissão, tratamento e encaminhamento",
+   "colunas": [
+    "Parasita",
+    "Transmissão",
+    "Fármacos (bula ou protocolo)",
+    "Encaminhar quando"
+   ],
+   "linhas": [
+    [
+     "<i>Ascaris</i> (lombriga)",
+     "Ovos no solo, mãos e alimentos",
+     "Albendazol 400 mg ou mebendazol 500 mg dose única",
+     "Dor abdominal intensa, vômitos, criança pequena"
+    ],
+    [
+     "<i>Enterobius</i> (oxiúro)",
+     "Ovos perianais levados à boca; casa",
+     "Albendazol ou mebendazol em dose única; 2ª dose em 2 semanas (CDC)",
+     "Persistência após tratamento correto"
+    ],
+    [
+     "Ancilostomídeos",
+     "Larva penetra a pele (pé descalço)",
+     "Albendazol 400 mg ou mebendazol 500 mg dose única",
+     "Anemia, cansaço, palidez"
+    ],
+    [
+     "<i>Strongyloides</i>",
+     "Larva na pele; autoinfecção",
+     "Ivermectina cerca de 200 mcg/kg; albendazol 3 dias é alternativa",
+     "Uso de corticoide, imunossupressão, HTLV-1"
+    ],
+    [
+     "<i>Taenia</i>",
+     "Carne malcozida de boi ou porco",
+     "Praziquantel 5 a 10 mg/kg ou albendazol 3 dias",
+     "Sempre: proglotes nas fezes, convulsão"
+    ],
+    [
+     "<i>Schistosoma mansoni</i>",
+     "Pele em água doce com caramujos",
+     "Praziquantel 50 mg/kg (adulto), SUS",
+     "Sempre: diagnóstico e notificação"
+    ],
+    [
+     "<i>Giardia</i>",
+     "Água e alimentos; creches",
+     "Metronidazol 5 dias, secnidazol 2 g, nitazoxanida 3 dias",
+     "Desidratação, perda de peso, lactente"
+    ],
+    [
+     "<i>Entamoeba histolytica</i>",
+     "Água e alimentos com cistos",
+     "Metronidazol ou secnidazol",
+     "Sangue nas fezes, febre, dor no fígado"
+    ],
+    [
+     "<i>Trichomonas</i>",
+     "Sexual",
+     "Metronidazol 2 g ou 7 dias (PCDT IST 2022)",
+     "Sempre que houver corrimento sem diagnóstico"
+    ],
+    [
+     "<i>Sarcoptes</i> (sarna)",
+     "Contato pele a pele prolongado",
+     "Permetrina 5% (LMIP); ivermectina oral com receita",
+     "Gestante, menor de 2 anos, sarna crostosa, infecção"
+    ],
+    [
+     "<i>Pediculus</i> (piolho)",
+     "Contato de cabeça com cabeça",
+     "Permetrina 1% ou deltametrina (LMIP); pente fino",
+     "Falhas repetidas, lesões infectadas"
+    ]
+   ],
+   "nota": "Doses de adulto e criança conforme bulas do Zentel®, Pantelmin®, Revectina®, Flagyl®, Secnidal®, praziquantel Farmanguinhos e PCDT IST 2022. O esquema final é o da prescrição."
+  },
+  {
+   "tipo": "tabela",
+   "id": "m13-tab-populacoes",
+   "titulo": "Idade mínima, gestação e condição de venda",
+   "colunas": [
+    "Fármaco",
+    "Idade ou peso mínimo (bula)",
+    "Gestação",
+    "Amamentação",
+    "Venda"
+   ],
+   "linhas": [
+    [
+     "Albendazol",
+     "Acima de 2 anos",
+     "Contraindicado (também na suspeita)",
+     "Só se o benefício justificar",
+     "Sob prescrição"
+    ],
+    [
+     "Mebendazol",
+     "1 ano (1 a 2 anos com avaliação)",
+     "Só com orientação médica",
+     "Consultar o médico",
+     "LMIP: 500 mg e 20 mg/mL"
+    ],
+    [
+     "Ivermectina",
+     "15 kg e 5 anos",
+     "Só com orientação médica",
+     "Só se indicado pelo médico",
+     "Sob prescrição, sem retenção"
+    ],
+    [
+     "Praziquantel",
+     "Acima de 4 anos",
+     "Só com orientação médica",
+     "Amamentar 72 h após a dose",
+     "SUS, com prescrição"
+    ],
+    [
+     "Metronidazol oral",
+     "Criança: suspensão pediátrica",
+     "Tricomoníase: 1ª opção no PCDT",
+     "Evitar exposição desnecessária",
+     "Antimicrobiano: retenção, 10 dias"
+    ],
+    [
+     "Secnidazol",
+     "Sem restrição de idade na bula",
+     "Contraindicado",
+     "Contraindicado",
+     "Antimicrobiano: retenção, 10 dias"
+    ],
+    [
+     "Nitazoxanida",
+     "A partir de 1 ano",
+     "Conforme bula do produto",
+     "Conforme bula do produto",
+     "Sob prescrição"
+    ],
+    [
+     "Permetrina 5%",
+     "Faixas da bula a partir de 2 anos; FDA: 2 meses",
+     "Encaminhar",
+     "Encaminhar",
+     "LMIP"
+    ],
+    [
+     "Miltefosina",
+     "Cápsula de 10 mg: 2 a 12 anos",
+     "Contraindicada; contracepção obrigatória",
+     "Avaliação no serviço",
+     "Lista C1; só no SUS"
+    ]
+   ],
+   "nota": "Fontes: bulas brasileiras citadas no módulo; PCDT IST 2022; Nota Técnica Conjunta nº 110/2025 (miltefosina); LMIP (IN 285/2024 e alterações); RDC 471/2021 e IN 360/2025 (antimicrobianos)."
+  },
+  {
+   "tipo": "tabela",
+   "id": "m13-tab-malaria",
+   "titulo": "Antimaláricos do programa nacional: restrições de uso (guia de 2026)",
+   "colunas": [
+    "Fármaco",
+    "Papel",
+    "Não usar em",
+    "Orientação"
+   ],
+   "linhas": [
+    [
+     "Cloroquina 150 mg",
+     "Esquizonticida sanguíneo (vivax, ovale, malariae)",
+     "Menores de 10 kg ou de 1 ano",
+     "Após refeição; 3 dias"
+    ],
+    [
+     "Primaquina 5 e 15 mg",
+     "Elimina hipnozoítos (cura radical) e gametócitos",
+     "Gestante, puérpera até 1 mês de amamentação, menor de 6 meses",
+     "Esquema conforme G6PD; urina escura: urgência"
+    ],
+    [
+     "Tafenoquina 50 e 150 mg",
+     "Dose única contra hipnozoítos",
+     "Gestante, lactante, menor de 2 anos ou de 10 kg, Hb até 7 g/dL",
+     "Só com cloroquina e G6PD a partir de 6,1 UI/gHb"
+    ],
+    [
+     "Arteméter e lumefantrina",
+     "Combinação com artemisinina (falciparum)",
+     "Conforme faixas do guia",
+     "Doses de 12/12 h por 3 dias"
+    ],
+    [
+     "Artesunato e mefloquina",
+     "Combinação com artemisinina (falciparum)",
+     "Conforme faixas do guia",
+     "Apresentações de 25/50 e 100/200 mg não se trocam"
+    ],
+    [
+     "Artesunato injetável",
+     "Malária grave",
+     "Uso hospitalar",
+     "Remoção imediata ao sinal de gravidade"
+    ]
+   ],
+   "nota": "Ministério da Saúde. Esquemas recomendados para o tratamento da malária no Brasil, 1ª edição revisada, 2026. Dispensação gratuita, só com gota espessa ou teste rápido positivo."
+  },
+  {
+   "tipo": "fluxo",
+   "id": "m13-fluxo-vermifugo",
+   "titulo": "Pedido de vermífugo sem receita",
+   "passos": [
+    {
+     "t": "Cliente pede vermífugo sem receita",
+     "tipo": "inicio"
+    },
+    {
+     "t": "Há sinal de alarme: sangue nas fezes, febre, perda de peso, desidratação, imunossupressão ou febre após viagem à Amazônia?",
+     "tipo": "decisao",
+     "sim": "Encaminhar para atendimento médico no mesmo dia (na febre pós-viagem, teste de malária)",
+     "nao": "Seguir para a próxima pergunta"
+    },
+    {
+     "t": "É gestante, pode estar grávida ou amamenta?",
+     "tipo": "decisao",
+     "sim": "Não dispensar anti-helmíntico; encaminhar ao pré-natal ou ao médico",
+     "nao": "Seguir para a próxima pergunta"
+    },
+    {
+     "t": "É criança menor de 2 anos?",
+     "tipo": "decisao",
+     "sim": "Encaminhar ao pediatra",
+     "nao": "Seguir para a próxima pergunta"
+    },
+    {
+     "t": "O quadro sugere nematódeo intestinal (coceira anal noturna, verme cilíndrico visto nas fezes)?",
+     "tipo": "decisao",
+     "sim": "Orientar mebendazol (LMIP) conforme a bula",
+     "nao": "Sem sintomas ou outro quadro: orientar higiene, exame de fezes e consulta"
+    },
+    {
+     "t": "Explicar dose, tomada e higiene da casa; na enterobíase, combinar a segunda dose em 2 semanas com o prescritor",
+     "tipo": "acao"
+    },
+    {
+     "t": "Albendazol, ivermectina e nitazoxanida exigem prescrição; nitroimidazóis exigem receita de antimicrobiano retida",
+     "tipo": "alerta"
+    },
+    {
+     "t": "Registrar a orientação e pedir retorno se os sintomas persistirem após 2 semanas",
+     "tipo": "fim"
+    }
+   ]
+  },
+  {
+   "tipo": "checklist",
+   "id": "m13-checklist-ectoparasitas",
+   "titulo": "Orientação no tratamento da escabiose e da pediculose",
+   "itens": [
+    "Confirmar o quadro: prurido noturno com lesões típicas ou piolho vivo visto",
+    "Perguntar idade, peso, gestação, amamentação e doenças de pele",
+    "Verificar sinais de infecção secundária, lesões extensas ou crostas espessas",
+    "Escolher produto e concentração pela indicação e pela faixa etária da bula",
+    "Explicar a área de aplicação (escabiose: do pescoço aos pés; pediculose: couro cabeludo)",
+    "Informar o tempo de contato e como retirar",
+    "Respeitar a quantidade máxima de permetrina 5% por faixa etária",
+    "Combinar a data da segunda aplicação conforme a bula",
+    "Orientar tratar todos os contatos próximos no mesmo dia",
+    "Orientar lavar ou isolar roupas de cama, toalhas e roupas usadas",
+    "Na pediculose, ensinar o uso do pente fino em cabelo úmido",
+    "Avisar que o prurido da escabiose pode durar semanas após o tratamento",
+    "Desaconselhar inseticida doméstico, produto veterinário e querosene",
+    "Encaminhar gestante, lactante, menor de 2 anos e falhas repetidas",
+    "Registrar a orientação"
+   ]
+  },
+  {
+   "tipo": "cartoes",
+   "id": "m13-cartoes",
+   "titulo": "Cartões de revisão: antiparasitários",
+   "itens": [
+    {
+     "f": "Alvo dos benzimidazóis",
+     "v": "Beta-tubulina do verme: bloqueio de microtúbulos e da captação de glicose"
+    },
+    {
+     "f": "Alvo da ivermectina",
+     "v": "Canais de cloreto dependentes de glutamato do parasita (paralisia)"
+    },
+    {
+     "f": "Por que a ivermectina é contraindicada na meningite?",
+     "v": "A barreira hematoencefálica alterada deixa o fármaco chegar a canais GABA do SNC"
+    },
+    {
+     "f": "Albendazol 400 mg em dose única serve para",
+     "v": "Ascaridíase, enterobíase, ancilostomíase e tricuríase (bula do Zentel®)"
+    },
+    {
+     "f": "Albendazol na estrongiloidíase e na teníase",
+     "v": "400 mg ao dia por 3 dias (bula)"
+    },
+    {
+     "f": "Idade mínima do albendazol e do mebendazol",
+     "v": "Albendazol: acima de 2 anos; mebendazol: a partir de 1 ano"
+    },
+    {
+     "f": "Anti-helmíntico contraindicado na gravidez pela bula",
+     "v": "Albendazol (também na suspeita ou no plano de engravidar)"
+    },
+    {
+     "f": "Ivermectina: limite de peso e idade",
+     "v": "A partir de 15 kg e 5 anos (bula da Revectina®)"
+    },
+    {
+     "f": "Praziquantel na esquistossomose",
+     "v": "50 mg/kg no adulto e 60 mg/kg na criança acima de 4 anos, dose única"
+    },
+    {
+     "f": "Praziquantel com rifampicina",
+     "v": "Contraindicado: a indução enzimática anula o efeito"
+    },
+    {
+     "f": "Mebendazol com metronidazol",
+     "v": "Evitar: suspeita de Stevens-Johnson e necrólise epidérmica tóxica"
+    },
+    {
+     "f": "Tricomoníase pelo PCDT IST 2022",
+     "v": "Metronidazol 2 g dose única ou 500 mg de 12/12 h por 7 dias; tratar parcerias"
+    },
+    {
+     "f": "Álcool após secnidazol",
+     "v": "Evitar por até 4 dias depois (bula do Secnidal®)"
+    },
+    {
+     "f": "Permetrina 5% na escabiose",
+     "v": "Do pescoço aos pés, retirar após 8 a 14 horas; repetir em 7 a 10 dias se lesão nova"
+    },
+    {
+     "f": "Tafenoquina na malária vivax",
+     "v": "Dose única com cloroquina, só se G6PD a partir de 6,1 UI/gHb (guia 2026)"
+    },
+    {
+     "f": "Benznidazol: exame de controle",
+     "v": "Hemograma 3 semanas após o início (PCDT Chagas 2018)"
+    },
+    {
+     "f": "Miltefosina e contracepção",
+     "v": "De 30 dias antes até 4 meses após o fim, com beta-HCG mensal (lista C1)"
+    },
+    {
+     "f": "Pirimetamina: qual folato associar?",
+     "v": "Ácido folínico (folinato de cálcio), não ácido fólico"
+    }
+   ]
+  },
+  {
+   "tipo": "questoes",
+   "id": "m13-questoes",
+   "titulo": "Questões de fixação: antiparasitários",
+   "itens": [
+    {
+     "p": "Mulher de 34 anos relata que ela e o filho de 6 anos acordam com coceira anal à noite e viu vermes brancos e finos nas fezes da criança. Pede albendazol sem receita. A conduta mais adequada é:",
+     "alt": [
+      "Vender o albendazol sem receita, por ser antiparasitário de baixo risco e uso consagrado",
+      "Orientar mebendazol (LMIP), higiene e segunda dose combinada",
+      "Dispensar ivermectina, que é a escolha para oxiúros em toda a família",
+      "Recusar qualquer orientação e exigir exame de fezes de todos antes de tudo",
+      "Indicar metronidazol junto com o mebendazol para cobrir também as amebas"
+     ],
+     "c": 1,
+     "com": "O quadro é típico de enterobíase. O mebendazol consta da LMIP (IN 285/2024) e trata oxiúros em dose única (bula do Pantelmin®); o CDC recomenda segunda dose em 2 semanas porque o fármaco não mata os ovos, e a repetição deve ser combinada com o prescritor, já que a bula brasileira não a prevê. O albendazol é de venda sob prescrição. A ivermectina não é a escolha para oxiúros. Metronidazol não age em vermes, e a bula do Pantelmin® pede evitar a associação."
+    },
+    {
+     "p": "Menino de 4 anos, 17 kg, com escabiose, traz receita de ivermectina 6 mg, meio comprimido em dose única. O farmacêutico deve:",
+     "alt": [
+      "Dispensar, pois o peso está na faixa de 15 a 24 kg da tabela da bula",
+      "Dispensar e orientar a repetir a dose toda semana até sumir a coceira",
+      "Trocar por albendazol, que tem a mesma eficácia na escabiose infantil",
+      "Contatar o prescritor: a bula contraindica abaixo de 5 anos",
+      "Dispensar só se a mãe também tomar a mesma dose no mesmo dia"
+     ],
+     "c": 3,
+     "com": "A bula da Revectina® contraindica o uso em crianças com menos de 15 kg ou com menos de 5 anos; os dois critérios valem. O peso de 17 kg não supera a restrição de idade. Repetição semanal não está prevista (a bula prevê dose única e reavaliação em 1 a 2 semanas). Albendazol não trata escabiose. Na criança, a permetrina 5% (LMIP) é alternativa tópica, e a decisão é do prescritor."
+    },
+    {
+     "p": "Paciente em tratamento de tuberculose com rifampicina recebe receita de praziquantel para esquistossomose. A conduta correta é:",
+     "alt": [
+      "Contatar o prescritor: a associação é contraindicada",
+      "Dispensar e orientar tomar o praziquantel em jejum para compensar a interação",
+      "Dispensar e dobrar a dose de praziquantel por conta própria para manter o efeito",
+      "Suspender a rifampicina por uma semana e então dispensar o praziquantel",
+      "Dispensar normalmente, pois a rifampicina só interage com anticoncepcionais"
+     ],
+     "c": 0,
+     "com": "A bula do praziquantel de Farmanguinhos contraindica a associação com rifampicina, potente indutor do citocromo P450, porque não se alcançam níveis terapêuticos. Tomar em jejum não resolve (a bula manda tomar durante a refeição). Ajustar dose ou suspender tuberculostático é decisão médica. A rifampicina interage com muitos fármacos além dos anticoncepcionais."
+    },
+    {
+     "p": "Gestante de 22 semanas com tricomoníase diagnosticada. Segundo o PCDT IST do Ministério da Saúde (2022), o tratamento de primeira opção é:",
+     "alt": [
+      "Secnidazol 2 g em dose única, mesmo esquema do parceiro, com uma refeição",
+      "Tratamento só depois do parto, pelo risco fetal dos nitroimidazóis",
+      "Metronidazol 2 g em dose única ou 500 mg de 12/12 h por 7 dias",
+      "Nitazoxanida 500 mg de 12/12 horas por 3 dias, para evitar o metronidazol",
+      "Creme vaginal de clotrimazol por 7 noites, porque age só no local"
+     ],
+     "c": 2,
+     "com": "O Quadro 35 do PCDT IST 2022 traz metronidazol 2 g em dose única ou 250 mg, 2 comprimidos de 12/12 h, por 7 dias como primeira opção, incluindo gestantes e lactantes, com tratamento das parcerias. O secnidazol é contraindicado na gestação pela bula do Secnidal®. Adiar o tratamento não é recomendado: o PCDT cita alívio dos sintomas e prevenção de infecção no recém-nascido. Nitazoxanida e clotrimazol não são opções do PCDT para tricomoníase."
+    },
+    {
+     "p": "Cliente vai usar secnidazol 2 g para giardíase e pergunta quando pode voltar a beber. Pela bula brasileira do Secnidal®, a orientação é evitar álcool:",
+     "alt": [
+      "Apenas nas 12 horas seguintes à dose, porque a dose é única",
+      "Somente se ele também usar dissulfiram ou outro medicamento para alcoolismo",
+      "Por 30 dias, pela meia-vida longa do medicamento e o risco ao fígado",
+      "Não há restrição, porque a reação dissulfiram-símile foi desmentida",
+      "Durante o tratamento e por até 4 dias depois"
+     ],
+     "c": 4,
+     "com": "A bula do Secnidal® pede evitar bebida alcoólica durante o tratamento e por até 4 dias após o término; a do Flagyl® (metronidazol) pede pelo menos 1 dia. Estudos recentes questionam a reação dissulfiram-símile, mas a orientação da bula e do PCDT vale na dispensação. Com dissulfiram, as bulas citam reações psicóticas, o que é outro problema."
+    },
+    {
+     "p": "Por que a bula do Pantelmin® (mebendazol) pede evitar o uso concomitante com metronidazol?",
+     "alt": [
+      "Porque o metronidazol inativa o mebendazol na luz intestinal e causa falha",
+      "Pela suspeita de relação com Stevens-Johnson e necrólise epidérmica",
+      "Porque os dois juntos causam reação dissulfiram-símile mesmo sem álcool",
+      "Porque o mebendazol induz o metabolismo hepático e reduz o metronidazol",
+      "Porque a combinação provoca convulsões em crianças de qualquer idade"
+     ],
+     "c": 1,
+     "com": "A bula do mebendazol cita a suspeita de relação entre o uso conjunto com metronidazol e síndrome de Stevens-Johnson e necrólise epidérmica tóxica, reações cutâneas graves. Não há inativação na luz intestinal descrita, a reação dissulfiram-símile se refere ao álcool, e o mebendazol, pouco absorvido, não é indutor relevante. Convulsões são citadas para menores de 1 ano com o próprio mebendazol."
+    },
+    {
+     "p": "Sobre a tafenoquina no tratamento da malária por Plasmodium vivax, segundo os esquemas do Ministério da Saúde de 2026, é correto afirmar:",
+     "alt": [
+      "Pode substituir a cloroquina em monoterapia em dose única, sem exames",
+      "É a escolha para gestantes, por dispensar os 7 dias de primaquina",
+      "Pode ser usada em qualquer criança, desde que a dose seja calculada pelo peso",
+      "Só é usada com cloroquina e com G6PD a partir de 6,1 UI/gHb",
+      "Dispensa o teste de G6PD quando o paciente nunca teve hemólise"
+     ],
+     "c": 3,
+     "com": "O guia de 2026 manda prescrever a tafenoquina exclusivamente com cloroquina e somente quando a atividade de G6PD é maior ou igual a 6,1 UI/gHb; com atividade intermediária ou baixa, usa-se primaquina diária ou semanal. Gestantes, lactantes, menores de 2 anos ou de 10 kg e pessoas com hemoglobina até 7 g/dL não podem usar tafenoquina. O teste de G6PD é obrigatório nos elegíveis."
+    },
+    {
+     "p": "Paciente de 30 anos inicia benznidazol para doença de Chagas crônica indeterminada. Qual orientação está de acordo com o PCDT de 2018?",
+     "alt": [
+      "Exantema é comum; procurar o serviço, e hemograma na 3ª semana",
+      "O tratamento dura 7 dias, e a melhora dos sintomas permite suspender antes",
+      "O nifurtimox é a primeira escolha em adultos por causar menos efeitos adversos",
+      "A dose é fixa de 600 mg ao dia, independentemente do peso do paciente",
+      "Formigamento nos pés é esperado e deve ser ignorado até o fim do tratamento"
+     ],
+     "c": 0,
+     "com": "Pelo PCDT da doença de Chagas (2018), os eventos adversos do benznidazol ocorrem em cerca de 53% dos pacientes, com dermatite e exantema em 30 a 44%, geralmente sem necessidade de suspender, e há risco de neutropenia, por isso o hemograma 3 semanas após o início. O tratamento dura 60 dias, com 5 mg/kg/dia no adulto (limite de 300 mg/dia na alternativa para quem pesa mais de 60 kg). O nifurtimox é segunda linha e tem mais eventos adversos (cerca de 85%). Parestesia indica neuropatia e deve ser comunicada."
+    },
+    {
+     "p": "Mulher de 25 anos com leishmaniose tegumentar vai iniciar miltefosina pelo SUS. Segundo a Nota Técnica Conjunta nº 110/2025, a exigência de contracepção é:",
+     "alt": [
+      "Só durante os 28 dias de tratamento, com qualquer método disponível",
+      "Dispensada se ela estiver usando anticoncepcional oral combinado",
+      "De 30 dias antes a 4 meses após, método efetivo e de barreira",
+      "Necessária apenas se o beta-HCG inicial vier positivo no serviço",
+      "Por 1 semana após o fim do tratamento, pela meia-vida curta"
+     ],
+     "c": 2,
+     "com": "A miltefosina é teratogênica e está na lista C1 (RDC 337/2020). A nota exige método altamente efetivo associado a um de barreira desde 30 dias antes, durante e por 4 meses após o término, beta-HCG negativo até 24 horas antes do início e repetido mensalmente até 4 meses após, e termo de responsabilidade. Beta-HCG positivo contraindica o tratamento."
+    },
+    {
+     "p": "Gestante com toxoplasmose e infecção fetal confirmada recebe sulfadiazina, pirimetamina e ácido folínico. A farmácia só tem ácido fólico. O farmacêutico deve:",
+     "alt": [
+      "Dispensar o ácido fólico, que é a mesma vitamina com outro nome comercial",
+      "Dispensar o ácido fólico em dose dobrada para compensar a diferença",
+      "Suspender a pirimetamina até chegar o ácido folínico, para evitar anemia",
+      "Dispensar só a sulfadiazina, que sozinha trata a infecção fetal",
+      "Não substituir e buscar o folínico com a rede ou o prescritor"
+     ],
+     "c": 4,
+     "com": "A pirimetamina inibe a di-hidrofolato redutase. O ácido folínico (folinato de cálcio) já é folato reduzido e protege a medula sem depender dessa enzima; o ácido fólico precisa dela e não tem o mesmo efeito, além de poder ser aproveitado pelo parasita. A troca é erro de dispensação. Suspender ou mudar o esquema é decisão do prescritor, e a sulfadiazina isolada não é o esquema indicado."
+    },
+    {
+     "p": "Sobre a ivermectina na COVID-19, qual afirmação está de acordo com a evidência disponível?",
+     "alt": [
+      "Previne a infecção quando tomada uma vez por semana em dose usual",
+      "Ensaios randomizados grandes não mostraram benefício",
+      "A OMS a recomenda desde 2021 para casos leves tratados em casa",
+      "Funciona apenas quando associada a azitromicina e vitamina D",
+      "Os produtos veterinários são seguros se a dose for dividida pelo peso"
+     ],
+     "c": 1,
+     "com": "A OMS (31/03/2021) recomendou o uso apenas em ensaios clínicos, com evidência de certeza muito baixa. Depois, os ensaios TOGETHER (NEJM, 2022) e ACTIV-6 (JAMA, 2022 e 2023) não mostraram redução de hospitalização nem do tempo até a recuperação. A FDA alerta que produtos veterinários são concentrados e têm excipientes não avaliados em humanos, e que superdosagem causa ataxia, convulsões e coma."
+    },
+    {
+     "p": "Na orientação da permetrina 5% para escabiose, qual instrução está correta segundo a bula?",
+     "alt": [
+      "Aplicar só nas lesões que coçam, duas vezes ao dia, por 10 dias",
+      "Aplicar após banho bem quente, para abrir os poros e aumentar a absorção",
+      "Tratar apenas quem tem coceira e esperar os outros terem sintomas",
+      "Do pescoço aos pés, com pele fria, e retirar após 8 a 14 horas",
+      "Repetir toda noite enquanto houver coceira, mesmo após várias semanas"
+     ],
+     "c": 3,
+     "com": "A bula da permetrina 5% orienta aplicar na pele limpa, seca e fria, do pescoço aos pés (incluindo couro cabeludo em criança e idoso), retirar após 8 a 14 horas e fazer segunda aplicação em 7 a 10 dias se surgirem lesões novas. Banho quente aumenta a absorção sistêmica, sem ganho. Os contatos são tratados ao mesmo tempo. O prurido pode persistir semanas e, sozinho, raramente indica falha."
+    }
+   ]
+  }
+ ],
+ "fontes": [
+  "Ministério da Saúde (Brasil). Secretaria de Vigilância em Saúde e Ambiente. Esquemas recomendados para o tratamento da malária no Brasil. 1ª edição revisada. Brasília, 2026 (referência: Guia de tratamento da malária no Brasil, 3ª ed., 2026). bvsms.saude.gov.br/bvs/publicacoes/esquemas_recomendados_tratamento_malaria_brasil_1edrev.pdf",
+  "Ministério da Saúde (Brasil). Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis (IST). Brasília, 2022. Quadro 35 e quadro de profilaxia após violência sexual (versão listada em gov.br/aids, consultada em outubro de 2026).",
+  "Ministério da Saúde (Brasil). Conitec. Protocolo Clínico e Diretrizes Terapêuticas Doença de Chagas. Relatório nº 397, outubro de 2018; aprovado pela Portaria SCTIE/MS nº 57, de 30 de outubro de 2018.",
+  "Ministério da Saúde (Brasil). Nota Técnica Conjunta nº 110/2025-CGZV/DEDT/SVS/MS e CGAFME/DAF/SECTICS/MS: uso da miltefosina 10 mg para leishmaniose tegumentar em pessoas de 2 a 12 anos (cita a Portaria SCTIE/MS nº 56/2018, a RDC nº 337/2020 e a Rename 2024). 2025.",
+  "Fundação Oswaldo Cruz, Farmanguinhos. Praziquantel 600 mg comprimido: bula para o profissional de saúde (DMG-FAR-PRO-PRZ-001-2017).",
+  "U.S. Food and Drug Administration. Albenza (albendazole) tablets: prescribing information, revisão de setembro de 2019. DailyMed, consultado em outubro de 2026.",
+  "Bulas brasileiras consultadas em reprodução do portal Consulta Remédios (outubro de 2026): Zentel® (albendazol), Pantelmin® (mebendazol), Revectina® (ivermectina), Flagyl® (metronidazol), Secnidal® (secnidazol).",
+  "Bula do Annita® (nitazoxanida): dados da tabela de antiparasitários reconferidos em 15/10/2026 (trabalho/semente-antiinfecciosos.json).",
+  "Anvisa. Instrução Normativa nº 285, de 7 de março de 2024 (Lista de Medicamentos Isentos de Prescrição), com as alterações das IN nº 388/2025 e nº 404/2025; enquadramento de mebendazol, levamisol, permetrina e deltametrina e bulas de Nedax®, Deltacid®, Sanasar® e permetrina 5% conforme o levantamento do SOS Farmácia Comercial (outubro de 2026).",
+  "Anvisa. Resolução RDC nº 405, de 22 de julho de 2020, e decisão da Diretoria Colegiada de 1º de setembro de 2020 que excluiu ivermectina e nitazoxanida da norma (consultadas por reprodução e notícias).",
+  "Anvisa. Resolução RDC nº 471, de 23 de fevereiro de 2021, e Instrução Normativa nº 360, de 23 de abril de 2025 (antimicrobianos), conforme o módulo Antimicrobianos deste app.",
+  "World Health Organization. Soil-transmitted helminth infections: fact sheet. Atualizada em 18 de janeiro de 2023.",
+  "World Health Organization. WHO advises that ivermectin only be used to treat COVID-19 within clinical trials. 31 de março de 2021.",
+  "Reis G, Silva EASM, Silva DCM, et al. Effect of early treatment with ivermectin among patients with Covid-19. N Engl J Med. 2022;386(18):1721-1731.",
+  "Naggie S, Boulware DR, Lindsell CJ, et al. Effect of ivermectin vs placebo on time to sustained recovery in outpatients with mild to moderate COVID-19: a randomized clinical trial. JAMA. 2022;328(16):1595-1603.",
+  "Naggie S, Boulware DR, Lindsell CJ, et al. Effect of higher-dose ivermectin for 6 days vs placebo on time to sustained recovery in outpatients with COVID-19: a randomized clinical trial. JAMA. 2023;329(11):888-897.",
+  "U.S. Food and Drug Administration. Why you should not use ivermectin to treat or prevent COVID-19 (consumer update); Centers for Disease Control and Prevention. Health Alert Network HAN 00449: rapid increase in ivermectin prescriptions and reports of severe illness, agosto de 2021.",
+  "Centers for Disease Control and Prevention. Clinical care of scabies; Clinical care of head lice; Clinical overview of pinworm (cdc.gov, consultados em outubro de 2026)."
+ ]
+}

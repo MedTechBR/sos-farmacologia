@@ -1,0 +1,489 @@
+{
+ "id": "m17",
+ "num": 16,
+ "titulo": "Glicocorticoides",
+ "escopo": "Mecanismo genômico, efeitos anti-inflamatórios e metabólicos, equivalência e duração dos corticosteroides sistêmicos, eixo hipotálamo-hipófise-adrenal e desmame, efeitos adversos, corticosteroides tópicos por potência e veículo, e orientação na dispensação.",
+ "topicos": [
+  {
+   "id": "m06-corticoides-sistemicos",
+   "titulo": "Corticosteroides sistêmicos",
+   "resumo": "<p>Corticosteroides (ou glicocorticoides) são análogos sintéticos do cortisol, o hormônio produzido pela suprarrenal sob comando do eixo hipotálamo-hipófise-adrenal (HHA). São os anti-inflamatórios e imunossupressores mais potentes disponíveis e aparecem diariamente no balcão: prednisona para crise de asma, dexametasona em associação com anti-histamínico, betametasona injetável de depósito, prednisolona em gotas para criança. Todos os corticoides orais e injetáveis são de venda sob prescrição.</p> <h3>Mecanismo de ação</h3> <p>O corticoide atravessa a membrana e se liga ao receptor de glicocorticoide no citoplasma. O complexo entra no núcleo e:</p> <ul> <li><b>reprime genes inflamatórios</b> (inibe fatores de transcrição como NF-kappa-B e AP-1): cai a produção de citocinas, da COX-2, de moléculas de adesão e a migração de leucócitos;</li> <li><b>ativa genes</b> de proteínas anti-inflamatórias e também de enzimas metabólicas, origem de boa parte dos efeitos adversos (hiperglicemia, catabolismo de proteína, perda óssea).</li> </ul> <p>Como o efeito depende de transcrição gênica, ele demora algumas horas para aparecer (os efeitos principais surgem após 4 a 6 horas, segundo o PCDT da Asma, 2026). Por isso o corticoide fica fora da fase de emergência do choque anafilático e do broncoespasmo grave; sua função é conter a continuidade da inflamação.</p> <h3>Equivalência, potência e duração</h3> <p>Os corticoides diferem em potência glicocorticoide (anti-inflamatória), atividade mineralocorticoide (retenção de sódio e perda de potássio) e duração do efeito biológico (supressão do eixo HHA). A tabela de equivalência é usada para trocar um corticoide por outro e para comparar doses.</p> <div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>Dose equivalente</th><th>Potência glicocorticoide</th><th>Potência mineralocorticoide</th><th>Duração</th></tr></thead><tbody> <tr><td>Hidrocortisona</td><td>20 mg</td><td>1</td><td>1</td><td>Curta (8 a 12 h)</td></tr> <tr><td>Prednisona</td><td>5 mg</td><td>4</td><td>0,8</td><td>Intermediária (12 a 36 h)</td></tr> <tr><td>Prednisolona</td><td>5 mg</td><td>4</td><td>0,8</td><td>Intermediária (12 a 36 h)</td></tr> <tr><td>Metilprednisolona</td><td>4 mg</td><td>5</td><td>Mínima</td><td>Intermediária (12 a 36 h)</td></tr> <tr><td>Dexametasona</td><td>0,75 mg</td><td>25 a 30</td><td>Desprezível</td><td>Longa (36 a 72 h)</td></tr> <tr><td>Betametasona</td><td>0,6 a 0,75 mg</td><td>25 a 30</td><td>Desprezível</td><td>Longa (36 a 72 h)</td></tr> </tbody></table></div> <p>Os valores são aproximados e variam um pouco entre as fontes (tabela de Liu e colaboradores, 2013). Exemplo: 40 mg de prednisona equivalem a cerca de 6 mg de dexametasona ou 32 mg de metilprednisolona. A prednisona é pró-fármaco convertida em prednisolona no fígado; em hepatopatia grave, prefere-se prednisolona. Hidrocortisona é o corticoide de reposição na insuficiência adrenal porque tem ação mineralocorticoide; dexametasona e betametasona são escolhidas quando se quer efeito potente, longo e sem retenção de sódio (por exemplo, edema cerebral, maturação pulmonar fetal), mas suprimem mais o eixo.</p> <h3>Efeitos adversos</h3> <div class=\"tab\"><table><thead><tr><th>Curto prazo (dias)</th><th>Longo prazo (semanas a meses)</th></tr></thead><tbody> <tr><td>Hiperglicemia, sobretudo à tarde</td><td>Síndrome de Cushing (face em lua cheia, gordura central, estrias violáceas)</td></tr> <tr><td>Insônia, euforia, irritabilidade, raramente psicose</td><td>Osteoporose e fraturas; necrose avascular da cabeça do fêmur</td></tr> <tr><td>Aumento do apetite, retenção hídrica</td><td>Diabetes, hipertensão, dislipidemia</td></tr> <tr><td>Elevação da pressão arterial</td><td>Catarata subcapsular posterior e glaucoma</td></tr> <tr><td>Dispepsia (maior risco de úlcera com AINE)</td><td>Miopatia proximal, pele fina, equimoses, má cicatrização</td></tr> <tr><td>Leucocitose sem infecção</td><td>Infecções (inclusive reativação de tuberculose e estrongiloidíase disseminada)</td></tr> <tr><td>Hipocalemia (maior com hidrocortisona)</td><td>Supressão do eixo HHA; atraso do crescimento em criança</td></tr> </tbody></table></div> <h3>Supressão do eixo e desmame</h3> <p>O corticoide exógeno desliga o eixo HHA. Depois de algumas semanas, a suprarrenal reduz sua produção e, se o medicamento for interrompido de repente, falta cortisol: fraqueza, náusea, hipotensão, hipoglicemia e, no extremo, crise adrenal. O risco depende da dose, da duração, do horário e do corticoide.</p> <ul> <li><b>Curso curto</b> (menos de 2 semanas, como na crise de asma): não precisa desmame; pode parar de uma vez (PCDT da Asma, 2026, com base na GINA).</li> <li><b>Uso por 3 semanas ou mais</b>, dose de prednisona de 20 mg/dia ou mais por algumas semanas, uso noturno, sinais de Cushing ou cursos repetidos: considerar o eixo suprimido; a retirada é gradual e definida pelo prescritor.</li> <li>Paciente em uso crônico <b>não deve parar por conta própria</b> e precisa avisar em cirurgia, infecção grave ou trauma (pode precisar de dose de estresse).</li> </ul> <h3>Horário, diabetes e hipertensão</h3> <p>O cortisol natural tem pico no início da manhã. Tomar o corticoide em <strong>dose única pela manhã</strong>, junto com o café da manhã, imita esse ritmo, suprime menos o eixo, reduz a insônia e diminui a irritação gástrica. Quando a dose é dividida, a maior parte vai de manhã.</p> <p>Em diabéticos, a prednisona tomada de manhã eleva principalmente a glicemia da tarde e da noite; a glicemia de jejum pode parecer normal e enganar. Orientar automonitorização mais frequente (incluindo antes do jantar) e contato com o médico se valores altos persistirem, porque pode ser preciso ajustar insulina ou antidiabético. Em hipertensos, monitorar pressão, reduzir sal e observar edema. Em ambos, cursos curtos costumam ser seguros com vigilância.</p> <h3>Interações e situações especiais</h3> <ul> <li><b>AINE</b>: soma risco de úlcera; associar gastroproteção quando o uso conjunto for necessário.</li> <li><b>Diuréticos tiazídicos e de alça</b>: hipocalemia.</li> <li><b>Indutores do CYP3A4</b> (rifampicina, carbamazepina, fenitoína, fenobarbital): reduzem o efeito do corticoide.</li> <li><b>Inibidores potentes do CYP3A4</b> (ritonavir, cobicistate, cetoconazol, itraconazol, claritromicina): aumentam o corticoide; com ritonavir há relatos de síndrome de Cushing até com fluticasona ou budesonida inalada e nasal.</li> <li><b>Vacinas de vírus vivo</b>: evitar quando a dose for imunossupressora (prednisona 20 mg/dia ou mais por 14 dias ou mais, ou equivalente); orientar a perguntar no posto de vacinação.</li> <li><b>Gestação</b>: prednisona e prednisolona são preferidas porque a placenta inativa grande parte da dose; dexametasona e betametasona atravessam a placenta e são usadas justamente para amadurecer o pulmão fetal.</li> </ul> <div class=\"cx alerta\"><b>Atenção</b><p>Corticoide injetável de depósito (por exemplo, associação de fosfato e dipropionato de betametasona) suprime o eixo por semanas e é usado em excesso para \"gripe forte\", dor nas costas ou alergia. Aplicação na farmácia exige prescrição. Pedidos repetidos sem receita devem ser recusados e o cliente orientado sobre os riscos.</p></div>  <h3>Doses frequentes na receita</h3> <p>A crise de asma é a indicação de curso curto mais comum. O PCDT da Asma (2026) preconiza, para adolescentes e adultos com exacerbação grave, prednisolona ou prednisona de 40 a 50 mg/dia por 5 a 7 dias, em dose única diária pela manhã; para crianças de 6 a 11 anos, prednisolona de 1 a 2 mg/kg/dia (máximo de 40 mg/dia) por 3 a 5 dias. As apresentações pediátricas de prednisolona em solução oral existem em mais de uma concentração (por exemplo, 1 mg/mL e 3 mg/mL), e trocar uma pela outra triplica ou reduz a um terço a dose. Conferir a concentração na receita e na embalagem é obrigatório.</p> <p>Outras indicações comuns de curso curto: urticária extensa, dermatite de contato grave, exacerbação de DPOC, crise de gota quando AINE é contraindicado e laringite na criança. Resfriado, gripe, dor de garganta comum e dor lombar sem diagnóstico não são indicações de corticoide.</p> <h3>Uso prolongado</h3> <p>Quem usa corticoide por 3 meses ou mais (doenças reumáticas, transplante, doença pulmonar, doença inflamatória intestinal) precisa de cuidados preventivos acompanhados pelo médico: avaliação de densidade óssea, ingestão adequada de cálcio e vitamina D, controle de pressão, glicemia e peso, exame oftalmológico e atualização vacinal antes da imunossupressão. Na farmácia, o papel é reforçar a adesão, reconhecer efeitos adversos e evitar automedicação concomitante com AINE.</p> <p>Corticoide aumenta o risco de infecções e muda a forma como elas aparecem: febre e dor podem ser menores. Contato com varicela em quem usa dose imunossupressora e nunca teve a doença exige procura de atendimento. Herpes ocular é contraindicação ao corticoide sem avaliação oftalmológica.</p>  <h3>Insuficiência adrenal após corticoide</h3> <p>Quem suspende de repente um corticoide usado por semanas pode apresentar cansaço intenso, perda de apetite, náusea, vômitos, dor abdominal, tontura ao levantar, dores musculares e articulares e, em casos graves, confusão e choque. Os sintomas podem ser confundidos com a doença de base voltando. No balcão, cliente com esse quadro que parou corticoide recentemente deve procurar atendimento no mesmo dia.</p> <div class=\"cx balcao\"><b>No balcão</b><p>Ao dispensar corticoide oral: conferir dose em mg (não confundir prednisona 5 mg com 20 mg), explicar a tomada única de manhã com alimento, perguntar sobre diabetes, hipertensão, glaucoma, úlcera e infecção em curso, e reforçar que curso curto termina no dia indicado e uso longo não pode ser interrompido sem orientação. Associações de corticoide com anti-histamínico (ex.: betametasona com dexclorfeniramina) também são de venda sob prescrição.</p></div>"
+  },
+  {
+   "id": "m06-corticoides-topicos",
+   "titulo": "Corticosteroides tópicos",
+   "resumo": "<p>O corticoide aplicado na pele reduz inflamação, coceira e proliferação celular. É a base do tratamento de dermatite atópica, dermatite de contato, eczemas, psoríase localizada e picadas com reação inflamatória. Os riscos vêm do uso errado: potência alta em pele fina, uso longo sem pausa, aplicação em infecção não diagnosticada e associações desnecessárias com antifúngico e antibiótico.</p> <h3>Classes de potência</h3> <p>A potência depende da molécula, da concentração e do veículo. Pomada penetra mais que creme, que penetra mais que loção; oclusão (curativo, fralda, luva) multiplica a absorção. A classificação abaixo, em quatro grupos, segue a usada no Reino Unido e na Nova Zelândia (DermNet NZ); a classificação americana divide em sete classes, com a I sendo a mais potente, e alguns fármacos mudam de grupo de uma escala para outra.</p> <div class=\"tab\"><table><thead><tr><th>Potência</th><th>Exemplos</th><th>Uso típico</th></tr></thead><tbody> <tr><td>Baixa</td><td>Acetato de hidrocortisona 1% (MIP); desonida 0,05%</td><td>Face, pálpebras, dobras, área de fralda, criança</td></tr> <tr><td>Média</td><td>Triancinolona acetonida 0,1%; butirato de hidrocortisona 0,1%</td><td>Tronco e membros em adulto; dermatite moderada</td></tr> <tr><td>Alta</td><td>Valerato de betametasona 0,1%; dipropionato de betametasona 0,05%; furoato de mometasona 0,1%</td><td>Lesões espessas em adulto, por tempo curto</td></tr> <tr><td>Muito alta</td><td>Propionato de clobetasol 0,05%</td><td>Psoríase em placa, líquen, mãos e pés; prescrição especializada e cursos curtos</td></tr> </tbody></table></div> <p>A tabela é aproximada: a fluticasona 0,05% e a desoximetasona, por exemplo, aparecem em grupos diferentes conforme a fonte. Na dúvida, a bula e o veículo decidem.</p> <h3>Quantidade: unidade de ponta de dedo</h3> <p>A unidade de ponta de dedo (FTU, do inglês <i>fingertip unit</i>) é a quantidade de creme espremida do tubo de bico padrão sobre a falange distal do indicador de um adulto, da ponta até a primeira dobra. Equivale a cerca de <strong>0,5 g</strong> no homem adulto (0,4 g na mulher, segundo a DermNet NZ) e cobre uma área igual a duas palmas de mão de adulto (com os dedos). Referência para adulto por aplicação:</p> <div class=\"tab\"><table><thead><tr><th>Região (adulto)</th><th>Unidades de ponta de dedo</th></tr></thead><tbody> <tr><td>Face e pescoço</td><td>2,5</td></tr> <tr><td>Uma mão (frente e verso)</td><td>1</td></tr> <tr><td>Um braço inteiro</td><td>3</td></tr> <tr><td>Um pé</td><td>2</td></tr> <tr><td>Uma perna inteira</td><td>6</td></tr> <tr><td>Tronco anterior ou posterior</td><td>7 cada</td></tr> </tbody></table></div> <p>A medida ajuda a evitar os dois erros mais comuns: quantidade pequena demais (por \"medo de corticoide\", com falha de tratamento) e uso em grande área por meses. Aplicação uma ou duas vezes ao dia é suficiente para a maioria das formulações; passar mais vezes não aumenta o efeito.</p> <h3>Locais e pacientes de maior risco</h3> <ul> <li><b>Face e pálpebras</b>: pele fina e absorção alta; usar baixa potência por poucos dias. Na região periocular, há risco de glaucoma e catarata.</li> <li><b>Dobras, axilas, virilha e genitais</b>: oclusão natural; risco de atrofia e estrias; baixa potência.</li> <li><b>Criança</b>: maior relação superfície/peso e maior absorção; baixa ou média potência, curso curto; na área de fralda a fralda funciona como oclusão.</li> <li><b>Idoso</b>: pele atrófica, equimoses fáceis.</li> <li><b>Áreas extensas ou pele muito lesada</b>: absorção sistêmica com possível supressão do eixo HHA e hiperglicemia.</li> </ul> <h3>Efeitos adversos</h3> <p>Locais: atrofia da pele, estrias (irreversíveis), telangiectasias, púrpura, dermatite perioral, acne e rosácea induzidas por corticoide, hipopigmentação, hipertricose, retardo de cicatrização e mascaramento de infecção (micose que fica atípica e se espalha, conhecida como tinha incógnita). Ao suspender um corticoide potente usado por muito tempo na face ou em área extensa, pode haver <strong>rebote</strong>: piora intensa com vermelhidão, ardor e descamação, que leva o paciente a reaplicar e prolonga o ciclo. Por isso, cursos longos são reduzidos aos poucos (menos vezes por semana ou troca por potência menor) sob orientação médica.</p> <div class=\"cx alerta\"><b>Atenção</b><p>Cremes que associam corticoide potente, antifúngico e antibiótico são muito pedidos como \"pomada para tudo\". Em micose, o corticoide alivia a coceira, mas favorece a expansão do fungo; em infecção bacteriana, o antibiótico tópico seleciona resistência. Lesão sem diagnóstico, que piora ou não melhora em 7 dias, deve ser avaliada pelo médico.</p></div> <h3>Corticoides nasais e inalatórios</h3> <p>Corticoides de uso nasal (rinite) e inalatório (asma e DPOC) agem no mesmo receptor, com absorção sistêmica baixa. Técnica de uso, efeitos locais (candidíase oral, disfonia, epistaxe) e doses estão no módulo Sistema respiratório.</p>  <h3>Veículo</h3> <ul> <li><b>Pomada</b>: oclusiva, maior penetração, boa para lesões secas, espessas e descamativas; menos indicada em dobras e áreas pilosas.</li> <li><b>Creme</b>: versátil, para lesões agudas e úmidas e para áreas maiores; mais aceito pelo paciente.</li> <li><b>Loção, solução e espuma</b>: couro cabeludo e áreas pilosas; podem arder em pele lesada (álcool).</li> <li><b>Gel</b>: áreas pilosas e oleosas; pode ressecar.</li> </ul> <h3>Dermatite atópica</h3> <p>A base do tratamento é a hidratação diária da pele com emoliente, banho morno e curto e sabonete suave. O corticoide tópico controla as crises e pode ser usado de forma intermitente para prevenir recaídas, conforme o prescritor. Na face e em pálpebras, inibidores de calcineurina tópicos (tacrolimo, pimecrolimo), de venda sob prescrição, são alternativa sem atrofia. O medo exagerado de corticoide leva ao uso de quantidades mínimas e à falha terapêutica; o farmacêutico pode corrigir isso explicando a unidade de ponta de dedo e o tempo de uso.</p> <h3>Picadas de inseto</h3> <p>Reação local (vermelhidão, coceira, inchaço de alguns centímetros) melhora com compressa fria, anti-H1 oral de segunda geração e, se necessário, corticoide tópico de baixa potência por poucos dias. Inchaço grande que ultrapassa duas articulações, sinais de infecção (calor crescente, dor, pus, febre) ou qualquer sintoma sistêmico exigem avaliação; sintomas fora do local da picada podem ser anafilaxia.</p>  <h3>Tempo de uso e suspensão</h3> <p>Para lesões agudas, cursos de poucos dias a 2 semanas costumam bastar. Depois que a pele melhora, o prescritor pode reduzir a frequência (uma vez ao dia, depois dias alternados) ou trocar por potência menor, mantendo o hidratante. Tubo de corticoide potente que acaba todo mês sem consulta é sinal de uso crônico sem acompanhamento e merece conversa e encaminhamento. Corticoide tópico em pele com ferida aberta, úlcera, acne, rosácea ou infecção viral (herpes, varicela) não deve ser usado.</p> <div class=\"cx balcao\"><b>No balcão</b><p>Pergunte onde está a lesão, há quanto tempo, se coça, se há secreção, crosta ou bolha, se já usou algo e por quanto tempo. Em dermatite leve de adulto, fora da face, o acetato de hidrocortisona 1% (10 mg/g), que está na lista de MIP para dermatites, eczemas, eritema solar e picadas de inseto (IN 285/2024), pode ser orientado por poucos dias. Encaminhe se: lesão na face de bebê, área extensa, febre, secreção purulenta, lesão que não melhora em 7 dias, suspeita de micose ou herpes, ou uso prolongado de corticoide potente.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Mãe pede creme de clobetasol para \"assadura\" de bebê de 8 meses. O farmacêutico explica que a fralda funciona como oclusão e aumenta muito a absorção, que o clobetasol é de potência muito alta e não deve ser usado nessa área, orienta troca frequente de fralda, limpeza com água e pasta à base de óxido de zinco e encaminha ao pediatra se houver lesões com pontos satélites (sugestivas de candidíase) ou piora em 3 dias.</p></div>"
+  }
+ ],
+ "mapas": [
+  {
+   "id": "m06-mapa-corticoides",
+   "titulo": "Corticosteroides sistêmicos e tópicos",
+   "centro": "Corticosteroides",
+   "ramos": [
+    {
+     "t": "Mecanismo",
+     "itens": [
+      "Receptor no citoplasma, age no núcleo",
+      "Reprime genes inflamatórios",
+      "Efeito em horas, não em minutos"
+     ]
+    },
+    {
+     "t": "Equivalência",
+     "itens": [
+      "Hidrocortisona 20 mg",
+      "Prednisona/prednisolona 5 mg",
+      "Metilprednisolona 4 mg",
+      "Dexametasona 0,75 mg (longa)"
+     ]
+    },
+    {
+     "t": "Uso correto",
+     "itens": [
+      "Dose única pela manhã com alimento",
+      "Curso < 2 semanas: sem desmame",
+      "Uso longo: nunca parar sozinho",
+      "Diabético: glicemia da tarde sobe"
+     ]
+    },
+    {
+     "t": "Efeitos adversos",
+     "itens": [
+      "Curto: glicemia, insônia, PA, apetite",
+      "Longo: Cushing, osteoporose, catarata",
+      "Infecção e supressão do eixo HHA"
+     ]
+    },
+    {
+     "t": "Tópicos",
+     "itens": [
+      "Potência: baixa, média, alta, muito alta",
+      "1 ponta de dedo = 0,5 g = 2 palmas",
+      "Face, dobras, criança: baixa potência",
+      "Atrofia, estrias, rebote, tinha incógnita"
+     ]
+    },
+    {
+     "t": "Alertas",
+     "itens": [
+      "Ritonavir + fluticasona: Cushing",
+      "Vacina viva: evitar em dose alta",
+      "Injetável de depósito só com receita"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m17-mapa-dispensacao",
+   "titulo": "Corticoide na dispensação",
+   "centro": "Corticoide no balcão",
+   "ramos": [
+    {
+     "t": "Conferir a receita",
+     "itens": [
+      "Dose em mg: 5 mg não é 20 mg",
+      "Prednisolona: 1 mg/mL ou 3 mg/mL",
+      "Oral e injetável: só com prescrição"
+     ]
+    },
+    {
+     "t": "Asma (PCDT 2026)",
+     "itens": [
+      "Adulto: 40 a 50 mg/dia por 5 a 7 dias",
+      "6 a 11 anos: 1 a 2 mg/kg/dia, máx. 40 mg",
+      "Dose única pela manhã"
+     ]
+    },
+    {
+     "t": "Suspensão",
+     "itens": [
+      "Menos de 2 semanas: sem desmame",
+      "3 semanas ou mais: eixo suprimido",
+      "Parada brusca: fraqueza, hipotensão"
+     ]
+    },
+    {
+     "t": "Infecção e vacina",
+     "itens": [
+      "20 mg/dia por 14 dias: sem vacina viva",
+      "Varicela em não imune: atendimento",
+      "Herpes ocular: avaliação antes"
+     ]
+    },
+    {
+     "t": "Interações",
+     "itens": [
+      "Rifampicina, carbamazepina: menos efeito",
+      "Ritonavir, cetoconazol: mais efeito",
+      "AINE: úlcera; tiazídico: hipocalemia"
+     ]
+    },
+    {
+     "t": "Gestação",
+     "itens": [
+      "Prednisona e prednisolona preferidas",
+      "Dexametasona: maturação pulmonar fetal"
+     ]
+    }
+   ]
+  }
+ ],
+ "apoio": [
+  {
+   "tipo": "tabela",
+   "id": "m06-tab-corticoides",
+   "titulo": "Equivalência dos corticosteroides sistêmicos (valores aproximados)",
+   "colunas": [
+    "Fármaco",
+    "Dose equivalente",
+    "Potência glicocorticoide",
+    "Potência mineralocorticoide",
+    "Duração biológica"
+   ],
+   "linhas": [
+    [
+     "Hidrocortisona",
+     "20 mg",
+     "1",
+     "1",
+     "8 a 12 h"
+    ],
+    [
+     "Prednisona",
+     "5 mg",
+     "4",
+     "0,8",
+     "12 a 36 h"
+    ],
+    [
+     "Prednisolona",
+     "5 mg",
+     "4",
+     "0,8",
+     "12 a 36 h"
+    ],
+    [
+     "Metilprednisolona",
+     "4 mg",
+     "5",
+     "Mínima",
+     "12 a 36 h"
+    ],
+    [
+     "Dexametasona",
+     "0,75 mg",
+     "25 a 30",
+     "Desprezível",
+     "36 a 72 h"
+    ],
+    [
+     "Betametasona",
+     "0,6 a 0,75 mg",
+     "25 a 30",
+     "Desprezível",
+     "36 a 72 h"
+    ]
+   ],
+   "nota": "Valores aproximados, conforme a tabela de Liu e colaboradores (Allergy Asthma Clin Immunol, 2013); pequenas variações existem entre fontes. Exemplo de conversão: prednisona 40 mg corresponde a cerca de dexametasona 6 mg."
+  },
+  {
+   "tipo": "tabela",
+   "id": "m06-tab-topicos",
+   "titulo": "Potência dos corticosteroides tópicos",
+   "colunas": [
+    "Potência",
+    "Exemplos",
+    "Onde e quanto tempo"
+   ],
+   "linhas": [
+    [
+     "Baixa",
+     "Acetato de hidrocortisona 1% (MIP); desonida 0,05%",
+     "Face, pálpebras, dobras, criança; cursos curtos"
+    ],
+    [
+     "Média",
+     "Triancinolona acetonida 0,1%; butirato de hidrocortisona 0,1%",
+     "Tronco e membros de adulto; até 2 a 3 semanas"
+    ],
+    [
+     "Alta",
+     "Valerato de betametasona 0,1%; dipropionato de betametasona 0,05%; furoato de mometasona 0,1%",
+     "Lesões espessas em adulto; evitar face e dobras"
+    ],
+    [
+     "Muito alta",
+     "Propionato de clobetasol 0,05%",
+     "Psoríase, líquen, palmas e plantas; prescrição e cursos curtos"
+    ]
+   ],
+   "nota": "Classificação aproximada em quatro grupos, como a usada no Reino Unido e na Nova Zelândia (DermNet NZ); fluticasona e desoximetasona mudam de grupo conforme a fonte. Acetato de hidrocortisona 10 mg/g é o único corticoide tópico da lista de MIP (IN 285/2024). Pomada é mais potente que creme da mesma molécula; oclusão (fralda, curativo) aumenta a absorção. Uma unidade de ponta de dedo (cerca de 0,5 g) cobre duas palmas de mão de adulto."
+  },
+  {
+   "tipo": "fluxo",
+   "id": "m17-fluxo-oral",
+   "titulo": "Dispensação de corticoide oral",
+   "passos": [
+    {
+     "t": "Cliente apresenta receita de prednisona, prednisolona ou dexametasona",
+     "tipo": "inicio"
+    },
+    {
+     "t": "Conferir fármaco, dose em mg, concentração da solução oral e duração do curso",
+     "tipo": "acao"
+    },
+    {
+     "t": "A concentração da solução pediátrica disponível é a mesma da receita (1 mg/mL ou 3 mg/mL)?",
+     "tipo": "decisao",
+     "sim": "Seguir para a triagem",
+     "nao": "Não trocar por conta própria; contatar o prescritor para recalcular o volume"
+    },
+    {
+     "t": "Tem diabetes, hipertensão, glaucoma, úlcera ou infecção em curso?",
+     "tipo": "decisao",
+     "sim": "Orientar glicemia antes do jantar e controle da pressão; comunicar o prescritor se preciso",
+     "nao": "Seguir para as interações"
+    },
+    {
+     "t": "Usa ritonavir, cetoconazol, rifampicina, carbamazepina, AINE ou diurético?",
+     "tipo": "decisao",
+     "sim": "Contatar o prescritor ou orientar gastroproteção e controle de potássio, conforme o caso",
+     "nao": "Seguir para a orientação"
+    },
+    {
+     "t": "Orientar dose única pela manhã, com o café da manhã",
+     "tipo": "acao"
+    },
+    {
+     "t": "O curso dura menos de 2 semanas?",
+     "tipo": "decisao",
+     "sim": "Pode parar no dia indicado, sem desmame",
+     "nao": "Não suspender por conta própria; a retirada gradual é definida pelo prescritor"
+    },
+    {
+     "t": "Cansaço intenso, vômitos ou tontura ao levantar depois de parar o corticoide: atendimento no mesmo dia",
+     "tipo": "alerta"
+    },
+    {
+     "t": "Registrar a dispensação e reforçar a adesão",
+     "tipo": "fim"
+    }
+   ]
+  },
+  {
+   "tipo": "checklist",
+   "id": "m17-check-topico",
+   "titulo": "Antes de orientar corticoide tópico",
+   "itens": [
+    "Perguntar onde está a lesão e há quanto tempo",
+    "Verificar secreção, crosta, bolha ou ferida aberta",
+    "Descartar sinais de micose, herpes, acne ou rosácea",
+    "Conferir a potência do produto e o veículo (pomada, creme, loção)",
+    "Face, dobras, área de fralda e criança: só baixa potência",
+    "Explicar a unidade de ponta de dedo e a frequência de uma ou duas vezes ao dia",
+    "Evitar oclusão (curativo, fralda) sem orientação médica",
+    "Desaconselhar associação com antifúngico e antibiótico sem diagnóstico",
+    "Hidrocortisona 1% (MIP): dermatite leve de adulto, fora da face, por poucos dias",
+    "Encaminhar se não melhorar em 7 dias ou houver febre ou secreção purulenta"
+   ]
+  },
+  {
+   "tipo": "cartoes",
+   "id": "m17-cartoes",
+   "titulo": "Cartões de revisão",
+   "itens": [
+    {
+     "f": "Dose de dexametasona equivalente a prednisona 5 mg?",
+     "v": "0,75 mg."
+    },
+    {
+     "f": "Curso de corticoide que dispensa desmame?",
+     "v": "Menos de 2 semanas (ex.: crise de asma)."
+    },
+    {
+     "f": "Melhor horário para corticoide oral em dose única?",
+     "v": "Pela manhã, com o café da manhã."
+    },
+    {
+     "f": "Quanto vale uma unidade de ponta de dedo?",
+     "v": "Cerca de 0,5 g, suficiente para duas palmas de mão de adulto."
+    },
+    {
+     "f": "Exemplo de corticoide tópico de potência muito alta?",
+     "v": "Propionato de clobetasol 0,05%."
+    },
+    {
+     "f": "Prednisona 40 mg equivale a quanto de metilprednisolona?",
+     "v": "Cerca de 32 mg."
+    },
+    {
+     "f": "Por que o corticoide não é o primeiro fármaco na anafilaxia?",
+     "v": "Age por transcrição gênica e leva horas para fazer efeito."
+    },
+    {
+     "f": "Corticoide preferido na hepatopatia grave?",
+     "v": "Prednisolona, porque a prednisona precisa ser ativada no fígado."
+    },
+    {
+     "f": "Corticoide de reposição na insuficiência adrenal?",
+     "v": "Hidrocortisona, que tem ação mineralocorticoide."
+    },
+    {
+     "f": "Dose que contraindica vacina de vírus vivo?",
+     "v": "Prednisona 20 mg/dia ou mais por 14 dias ou mais, ou equivalente."
+    },
+    {
+     "f": "Ritonavir com fluticasona inalada ou nasal?",
+     "v": "Pode causar síndrome de Cushing."
+    },
+    {
+     "f": "Prednisolona 3 mg/mL no lugar da 1 mg/mL?",
+     "v": "Triplica a dose: conferir a concentração na receita e na embalagem."
+    },
+    {
+     "f": "Único corticoide tópico da lista de MIP?",
+     "v": "Acetato de hidrocortisona 10 mg/g (IN 285/2024)."
+    },
+    {
+     "f": "Pomada ou creme da mesma molécula: qual penetra mais?",
+     "v": "A pomada."
+    }
+   ]
+  },
+  {
+   "tipo": "questoes",
+   "id": "m17-questoes",
+   "titulo": "Questões de fixação",
+   "itens": [
+    {
+     "p": "Paciente vai trocar prednisona 20 mg/dia por dexametasona. A dose equivalente aproximada de dexametasona é:",
+     "alt": [
+      "0,75 mg",
+      "1,5 mg",
+      "3 mg",
+      "6 mg",
+      "20 mg"
+     ],
+     "c": 2,
+     "com": "Prednisona 5 mg equivale a dexametasona 0,75 mg. Logo, 20 mg de prednisona (4 vezes 5 mg) equivalem a 4 vezes 0,75 mg, ou seja, 3 mg de dexametasona."
+    },
+    {
+     "p": "Adulto recebeu prednisona 40 mg/dia por 5 dias para crise de asma. Quanto à suspensão, é correto orientar que:",
+     "alt": [
+      "Deve reduzir 5 mg por semana até parar de vez",
+      "Pode parar ao fim do 5º dia, sem desmame",
+      "Deve passar a dose para a noite antes de parar",
+      "Deve manter 5 mg/dia por mais um mês inteiro",
+      "Precisa trocar por dexametasona antes de parar"
+     ],
+     "c": 1,
+     "com": "Cursos com menos de 2 semanas não exigem desmame (PCDT da Asma 2026, com base na GINA). A dose deve ser pela manhã, porque a tomada noturna suprime mais o eixo HHA. Desmame é necessário em uso prolongado ou em dose alta por semanas."
+    },
+    {
+     "p": "Diabético tipo 2 inicia prednisona 40 mg pela manhã. Qual orientação está correta?",
+     "alt": [
+      "Basta a glicemia de jejum para detectar a hiperglicemia do corticoide",
+      "Corticoide costuma reduzir a glicemia em diabéticos tipo 2",
+      "Deve suspender a metformina enquanto durar o curso de corticoide",
+      "Deve dividir a dose e tomar metade à noite para evitar picos",
+      "Medir também antes do jantar, quando a glicemia tende a subir"
+     ],
+     "c": 4,
+     "com": "Prednisona matinal eleva principalmente a glicemia pós-prandial e vespertina; a de jejum pode estar normal. Não se suspende antidiabético por conta própria; ajustes são do prescritor. Dose noturna aumenta insônia e supressão do eixo."
+    },
+    {
+     "p": "Mãe traz receita antiga de clobetasol para eczema no rosto da filha de 4 anos. A orientação mais adequada é:",
+     "alt": [
+      "Explicar que face de criança pede baixa potência e encaminhar ao pediatra",
+      "Usar clobetasol duas vezes ao dia por 30 dias seguidos, sem pausa",
+      "Usar clobetasol sob curativo oclusivo para potencializar o efeito",
+      "Trocar por creme com corticoide, antifúngico e antibiótico associados",
+      "Usar a menor quantidade possível, menos de meia unidade de ponta de dedo por mês"
+     ],
+     "c": 0,
+     "com": "Clobetasol é de potência muito alta; na face e em criança há maior absorção e risco de atrofia, telangiectasia e dermatite perioral. Oclusão aumenta a absorção. Associações tríplices sem diagnóstico favorecem micose atípica e resistência. Quantidade insuficiente leva à falha; a escolha da potência é do prescritor."
+    },
+    {
+     "p": "Mãe traz receita de prednisolona solução 3 mg/mL, 5 mL por dia, e a farmácia só tem a solução de 1 mg/mL. A conduta correta é:",
+     "alt": [
+      "Dispensar 1 mg/mL no mesmo volume, porque o fármaco é igual",
+      "Trocar por dexametasona gotas no mesmo número de mL",
+      "Orientar comprar em outra farmácia sem explicar o motivo",
+      "Não trocar sem contatar o prescritor, pois muda a dose",
+      "Dispensar 1 mg/mL e orientar 5 mL, já que são equivalentes"
+     ],
+     "c": 3,
+     "com": "A receita indica 15 mg/dia (3 mg/mL vezes 5 mL); o mesmo volume da solução de 1 mg/mL daria 5 mg, um terço da dose. Trocar concentração ou fármaco exige recalcular com o prescritor. Orientar o cliente sobre o motivo faz parte da conduta."
+    },
+    {
+     "p": "Paciente usa prednisona 20 mg/dia há 2 meses para doença reumática e quer parar porque engordou. A orientação adequada é:",
+     "alt": [
+      "Não parar por conta própria; a retirada é gradual e médica",
+      "Parar de uma vez, porque curso de corticoide dispensa desmame",
+      "Trocar por dexametasona 0,75 mg para emagrecer sem perder efeito",
+      "Tomar a dose à noite para reduzir o apetite durante o dia",
+      "Reduzir para dias alternados por conta própria a partir de hoje"
+     ],
+     "c": 0,
+     "com": "Uso por 3 semanas ou mais, ou de 20 mg/dia ou mais por semanas, deve ser tratado como eixo HHA suprimido; parar de repente pode causar insuficiência adrenal. Só curso menor que 2 semanas dispensa desmame. Dexametasona 0,75 mg equivale a 5 mg de prednisona, e a dose noturna suprime mais o eixo."
+    },
+    {
+     "p": "Paciente com HIV em uso de ritonavir recebe prescrição de fluticasona inalada. O risco dessa associação é:",
+     "alt": [
+      "Perda total do efeito antirretroviral do ritonavir",
+      "Hipoglicemia grave pela fluticasona absorvida",
+      "Síndrome de Cushing por inibição do CYP3A4",
+      "Nenhum, pois o corticoide inalado não é absorvido",
+      "Insuficiência renal aguda pela soma dos dois fármacos"
+     ],
+     "c": 2,
+     "com": "O ritonavir é inibidor potente do CYP3A4 e aumenta muito a exposição a corticoides metabolizados por essa via; há relatos de síndrome de Cushing e supressão adrenal até com fluticasona ou budesonida inalada e nasal. O corticoide inalado tem absorção baixa, mas não nula."
+    },
+    {
+     "p": "Adulto em uso de prednisona 30 mg/dia há 3 semanas pergunta se pode tomar a vacina de febre amarela. A orientação é:",
+     "alt": [
+      "Tomar normalmente, pois corticoide não interfere em vacinas vivas",
+      "Parar a prednisona dois dias antes e tomar a vacina em seguida",
+      "Tomar a vacina junto com uma dose extra de prednisona",
+      "Tomar a vacina e um anti-histamínico preventivo no mesmo dia",
+      "Informar o uso no posto e procurar o médico antes da vacina"
+     ],
+     "c": 4,
+     "com": "Prednisona de 20 mg/dia ou mais por 14 dias ou mais (ou equivalente) é dose imunossupressora, e vacinas de vírus vivo, como a de febre amarela, devem ser evitadas. Parar o corticoide de repente após 3 semanas traz risco de insuficiência adrenal. A decisão é do médico e do serviço de vacinação."
+    },
+    {
+     "p": "Cliente pede creme com corticoide, antifúngico e antibiótico para placa avermelhada que coça na virilha há um mês e está aumentando. A melhor conduta é:",
+     "alt": [
+      "Indicar a associação tripla, que trata qualquer lesão de pele",
+      "Não indicar a associação e encaminhar para diagnóstico",
+      "Indicar clobetasol, por ser o corticoide mais potente disponível",
+      "Orientar oclusão com curativo para acelerar a melhora da placa",
+      "Indicar hidrocortisona 1% por 3 meses até a placa sumir de vez"
+     ],
+     "c": 1,
+     "com": "Placa que cresce na virilha sugere micose; o corticoide alivia a coceira mas favorece a expansão do fungo (tinha incógnita), e o antibiótico tópico seleciona resistência. Dobra é área de oclusão natural, onde corticoide potente causa atrofia e estrias. Lesão sem diagnóstico que não melhora deve ser avaliada."
+    },
+    {
+     "p": "Sobre a quantidade de corticoide tópico, assinale a alternativa correta.",
+     "alt": [
+      "Aplicar quatro vezes ao dia aumenta muito o efeito",
+      "Uma unidade de ponta de dedo equivale a cerca de 5 g de creme",
+      "Quanto menos produto, melhor, mesmo que a lesão não melhore",
+      "Uma unidade de ponta de dedo cobre cerca de duas palmas",
+      "O tronco de adulto precisa de meia unidade de ponta de dedo"
+     ],
+     "c": 3,
+     "com": "Uma unidade de ponta de dedo tem cerca de 0,5 g e cobre duas palmas de mão de adulto (Long e Finlay, 1991; DermNet NZ). O tronco anterior ou posterior de adulto pede cerca de 7 unidades. Uma ou duas aplicações por dia bastam, e quantidade insuficiente leva à falha do tratamento."
+    }
+   ]
+  }
+ ],
+ "fontes": [
+  "Anvisa. Instrução Normativa nº 285, de 7 de março de 2024. Lista de Medicamentos Isentos de Prescrição. Diário Oficial da União, 12 mar. 2024; Anexo I na redação da Instrução Normativa nº 404, de 10 de novembro de 2025 (Diário Oficial da União, 13 nov. 2025), consultada no texto publicado.",
+  "Brasil. Ministério da Saúde. Portaria Conjunta SAES/SCTIE nº 43, de 24 de março de 2026. Aprova o Protocolo Clínico e Diretrizes Terapêuticas da Asma (Relatório de Recomendação Conitec nº 1078, dez. 2025). https://www.gov.br/conitec/",
+  "Long CC, Finlay AY. The finger-tip unit: a new practical measure. Clin Exp Dermatol. 1991;16(6):444-447 (referência clássica, não reaberta nesta revisão).",
+  "Liu D, Ahmet A, Ward L, et al. A practical guide to the monitoring and management of the complications of systemic corticosteroid therapy. Allergy Asthma Clin Immunol. 2013;9(1):30. doi:10.1186/1710-1492-9-30 (tabela 3).",
+  "DermNet NZ. Topical corticosteroids (potência e unidade de ponta de dedo). https://dermnetnz.org/topics/topical-steroid (consultado em out. 2026)."
+ ]
+}

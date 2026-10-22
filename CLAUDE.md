@@ -1,6 +1,6 @@
 # SOS Farmacologia
 
-Farmacologia aplicada ao balcão e à dispensação, para alunos do 9º/10º semestre de Farmácia e recém-formados
+Farmacologia para alunos do 9º/10º semestre de Farmácia e recém-formados
 (público de farmácia, não de medicina). Criado em 15/10/2026 como irmão do SOS Farmácia Comercial
 (`~/Documents/Claude/sos-farmacia/`), com o mesmo motor e o mesmo visual (sistema FarmaUTI), cor própria
 verde-azulada `--marca:#0E9384` e logo `ti-pills`. Conteúdo herdado dos módulos de farmacologia que saíram do SOS
@@ -18,10 +18,19 @@ Publicar: `python3 monta.py && cp SOS-Farmacologia.html index.html`, commit e pu
 - Regras de conteúdo e escrita: `docs/BRIEF.md`. Roteiro da reconferência: `docs/AUDITORIA.md`.
   Pendências que ficaram sem fonte primária: `docs/REVISAO.md`.
 
-## Módulos (ids renumerados em 15/10/2026; ninguém tinha progresso salvo)
-1 Princípios de farmacologia para o balcão (m01, ex-m03a parte 1) · 2 Sistema nervoso central (m02, ex-m03a parte 2)
-· 3 Antimicrobianos (m03, ex-m03b) · 4 Cardiovascular e renal (m04) · 5 Endócrino (m05) · 6 AINEs, corticosteroides
-e antialérgicos (m06) · 7 Respiratório (m07) · 8 Interações na atenção básica (m08, ex-m09).
+## Módulos (22/10/2026: reformulação em 17, pedido do dono; roteiro em docs/ESCRITA-2026-10.md)
+Ordem (num) e id do arquivo: 1 Farmacocinética e farmacodinâmica (m01) · 2 Cardiovascular: anti-hipertensivos e
+antiarrítmicos (m04) · 3 Renal: diuréticos (m09) · 4 Respiratório (m07) · 5 Gastrointestinal (m10) · 6 Endócrino:
+insulinas, hormônios sexuais e tireoide (m05) · 7 SNC (m02) · 8 Antimicrobianos (m03) · 9 Antifúngicos (m11) ·
+10 Antivirais (m12) · 11 Antiparasitários (m13) · 12 Quimioterapia antineoplásica (m14) · 13 Imunofarmacologia (m15)
+· 14 Anti-inflamatórios e coxibes (m06) · 15 Antialérgicos (m16) · 16 Glicocorticoides (m17) · 17 Interações (m08).
+**Ids mantidos de propósito** (o app já era vendido; progresso no aparelho é por id de tópico e de bloco): tópicos
+que mudaram de módulo ficaram com o id antigo (ex.: `m04-diureticos` em m09.json, `m06-corticoides-*` em m17.json),
+por isso o checa.py aceita qualquer prefixo `mNN-` e o monta.py recusa id repetido entre módulos. Blocos de cartões e
+questões que foram divididos ganharam id novo (`m04-questoes-cv`, `m09-questoes`…), para resposta antiga não cair
+na questão errada. Remissão entre módulos pelo nome ("módulo Sistema respiratório"), nunca pelo número.
+O antigo tópico de antifúngicos, antivirais e antiparasitários do m03 virou semente (`trabalho/semente-antiinfecciosos.json`)
+dos módulos m11, m12 e m13.
 
 ## Diferenças do motor em relação ao SOS Farmácia
 - Sem Gestão da farmácia (gestao/), sem bulário, calculadora e simuladores (os tipos de bloco seguem no app.js,

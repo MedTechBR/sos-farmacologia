@@ -1,0 +1,695 @@
+{
+ "id": "m15",
+ "num": 13,
+ "titulo": "Imunofarmacologia",
+ "escopo": "Resposta imune e alvos dos fármacos, imunossupressores do transplante (inibidores de calcineurina, antiproliferativos e inibidores de mTOR), MMCD sintéticos e inibidores de JAK, imunobiológicos e biossimilares (NT Anvisa 60/2026), vacinas no imunossuprimido e na farmácia (RDC 197/2017) e acesso pelo CEAF conforme os PCDT, com foco na dispensação e na orientação.",
+ "topicos": [
+  {
+   "id": "m15-resposta-imune",
+   "titulo": "Resposta imune e alvos farmacológicos",
+   "resumo": "<p>O sistema imune tem duas camadas que trabalham juntas. A <strong>imunidade inata</strong> responde em minutos a horas, sem memória: neutrófilos, macrófagos, células dendríticas, células NK, mastócitos e o sistema complemento reconhecem padrões comuns a microrganismos e a tecido lesado e liberam citocinas inflamatórias (TNF-alfa, IL-1, IL-6). A imunidade adaptativa demora dias na primeira exposição, é específica para cada antígeno e guarda memória: é feita pelos linfócitos T e B. A vacina usa justamente essa memória; os imunossupressores e os imunobiológicos atuam, na maior parte, freando a resposta adaptativa ou bloqueando citocinas que mantêm a inflamação crônica.</p> <h3>Linfócitos T, linfócitos B e citocinas</h3> <p>A célula dendrítica captura o antígeno, migra para o linfonodo e o apresenta ao linfócito T. O <strong>linfócito T CD4</strong> (auxiliar) se diferencia conforme as citocinas do ambiente: Th1 (interferon-gama, defesa contra intracelulares como o bacilo da tuberculose), Th2 (IL-4, IL-5, IL-13, ligadas a alergia, asma e eosinófilos), Th17 (IL-17, envolvida em psoríase e espondiloartrites) e T reguladoras (freiam a resposta). O linfócito T CD8 (citotóxico) destrói células infectadas, tumorais ou, no transplante, as células do órgão doado. O linfócito B expressa CD20 na superfície, recebe ajuda do T CD4 e se transforma em plasmócito, que produz anticorpos (IgM, IgG, IgA, IgE).</p> <p>Citocinas são proteínas mensageiras. Algumas têm papel central em doenças autoimunes e por isso viraram alvo de medicamentos: TNF-alfa (artrite reumatoide, espondilite, psoríase, doença inflamatória intestinal), IL-6 (artrite reumatoide), IL-17 e IL-23 (psoríase, artrite psoriásica), IL-4 e IL-13 (dermatite atópica), IL-5 (asma eosinofílica) e IgE (asma alérgica, urticária crônica). Muitos receptores de citocinas sinalizam dentro da célula pela via <strong>JAK-STAT</strong> (Janus quinases), que é o alvo dos inibidores de JAK, medicamentos orais de molécula pequena.</p> <h3>Os três sinais da ativação do linfócito T</h3> <p>Para o linfócito T se ativar e se multiplicar, ele precisa de três sinais em sequência. Esse esquema explica onde age cada imunossupressor de transplante:</p> <ol> <li><strong>Sinal 1</strong>: o receptor do linfócito T (TCR) reconhece o antígeno apresentado. Dentro da célula, sobe o cálcio e é ativada a <strong>calcineurina</strong>, que libera o fator NFAT para o núcleo e liga a produção de IL-2. A ciclosporina e o tacrolimo bloqueiam a calcineurina.</li> <li><strong>Sinal 2</strong>: coestimulação, quando a molécula CD28 do linfócito encontra CD80/CD86 da célula apresentadora. Sem esse segundo sinal, o linfócito fica inativo. Abatacepte (artrite reumatoide) e belatacepte (transplante renal) são proteínas de fusão que bloqueiam essa ligação.</li> <li><strong>Sinal 3</strong>: a IL-2 se liga ao seu receptor (CD25) e ativa a via <strong>mTOR</strong>, que leva o linfócito a entrar em ciclo celular. O basiliximabe bloqueia o CD25; sirolimo e everolimo inibem o mTOR.</li> </ol> <p>Para se multiplicar, o linfócito precisa sintetizar DNA, o que exige purinas. O <strong>micofenolato</strong> inibe a enzima IMPDH, da qual o linfócito depende quase de forma exclusiva para produzir guanosina, e a azatioprina é convertida em 6-mercaptopurina, que vira um falso nucleotídeo. Os glicocorticoides agem em vários pontos ao mesmo tempo, reduzindo a transcrição de citocinas (o mecanismo está no módulo Glicocorticoides).</p> <div class=\"tab\"><table><thead><tr><th>Alvo</th><th>Classe</th><th>Exemplos</th><th>Uso principal</th></tr></thead><tbody> <tr><td>Calcineurina (sinal 1)</td><td>Inibidores de calcineurina</td><td>Ciclosporina, tacrolimo</td><td>Transplante, algumas doenças autoimunes</td></tr> <tr><td>Coestimulação CD28 (sinal 2)</td><td>Proteínas de fusão CTLA-4</td><td>Abatacepte, belatacepte</td><td>Artrite reumatoide; transplante renal</td></tr> <tr><td>Receptor da IL-2 e mTOR (sinal 3)</td><td>Anti-CD25; inibidores de mTOR</td><td>Basiliximabe; sirolimo, everolimo</td><td>Indução e manutenção no transplante</td></tr> <tr><td>Síntese de purinas</td><td>Antiproliferativos</td><td>Micofenolato, azatioprina</td><td>Transplante, lúpus, vasculites</td></tr> <tr><td>Diidrofolato redutase e outras vias</td><td>MMCD sintéticos</td><td>Metotrexato, leflunomida</td><td>Artrite reumatoide e outras</td></tr> <tr><td>JAK-STAT</td><td>Inibidores de JAK</td><td>Tofacitinibe, baricitinibe, upadacitinibe</td><td>Artrite reumatoide, colite, dermatite</td></tr> <tr><td>Citocinas (TNF, IL-6, IL-17, IL-23)</td><td>Anticorpos e receptores solúveis</td><td>Adalimumabe, etanercepte, tocilizumabe</td><td>Doenças inflamatórias crônicas</td></tr> <tr><td>Linfócito B (CD20)</td><td>Anticorpo depletor</td><td>Rituximabe</td><td>Linfomas, artrite reumatoide, vasculites</td></tr> </tbody></table></div> <div class=\"cx chave\"><b>Ponto-chave</b><p>Inibidores de calcineurina cortam o sinal 1 (produção de IL-2), abatacepte e belatacepte cortam o sinal 2, basiliximabe e inibidores de mTOR cortam o sinal 3, e micofenolato e azatioprina impedem a multiplicação do linfócito por falta de purinas.</p></div> <h3>Imunossupressão: o preço do efeito</h3> <p>Qualquer medicamento que freia a resposta imune aumenta o risco de três problemas, em maior ou menor grau conforme a classe, a dose e as associações:</p> <ul> <li><strong>Infecções</strong>: bacterianas comuns, oportunistas (pneumocistose, citomegalovírus, fungos) e reativação de infecções latentes, sobretudo tuberculose, hepatite B e herpes-zóster. Os bloqueadores de TNF e de interferon-gama aumentam muito a reativação da tuberculose, porque essas citocinas mantêm o granuloma que contém o bacilo.</li> <li><strong>Câncer</strong>: a vigilância imune contra células tumorais diminui. Os mais ligados à imunossupressão crônica são o câncer de pele não melanoma (carcinoma espinocelular) e os linfomas, em especial os associados ao vírus Epstein-Barr no transplantado.</li> <li><strong>Resposta ruim a vacinas</strong> e risco de doença causada por vacina de vírus ou bactéria viva atenuada.</li> </ul> <p>Os imunobiológicos de alvo único (um anticorpo contra uma citocina) tendem a causar imunossupressão mais seletiva que as associações de transplante, mas o risco de infecção específica (tuberculose com anti-TNF, candidíase com anti-IL-17, leucoencefalopatia multifocal progressiva com rituximabe) faz parte do perfil de cada um. Um imunomodulador de uso antigo, a talidomida, segue com controle especial: ela integra a lista C3 (imunossupressoras) da Portaria 344/98 e tem norma própria de prescrição e dispensação.</p> <div class=\"cx balcao\"><b>No balcão</b><p>Ao dispensar qualquer imunossupressor, pergunte se o paciente sabe para que serve e se teve febre, tosse persistente, lesões de pele que não cicatrizam ou feridas na boca. Febre em transplantado ou em usuário de imunobiológico é sinal de alarme: oriente procurar a equipe que acompanha o tratamento no mesmo dia e não suspender o medicamento por conta própria, a menos que a equipe oriente.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Paciente de 52 anos, em uso de adalimumabe para artrite reumatoide, pede um xarope para tosse que dura três semanas, com suor noturno. O farmacêutico não indica antitussígeno: explica que tosse prolongada em quem usa anti-TNF exige avaliação para tuberculose, registra a orientação e encaminha ao reumatologista ou à unidade de saúde no mesmo dia.</p></div>"
+  },
+  {
+   "id": "m15-imunossupressores",
+   "titulo": "Imunossupressores do transplante e das doenças autoimunes",
+   "resumo": "<p>No transplante de órgão sólido (rim, fígado, coração, pulmão), o organismo reconhece o enxerto como estranho e tenta rejeitá-lo. A prevenção da rejeição usa associações, em geral um <strong>inibidor de calcineurina</strong> (tacrolimo ou ciclosporina), um antiproliferativo (micofenolato ou azatioprina) e um glicocorticoide, às vezes com troca de um deles por inibidor de mTOR. Na indução, logo após a cirurgia, o centro pode usar basiliximabe ou globulina antitimócito. O tratamento é contínuo, para toda a vida do enxerto, e a adesão é o fator que mais pesa: doses esquecidas levam a rejeição; doses altas ou interações levam a toxicidade.</p> <h3>Inibidores de calcineurina</h3> <p><strong>Tacrolimo</strong> (Prograf®) e ciclosporina (Sandimmun Neoral®) têm janela terapêutica estreita, grande variação entre pessoas e metabolismo pelo CYP3A4, com transporte pela glicoproteína P (P-gp) no intestino. Por isso exigem monitorização terapêutica: o nível é medido no sangue total, em geral no vale (amostra colhida imediatamente antes da dose seguinte), e a faixa-alvo é definida pelo centro transplantador conforme o órgão, o tempo de transplante e a associação. A bula do Prograf traz faixas de referência que caem com o tempo após o transplante, o que mostra que o alvo muda ao longo do seguimento (bula do profissional, Astellas, revisão de 2025).</p> <p>Detalhes de uso que mudam a segurança:</p> <ul> <li>Tomar sempre do mesmo jeito em relação à comida (sempre com ou sempre sem), em horários fixos, a cada 12 horas na formulação de liberação imediata.</li> <li>As formulações de tacrolimo de liberação imediata (duas vezes ao dia) e de liberação prolongada (uma vez ao dia) <strong>não são intercambiáveis</strong>: a bula do Prograf registra erros de dispensação e de substituição entre elas, com risco de rejeição ou toxicidade. A troca só ocorre por decisão da equipe e com novo nível.</li> <li>A ciclosporina em microemulsão e as formulações antigas também não são equivalentes entre si; mudar de marca ou forma exige orientação da equipe e novo nível.</li> <li>Não usar tacrolimo junto com ciclosporina (bula do Prograf).</li> </ul> <div class=\"tab\"><table><thead><tr><th>Efeito adverso</th><th>Tacrolimo</th><th>Ciclosporina</th></tr></thead><tbody> <tr><td>Nefrotoxicidade</td><td>Sim</td><td>Sim</td></tr> <tr><td>Hipertensão arterial</td><td>Sim</td><td>Mais intensa</td></tr> <tr><td>Tremor, cefaleia, neurotoxicidade</td><td>Mais frequente</td><td>Sim</td></tr> <tr><td>Diabetes após o transplante</td><td>Mais frequente</td><td>Menos</td></tr> <tr><td>Hiperplasia gengival e hirsutismo</td><td>Raro</td><td>Característico</td></tr> <tr><td>Hipercalemia e hipomagnesemia</td><td>Sim</td><td>Sim</td></tr> <tr><td>Dislipidemia e hiperuricemia</td><td>Menos</td><td>Mais</td></tr> </tbody></table></div> <h3>Interações por CYP3A4 e P-gp</h3> <p>Esta é a parte que mais cai na rotina da farmácia. Inibidores do CYP3A4 e da P-gp elevam o nível dos inibidores de calcineurina e de mTOR e causam toxicidade (lesão renal, tremor, convulsão); indutores reduzem o nível e podem causar rejeição em poucos dias.</p> <div class=\"tab\"><table><thead><tr><th>Efeito</th><th>Exemplos</th><th>Conduta</th></tr></thead><tbody> <tr><td>Aumentam o nível</td><td>Claritromicina, eritromicina, fluconazol, itraconazol, voriconazol, posaconazol, diltiazem, verapamil, ritonavir, toranja</td><td>Avisar a equipe antes de iniciar; nível extra</td></tr> <tr><td>Reduzem o nível</td><td>Rifampicina, carbamazepina, fenitoína, fenobarbital, erva-de-são-joão</td><td>Risco de rejeição; não iniciar sem a equipe</td></tr> <tr><td>Somam nefrotoxicidade</td><td>AINEs, aminoglicosídeos, anfotericina B, vancomicina</td><td>Evitar AINE; analgesia com paracetamol</td></tr> <tr><td>Somam hipercalemia</td><td>IECA, BRA, espironolactona, suplementos de potássio, sal light</td><td>Orientar e encaminhar para controle de potássio</td></tr> <tr><td>Ciclosporina eleva estatina</td><td>Sinvastatina, lovastatina</td><td>Risco de miopatia; conferir a estatina com o prescritor</td></tr> </tbody></table></div> <p>A <strong>toranja</strong> (grapefruit), fruta ou suco, inibe o CYP3A4 da parede intestinal e eleva o tacrolimo; a bula orienta não consumir (bula do Prograf, 2025). Azitromicina interage menos que claritromicina, mas qualquer antimicrobiano novo deve ser comunicado ao centro transplantador.</p> <h3>Antiproliferativos</h3> <p>O <strong>micofenolato</strong> existe como micofenolato de mofetila (CellCept®) e micofenolato de sódio de liberação entérica (Myfortic®); os dois liberam ácido micofenólico, mas as doses em miligramas não são iguais e a troca exige conversão pela equipe. Efeitos comuns: diarreia, náusea, leucopenia e anemia. A bula traz advertência em destaque para toxicidade embriofetal (perda gestacional no primeiro trimestre e malformações), maior risco de linfoma e câncer de pele e de infecções; mulheres em idade fértil precisam de teste de gravidez e contracepção eficaz, e homens em tratamento ou suas parceiras devem usar contracepção eficaz durante o uso e por pelo menos 90 dias após o fim (bula do CellCept, Genentech, 2026). Antiácidos com magnésio ou alumínio e a colestiramina reduzem a absorção: separar as tomadas.</p> <p>A <strong>azatioprina</strong> (Imuran®) é convertida em 6-mercaptopurina e inativada por duas vias: a enzima TPMT e a xantina oxidase. Pessoas com baixa atividade genética de TPMT ou NUDT15 acumulam metabólitos ativos e podem ter mielotoxicidade grave. O alopurinol e o febuxostate inibem a xantina oxidase: com alopurinol, a bula manda reduzir a azatioprina para cerca de 1/3 a 1/4 da dose habitual, e a associação com febuxostate não é recomendada (bula do Imuran, 2026). Hemograma periódico é obrigatório.</p> <div class=\"cx alerta\"><b>Atenção</b><p>Paciente em azatioprina com receita nova de alopurinol para gota: interação grave, com risco de aplasia de medula. Não dispensar sem contato com o prescritor para confirmar o ajuste da azatioprina.</p></div> <h3>Inibidores de mTOR</h3> <p><strong>Sirolimo</strong> e everolimo bloqueiam a proliferação do linfócito após o estímulo da IL-2. Também são metabolizados pelo CYP3A4 e exigem nível no vale. Efeitos característicos: aftas e estomatite, dislipidemia, atraso de cicatrização de feridas, edema, proteinúria, citopenias e pneumonite. O everolimo também tem uso oncológico, em outra dose e apresentação.</p> <h3>Infecção e câncer de pele</h3> <p>Transplantados têm risco muito maior de carcinoma espinocelular de pele. A bula do Prograf recomenda limitar a exposição ao sol e à luz ultravioleta com roupas e protetor solar de amplo espectro e examinar a pele periodicamente. Infecções oportunistas (citomegalovírus, pneumocistose, BK vírus no rim) são mais comuns nos primeiros meses, quando a imunossupressão é mais intensa. Vacinas de vírus vivo são evitadas durante o uso.</p> <div class=\"cx balcao\"><b>No balcão</b><p>Para quem usa tacrolimo, ciclosporina, sirolimo ou everolimo: perguntar sempre por medicamentos novos, inclusive antibióticos, antifúngicos, anticonvulsivantes e fitoterápicos; desaconselhar AINE (sugerir paracetamol e encaminhar se a dor persistir); orientar a não consumir toranja; no dia do exame de nível, colher o sangue antes de tomar a dose; conferir se a apresentação dispensada é a mesma de antes (liberação imediata ou prolongada, mesma marca); reforçar fotoproteção diária.</p></div>"
+  },
+  {
+   "id": "m15-mmcd-sinteticos",
+   "titulo": "Medicamentos modificadores do curso da doença sintéticos",
+   "resumo": "<p>Os medicamentos modificadores do curso da doença (MMCD) reduzem a inflamação articular e, mais que aliviar a dor, impedem a destruição da articulação na artrite reumatoide (AR) e em outras doenças inflamatórias. O PCDT da Artrite Reumatoide vigente (Portaria Conjunta SAES/SCTIE nº 33, de 19 de janeiro de 2026, que revogou o PCDT de 2021) divide-os em <strong>MMCD sintéticos convencionais</strong> (metotrexato, leflunomida, sulfassalazina, hidroxicloroquina e cloroquina), MMCD sintéticos alvo-específicos (os inibidores de JAK) e MMCD biológicos. Glicocorticoides e AINEs servem para controle de sintomas, na menor dose pelo menor tempo.</p> <h3>Sequência de tratamento no PCDT da AR (2026)</h3> <ul> <li><strong>Primeira etapa</strong>: metotrexato em monoterapia é a primeira escolha. Se houver toxicidade, dividir a dose oral em duas tomadas no mesmo dia ou usar a forma injetável; se ainda assim não for possível, leflunomida ou sulfassalazina. Sem resposta após 3 meses de dose otimizada, troca ou combinação dupla ou tripla de MMCD sintéticos.</li> <li><strong>Segunda etapa</strong>: após pelo menos dois esquemas da primeira etapa por 3 meses cada, com doença ainda ativa, entra um MMCD biológico (preferencialmente associado ao metotrexato) ou um inibidor de JAK. Rituximabe fica reservado para contraindicação aos demais.</li> <li><strong>Terceira etapa</strong>: falha ou toxicidade após 3 meses, troca por outro biológico ou inibidor de JAK ainda não usado.</li> </ul> <h3>Metotrexato</h3> <p>Na AR, o metotrexato é usado em dose baixa e <strong>uma vez por semana</strong>: 7,5 a 25 mg por semana, por via oral, subcutânea ou intramuscular (PCDT da AR, 2026). O PCDT recomenda ácido fólico 5 mg uma vez por semana, 36 horas após o metotrexato, para reduzir náusea, aftas e alterações hepáticas. Os comprimidos são de 2,5 mg, então uma dose de 15 mg corresponde a 6 comprimidos tomados juntos, no mesmo dia da semana.</p> <div class=\"cx alerta\"><b>Atenção</b><p>Tomar metotrexato todos os dias em vez de uma vez por semana causa aplasia de medula, mucosite grave e morte. A Agência Europeia de Medicamentos revisou o tema em 2019 e exigiu medidas para evitar esse erro, que continua entre os mais graves relatados aos programas de segurança do medicamento. Na dispensação, escreva o dia da semana na embalagem e confirme com o paciente em voz alta.</p></div> <p>Efeitos adversos: náusea, aftas, queda de cabelo, elevação de transaminases, citopenias, pneumonite (tosse seca e falta de ar) e risco à gestação. É contraindicado na gestação e na lactação, e o PCDT inclui concepção (homens e mulheres) entre as contraindicações. Interações relevantes: <strong>sulfametoxazol-trimetoprima</strong> (soma o efeito antifolato e pode causar pancitopenia), AINEs em dose alta, álcool (fígado) e outros hepatotóxicos. O antídoto na intoxicação é o ácido folínico (leucovorina), administrado pela equipe médica.</p> <h3>Leflunomida</h3> <p>Dose de 20 mg uma vez ao dia (PCDT da AR, 2026). Inibe a síntese de pirimidinas no linfócito. O metabólito ativo, teriflunomida, permanece no organismo por meses. A bula traz advertência em destaque para <strong>toxicidade embriofetal</strong> e hepatotoxicidade: excluir gravidez antes de iniciar, usar contracepção eficaz e, se houver gravidez ou desejo de engravidar, fazer o procedimento de eliminação acelerada com colestiramina 8 g por via oral 3 vezes ao dia por 11 dias (ou carvão ativado), confirmando nível baixo de teriflunomida em dois exames com 14 dias de intervalo (bula do Arava, Sanofi, 2025). Outros efeitos: diarreia, hipertensão, perda de peso, queda de cabelo.</p> <h3>Hidroxicloroquina e sulfassalazina</h3> <p><strong>Hidroxicloroquina</strong>: 400 mg uma vez ao dia no PCDT da AR; é preferida à cloroquina por perfil melhor. O efeito adverso que exige vigilância é a toxicidade retiniana, irreversível, ligada à dose acumulada: a bula cita como fatores de risco dose diária ≥ 5 mg/kg de peso real, uso por mais de 5 anos, doença renal e uso de tamoxifeno, e recomenda exame oftalmológico inicial e durante o tratamento (bula do Plaquenil, 2026). Também pode prolongar o intervalo QT e piorar psoríase. O Manual dos CRIE (2023) não considera hidroxicloroquina e sulfassalazina imunossupressoras para fins de vacinação.</p> <p><strong>Sulfassalazina</strong>: comprimidos de 500 mg, 1 a 3 g por dia (PCDT da AR, 2026). Pode deixar a urina e o suor amarelo-alaranjados (manchar lente de contato), causar náusea, erupção cutânea, citopenias e oligospermia reversível. Contraindicada em alergia a sulfonamidas e em porfiria.</p> <h3>Inibidores de JAK</h3> <p>Tofacitinibe (5 mg duas vezes ao dia), baricitinibe (4 mg uma vez ao dia, com redução para 2 mg acima de 75 anos, na insuficiência renal ou na doença controlada) e upadacitinibe (15 mg uma vez ao dia) são comprimidos que bloqueiam a via JAK-STAT (PCDT da AR, 2026). Têm a vantagem de não precisar de geladeira nem de injeção. O estudo ORAL Surveillance, com tofacitinibe em pacientes com AR de 50 anos ou mais e ao menos um fator de risco cardiovascular, mostrou mais mortalidade, eventos cardiovasculares maiores, trombose e câncer em comparação com anti-TNF. A bula americana do tofacitinibe tem advertência em destaque para infecções graves, mortalidade, malignidade, eventos cardiovasculares maiores e trombose, e restringe o uso na AR a quem não respondeu a um ou mais anti-TNF (bula do Xeljanz, 2026).</p> <div class=\"cx lei\"><b>O que diz a norma</b><p>Na União Europeia, decisão da Comissão Europeia de 10 de março de 2023, após revisão da EMA, determina que tofacitinibe, baricitinibe, upadacitinibe, filgotinibe e abrocitinibe sejam usados só quando não houver alternativa adequada em pessoas com 65 anos ou mais, com risco aumentado de evento cardiovascular maior, tabagistas atuais ou com tabagismo prolongado no passado e com risco aumentado de câncer; usar com cautela em quem tem outros fatores de risco de trombose e reduzir a dose quando possível. No Brasil, a Anvisa divulgou carta aos profissionais em 2021 incluindo essas advertências na bula do baricitinibe.</p></div> <p>Os inibidores de JAK também aumentam o risco de herpes-zóster; o PCDT pede atenção ao surgimento de lesões compatíveis.</p> <div class=\"tab\"><table><thead><tr><th>Medicamento</th><th>Dose na AR (PCDT 2026)</th><th>Alerta principal</th></tr></thead><tbody> <tr><td>Metotrexato</td><td>7,5 a 25 mg, 1 vez por semana</td><td>Nunca diário; ácido fólico; gestação</td></tr> <tr><td>Leflunomida</td><td>20 mg/dia</td><td>Teratogênica; fígado; eliminação lenta</td></tr> <tr><td>Hidroxicloroquina</td><td>400 mg/dia</td><td>Retina; QT</td></tr> <tr><td>Sulfassalazina</td><td>1 a 3 g/dia</td><td>Alergia a sulfa; urina alaranjada</td></tr> <tr><td>Tofacitinibe</td><td>5 mg, 2 vezes ao dia</td><td>Trombose, coração, câncer, zóster</td></tr> <tr><td>Baricitinibe</td><td>4 mg/dia (2 mg em casos citados)</td><td>Idem; ajuste renal</td></tr> <tr><td>Upadacitinibe</td><td>15 mg/dia</td><td>Idem; cautela com trombose</td></tr> </tbody></table></div> <p>Monitorização: o PCDT de 2026 sugere hemograma, creatinina e transaminases a cada 2 a 4 semanas nos primeiros 3 meses, a cada 8 a 12 semanas entre 3 e 6 meses e a cada 12 semanas depois, para metotrexato, leflunomida, sulfassalazina, inibidores de JAK e biológicos; para hidroxicloroquina e cloroquina, só a avaliação inicial.</p> <div class=\"cx balcao\"><b>No balcão</b><p>Metotrexato: confirmar o dia da semana, o número de comprimidos e o dia do ácido fólico; desaconselhar automedicação com AINE e com sulfametoxazol-trimetoprima; orientar evitar álcool. Leflunomida e metotrexato: perguntar sobre plano de gravidez. Inibidor de JAK: perguntar sobre tabagismo, trombose prévia e idade e, se houver dor na panturrilha, falta de ar súbita ou dor no peito, encaminhar à emergência.</p></div>"
+  },
+  {
+   "id": "m15-imunobiologicos",
+   "titulo": "Imunobiológicos: anticorpos monoclonais e proteínas de fusão",
+   "resumo": "<p>Imunobiológicos (ou medicamentos biológicos de uso imunológico) são proteínas grandes produzidas por células vivas modificadas: <strong>anticorpos monoclonais</strong>, que se ligam a um alvo único (uma citocina, um receptor ou uma molécula de superfície), e proteínas de fusão, que juntam um receptor ou uma molécula reguladora à porção Fc de uma imunoglobulina. Por serem proteínas, não são absorvidas pelo trato digestivo: são aplicadas por via subcutânea ou intravenosa, têm meia-vida longa (dias a semanas) e são sensíveis a calor, congelamento e agitação. Podem induzir anticorpos contra o próprio medicamento (imunogenicidade), o que reduz a resposta com o tempo; o uso associado ao metotrexato ajuda a diminuir esse efeito.</p> <h3>Nomenclatura</h3> <p>Na Denominação Comum Brasileira, os anticorpos monoclonais terminam em <strong>-mabe</strong> (do inglês <i>monoclonal antibody</i>). Nos nomes mais antigos, a sílaba antes do sufixo indica a origem: -omabe (murino), -ximabe (quimérico, como infliximabe e rituximabe), -zumabe (humanizado, como tocilizumabe e omalizumabe) e -umabe (humano, como adalimumabe e golimumabe). Quanto mais murino, maior a chance de reação e de anticorpos contra o medicamento. As proteínas de fusão com receptor terminam em -cepte (etanercepte, abatacepte, belatacepte). Em 2021 o programa de nomes internacionais da OMS deixou de usar o sufixo \"-mab\" para anticorpos novos e criou quatro sufixos (-tug, -bart, -mig e -ment); os nomes já existentes não mudaram.</p> <h3>Principais classes</h3> <div class=\"tab\"><table><thead><tr><th>Alvo</th><th>Medicamentos</th><th>Usos principais</th><th>Alerta específico</th></tr></thead><tbody> <tr><td>TNF-alfa</td><td>Adalimumabe, infliximabe, golimumabe, certolizumabe pegol, etanercepte</td><td>AR, espondiloartrites, psoríase, Crohn, retocolite</td><td>Tuberculose; insuficiência cardíaca; doença desmielinizante</td></tr> <tr><td>Receptor da IL-6</td><td>Tocilizumabe</td><td>AR, arterite de células gigantes</td><td>Perfuração intestinal; transaminases; lipídios</td></tr> <tr><td>IL-17 e IL-12/23 ou IL-23</td><td>Secuquinumabe, ixequizumabe; ustequinumabe, risanquizumabe, guselcumabe</td><td>Psoríase, artrite psoriásica, Crohn</td><td>Candidíase com anti-IL-17; piora de doença inflamatória intestinal</td></tr> <tr><td>CD20 (linfócito B)</td><td>Rituximabe</td><td>Linfomas, AR, vasculites</td><td>Reação infusional; hepatite B; LEMP</td></tr> <tr><td>Coestimulação CD80/86</td><td>Abatacepte</td><td>AR</td><td>Infecções; reativação de hepatite B</td></tr> <tr><td>IL-4/IL-13, IL-5, IgE</td><td>Dupilumabe; mepolizumabe; omalizumabe</td><td>Dermatite atópica, asma grave, urticária</td><td>Conjuntivite com dupilumabe; anafilaxia rara</td></tr> <tr><td>Integrina alfa-4-beta-7</td><td>Vedolizumabe</td><td>Crohn, retocolite</td><td>Ação mais restrita ao intestino</td></tr> </tbody></table></div> <p>No PCDT da AR de 2026, os biológicos anti-TNF (adalimumabe 40 mg SC a cada 2 semanas, etanercepte 50 mg SC por semana, golimumabe 50 mg SC a cada 4 semanas, certolizumabe pegol e infliximabe IV) e os não anti-TNF (abatacepte 125 mg SC por semana, tocilizumabe IV) têm eficácia e segurança semelhantes, sem preferência geral entre eles; o rituximabe (1 g IV nos dias 0 e 14, com ciclos repetidos a cada 6 meses) é reservado a quem tem contraindicação aos demais. O PCDT também lista como pontos de avaliação antes do biológico: infecção grave ativa, insuficiência cardíaca moderada ou grave, esclerose múltipla, neurite óptica, câncer ou linfoma e imunodeficiência.</p> <h3>Rastreio antes de iniciar</h3> <p><strong>Tuberculose latente (ILTB)</strong>: o PCDT da AR (2026) exige, antes de biológico ou inibidor de JAK, avaliação clínica, radiografia de tórax e prova tuberculínica (PT) ou IGRA. Trata-se a ILTB quando a PT é ≥ 5 mm ou o IGRA é reagente, depois de excluída tuberculose ativa; também se trata, sem precisar do exame, quem tem radiografia com sequela de tuberculose não tratada ou contato próximo com tuberculose pulmonar nos últimos 2 anos. O biológico é iniciado após 4 semanas do início do tratamento da ILTB. Em quem teve PT &lt; 5 mm ou IGRA não reagente, repete-se o teste anualmente. O PCDT registra que a dispensação do medicamento da doença de base não deve ficar condicionada à apresentação desses exames de acompanhamento.</p> <p><strong>Hepatite B</strong>: a bula do rituximabe manda dosar HBsAg e anti-HBc em todos os pacientes antes da primeira infusão, porque a reativação do vírus pode causar hepatite fulminante, inclusive em quem tem HBsAg negativo com anti-HBc positivo (bula do Rituxan, Genentech, 2025). Os anti-TNF e o abatacepte também podem reativar o vírus. Quem é portador pode precisar de antiviral profilático, decidido pela equipe. Hepatite C e HIV também são pesquisados conforme o protocolo do serviço.</p> <p><strong>Vacinas</strong>: atualizar o calendário antes, porque a resposta cai durante o tratamento. O Manual dos CRIE (2023) recomenda que quem vai usar anti-TNF esteja vacinado para influenza, pneumococo, hepatite B, difteria e tétano, e que suscetíveis à hepatite B sejam vacinados antes do rituximabe.</p> <div class=\"cx chave\"><b>Ponto-chave</b><p>Antes do primeiro biológico: tuberculose (radiografia e PT ou IGRA; tratar ILTB e iniciar o biológico após 4 semanas), hepatite B (HBsAg e anti-HBc), vacinas atualizadas e vacinas vivas aplicadas antes, com o intervalo do Manual dos CRIE.</p></div> <h3>Reações e sinais de alarme</h3> <ul> <li><strong>Reação no local da aplicação</strong> (vermelhidão, coceira, inchaço): comum com os subcutâneos, melhora em dias; compressa fria e rodízio de locais.</li> <li><strong>Reação infusional</strong>: febre, calafrio, queda de pressão, falta de ar durante a infusão de infliximabe ou rituximabe; por isso a infusão é feita em serviço preparado, com pré-medicação conforme o protocolo.</li> <li><strong>Infecção</strong>: febre, tosse persistente, perda de peso, suor noturno, lesões de pele com dor (zóster). Em infecção ativa, a dose costuma ser adiada pela equipe.</li> <li><strong>Cirurgia programada</strong>: o momento de suspender e retomar o biológico é decidido pela equipe, considerando o intervalo entre doses.</li> </ul> <div class=\"cx balcao\"><b>No balcão</b><p>Antes da primeira dispensação, pergunte se o paciente fez o exame de tuberculose e os de hepatite e se tomou as vacinas indicadas; confira o nome do produto, a dose e o intervalo da prescrição; explique os sinais de infecção que exigem contato com a equipe. Se o paciente estiver com febre ou infecção no dia previsto da aplicação, oriente telefonar para a equipe antes de aplicar.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Mulher de 38 anos, com psoríase, inicia secuquinumabe e volta à farmácia com placas brancas na boca. O farmacêutico reconhece a candidíase oral associada aos anti-IL-17, orienta higiene bucal, não indica antifúngico por conta própria e encaminha ao dermatologista, que avalia o tratamento e decide sobre o biológico.</p></div>"
+  },
+  {
+   "id": "m15-biossimilares-conservacao",
+   "titulo": "Biossimilares, conservação e aplicação subcutânea",
+   "resumo": "<p>Como o biológico é produzido por células vivas, nenhuma cópia é idêntica à molécula original. O <strong>biossimilar</strong> é um medicamento biológico registrado pela via de desenvolvimento por comparabilidade: o fabricante demonstra, por um exercício amplo de comparação, que o produto tem alto grau de semelhança com o biológico comparador já aprovado no país em qualidade, atividade biológica, segurança e eficácia, sem diferenças clinicamente relevantes. Essa via está na RDC 55/2010 e na RDC 875/2024 da Anvisa. Biológicos não são registrados como genéricos, por isso a substituição de referência por genérico feita pelo farmacêutico (Lei 9.787/1999) não se aplica a eles.</p> <h3>Intercambialidade pela regra brasileira</h3> <div class=\"cx lei\"><b>O que diz a norma</b><p>A Nota Técnica nº 60/2026/SEI/GGBIO/DIRE2/ANVISA (junho de 2026) atualizou a Nota de Esclarecimento nº 003/2017 e conclui que as evidências que fundamentam o registro dos biossimilares aprovados no Brasil \"suportam sua utilização em alternância com o medicamento biológico comparador\", e também entre biossimilares do mesmo comparador, desde que observadas as condições de uso aprovadas e adotadas medidas de acompanhamento assistencial, orientação ao paciente, rastreabilidade e farmacovigilância. A nota não altera os requisitos de registro.</p></div> <p>A nota lista os elementos essenciais quando se troca o comparador pelo biossimilar ou um biossimilar por outro:</p> <ul> <li>comunicação clara e transparente ao paciente;</li> <li>educação e treinamento da equipe, com diretrizes e protocolos clínicos;</li> <li>documentação da mudança realizada;</li> <li>garantia de rastreabilidade, com identificação inequívoca do produto e do lote;</li> <li>clareza nas informações da bula.</li> </ul> <p>A Anvisa também alerta para o efeito nocebo (reações causadas pela expectativa negativa do paciente diante da troca) e para o fato de que trocas frequentes e não planejadas dificultam a farmacovigilância. A nota não trata de substituição feita pela farmácia sem o prescritor; ela cita que, no Reino Unido, essa substituição não é permitida para biológicos. Na prática, a troca acontece por decisão do prescritor ou por protocolo da instituição ou do gestor, e o farmacêutico garante o registro e a orientação.</p> <div class=\"cx chave\"><b>Ponto-chave</b><p>Pela NT 60/2026, a alternância entre biológico comparador e biossimilar (e entre biossimilares do mesmo comparador) é segura e eficaz quando planejada, documentada e rastreável, com nome do produto e lote registrados em cada dispensação.</p></div> <h3>Conservação e transporte</h3> <p>A maior parte dos imunobiológicos é conservada entre <strong>2 e 8 °C</strong>, na embalagem original, protegida da luz. Congelar desnatura a proteína: produto que congelou é descartado, mesmo que pareça normal depois de descongelar. Agitar com força também pode danificar a molécula. Algumas apresentações toleram um período em temperatura ambiente (para uso em viagem, por exemplo), com prazo e temperatura máximos definidos na bula de cada produto; depois de retirado da geladeira dentro dessa regra, em geral não volta para ela. Os inibidores de JAK, por serem comprimidos, ficam em temperatura ambiente, uma vantagem citada pelo PCDT da AR.</p> <div class=\"tab\"><table><thead><tr><th>Situação</th><th>Orientação</th></tr></thead><tbody> <tr><td>Recebimento na farmácia</td><td>Conferir temperatura de transporte, integridade, lote e validade; guardar logo em refrigerador próprio para medicamentos, com registro de temperatura</td></tr> <tr><td>Entrega ao paciente</td><td>Caixa ou bolsa térmica com gelo reutilizável, sem contato direto do gelo com a caneta ou a seringa</td></tr> <tr><td>Em casa</td><td>Prateleira do meio da geladeira, longe do congelador e da porta; nunca no congelador</td></tr> <tr><td>Falta de energia ou geladeira quebrada</td><td>Não usar sem consultar a bula ou o fabricante; levar o produto à farmácia ou serviço para avaliação</td></tr> <tr><td>Viagem</td><td>Bagagem de mão, bolsa térmica, prescrição junto; seguir o limite de tempo fora da geladeira previsto na bula</td></tr> </tbody></table></div> <p>O PCDT da AR destaca que a equipe deve instruir e verificar com o paciente as condições de armazenamento e de administração, sobretudo dos biológicos, que exigem refrigeração e uso parenteral.</p> <h3>Aplicação subcutânea</h3> <p>Canetas e seringas preenchidas são feitas para autoaplicação após treinamento. Passos gerais, ajustados ao manual de instruções de cada produto:</p> <ol> <li>Tirar da geladeira e deixar atingir a temperatura ambiente pelo tempo indicado no manual (aplicar frio aumenta a dor); não aquecer em água quente nem no micro-ondas.</li> <li>Conferir nome, dose, validade e aspecto da solução pela janela de inspeção (sem partículas, sem turvação, salvo descrição diferente na bula).</li> <li>Lavar as mãos e escolher o local: abdome (afastado do umbigo), face anterior da coxa ou parte de trás do braço quando outra pessoa aplica.</li> <li>Fazer rodízio entre os locais; não aplicar em pele com hematoma, cicatriz, placa de psoríase ou área dolorida.</li> <li>Limpar com álcool e esperar secar; aplicar conforme o manual (caneta a 90 graus, pressionar até o fim do tempo indicado).</li> <li>Descartar a caneta ou seringa em coletor rígido para perfurocortantes; nunca no lixo comum. Orientar onde entregar o coletor cheio.</li> <li>Anotar a data da aplicação e, se possível, o lote.</li> </ol> <div class=\"cx alerta\"><b>Atenção</b><p>Biológicos na apresentação intravenosa (infliximabe, rituximabe, tocilizumabe IV) são aplicados em serviço de saúde, com diluição e velocidade de infusão definidas, por causa do risco de reação infusional. Não orientar aplicação domiciliar dessas apresentações.</p></div> <div class=\"cx balcao\"><b>No balcão</b><p>Na dispensação de imunobiológico: registrar nome comercial, princípio ativo, lote e validade de cada unidade entregue; se o produto for diferente do anterior (biossimilar ou outro fabricante), explicar a mudança ao paciente, mostrar que a caneta pode ser diferente e treinar de novo a aplicação; conferir se ele tem como manter a cadeia de frio até chegar em casa. Reação adversa ou falha de tratamento deve ser notificada à Anvisa (VigiMed), com o lote.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Paciente em adalimumabe recebe, pela primeira vez, um biossimilar fornecido pelo SUS e diz ter medo de que \"não seja o mesmo remédio\". O farmacêutico explica que o produto foi aprovado pela Anvisa por comparação com o original, que a troca segue o protocolo e é registrada com lote, mostra a nova caneta, faz a aplicação de demonstração com o dispositivo de treino e orienta comunicar qualquer reação.</p></div>"
+  },
+  {
+   "id": "m15-vacinas",
+   "titulo": "Vacinas e imunização",
+   "resumo": "<p>A vacina estimula a imunidade adaptativa a produzir anticorpos e linfócitos de memória contra um agente, sem causar a doença. É a forma de imunização ativa; a imunização passiva usa anticorpos prontos (soros, imunoglobulinas e anticorpos monoclonais preventivos), com proteção imediata, mas temporária.</p> <h3>Tipos de vacina</h3> <div class=\"tab\"><table><thead><tr><th>Tipo</th><th>Como é feita</th><th>Exemplos</th><th>Uso em imunossuprimido</th></tr></thead><tbody> <tr><td>Viva atenuada</td><td>Microrganismo vivo enfraquecido, que se replica pouco</td><td>BCG, rotavírus, tríplice viral, varicela, febre amarela, dengue</td><td>Em geral contraindicada</td></tr> <tr><td>Inativada inteira ou fracionada</td><td>Agente morto ou partes dele</td><td>VIP (poliomielite inativada), influenza, hepatite A</td><td>Pode ser usada; resposta menor</td></tr> <tr><td>Toxoide</td><td>Toxina inativada</td><td>Difteria e tétano (dT, dTpa)</td><td>Pode ser usada</td></tr> <tr><td>Subunidade, recombinante e conjugada</td><td>Proteína ou polissacarídeo ligado a proteína</td><td>Hepatite B, HPV, pneumocócicas, meningocócicas, VSR, herpes-zóster recombinante</td><td>Pode ser usada; preferida</td></tr> <tr><td>RNA mensageiro ou vetor viral</td><td>Instrui a célula a produzir o antígeno</td><td>Vacinas de covid-19</td><td>Pode ser usada</td></tr> </tbody></table></div> <h3>Vacinas vivas e imunossupressão</h3> <p>No imunossuprimido, o agente vacinal vivo pode se multiplicar sem controle e causar doença (por exemplo, BCG disseminada ou doença viscerotrópica pela febre amarela). O <strong>Manual dos Centros de Referência para Imunobiológicos Especiais</strong> (CRIE, 6ª edição, Ministério da Saúde, 2023) define os critérios:</p> <ul> <li>Corticoide é imunossupressor em dose ≥ 20 mg/dia de prednisona ou equivalente por 14 dias ou mais em crianças maiores e adultos (≥ 2 mg/kg/dia em crianças de até 10 kg). Corticoide tópico, inalatório ou intra-articular não é considerado imunossupressor.</li> <li>Biológicos (anti-TNF, rituximabe, abatacepte, tocilizumabe e outros) são imunossupressores em qualquer dose.</li> <li>Entre os não biológicos, o manual lista doses consideradas altas, como metotrexato ≥ 0,4 mg/kg/semana, azatioprina 1 a 3 mg/kg/dia e micofenolato de mofetila 3 g/dia. Sulfassalazina e hidroxicloroquina não são consideradas imunossupressoras.</li> </ul> <div class=\"tab\"><table><thead><tr><th>Situação (Manual dos CRIE, 2023)</th><th>Intervalo para vacina viva</th></tr></thead><tbody> <tr><td>Antes de iniciar terapia imunodepressora</td><td>Aplicar 14 a 30 dias antes</td></tr> <tr><td>Após terminar terapia imunodepressora</td><td>Somente 3 a 6 meses depois</td></tr> <tr><td>Após quimioterapia</td><td>3 meses</td></tr> <tr><td>Após rituximabe (anticélula B)</td><td>Pelo menos 6 meses</td></tr> <tr><td>Após corticoide em dose imunossupressora</td><td>1 mês após a suspensão</td></tr> <tr><td>Vacinas inativadas antes da terapia</td><td>Pelo menos 14 dias antes, para garantir resposta</td></tr> </tbody></table></div> <p>O mesmo manual recomenda vacinar os conviventes do imunossuprimido e adiar a BCG para 6 a 12 meses de vida em bebês cujas mães usaram imunomoduladores nos dois últimos trimestres da gestação. Vacinas vivas também são evitadas na gestação, com exceções avaliadas em situação epidemiológica de risco, como a febre amarela.</p> <div class=\"cx alerta\"><b>Atenção</b><p>Paciente em uso de biológico, inibidor de JAK, tacrolimo, micofenolato ou prednisona ≥ 20 mg/dia por 14 dias ou mais não recebe vacina viva na farmácia (febre amarela, tríplice viral, varicela, dengue). Encaminhar ao médico assistente e ao CRIE.</p></div> <h3>Calendário Nacional de Vacinação em linhas gerais</h3> <p>O calendário do Programa Nacional de Imunizações muda com frequência; sempre conferir a versão publicada no portal do Ministério da Saúde. Na página do calendário consultada em outubro de 2026, os pontos principais são:</p> <ul> <li><strong>Criança</strong>: BCG e hepatite B ao nascer; aos 2, 4 e 6 meses, penta (DTP, Hib e hepatite B) e VIP, rotavírus aos 2 e 4 meses, pneumocócica conjugada; meningocócica aos 3 e 5 meses; influenza e covid-19 a partir de 6 meses; febre amarela aos 9 meses; aos 12 meses, tríplice viral e meningocócica ACWY; aos 15 meses, DTP, VIP, tríplice viral, varicela e hepatite A; aos 4 anos, DTP, VIP, varicela e febre amarela; HPV em dose única aos 9 anos.</li> <li><strong>Adolescente</strong>: dengue aos 10 anos (2 doses com 3 meses de intervalo), meningocócica ACWY aos 11 anos, dT aos 14 anos, HPV dose única até 14 anos para quem não tomou.</li> <li><strong>Adulto e idoso</strong>: completar hepatite B, dT (reforço a cada 10 anos), tríplice viral conforme a idade; idoso com influenza anual e covid-19 semestral.</li> <li><strong>Gestante</strong>: hepatite B, dT, influenza e covid-19; dTpa a partir da 20ª semana e vacina contra o vírus sincicial respiratório a partir da 28ª semana, uma dose em cada gestação, que protege o bebê nos primeiros meses.</li> </ul> <h3>Serviço de vacinação na farmácia</h3> <p>A Lei 13.021/2014 (art. 7º) permite que farmácias de qualquer natureza disponham de vacinas e soros que atendam ao perfil epidemiológico da região. Os requisitos sanitários estão na <strong>RDC 197/2017</strong> da Anvisa, que segue vigente em outubro de 2026 no sistema de legislação da agência.</p> <div class=\"cx lei\"><b>O que diz a norma</b><p>RDC 197/2017: responsável técnico e substituto (art. 7º); capacitação periódica da equipe, com registro, incluindo conservação, transporte e notificação de eventos adversos e erros (art. 9º); área de recepção separada da sala de vacinação e sala com pia, bancada, maca, caixa térmica, coletores de perfurocortantes e equipamento de refrigeração exclusivo para vacinas com termômetro de máxima e mínima (art. 10); registro diário das temperaturas máxima e mínima e plano para falta de energia (art. 11); transporte em caixa térmica com temperatura monitorada (art. 12); registro da vacina no cartão e no sistema do Ministério da Saúde, notificação de evento adverso pós-vacinação e de erro de vacinação (art. 15); dados mínimos do cartão, como nome da vacina, dose, data, lote, fabricante, estabelecimento e vacinador (art. 16).</p></div> <p>O Ministério da Saúde usa hoje o termo ESAVI (evento supostamente atribuível à vacinação ou imunização) para o que a RDC chama de evento adverso pós-vacinação. A maioria das vacinas fica entre 2 e 8 °C, sem congelar, conforme a bula e o manual de rede de frio.</p> <div class=\"cx balcao\"><b>No balcão</b><p>Antes de vacinar, faça a triagem: idade, gestação ou amamentação, alergia grave a dose anterior ou a componente, febre no dia, uso de corticoide, imunossupressor, biológico ou quimioterapia, doença que afete a imunidade e vacinas recentes. Resposta positiva para imunossupressão diante de vacina viva: não aplicar e encaminhar. Depois da aplicação, observar o cliente por alguns minutos, registrar lote no cartão e no sistema e explicar as reações esperadas.</p></div>"
+  },
+  {
+   "id": "m15-acesso-sus",
+   "titulo": "Acesso pelo SUS e cuidado farmacêutico",
+   "resumo": "<p>A maior parte dos imunossupressores, dos MMCD e dos imunobiológicos de uso crônico chega ao paciente brasileiro pelo SUS, por meio do <strong>Componente Especializado da Assistência Farmacêutica (CEAF)</strong>. O CEAF recebeu esse nome pela Portaria GM/MS nº 2.981, de 26 de novembro de 2009, e hoje tem as regras de execução no Anexo XXVIII da Portaria de Consolidação GM/MS nº 2/2017 (com alterações, como a Portaria GM/MS nº 13/2020) e as de financiamento na Portaria de Consolidação nº 6/2017. O acesso é garantido para as doenças e as linhas de cuidado definidas em Protocolos Clínicos e Diretrizes Terapêuticas (PCDT), elaborados com a Conitec e publicados pelo Ministério da Saúde.</p> <p>A assistência farmacêutica do SUS tem três componentes, e o paciente imunossuprimido costuma usar os três ao mesmo tempo. O <strong>Componente Básico</strong>, da atenção primária, fornece medicamentos de uso comum (analgésicos, anti-hipertensivos, ácido fólico). O Componente Estratégico cobre programas de saúde pública com compra centralizada, como tuberculose (inclusive o tratamento da infecção latente exigido antes do biológico), HIV, hepatites virais e as vacinas do Programa Nacional de Imunizações. O Componente Especializado cobre doenças crônicas com tratamento de maior complexidade ou custo, definidas em PCDT, como artrite reumatoide, psoríase, doença inflamatória intestinal e imunossupressão no transplante.</p> <h3>Os grupos do CEAF</h3> <p>Os medicamentos do CEAF são divididos em grupos conforme quem financia e quem compra, pactuados na Comissão Intergestores Tripartite:</p> <div class=\"tab\"><table><thead><tr><th>Grupo</th><th>Financiamento e aquisição</th><th>Exemplos do módulo</th></tr></thead><tbody> <tr><td>1A</td><td>Ministério da Saúde financia e compra de forma centralizada; distribui aos estados</td><td>Muitos imunobiológicos e alguns imunossupressores</td></tr> <tr><td>1B</td><td>Ministério da Saúde financia por repasse; o estado compra</td><td>Medicamentos de alto custo definidos na relação</td></tr> <tr><td>2</td><td>Estado financia e compra</td><td>Parte dos MMCD sintéticos e imunossupressores</td></tr> <tr><td>3</td><td>Município, pelo Componente Básico; primeira linha do PCDT</td><td>Medicamentos de início de tratamento na atenção primária</td></tr> </tbody></table></div> <p>A distribuição de cada medicamento entre os grupos muda com as atualizações da relação; para saber onde o paciente retira, consultar a lista vigente do CEAF e o PCDT da doença. O PCDT da AR (2026) prevê, por exemplo, que o metotrexato pode ser iniciado na atenção primária, enquanto biológicos e inibidores de JAK são prescritos por especialista, preferencialmente reumatologista, e os biológicos são administrados preferencialmente em centros de referência.</p> <h3>Como o paciente acessa</h3> <ol> <li><strong>Solicitação</strong>: o prescritor preenche o Laudo para Solicitação, Avaliação e Autorização de Medicamentos do CEAF (LME) e a prescrição, e anexa os documentos exigidos pelo PCDT (exames, escores de atividade da doença). O paciente apresenta cópia do Cartão Nacional de Saúde, documento de identidade e comprovante de residência (Ministério da Saúde, página do CEAF).</li> <li><strong>Termo</strong>: o PCDT exige que o paciente ou o responsável seja informado dos riscos e efeitos adversos; isso é feito pelo Termo de Esclarecimento e Responsabilidade (TER), assinado.</li> <li><strong>Avaliação técnica</strong>: um profissional autorizador confere se o pedido atende aos critérios de inclusão do PCDT. Pedido fora do protocolo é indeferido ou volta para correção.</li> <li><strong>Autorização e dispensação</strong>: na farmácia de medicamentos especializados do estado ou do município, com registro do que foi entregue.</li> <li><strong>Renovação</strong>: a autorização tem validade limitada e precisa ser renovada periodicamente com novo LME e, quando o PCDT exige, novos exames. Deixar de retirar o medicamento por período prolongado pode caracterizar abandono do tratamento, conforme as regras do componente.</li> </ol> <div class=\"cx chave\"><b>Ponto-chave</b><p>CEAF: acesso pelo PCDT, com LME, prescrição, documentos e exames exigidos, TER assinado, avaliação técnica, dispensação na farmácia especializada e renovação periódica. Grupo 1 é financiado pelo Ministério (1A compra centralizada, 1B repasse), grupo 2 pelo estado e grupo 3 pelo município.</p></div> <h3>O papel do farmacêutico</h3> <p>Nas farmácias de medicamentos especializados, nos hospitais e nos centros de infusão, o farmacêutico participa de todas as etapas, e na drogaria atende pacientes que compram ou já usam esses medicamentos. As atividades principais:</p> <ul> <li><strong>Conferência da prescrição</strong>: dose, intervalo (metotrexato semanal), via, apresentação (tacrolimo de liberação imediata ou prolongada), compatibilidade com o PCDT, ajuste renal e hepático e interações (CYP3A4, alopurinol com azatioprina, sulfametoxazol-trimetoprima com metotrexato).</li> <li><strong>Orientação</strong>: como tomar, o que fazer com dose esquecida (seguir a bula e a equipe), conservação, aplicação subcutânea, descarte de perfurocortantes, sinais de infecção e de alarme.</li> <li><strong>Adesão</strong>: controle das retiradas, calendário de doses, explicação de que a melhora pode demorar semanas (MMCD) e de que parar por conta própria pode levar a rejeição ou a piora da doença.</li> <li><strong>Segurança</strong>: lembrar exames de acompanhamento sem condicionar a dispensação a eles quando o PCDT não exige, reconhecer reação adversa e notificar no VigiMed, garantir rastreabilidade de lote em biológicos e biossimilares.</li> <li><strong>Vacinação</strong>: rever o cartão do paciente imunossuprimido e encaminhar ao CRIE para vacinas especiais; nunca aplicar vacina viva sem liberação do médico assistente.</li> <li><strong>Comunicação com a equipe</strong>: qualquer medicamento novo prescrito por outro médico para um transplantado ou usuário de biológico deve chegar ao conhecimento da equipe que acompanha o tratamento.</li> </ul> <div class=\"cx balcao\"><b>No balcão</b><p>Na drogaria, quem usa medicamento do CEAF costuma pedir outros produtos: antigripal, anti-inflamatório, antibiótico de outra receita, fitoterápico, suplemento. Pergunte sempre \"o senhor usa algum remédio que retira na farmácia do estado?\" antes de indicar ou dispensar. Para transplantado, evite AINE e confira interações por CYP3A4; para usuário de metotrexato, evite sulfametoxazol-trimetoprima sem contato com o prescritor; para usuário de biológico com febre, encaminhe.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Homem de 45 anos, transplantado renal em uso de tacrolimo, micofenolato e prednisona, chega com receita de claritromicina de um pronto atendimento. O farmacêutico identifica a interação (aumento importante do tacrolimo), orienta não iniciar antes de falar com o centro transplantador, entra em contato com o prescritor para discutir alternativa, como a azitromicina, e registra a intervenção. O paciente recebe orientação de procurar o centro para nível de tacrolimo se o antibiótico for mantido.</p></div>"
+  }
+ ],
+ "mapas": [
+  {
+   "id": "m15-mapa-imunossupressores",
+   "titulo": "Imunossupressores e MMCD sintéticos",
+   "centro": "Imunossupressão oral",
+   "ramos": [
+    {
+     "t": "Calcineurina",
+     "itens": [
+      "Tacrolimo e ciclosporina: bloqueiam IL-2",
+      "Nível no vale; colher antes da dose",
+      "Rim, tremor, diabetes, potássio alto",
+      "Liberação imediata ≠ prolongada"
+     ]
+    },
+    {
+     "t": "CYP3A4 e P-gp",
+     "itens": [
+      "Sobem: claritromicina, azóis, diltiazem",
+      "Caem: rifampicina, carbamazepina, hipérico",
+      "Toranja: não consumir",
+      "AINE soma lesão renal"
+     ]
+    },
+    {
+     "t": "Antiproliferativos",
+     "itens": [
+      "Micofenolato: teratogênico, diarreia",
+      "Contracepção até 90 dias após (homens)",
+      "Azatioprina + alopurinol: dose 1/3 a 1/4",
+      "TPMT ou NUDT15 baixa: aplasia"
+     ]
+    },
+    {
+     "t": "mTOR",
+     "itens": [
+      "Sirolimo e everolimo",
+      "Aftas, lipídios, cicatrização lenta",
+      "Também CYP3A4: nível no vale"
+     ]
+    },
+    {
+     "t": "Metotrexato",
+     "itens": [
+      "7,5 a 25 mg uma vez por semana",
+      "Ácido fólico 5 mg/semana, 36 h depois",
+      "Dose diária por erro: pode matar",
+      "Evitar SMX-TMP e álcool"
+     ]
+    },
+    {
+     "t": "Outros MMCD e JAK",
+     "itens": [
+      "Leflunomida: eliminação com colestiramina",
+      "Hidroxicloroquina: retina, ≥ 5 mg/kg",
+      "Sulfassalazina: urina alaranjada",
+      "JAK: cuidado ≥ 65 anos, fumante, trombose"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m15-mapa-biologicos",
+   "titulo": "Imunobiológicos na prática",
+   "centro": "Imunobiológicos",
+   "ramos": [
+    {
+     "t": "Nomes",
+     "itens": [
+      "-mabe: anticorpo monoclonal",
+      "-ximabe quimérico, -zumabe humanizado",
+      "-umabe humano; -cepte proteína de fusão"
+     ]
+    },
+    {
+     "t": "Alvos",
+     "itens": [
+      "Anti-TNF: adalimumabe, etanercepte",
+      "IL-6: tocilizumabe",
+      "IL-17/IL-23: psoríase",
+      "CD20: rituximabe"
+     ]
+    },
+    {
+     "t": "Antes de iniciar",
+     "itens": [
+      "Raio X + PT ou IGRA",
+      "PT ≥ 5 mm: tratar ILTB, biológico após 4 sem",
+      "HBsAg e anti-HBc",
+      "Vacinas em dia; vivas antes"
+     ]
+    },
+    {
+     "t": "Biossimilar",
+     "itens": [
+      "Via por comparabilidade (RDC 55 e 875)",
+      "NT 60/2026: alternância segura",
+      "Documentar troca e registrar lote",
+      "Não é genérico"
+     ]
+    },
+    {
+     "t": "Conservação",
+     "itens": [
+      "2 a 8 °C, sem congelar",
+      "Congelou: descartar",
+      "Transporte em bolsa térmica",
+      "Fora da geladeira só no limite da bula"
+     ]
+    },
+    {
+     "t": "Alarmes",
+     "itens": [
+      "Febre ou tosse longa: equipe no dia",
+      "Reação infusional: serviço preparado",
+      "Zóster com JAK",
+      "Candidíase com anti-IL-17"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m15-mapa-vacinas-sus",
+   "titulo": "Vacinas e acesso pelo SUS",
+   "centro": "Vacinas e CEAF",
+   "ramos": [
+    {
+     "t": "Vacinas vivas",
+     "itens": [
+      "BCG, rotavírus, tríplice viral",
+      "Varicela, febre amarela, dengue",
+      "Contraindicadas em imunossupressão"
+     ]
+    },
+    {
+     "t": "Intervalos (CRIE)",
+     "itens": [
+      "Viva: 14 a 30 dias antes da terapia",
+      "Viva: 3 a 6 meses após terminar",
+      "Após rituximabe: ao menos 6 meses",
+      "Corticoide: 1 mês após suspender"
+     ]
+    },
+    {
+     "t": "Calendário",
+     "itens": [
+      "HPV dose única aos 9 anos",
+      "dTpa gestante a partir de 20 semanas",
+      "VSR gestante a partir de 28 semanas",
+      "Idoso: influenza anual"
+     ]
+    },
+    {
+     "t": "Farmácia vacinadora",
+     "itens": [
+      "Lei 13.021/2014 e RDC 197/2017",
+      "RT, capacitação, sala, geladeira exclusiva",
+      "Temperatura máx/mín todo dia",
+      "Registrar lote e notificar ESAVI"
+     ]
+    },
+    {
+     "t": "CEAF",
+     "itens": [
+      "Acesso pelo PCDT",
+      "LME, prescrição, exames, TER",
+      "Grupo 1 MS, grupo 2 estado, 3 município",
+      "Renovação periódica"
+     ]
+    }
+   ]
+  }
+ ],
+ "apoio": [
+  {
+   "tipo": "tabela",
+   "id": "m15-tab-alvos",
+   "titulo": "Onde age cada classe",
+   "colunas": [
+    "Classe",
+    "Exemplos",
+    "Mecanismo",
+    "Monitorização",
+    "Alerta de dispensação"
+   ],
+   "linhas": [
+    [
+     "Inibidores de calcineurina",
+     "Tacrolimo, ciclosporina",
+     "Bloqueiam a produção de IL-2 (sinal 1)",
+     "Nível no vale, creatinina, potássio, glicemia",
+     "Interações CYP3A4; toranja; não trocar formulação"
+    ],
+    [
+     "Antiproliferativos",
+     "Micofenolato, azatioprina",
+     "Impedem a síntese de purinas",
+     "Hemograma",
+     "Gestação (micofenolato); alopurinol (azatioprina)"
+    ],
+    [
+     "Inibidores de mTOR",
+     "Sirolimo, everolimo",
+     "Bloqueiam a proliferação após IL-2 (sinal 3)",
+     "Nível no vale, lipídios, proteinúria",
+     "CYP3A4; cicatrização"
+    ],
+    [
+     "MMCD sintéticos",
+     "Metotrexato, leflunomida, hidroxicloroquina, sulfassalazina",
+     "Vários (antifolato, pirimidinas, outros)",
+     "Hemograma, transaminases, creatinina; retina (HCQ)",
+     "Metotrexato semanal; gestação"
+    ],
+    [
+     "Inibidores de JAK",
+     "Tofacitinibe, baricitinibe, upadacitinibe",
+     "Bloqueiam a via JAK-STAT",
+     "Hemograma, transaminases, lipídios",
+     "Idade, tabagismo, trombose, zóster"
+    ],
+    [
+     "Imunobiológicos",
+     "Anti-TNF, anti-IL-6, anti-IL-17/23, rituximabe",
+     "Ligam-se a citocina ou célula-alvo",
+     "Infecções, hemograma; HBV",
+     "Rastreio de tuberculose e hepatite B; cadeia de frio"
+    ]
+   ]
+  },
+  {
+   "tipo": "tabela",
+   "id": "m15-tab-interacoes",
+   "titulo": "Interações que o farmacêutico precisa barrar",
+   "colunas": [
+    "Medicamento em uso",
+    "Associação",
+    "Consequência",
+    "Conduta"
+   ],
+   "linhas": [
+    [
+     "Tacrolimo ou ciclosporina",
+     "Claritromicina, fluconazol, itraconazol, voriconazol, diltiazem, verapamil, ritonavir",
+     "Nível alto: lesão renal, tremor, convulsão",
+     "Contato com a equipe; nível extra"
+    ],
+    [
+     "Tacrolimo ou ciclosporina",
+     "Rifampicina, carbamazepina, fenitoína, erva-de-são-joão",
+     "Nível baixo: rejeição",
+     "Não iniciar sem a equipe"
+    ],
+    [
+     "Tacrolimo",
+     "Toranja (fruta ou suco)",
+     "Inibe CYP3A4 intestinal, nível sobe",
+     "Orientar não consumir"
+    ],
+    [
+     "Ciclosporina",
+     "Sinvastatina, lovastatina",
+     "Miopatia, rabdomiólise",
+     "Conferir estatina com o prescritor"
+    ],
+    [
+     "Inibidores de calcineurina",
+     "AINEs",
+     "Soma de nefrotoxicidade",
+     "Preferir paracetamol; encaminhar se dor persistir"
+    ],
+    [
+     "Azatioprina",
+     "Alopurinol ou febuxostate",
+     "Mielotoxicidade grave",
+     "Alopurinol: reduzir a 1/3 a 1/4 da dose; febuxostate não recomendado"
+    ],
+    [
+     "Metotrexato",
+     "Sulfametoxazol-trimetoprima",
+     "Pancitopenia",
+     "Contato com o prescritor antes de dispensar"
+    ],
+    [
+     "Micofenolato",
+     "Antiácidos com magnésio ou alumínio, colestiramina",
+     "Menor absorção",
+     "Separar as tomadas"
+    ],
+    [
+     "Qualquer imunossupressor",
+     "Vacina viva atenuada",
+     "Doença pelo agente vacinal",
+     "Não aplicar; encaminhar ao CRIE"
+    ]
+   ],
+   "nota": "Fontes: bulas do Prograf (2025), CellCept (2026) e Imuran (2026) no DailyMed; PCDT da Artrite Reumatoide (2026); Manual dos CRIE (2023)."
+  },
+  {
+   "tipo": "tabela",
+   "id": "m15-tab-crie",
+   "titulo": "Vacinas vivas e terapia imunossupressora (Manual dos CRIE, 2023)",
+   "colunas": [
+    "Situação",
+    "Regra"
+   ],
+   "linhas": [
+    [
+     "Corticoide imunossupressor",
+     "≥ 20 mg/dia de prednisona ou equivalente por 14 dias ou mais (≥ 2 mg/kg/dia até 10 kg)"
+    ],
+    [
+     "Corticoide tópico, inalatório ou intra-articular",
+     "Não considerado imunossupressor"
+    ],
+    [
+     "Biológicos",
+     "Imunossupressores em qualquer dose"
+    ],
+    [
+     "Sulfassalazina e hidroxicloroquina",
+     "Não consideradas imunossupressoras"
+    ],
+    [
+     "Vacina viva antes da terapia",
+     "14 a 30 dias antes do início"
+    ],
+    [
+     "Vacina viva depois da terapia",
+     "3 a 6 meses após o término; 3 meses após quimioterapia; ao menos 6 meses após rituximabe; 1 mês após suspender corticoide"
+    ],
+    [
+     "Vacina inativada",
+     "Pelo menos 14 dias antes do início, para melhor resposta"
+    ]
+   ]
+  },
+  {
+   "tipo": "fluxo",
+   "id": "m15-fluxo-vacina-imunossuprimido",
+   "titulo": "Cliente pede vacina na farmácia e usa medicamento que afeta a imunidade",
+   "passos": [
+    {
+     "t": "Cliente pede vacina; na triagem relata uso de corticoide, imunossupressor, MMCD, inibidor de JAK ou biológico",
+     "tipo": "inicio"
+    },
+    {
+     "t": "Identificar o medicamento, a dose, há quanto tempo usa e quando parou, se parou",
+     "tipo": "acao"
+    },
+    {
+     "t": "A vacina pedida é de agente vivo atenuado (febre amarela, tríplice viral, varicela, dengue)?",
+     "tipo": "decisao",
+     "sim": "Seguir para avaliar a imunossupressão",
+     "nao": "Vacina inativada pode ser aplicada se não houver outra contraindicação; avisar que a resposta pode ser menor"
+    },
+    {
+     "t": "O medicamento é imunossupressor pelos critérios do Manual dos CRIE (biológico, JAK, tacrolimo, micofenolato, prednisona ≥ 20 mg/dia por 14 dias ou mais)?",
+     "tipo": "decisao",
+     "sim": "Não aplicar a vacina viva",
+     "nao": "Sulfassalazina, hidroxicloroquina ou corticoide tópico: aplicar conforme a bula e o calendário"
+    },
+    {
+     "t": "Vacina viva em imunossuprimido pode causar doença pelo agente vacinal",
+     "tipo": "alerta"
+    },
+    {
+     "t": "Conferir se o intervalo após a suspensão já foi cumprido (1 mês para corticoide; 3 a 6 meses para outros; 6 meses após rituximabe)",
+     "tipo": "acao"
+    },
+    {
+     "t": "Registrar a triagem e o motivo da não aplicação",
+     "tipo": "acao"
+    },
+    {
+     "t": "Encaminhar ao médico assistente e ao CRIE, com orientação por escrito",
+     "tipo": "fim"
+    }
+   ]
+  },
+  {
+   "tipo": "checklist",
+   "id": "m15-check-biologico",
+   "titulo": "Checklist da dispensação de imunobiológico",
+   "itens": [
+    "Conferir nome comercial, princípio ativo, dose, via e intervalo da prescrição",
+    "Conferir se a prescrição segue o PCDT e se a autorização do CEAF está válida",
+    "Perguntar se fez radiografia de tórax e PT ou IGRA antes do primeiro uso",
+    "Perguntar se dosou HBsAg e anti-HBc (obrigatório antes do rituximabe)",
+    "Perguntar sobre vacinas: vivas só antes do início, com o intervalo do Manual dos CRIE",
+    "Conferir temperatura de recebimento e guardar entre 2 e 8 °C",
+    "Registrar lote e validade de cada unidade entregue",
+    "Avisar e explicar se o produto mudou (biossimilar ou outro fabricante)",
+    "Entregar em bolsa térmica com gelo sem contato direto",
+    "Treinar a aplicação subcutânea e o rodízio de locais",
+    "Orientar descarte em coletor rígido de perfurocortantes",
+    "Explicar sinais de infecção e quando ligar para a equipe",
+    "Notificar reação adversa ou falha no VigiMed com o lote"
+   ]
+  },
+  {
+   "tipo": "cartoes",
+   "id": "m15-cartoes",
+   "titulo": "Cartões de revisão: imunofarmacologia",
+   "itens": [
+    {
+     "f": "Onde agem tacrolimo e ciclosporina",
+     "v": "Inibem a calcineurina e a produção de IL-2 (sinal 1)"
+    },
+    {
+     "f": "Onde agem sirolimo e everolimo",
+     "v": "Inibem o mTOR, após o estímulo da IL-2 (sinal 3)"
+    },
+    {
+     "f": "Como se mede o nível do tacrolimo",
+     "v": "Sangue total, no vale, colhido antes da dose"
+    },
+    {
+     "f": "Fruta proibida com tacrolimo",
+     "v": "Toranja (fruta ou suco), por inibir o CYP3A4"
+    },
+    {
+     "f": "Azatioprina com alopurinol",
+     "v": "Reduzir para cerca de 1/3 a 1/4 da dose (bula)"
+    },
+    {
+     "f": "Contracepção do homem em micofenolato",
+     "v": "Durante o uso e por pelo menos 90 dias após"
+    },
+    {
+     "f": "Dose de metotrexato na AR (PCDT 2026)",
+     "v": "7,5 a 25 mg, uma vez por semana"
+    },
+    {
+     "f": "Ácido fólico com metotrexato (PCDT 2026)",
+     "v": "5 mg uma vez por semana, 36 h após o metotrexato"
+    },
+    {
+     "f": "Eliminação acelerada da leflunomida",
+     "v": "Colestiramina 8 g 3 vezes ao dia por 11 dias"
+    },
+    {
+     "f": "Dose diária de risco para retina com hidroxicloroquina",
+     "v": "≥ 5 mg/kg de peso real (bula)"
+    },
+    {
+     "f": "Grupos com uso restrito de JAK na UE (2023)",
+     "v": "≥ 65 anos, risco CV, tabagismo, risco de câncer"
+    },
+    {
+     "f": "Sufixo -ximabe",
+     "v": "Anticorpo quimérico (ex.: infliximabe, rituximabe)"
+    },
+    {
+     "f": "Sufixo -cepte",
+     "v": "Proteína de fusão com receptor (ex.: etanercepte)"
+    },
+    {
+     "f": "Corte da PT para tratar ILTB antes de biológico",
+     "v": "≥ 5 mm (ou IGRA reagente)"
+    },
+    {
+     "f": "Quando iniciar o biológico após tratar ILTB",
+     "v": "Após 4 semanas do início do tratamento da ILTB"
+    },
+    {
+     "f": "Norma vigente sobre intercambialidade de biossimilar",
+     "v": "Nota Técnica Anvisa nº 60/2026"
+    },
+    {
+     "f": "Vacina viva após rituximabe (CRIE)",
+     "v": "Pelo menos 6 meses depois"
+    },
+    {
+     "f": "Norma sanitária do serviço de vacinação",
+     "v": "RDC 197/2017 da Anvisa"
+    }
+   ]
+  },
+  {
+   "tipo": "questoes",
+   "id": "m15-questoes",
+   "titulo": "Questões de fixação: imunofarmacologia",
+   "itens": [
+    {
+     "p": "Transplantado renal em uso de tacrolimo apresenta receita de claritromicina 500 mg de 12/12 h emitida em pronto atendimento. Qual a conduta mais adequada do farmacêutico?",
+     "alt": [
+      "Dispensar e orientar tomar o antibiótico longe do tacrolimo, com intervalo de 2 horas entre eles",
+      "Contatar o prescritor e o centro transplantador, pela elevação do nível de tacrolimo",
+      "Dispensar e orientar dobrar a ingestão de água durante os dias de antibiótico para proteger o rim",
+      "Sugerir trocar por eritromicina, que não interfere no metabolismo do tacrolimo pelo CYP3A4",
+      "Orientar suspender o tacrolimo enquanto durar o antibiótico, para evitar toxicidade"
+     ],
+     "c": 1,
+     "com": "A claritromicina inibe CYP3A4 e P-gp e eleva o tacrolimo, com risco de nefrotoxicidade e neurotoxicidade (bula do Prograf, 2025). Separar horários não resolve interação metabólica; hidratação não evita o aumento do nível; a eritromicina também é inibidora do CYP3A4; suspender o tacrolimo expõe à rejeição. O correto é contatar o prescritor e a equipe, que avaliam alternativa (como azitromicina) e nível extra."
+    },
+    {
+     "p": "Paciente com artrite reumatoide recebe prescrição de metotrexato 15 mg. Qual orientação está de acordo com o PCDT da Artrite Reumatoide de 2026?",
+     "alt": [
+      "Tomar 2,5 mg por dia, todos os dias, para manter nível constante ao longo da semana",
+      "Tomar 15 mg todos os dias nas primeiras duas semanas e depois passar para uso semanal",
+      "Tomar ácido fólico 5 mg diariamente, no mesmo horário do metotrexato, para reduzir náusea",
+      "Tomar 6 comprimidos de 2,5 mg juntos, uma vez por semana, e ácido fólico 36 h depois",
+      "Tomar 15 mg uma vez por mês, com hemograma antes de cada dose mensal"
+     ],
+     "c": 3,
+     "com": "O PCDT da AR (Portaria Conjunta nº 33/2026) prevê metotrexato de 7,5 a 25 mg uma vez por semana e ácido fólico 5 mg uma vez por semana, 36 h após o metotrexato. Uso diário é erro grave, com aplasia e morte (EMA, 2019). Uso mensal não tem respaldo. Ácido fólico diário no mesmo horário não segue o protocolo."
+    },
+    {
+     "p": "Paciente em azatioprina 150 mg/dia após transplante recebe receita de alopurinol para gota. Segundo a bula do Imuran (2026), o que se espera?",
+     "alt": [
+      "Redução da azatioprina para cerca de 1/3 a 1/4 da dose, por risco de mielotoxicidade",
+      "Nenhuma mudança, pois o alopurinol age só no rim e não altera o metabolismo da azatioprina",
+      "Troca do alopurinol por febuxostate, que é a alternativa recomendada na bula para esses pacientes",
+      "Aumento da azatioprina, porque o alopurinol acelera a inativação da 6-mercaptopurina",
+      "Suspensão definitiva da azatioprina, que é contraindicada em qualquer paciente com gota"
+     ],
+     "c": 0,
+     "com": "Alopurinol inibe a xantina oxidase, uma das vias de inativação da 6-mercaptopurina; a bula manda reduzir a azatioprina para cerca de 1/3 a 1/4 da dose e não recomenda a associação com febuxostate, que tem o mesmo mecanismo. O alopurinol não acelera a inativação. Gota não contraindica a azatioprina."
+    },
+    {
+     "p": "Mulher de 30 anos em micofenolato de mofetila após transplante renal conta que pretende engravidar em breve. Qual a orientação correta?",
+     "alt": [
+      "Pode engravidar, pois o micofenolato só é perigoso no terceiro trimestre da gestação",
+      "Deve suspender o micofenolato por conta própria logo que tiver atraso menstrual",
+      "Planejar com a equipe antes, pelo risco embriofetal",
+      "Pode engravidar desde que tome ácido fólico em dose alta durante toda a gravidez",
+      "Deve trocar por conta própria para micofenolato de sódio, que não tem esse risco"
+     ],
+     "c": 2,
+     "com": "A bula do CellCept (2026) traz advertência em destaque: perda gestacional no primeiro trimestre e malformações; pede aconselhamento sobre prevenção e planejamento da gravidez e considerar outro imunossupressor. Suspender por conta própria arrisca rejeição; ácido fólico não neutraliza o risco; o micofenolato de sódio libera o mesmo ácido micofenólico."
+    },
+    {
+     "p": "Antes de iniciar adalimumabe, o paciente tem radiografia de tórax normal e prova tuberculínica de 7 mm, sem sintomas. Pelo PCDT da AR (2026), qual a conduta?",
+     "alt": [
+      "Iniciar o adalimumabe imediatamente, porque a radiografia normal afasta qualquer risco de tuberculose",
+      "Repetir a prova tuberculínica a cada mês até que o resultado fique abaixo de 5 mm",
+      "Contraindicar definitivamente qualquer biológico, pois a prova reagente impede o tratamento",
+      "Substituir o adalimumabe por rituximabe, que dispensa o rastreio de tuberculose latente",
+      "Tratar ILTB e iniciar o biológico após 4 semanas do início desse tratamento"
+     ],
+     "c": 4,
+     "com": "O PCDT manda tratar a ILTB quando a PT é ≥ 5 mm ou o IGRA é reagente, excluída a tuberculose ativa, e iniciar o biológico após 4 semanas do início do tratamento da ILTB. A PT reagente não contraindica o biológico de forma definitiva, não deve ser repetida em quem já teve resultado ≥ 5 mm, e o rastreio também vale para o rituximabe."
+    },
+    {
+     "p": "Qual exame a bula do rituximabe exige em todos os pacientes antes da primeira infusão, por risco de reativação viral grave?",
+     "alt": [
+      "Carga viral de citomegalovírus e sorologia para toxoplasmose",
+      "HBsAg e anti-HBc, para rastrear infecção pelo vírus da hepatite B",
+      "Sorologia para dengue e para febre amarela, pelo risco de reativação",
+      "Sorologia de HPV e colpocitologia oncótica no mesmo mês da infusão",
+      "PCR para herpes-zóster colhido de lesões antigas, mesmo cicatrizadas"
+     ],
+     "c": 1,
+     "com": "A bula do Rituxan (2025) manda dosar HBsAg e anti-HBc antes de iniciar, porque a reativação do vírus da hepatite B pode causar hepatite fulminante, inclusive em quem tem HBsAg negativo e anti-HBc positivo. As demais opções não são exigências da bula para iniciar o rituximabe."
+    },
+    {
+     "p": "Pela Nota Técnica Anvisa nº 60/2026, qual afirmação sobre biossimilares está correta?",
+     "alt": [
+      "O biossimilar é registrado como genérico e o farmacêutico pode trocá-lo pela Lei 9.787/1999",
+      "A troca entre biossimilares de um mesmo comparador é proibida em qualquer situação clínica",
+      "A alternância só é segura quando o paciente nunca usou o biológico comparador antes",
+      "A nota revogou a RDC 55/2010 e criou novas exigências de registro para biossimilares",
+      "A alternância é segura com condições de uso aprovadas, documentação e rastreio de lote"
+     ],
+     "c": 4,
+     "com": "A NT 60/2026 conclui que a alternância entre comparador e biossimilar, e entre biossimilares do mesmo comparador, é segura e eficaz quando observadas as condições de uso aprovadas, com documentação, rastreabilidade de produto e lote e farmacovigilância. A nota não altera o registro (RDC 55/2010 e RDC 875/2024 seguem). Biológico não é registrado como genérico."
+    },
+    {
+     "p": "Paciente leva para casa canetas de etanercepte e pergunta como guardar. Qual orientação está correta?",
+     "alt": [
+      "Guardar no congelador para durar mais e descongelar em água morna antes de usar",
+      "Guardar na porta da geladeira, onde a temperatura é mais estável e o acesso é fácil",
+      "Guardar entre 2 e 8 °C, na embalagem, e descartar se tiver congelado",
+      "Guardar em temperatura ambiente, já que o medicamento é estável fora da geladeira por tempo indefinido",
+      "Agitar a caneta com força antes de guardar para manter a solução homogênea"
+     ],
+     "c": 2,
+     "com": "Imunobiológicos são proteínas: devem ficar entre 2 e 8 °C, na embalagem original, longe do congelador e da porta da geladeira (onde a temperatura oscila); congelar desnatura a proteína e o produto é descartado. Agitar pode danificar a molécula. A tolerância fora da geladeira existe só pelo prazo e temperatura definidos na bula do produto."
+    },
+    {
+     "p": "Pelo Manual dos CRIE (2023), qual paciente NÃO é considerado imunossuprimido para fins de vacinação?",
+     "alt": [
+      "Adulto em prednisona 40 mg/dia há três semanas para tratar vasculite",
+      "Adulto em uso de infliximabe a cada 8 semanas para doença de Crohn",
+      "Adulto transplantado de fígado em uso de tacrolimo e micofenolato",
+      "Adulto com artrite reumatoide em hidroxicloroquina 400 mg/dia",
+      "Adulto que recebeu rituximabe há dois meses para tratamento de linfoma"
+     ],
+     "c": 3,
+     "com": "O Manual dos CRIE (2023) não considera hidroxicloroquina e sulfassalazina imunossupressoras. Prednisona ≥ 20 mg/dia por 14 dias ou mais é imunossupressora; biológicos (infliximabe, rituximabe) são imunossupressores em qualquer dose; tacrolimo e micofenolato em transplantado também. Após rituximabe, vacina viva só depois de pelo menos 6 meses."
+    },
+    {
+     "p": "Mulher de 68 anos, tabagista há 40 anos, com artrite reumatoide, apresenta receita de tofacitinibe. Qual o alerta que o farmacêutico deve conhecer?",
+     "alt": [
+      "Na UE, desde 2023, uso só sem alternativa adequada em idosos e tabagistas",
+      "O tofacitinibe deve ser guardado em geladeira e aplicado por via subcutânea",
+      "O tofacitinibe é isento de risco infeccioso porque não é um medicamento biológico",
+      "A dose recomendada para idosos com tabagismo é o dobro da dose usual, 10 mg duas vezes ao dia",
+      "O tofacitinibe só aumenta o risco de herpes-zóster em pacientes que nunca foram vacinados"
+     ],
+     "c": 0,
+     "com": "A decisão europeia de 10/03/2023 restringe os inibidores de JAK, quando houver alternativa, em quem tem 65 anos ou mais, tabagistas atuais ou com tabagismo prolongado, risco cardiovascular ou de câncer, com base no ORAL Surveillance; a bula do Xeljanz (2026) traz advertência em destaque para infecções, mortalidade, malignidade, eventos cardiovasculares e trombose. É comprimido em temperatura ambiente (PCDT da AR, 2026) e a dose na AR é 5 mg duas vezes ao dia."
+    },
+    {
+     "p": "Uma farmácia quer começar a aplicar vacinas. Qual requisito consta da RDC 197/2017?",
+     "alt": [
+      "Guardar as vacinas na mesma geladeira dos alimentos da equipe, desde que em prateleira separada",
+      "Registrar diariamente as temperaturas máxima e mínima do equipamento de refrigeração",
+      "Dispensar o registro em sistema do Ministério da Saúde quando o cliente pagar pela vacina",
+      "Aplicar vacinas no próprio balcão de atendimento para agilizar o serviço",
+      "Dispensar responsável técnico quando o serviço funcionar só em campanhas de inverno"
+     ],
+     "c": 1,
+     "com": "A RDC 197/2017 exige equipamento de refrigeração exclusivo para vacinas com termômetro de máxima e mínima (art. 10) e registro diário das temperaturas (art. 11), sala de vacinação separada da recepção (art. 10), responsável técnico e substituto (art. 7º) e registro da vacina no cartão e no sistema do Ministério da Saúde (art. 15), também no serviço privado."
+    },
+    {
+     "p": "Paciente com espondilite anquilosante pergunta como faz para receber adalimumabe pelo SUS. Qual resposta descreve o fluxo do CEAF?",
+     "alt": [
+      "Basta levar a receita a qualquer drogaria credenciada no programa Farmácia Popular",
+      "Basta o paciente assinar um termo na unidade básica, sem necessidade de laudo médico",
+      "O medicamento só é obtido por ação judicial, porque biológico não faz parte do SUS",
+      "O médico preenche LME e prescrição pelo PCDT, com exames, documentos e TER",
+      "A farmácia do estado entrega qualquer biológico prescrito, independentemente da doença"
+     ],
+     "c": 3,
+     "com": "No CEAF, o acesso segue o PCDT: o prescritor preenche o LME e a prescrição, anexa os exames exigidos, o paciente apresenta Cartão Nacional de Saúde, identidade e comprovante de residência e assina o Termo de Esclarecimento e Responsabilidade; após avaliação técnica e autorização, retira na farmácia de medicamentos especializados e renova periodicamente. Farmácia Popular não fornece biológicos."
+    }
+   ]
+  }
+ ],
+ "fontes": [
+  "Ministério da Saúde. Portaria Conjunta SAES/SCTIE nº 33, de 19 de janeiro de 2026. Aprova o Protocolo Clínico e Diretrizes Terapêuticas da Artrite Reumatoide (revoga a Portaria Conjunta nº 16/2021), 2026. https://www.gov.br/saude/pt-br/assuntos/pcdt/a/artrite-reumatoide",
+  "Anvisa. Nota Técnica nº 60/2026/SEI/GGBIO/DIRE2/ANVISA. Intercambialidade de produtos registrados pela via de desenvolvimento por comparabilidade (biossimilares) e o medicamento biológico comparador, junho de 2026 (cita a RDC nº 55, de 16/12/2010, e a RDC nº 875, de 28/05/2024). https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-atualiza-entendimento-sobre-intercambialidade-de-biossimilares",
+  "Anvisa. RDC nº 197, de 26 de dezembro de 2017. Requisitos mínimos para o funcionamento dos serviços de vacinação humana. DOU 28/12/2017; situação vigente no Anvisalegis em outubro de 2026.",
+  "Brasil. Lei nº 13.021, de 8 de agosto de 2014. Exercício e fiscalização das atividades farmacêuticas, art. 7º, 2014.",
+  "Ministério da Saúde. Manual dos Centros de Referência para Imunobiológicos Especiais, 6ª edição. Brasília, 2023 (itens 4.6 e quadros de imunodepressão).",
+  "Ministério da Saúde. Calendário Nacional de Vacinação (criança, adolescente, adulto, idoso e gestante). https://www.gov.br/saude/pt-br/vacinacao/calendario, consultado em outubro de 2026.",
+  "Ministério da Saúde. Componente Especializado da Assistência Farmacêutica (CEAF): documentos para solicitação e grupos de financiamento. https://www.gov.br/saude/pt-br/composicao/sectics/daf/ceaf, consultado em outubro de 2026 (cita a Portaria GM/MS nº 2.981/2009).",
+  "Secretaria de Estado da Saúde de Santa Catarina. Capacitação SISMEDEX para autorizadores do CEAF, 2024 (Portaria de Consolidação nº 2/2017, Anexo XXVIII; Portaria de Consolidação nº 6/2017; Portaria GM/MS nº 13/2020).",
+  "European Medicines Agency. Janus kinase inhibitors (JAKi): referral under Article 20. Recomendações do PRAC (2022 e 12/01/2023), CHMP (23/01/2023) e decisão da Comissão Europeia de 10/03/2023.",
+  "Anvisa. Carta aos profissionais de saúde: Olumiant (baricitinibe), adição de advertência para eventos cardiovasculares adversos maiores e atualização para tromboembolismo venoso e malignidade, 2021.",
+  "European Medicines Agency. Methotrexate: Article 31 referral, anexo de condições (medidas para evitar erro de dose diária), 2019.",
+  "Astellas Pharma. Prograf (tacrolimo), bula do profissional (FDA), DailyMed, revisão de 2025.",
+  "Genentech. CellCept (micofenolato de mofetila), bula do profissional (FDA), DailyMed, revisão de 2026.",
+  "Genentech. Rituxan (rituximabe), bula do profissional (FDA), DailyMed, revisão de 2025.",
+  "Legacy Pharma. Imuran (azatioprina), bula do profissional (FDA), DailyMed, revisão de 2026.",
+  "Sanofi-Aventis. Arava (leflunomida), bula do profissional (FDA), DailyMed, revisão de 2025.",
+  "Advanz Pharma. Plaquenil (hidroxicloroquina), bula do profissional (FDA), DailyMed, revisão de 2026.",
+  "Pfizer. Xeljanz (tofacitinibe), bula do profissional (FDA), DailyMed, revisão de outubro de 2026.",
+  "International nonproprietary names for monoclonal antibodies: an evolving nomenclature system. mAbs, 2022 (revisão do esquema INN aprovada na 73ª consulta da OMS, 2021)."
+ ]
+}

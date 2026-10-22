@@ -79,3 +79,79 @@ transcrições, não no portal da Anvisa.
 - Quinolonas: sem comunicado próprio da Anvisa; datas dos alertas FDA 2016/2018 e EMA 2018/2023 herdadas.
 - AWaRe: conferida na lista on-line da OMS (PDF bloqueado).
 - Herdados não refeitos: HPRA (TFG 30 a 44), guia de influenza 2023, doxiciclina na febre maculosa (CDC).
+
+# Reformulação em 17 módulos (22/10/2026)
+
+## Anti-inflamatórios e coxibes (m06), Sistema renal (m09), Antialérgicos (m16), Glicocorticoides (m17)
+- Coxibes com retenção de receita desde 2008 (Anvisa): número e texto da norma não localizados; base em notícias do CFM e do Idec (2008) e em farmácias atuais. O texto diz só "retenção da receita".
+- Bulas brasileiras atuais de Arcoxia e Celebra não lidas; doses do etoricoxibe (60 mg artrose, 90 mg artrite) de reprodução histórica da bula. Não confirmado se a apresentação de 120 mg voltou ao mercado.
+- Limites de referência de eletrólitos (m09) do Manual MSD, não de diretriz brasileira.
+- Citações herdadas sem entrada em fontes: KDIGO (m09) e EMA 2015 sobre hidroxizina (m16).
+
+## Imunofarmacologia (m15)
+- CEAF: divisão dos grupos 2 e 3 por financiamento vem de material da SES-SC; validade do LME e critério de abandono não confirmados (texto sem números).
+- Inibidores de JAK: sem alerta próprio da Anvisa com corte de idade ou tabagismo; carta de 2021 sobre baricitinibe citada pelo título. Base: EMA (decisão da Comissão Europeia de 10/03/2023).
+- Metotrexato na EMA (2019): só por resumo.
+- Sufixos novos da OMS para anticorpos (2021: -tug, -bart, -mig, -ment): fontes secundárias (mAbs, Antibody Society).
+- Calendário vacinal: página do Ministério sem data; "pneumocócica conjugada" sem valência.
+- Citados sem reabrir a fonte: Lei 13.021/2014 art. 7º, Lei 9.787/1999, talidomida na lista C3, ESAVI, VigiMed, efeitos de classe de mTOR e calcineurina, alvos dos biológicos fora do PCDT da AR.
+- Doses e advertências das bulas americanas (FDA); bulas brasileiras não conferidas.
+
+## Quimioterapia antineoplásica (m14)
+- RDC 220/2004: nenhuma norma revogadora localizada, mas a página de vigência (Saúde Legis/Anvisa) não abriu; texto diz "não foi localizada norma revogadora".
+- Resoluções CFF 288/1996, 565/2012 e 640/2017: só por resumo de busca (critérios de qualificação não citados).
+- Definição numérica de neutropenia febril (38,3 °C ou 38 °C por 1 h; neutrófilos abaixo de 500/mm³): fonte secundária.
+- ASCO 2017 (NK1 com carboplatina AUC 4 ou mais) e ESMO-EONS 2012 (extravasamento): por resumo; frio com dexrazoxano para antraciclina sem confirmação primária.
+- Dados de livro-texto sem bula reaberta: letrozol, exemestano, bicalutamida; nilotinibe em jejum e QT; enzalutamida indutora; IBP e inibidores de tirosina-quinase; CDK4/6; eventos de bevacizumabe, cetuximabe e rituximabe; temozolomida 5 dias; neuropatia da oxaliplatina pelo frio; CYP2D6 e endoxifeno; filgrastim entre 2 e 8 °C.
+- Descarte doméstico escrito sem citar a RDC 222/2018 (não conferida).
+
+## Sistema nervoso central (m02): Alzheimer, drogas de abuso e ansiolíticos
+- PCDT Doença de Alzheimer (Portaria Conjunta nº 27, de 27/11/2025): número e data lidos no relatório da Conitec nº 1.051/2025, não no DOU.
+- Antidemenciais pelo CEAF: o PCDT remete à RENAME, que não foi conferida.
+- Lecanemabe (Leqembi): nome e aprovação no fim de 2025 só pela imprensa; a notícia da Anvisa de 08/01/2026 não traz o nome.
+- Listas da Portaria 344 dos temas novos conferidas na Atualização 100 (RDC 1.023/2026); a 101 (RDC 1.036/2026) foi vista só por fonte secundária (teria incluído só MMDPPA e dimetocaína).
+- Sem bula aberta ou de memória: nicotina MIP (IN 285/2024), proibição do cigarro eletrônico (2024), surto de metanol em 2025, memantina com amantadina/cetamina/dextrometorfano, buspirona com IMAO, CBD com clobazam e valproato, nitazenos, tempos da abstinência alcoólica, retomada do inibidor da colinesterase após interrupção.
+- Bupropiona: momento de início em relação à data de parar de fumar não confirmado (texto não fala disso).
+
+## Antivirais (m12)
+- RENAME 2024 não lida (PDF fora do ar): oseltamivir no anexo II pela nota da SES-RJ; hepatite C e aciclovir remetem à relação vigente sem afirmar o componente.
+- Nirmatrelvir com ritonavir: critérios do SUS pela reprodução da SMS-SP das notas 266/2022 e 23/2024 do Ministério; contraindicação com TFG abaixo de 30 (bula brasileira) citada pela nota de SP, enquanto a bula FDA 2026 tem esquema para essa faixa (texto mostra as duas).
+- Fanciclovir (Penvir): doses da bula brasileira por resumo de busca.
+- Hepatite C: PCDT de 2019 segue vigente; consulta pública Conitec 2026 só citada.
+- Cabotegravir injetável para PrEP: só por notícias de 2025; texto manda conferir no Departamento de HIV/Aids.
+- Sem número, de memória: efeitos do efavirenz no SNC, atazanavir, foscarnete, cidofovir.
+
+## Sistema gastrointestinal (m10)
+- Alertas da FDA citados sem abrir a página: IBP (fraturas 2010, hipomagnesemia 2011, C. difficile 2012, clopidogrel 2009/2010), loperamida (2016/2018, teto de 16 mg/dia, abaixo de 2 anos), ondansetrona 2012 (16 mg IV), fosfato de sódio 2014, discinesia tardia da metoclopramida (evitar mais de 12 semanas).
+- Composição da SRO da OMS/UNICEF (75/75/20/65/10 mmol/L; 245 mOsm/L): de memória.
+- Buscopan, Lactulona, Dulcolax, Imosec, Famox: doses e venda da conferência do SOS Farmácia (m01b), não das bulas.
+- Racecadotrila: posologia por portal de bulas.
+- Ranitidina: situação atual no Brasil não confirmada (texto cita recolhimentos desde 2019 e a retirada pedida pela FDA em 2020).
+- Misoprostol (lista C1, só hospital cadastrado): adendo não relido na RDC 1.036/2026.
+- Vonoprazana: registro no Brasil não verificado (só o que o V Consenso diz).
+- Interações dos IBP, contraindicações da tetraciclina e prazo do álcool com metronidazol: descritos de forma genérica.
+
+## Antifúngicos (m11)
+- Alerta próprio da Anvisa sobre cetoconazol oral não encontrado; texto usa a bula padrão brasileira de 2015 e as medidas de FDA e EMA de 2013 (suspensão pela EMA por resumo secundário).
+- IN 388/2025 (inclusão do ciclopirox na lista de MIP): só por resumo; presença do ciclopirox confirmada no Anexo I da IN 404/2025.
+- Posologia do ciclopirox esmalte e duração dos antifúngicos tópicos de pele: "conforme a bula do produto" (referência às bulas americanas de venda livre).
+- Itraconazol em esporotricose e paracoccidioidomicose: consenso nacional não conferido.
+- Mucormicose (anfotericina lipídica com desbridamento): conhecimento geral; só o isavuconazol conferido em bula.
+- Nota Informativa nº 9/2022 (flucitosina): não procurada versão mais nova.
+- Sem fonte primária: preservativo de látex com creme vaginal, hidratação antes da anfotericina, renovação da unha, Trichophyton resistente à terbinafina.
+
+## Antiparasitários (m13)
+- Lista de MIP (IN 285/2024) não aberta pelo agente: condição de venda de mebendazol, levamisol, permetrina, deltametrina e benzoato de benzila veio do módulo de MIP do SOS Farmácia (conferido em 08/10/2026).
+- Saída da ivermectina e da nitazoxanida da RDC 405/2020 em 01/09/2020: por notícias e voto da Anvisa, sem o DOU; nitazoxanida na lista da IN 360/2025 não confirmada.
+- Pamoato de pirantel: registro para uso humano no Brasil não achado (texto manda conferir). Tinidazol: disponibilidade não confirmada (sem dose).
+- Toxoplasmose e leishmanioses: manuais vigentes não abertos; fármacos sem esquema de dose, remetendo ao protocolo do serviço.
+- Nitazoxanida: dose da criança sem duração do curso; gestação e lactação "conforme bula".
+- Amebíase intestinal: reprodução da bula do Flagyl diz 500 mg 4 vezes ao dia; reconferir na bula oficial.
+- Conhecimento geral sem fonte aberta: meia-vida do metronidazol (cerca de 8 h), P-gp e ivermectina no SNC, predomínio do P. vivax, estrongiloidíase com HTLV-1.
+
+## Sistema cardiovascular (m04): antiarrítmicos · Sistema endócrino (m05): hormônios sexuais
+- Levonorgestrel 1,5 mg (venda sob prescrição sem retenção, fora da lista de MIP): do módulo de MIP do SOS Farmácia e de drogarias; IN 285/2024 não lida pelo agente.
+- Resolução CFM 2.333/2023 (anabolizantes): só resumo do ICTQ e notícias.
+- Testosterona na lista C5 pela RDC 1.036/2026: RDC não aberta (a Portaria 344 confirma que C5 é a lista dos anabolizantes).
+- Sem fonte: transferência de testosterona em gel por contato, marcas citadas (Ancoron, Postinor Uno, Cerazette), disponibilidade de flecainida e quinidina no Brasil.
+- Amiodarona: bula FDA (hipertireoidismo cerca de 2%, toxicidade pulmonar até 17%) diverge da Diretriz Brasileira de FA 2025 (cerca de 1% e 3% de fibrose); o texto cita a bula.

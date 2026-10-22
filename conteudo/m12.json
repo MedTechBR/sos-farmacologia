@@ -1,0 +1,756 @@
+{
+ "id": "m12",
+ "num": 10,
+ "titulo": "Antivirais",
+ "escopo": "Ciclo viral e alvos terapêuticos, antivirais para herpesvírus, influenza, covid-19, HIV (tratamento, PrEP e PEP) e hepatites B e C, com posologia, ajuste renal pelo CKD-EPI 2021, interações e canal de acesso no SUS. Base: PCDT HIV 2024, PrEP 2025, PEP 2024, Hepatite B 2023, Hepatite C 2019, guia de influenza 2023 e bulas.",
+ "topicos": [
+  {
+   "id": "m12-ciclo-alvos",
+   "titulo": "Ciclo viral e alvos dos antivirais",
+   "resumo": "<p>Vírus são parasitas intracelulares obrigatórios. Não têm metabolismo próprio: usam ribossomos, nucleotídeos e energia da célula do hospedeiro para copiar o genoma e fabricar as proteínas de novas partículas. Por isso o antiviral precisa atingir uma etapa exclusiva do vírus, ou uma enzima viral muito mais sensível ao fármaco do que a enzima humana equivalente. Quanto mais seletivo o alvo, menor a toxicidade para a célula sadia.</p><p>A maioria dos antivirais é <strong>virustática</strong>: bloqueia a replicação enquanto o fármaco está presente, e a eliminação final depende da resposta imune. Daí saem três regras práticas. O benefício é maior quando o tratamento começa cedo, na fase de replicação intensa (herpes, influenza, covid-19). Vírus que ficam latentes ou integrados ao genoma da célula (herpesvírus nos gânglios nervosos, HIV no DNA dos linfócitos, o DNA circular do vírus da hepatite B no núcleo do hepatócito) não são erradicados, e a doença volta se o tratamento for suspenso. Na hepatite C o vírus não tem forma latente, e o tratamento atual cura a grande maioria das pessoas.</p><h3>Etapas do ciclo e alvos terapêuticos</h3><div class=\"tab\"><table><thead><tr><th>Etapa</th><th>O que acontece</th><th>Alvo</th><th>Exemplos</th></tr></thead><tbody><tr><td>Entrada</td><td>Ligação ao receptor e fusão das membranas</td><td>Correceptor CCR5; proteína de fusão gp41</td><td>Maraviroque, enfuvirtida (HIV)</td></tr><tr><td>Transcrição reversa</td><td>RNA viral copiado em DNA</td><td>Transcriptase reversa</td><td>Tenofovir, lamivudina, zidovudina, efavirenz (HIV); entecavir (HBV)</td></tr><tr><td>Integração</td><td>DNA viral inserido no genoma da célula</td><td>Integrase</td><td>Dolutegravir, raltegravir (HIV)</td></tr><tr><td>Replicação do genoma</td><td>Síntese de DNA ou RNA pela polimerase viral</td><td>DNA polimerase; RNA polimerase NS5B</td><td>Aciclovir, ganciclovir (herpes); sofosbuvir (HCV)</td></tr><tr><td>Processamento de proteínas</td><td>Protease corta a poliproteína em proteínas funcionais</td><td>Protease viral</td><td>Darunavir (HIV); nirmatrelvir (SARS-CoV-2); glecaprevir (HCV)</td></tr><tr><td>Montagem da replicação</td><td>Proteína que organiza o complexo de replicação</td><td>NS5A</td><td>Velpatasvir, pibrentasvir, daclatasvir (HCV)</td></tr><tr><td>Liberação</td><td>Novas partículas se soltam da célula</td><td>Neuraminidase</td><td>Oseltamivir (influenza)</td></tr></tbody></table></div><h3>Seletividade e pró-fármacos</h3><p>O <strong>aciclovir</strong> ilustra bem a seletividade. É um análogo da guanosina que só recebe o primeiro fosfato pela timidina quinase do próprio vírus herpes; por isso se concentra nas células infectadas. Enzimas da célula completam a forma trifosfato, que compete com o nucleotídeo natural, é incorporada ao DNA viral e interrompe a cadeia. O ganciclovir segue lógica parecida no citomegalovírus (CMV), mas é mais fosforilado também em células sadias da medula, o que explica a mielotoxicidade.</p><p>Os análogos de nucleosídeo e nucleotídeo usados no HIV e na hepatite B (tenofovir, lamivudina, entricitabina, entecavir) também terminam a cadeia de DNA. Já os inibidores não nucleosídeos da transcriptase reversa (efavirenz) se ligam a um bolso fora do sítio ativo e travam a enzima por mudança de forma.</p><p>Muitos antivirais são <strong>pró-fármacos</strong>, desenhados para melhorar a absorção oral ou a entrada na célula:</p><ul><li>valaciclovir é convertido em aciclovir, com absorção bem maior, o que reduz o número de tomadas;</li><li>fanciclovir é convertido em penciclovir;</li><li>valganciclovir é convertido em ganciclovir e permite tratar o CMV por via oral;</li><li>o oseltamivir (éster) é hidrolisado no fígado a carboxilato de oseltamivir, a forma ativa;</li><li>fumarato de tenofovir desoproxila (TDF) e tenofovir alafenamida (TAF) liberam tenofovir; o TAF chega ao plasma em concentração menor, com menos efeito renal e ósseo.</li></ul><h3>Do mecanismo à orientação</h3><p>O mecanismo explica quase toda a orientação de balcão. Como o antiviral age na fase de replicação, o atraso no início reduz o benefício, e o farmacêutico não deve segurar uma receita de oseltamivir ou de nirmatrelvir por falta de um item secundário sem antes contatar o prescritor. Como muitos são eliminados pelo rim, a função renal recente é parte da conferência. Como as concentrações abaixo do ideal selecionam resistência, a tomada em horário fixo e a duração completa importam tanto quanto a dose. E como os pró-fármacos dependem de conversão no fígado ou no intestino, o comprimido não deve ser trocado por outra forma sem orientação.</p><h3>Resistência e barreira genética</h3><p>Vírus de RNA e retrovírus copiam o genoma com muitos erros, e cada paciente abriga uma população de variantes. Com fármaco em concentração insuficiente (dose baixa, monoterapia, adesão irregular), as variantes resistentes passam a predominar. Por isso o HIV e o vírus da hepatite C são tratados com combinações de classes diferentes.</p><p><strong>Barreira genética</strong> é o número de mutações de que o vírus precisa para escapar do fármaco. Dolutegravir e darunavir têm barreira alta; efavirenz e lamivudina perdem atividade com uma única mutação. O PCDT de HIV de 2024 cita prevalência relevante da mutação K103N (resistência ao efavirenz) no Brasil, motivo pelo qual o esquema com efavirenz deixou de ser preferencial. Nos herpesvírus, a resistência ao aciclovir é rara em imunocompetentes e aparece sobretudo em imunossuprimidos com uso prolongado, quase sempre por mutação da timidina quinase.</p><div class=\"cx chave\"><b>Ponto-chave</b><p>Antiviral não age em bactéria, e antibiótico não age em vírus. Resfriado comum, a maioria das faringites e a gripe sem fator de risco não pedem antibiótico; o antiviral só é indicado em situações definidas por protocolo ou pelo prescritor.</p><p>Os antivirais sistêmicos são de venda sob prescrição, mas não constam da lista de antimicrobianos com retenção de receita (Instrução Normativa nº 360/2025 da Anvisa, que lista antibacterianos e antimicobacterianos). Na farmácia comercial, aciclovir, valaciclovir, fanciclovir e oseltamivir são dispensados com receita comum, sem retenção. Antirretrovirais, PrEP, PEP, antivirais das hepatites e nirmatrelvir com ritonavir circulam pelo SUS, com fluxo e registro próprios.</p></div><div class=\"cx balcao\"><b>No balcão</b><p>Homem de 30 anos, sem doenças, pede \"um antiviral para gripe\": coriza, dor de garganta e febre baixa há quatro dias. Explique que o oseltamivir exige prescrição e que, fora dos grupos de risco, a indicação é decisão clínica, de preferência nas primeiras 48 horas (Guia de manejo e tratamento de influenza, Ministério da Saúde, 2023). Oriente hidratação, repouso e sintomáticos compatíveis com o histórico dele.</p><p>Encaminhe para avaliação se houver falta de ar, dor no peito, lábios arroxeados, piora da febre depois de melhora inicial, sonolência ou confusão. Aproveite para conferir a vacina anual contra influenza.</p></div>"
+  },
+  {
+   "id": "m12-herpesvirus",
+   "titulo": "Antivirais para herpesvírus",
+   "resumo": "<p>A família dos herpesvírus humanos inclui o herpes simples tipos 1 e 2 (HSV-1 e HSV-2), o vírus varicela-zóster (VZV), o citomegalovírus (CMV) e o vírus Epstein-Barr. Depois da primeira infecção, todos ficam latentes por toda a vida: HSV e VZV em gânglios sensitivos, CMV em células sanguíneas e tecidos. Os antivirais encurtam o episódio, aliviam a dor, reduzem a transmissão e, no zóster, diminuem complicações, mas não eliminam a latência.</p><h3>Aciclovir, valaciclovir e fanciclovir</h3><p>Os três agem sobre a DNA polimerase viral depois da ativação pela timidina quinase do vírus. O aciclovir oral tem absorção baixa e meia-vida curta, por isso as tomadas são frequentes (até cinco vezes ao dia). O valaciclovir, pró-fármaco do aciclovir, tem biodisponibilidade três a cinco vezes maior e permite duas ou três tomadas. O fanciclovir, pró-fármaco do penciclovir, existe no Brasil em comprimidos de 125 mg e 500 mg (Penvir®). Todos são eliminados pelo rim, por filtração e secreção tubular, e exigem ajuste quando a função renal cai.</p><p>O benefício depende do início precoce: no herpes recorrente, de preferência no pródromo (ardor, formigamento); no herpes-zóster, até 72 horas após o surgimento das lesões; na varicela do adulto, nas primeiras 24 horas do exantema (bula do aciclovir, FDA).</p><div class=\"tab\"><table><thead><tr><th>Indicação (adulto)</th><th>Aciclovir</th><th>Valaciclovir</th><th>Fanciclovir</th></tr></thead><tbody><tr><td>Herpes genital, primeiro episódio</td><td>400 mg de 8/8 h ou 200 mg cinco vezes ao dia, por 7 a 10 dias (PCDT IST 2022)</td><td>1 g de 12/12 h por 10 dias (bula)</td><td>Conforme bula do produto</td></tr><tr><td>Herpes genital, recidiva</td><td>400 mg de 8/8 h ou 800 mg de 12/12 h, por 5 dias (PCDT IST 2022)</td><td>500 mg de 12/12 h por 3 dias (bula)</td><td>125 mg de 12/12 h por 5 dias (bula brasileira)</td></tr><tr><td>Supressão de recidivas frequentes</td><td>400 mg de 12/12 h, com reavaliação após 12 meses (bula FDA)</td><td>500 mg a 1 g uma vez ao dia (bula FDA)</td><td>250 mg de 12/12 h (bula FDA)</td></tr><tr><td>Herpes-zóster</td><td>800 mg cinco vezes ao dia por 7 dias (bula do Zovirax®)</td><td>1 g de 8/8 h por 7 dias (bula)</td><td>500 mg de 8/8 h por 7 dias (bula)</td></tr><tr><td>Herpes labial recorrente</td><td>200 mg cinco vezes ao dia por 5 dias (bula); creme como opção local</td><td>2 g de 12/12 h por 1 dia (bula)</td><td>1,5 g em dose única (bula FDA)</td></tr><tr><td>Varicela (adulto e criança acima de 40 kg)</td><td>800 mg quatro vezes ao dia por 5 dias (bula FDA)</td><td>Conforme prescrição</td><td>Sem indicação em bula</td></tr></tbody></table></div><p>O PCDT IST de 2022 do Ministério da Saúde traz apenas esquemas de aciclovir; os de valaciclovir vêm da bula do Valtrex® e os de fanciclovir, da bula brasileira do Penvir® e da bula norte-americana. A dose final é a da prescrição.</p><h3>Função renal e segurança</h3><p>Estime a função renal pela TFG do <strong>CKD-EPI 2021</strong>, sem coeficiente de raça. As bulas definem as faixas por depuração de creatinina; use a TFG estimada para enquadrar o paciente e, nos limites de faixa, discuta com o prescritor.</p><div class=\"tab\"><table><thead><tr><th>Esquema habitual</th><th>Função renal (mL/min)</th><th>Ajuste</th></tr></thead><tbody><tr><td>Aciclovir 800 mg cinco vezes ao dia</td><td>10 a 25<br>Abaixo de 10</td><td>800 mg de 8/8 h<br>800 mg de 12/12 h</td></tr><tr><td>Aciclovir 200 mg cinco vezes ao dia</td><td>Abaixo de 10</td><td>200 mg de 12/12 h</td></tr><tr><td>Valaciclovir 1 g de 8/8 h (zóster)</td><td>30 a 49<br>10 a 29<br>Abaixo de 10</td><td>1 g de 12/12 h<br>1 g uma vez ao dia<br>500 mg uma vez ao dia</td></tr><tr><td>Valaciclovir 2 g de 12/12 h por 1 dia (labial)</td><td>30 a 49<br>10 a 29<br>Abaixo de 10</td><td>1 g de 12/12 h por 1 dia<br>500 mg de 12/12 h por 1 dia<br>500 mg em dose única</td></tr><tr><td>Fanciclovir 500 mg de 8/8 h (zóster)</td><td>40 a 59<br>20 a 39<br>Abaixo de 20</td><td>500 mg de 12/12 h<br>500 mg uma vez ao dia<br>250 mg uma vez ao dia</td></tr></tbody></table></div><p>Fonte das faixas: bulas norte-americanas de aciclovir (2026), valaciclovir (2026) e fanciclovir (2025). Em hemodiálise, a dose do dia é dada depois da sessão.</p><ul><li><strong>Lesão renal aguda</strong>: mais provável em idosos, em quem tem doença renal e recebe dose acima da indicada para a sua função, em uso de outros nefrotóxicos (aminoglicosídeos, anti-inflamatórios, contraste) e em desidratação. O aciclovir intravenoso em dose alta pode cristalizar nos túbulos; a infusão é lenta e com hidratação.</li><li><strong>Neurotoxicidade</strong>: agitação, alucinações, confusão e encefalopatia, sobretudo em idosos e com dose não ajustada.</li><li><strong>Reações cutâneas graves</strong> (síndrome de Stevens-Johnson, necrólise epidérmica tóxica, DRESS) são raras; a bula norte-americana contraindica aciclovir e valaciclovir a quem já teve essa reação a qualquer um dos dois.</li><li>Efeitos comuns: náusea, cefaleia, diarreia leve.</li></ul><div class=\"cx balcao\"><b>No balcão</b><p>Mulher de 78 anos traz receita de valaciclovir 1 g de 8/8 h por 7 dias para herpes-zóster no tórax. O exame da semana passada mostra TFG de 28 mL/min/1,73 m² pelo CKD-EPI 2021. Pela bula, nessa faixa a dose é 1 g uma vez ao dia. Contate o prescritor antes de dispensar, registre a conduta e oriente boa hidratação.</p><p>Explique à família que confusão, sonolência ou alucinação exigem suspender a próxima dose e procurar atendimento. Lesões perto do olho ou na ponta do nariz pedem avaliação médica no mesmo dia. Para a dor, confira com o prescritor o analgésico, evitando anti-inflamatório em quem tem função renal reduzida.</p></div><h3>Ganciclovir e valganciclovir</h3><p>São os fármacos de escolha para o CMV, que causa doença grave em transplantados e em pessoas com HIV avançado (retinite, colite, pneumonite). O ganciclovir é intravenoso e de uso hospitalar; o valganciclovir é o pró-fármaco oral.</p><div class=\"tab\"><table><thead><tr><th>Situação (adulto, função renal normal)</th><th>Esquema</th><th>Fonte</th></tr></thead><tbody><tr><td>Ganciclovir, indução na retinite por CMV</td><td>5 mg/kg IV em 1 hora, de 12/12 h, por 14 a 21 dias</td><td>Bula FDA</td></tr><tr><td>Ganciclovir, manutenção</td><td>5 mg/kg IV uma vez ao dia, 7 dias por semana</td><td>Bula FDA</td></tr><tr><td>Valganciclovir, indução na retinite</td><td>900 mg de 12/12 h por 21 dias</td><td>Bula FDA, 2026</td></tr><tr><td>Valganciclovir, manutenção</td><td>900 mg uma vez ao dia</td><td>Bula FDA, 2026</td></tr><tr><td>Valganciclovir, prevenção no transplante</td><td>900 mg uma vez ao dia, iniciado até 10 dias após o transplante: até o dia 100 (coração, rim-pâncreas) ou 200 (rim)</td><td>Bula FDA, 2026</td></tr></tbody></table></div><div class=\"cx alerta\"><b>Atenção</b><p>Ganciclovir e valganciclovir causam leucopenia, neutropenia, anemia e plaquetopenia, podem reduzir a fertilidade e são teratogênicos e potencialmente carcinogênicos (advertência em destaque da bula FDA). Exigem hemograma frequente e ajuste pela função renal; para adultos em hemodiálise, a bula do valganciclovir não traz dose recomendada.</p><p>O comprimido de valganciclovir não deve ser partido nem triturado e é tomado com alimento. Na farmácia, trate-o como medicamento perigoso: luvas na manipulação, sem fracionamento, descarte conforme o plano de resíduos. Somar outros mielotóxicos (zidovudina, micofenolato, quimioterápicos) aumenta o risco hematológico.</p></div><p>No CMV resistente ou na intolerância ao ganciclovir, os serviços especializados usam foscarnete ou cidofovir, ambos intravenosos e nefrotóxicos, sob monitorização de eletrólitos e da função renal.</p>"
+  },
+  {
+   "id": "m12-influenza",
+   "titulo": "Influenza e oseltamivir",
+   "resumo": "<p>O vírus influenza (tipos A e B) causa epidemias sazonais. Na maioria dos adultos sadios a gripe é autolimitada, mas idosos, gestantes, crianças pequenas e pessoas com doenças crônicas têm risco alto de pneumonia, descompensação da doença de base e morte. O antiviral reduz a duração dos sintomas e, principalmente, as complicações quando começa cedo. A vacina anual continua sendo a principal medida de prevenção.</p><h3>Mecanismo</h3><p>O <strong>oseltamivir</strong> inibe a neuraminidase, enzima da superfície do vírus que cliva o ácido siálico e solta as partículas recém-formadas da célula. Sem ela, os vírus ficam presos à superfície e se agregam, e a infecção se espalha menos no trato respiratório. É um pró-fármaco oral convertido no fígado em carboxilato de oseltamivir, eliminado pelo rim. O zanamivir, outro inibidor da neuraminidase (inalatório), deixou de ser recomendado para tratamento no guia do Ministério da Saúde de 2023, por pouca evidência de benefício em desfechos graves.</p><h3>Quem trata</h3><p>Pelo <strong>Guia de manejo e tratamento de influenza</strong> do Ministério da Saúde (2023), ainda citado como protocolo vigente em notas estaduais de 2026, o oseltamivir está indicado, além de sintomáticos e hidratação:</p><ul><li>em todos os casos de síndrome respiratória aguda grave (SRAG);</li><li>em todos os casos de síndrome gripal com condição ou fator de risco para complicação, independentemente da situação vacinal, mesmo em atendimento ambulatorial;</li><li>na síndrome gripal sem fator de risco, conforme julgamento clínico, de preferência nas primeiras 48 horas;</li><li>em qualquer paciente que apresente sinais de agravamento.</li></ul><p>O maior benefício ocorre com início em até 48 horas dos sintomas. Em pacientes com fator de risco e SRAG, o guia registra benefício mesmo com início até o quinto dia; gestantes e puérperas são tratadas mesmo vacinadas.</p><div class=\"tab\"><table><thead><tr><th>Condições e fatores de risco (guia 2023)</th><th>Detalhe</th></tr></thead><tbody><tr><td>Gestantes e puérperas</td><td>Qualquer idade gestacional; puérpera até duas semanas após o parto, inclusive após aborto ou perda fetal</td></tr><tr><td>Idade</td><td>Adultos com 60 anos ou mais; crianças menores de 5 anos</td></tr><tr><td>Populações</td><td>Indígenas aldeados ou com dificuldade de acesso; menores de 19 anos em uso prolongado de ácido acetilsalicílico (risco de síndrome de Reye)</td></tr><tr><td>Doenças crônicas</td><td>Pneumopatias (inclusive asma), tuberculose, cardiopatias (exceto hipertensão isolada), nefropatias, hepatopatias, doenças hematológicas, diabetes e outros distúrbios metabólicos, transtornos neurológicos que comprometam a respiração</td></tr><tr><td>Imunossupressão</td><td>Prednisona acima de 20 mg/dia por mais de duas semanas, quimioterapia, anti-TNF, neoplasias, HIV/aids</td></tr><tr><td>Obesidade</td><td>Sobretudo IMC de 40 ou mais no adulto</td></tr></tbody></table></div><h3>Posologia</h3><div class=\"tab\"><table><thead><tr><th>Faixa</th><th>Tratamento (5 dias)</th><th>Quimioprofilaxia (10 dias)</th></tr></thead><tbody><tr><td>Adulto</td><td>75 mg de 12/12 h</td><td>75 mg uma vez ao dia</td></tr><tr><td>Criança acima de 1 ano, até 15 kg</td><td>30 mg de 12/12 h</td><td>30 mg uma vez ao dia</td></tr><tr><td>Acima de 15 kg até 23 kg</td><td>45 mg de 12/12 h</td><td>45 mg uma vez ao dia</td></tr><tr><td>Acima de 23 kg até 40 kg</td><td>60 mg de 12/12 h</td><td>60 mg uma vez ao dia</td></tr><tr><td>Acima de 40 kg</td><td>75 mg de 12/12 h</td><td>75 mg uma vez ao dia</td></tr><tr><td>Menor de 1 ano</td><td>3 mg/kg de 12/12 h (0 a 8 meses); 3,5 mg/kg de 12/12 h (9 a 11 meses)</td><td>Mesma dose por quilo, uma vez ao dia</td></tr></tbody></table></div><p>Fonte: Guia de manejo e tratamento de influenza (Ministério da Saúde, 2023), adaptado do CDC. Recém-nascidos têm doses próprias por idade gestacional, definidas pelo prescritor.</p><p><strong>Ajuste renal</strong> (guia 2023 e bula do Tamiflu®): com depuração entre 30 e 60 mL/min, 30 mg de 12/12 h no tratamento e 30 mg uma vez ao dia na profilaxia; entre 10 e 30 mL/min, 30 mg uma vez ao dia no tratamento e 30 mg em dias alternados na profilaxia; em hemodiálise, 30 mg após cada sessão. Estime a função pelo CKD-EPI 2021 e confira a faixa com o prescritor.</p><h3>Quimioprofilaxia</h3><p>O guia não recomenda profilaxia de rotina. As exceções são pessoas com imunodeficiência grave ou em uso de imunossupressores após contato com caso de influenza, e residentes de alto risco de instituições de longa permanência durante surto. Não se indica profilaxia se a última exposição ocorreu há mais de 48 horas. A vacina não deve ser trocada pela profilaxia.</p><h3>Efeitos adversos e orientação</h3><ul><li>Náusea e vômito são os efeitos mais comuns e diminuem quando a dose é tomada com alimento.</li><li>Há relatos raros de alterações neuropsiquiátricas (confusão, comportamento anormal), sobretudo em crianças e adolescentes; a família deve observar o paciente (bula do Tamiflu®).</li><li>Completar os cinco dias, mesmo com melhora.</li><li>O oseltamivir não trata covid-19, que tem sintomas iniciais parecidos.</li></ul><h3>Acesso no SUS</h3><p>O fosfato de oseltamivir faz parte do componente financiado e adquirido pelo Ministério da Saúde (anexo II da Rename), distribuído aos estados em cápsulas de 30 mg, 45 mg e 75 mg e dispensado nas unidades definidas por cada município, mediante receita simples (Nota Informativa 04/2026 da SES-RJ). Quando falta a apresentação pediátrica, a Nota Técnica nº 143/2019 do Ministério da Saúde orienta abrir a cápsula de 75 mg e dispersar o conteúdo em 5 mL de água potável, o que resulta em 15 mg/mL; o pó branco que não dissolve é excipiente. A mistura é preparada a cada dose.</p><div class=\"cx balcao\"><b>No balcão</b><p>Gestante de 28 semanas chega com receita de oseltamivir 75 mg de 12/12 h por 5 dias: febre, tosse e dor no corpo há três dias. Gestação é fator de risco, e o tratamento está indicado mesmo após 48 horas e mesmo vacinada. Dispense sem atraso, oriente tomar com alimento e completar os cinco dias.</p><p>Oriente procurar a maternidade ou o pronto atendimento se houver falta de ar, dor no peito, febre persistente, redução dos movimentos do bebê ou sangramento. Para a febre, paracetamol nas doses da bula; evite anti-inflamatórios no terceiro trimestre.</p></div>"
+  },
+  {
+   "id": "m12-covid",
+   "titulo": "Covid-19 e nirmatrelvir com ritonavir",
+   "resumo": "<p>A covid-19 é causada pelo SARS-CoV-2, um vírus de RNA. Com a vacinação e a imunidade de infecções prévias, a maioria dos casos é leve, mas idosos e imunossuprimidos continuam com risco de internação e morte. O tratamento antiviral ambulatorial no SUS é feito com <strong>nirmatrelvir associado ao ritonavir</strong> (Paxlovid®), indicado para reduzir esse risco nos grupos de maior vulnerabilidade.</p><h3>Mecanismo e papel do ritonavir</h3><p>O nirmatrelvir inibe a protease principal do SARS-CoV-2 (Mpro ou 3CL), que corta as poliproteínas virais em proteínas funcionais. Sem esse corte, o vírus não monta a maquinaria de replicação. O nirmatrelvir sozinho seria metabolizado rapidamente pelo CYP3A4; o <strong>ritonavir</strong>, em dose baixa, entra como potencializador farmacocinético: é um inibidor forte do CYP3A e mantém o nirmatrelvir em concentração eficaz. O ritonavir não tem ação útil contra o SARS-CoV-2 nessa dose, e é dele que vem quase todo o risco de interação.</p><h3>Quem recebe no SUS</h3><p>Pelos critérios do Ministério da Saúde (Nota Técnica nº 266/2022 e Nota Técnica Conjunta nº 23/2024, reproduzidas pela Secretaria Municipal de Saúde de São Paulo em abril de 2026), o público-alvo é:</p><ul><li>pessoas com 65 anos ou mais;</li><li>pessoas com 18 anos ou mais com imunossupressão, conforme a definição do guia do Ministério da Saúde.</li></ul><p>Além disso, independentemente da vacinação, é preciso ter covid-19 confirmada por teste rápido de antígeno ou teste molecular, estar entre o primeiro e o quinto dia de sintomas, ter quadro leve ou moderado e não usar oxigênio suplementar. Não se trata caso assintomático, não se inicia depois do quinto dia e não se usa por mais de cinco dias. A Anvisa não recomenda o uso em gestantes nem em pessoas com 40 kg ou menos.</p><h3>Posologia</h3><div class=\"tab\"><table><thead><tr><th>Situação</th><th>Dose</th><th>Observação</th></tr></thead><tbody><tr><td>Função renal normal ou TFG de 60 mL/min ou mais</td><td>Nirmatrelvir 300 mg (2 comprimidos de 150 mg) + ritonavir 100 mg (1 comprimido), juntos, de 12/12 h por 5 dias</td><td>30 comprimidos no total</td></tr><tr><td>TFG de 30 a 59 mL/min</td><td>Nirmatrelvir 150 mg + ritonavir 100 mg de 12/12 h por 5 dias</td><td>Conferir na receita a dose numérica de cada fármaco e orientar conforme a apresentação entregue</td></tr><tr><td>TFG abaixo de 30 mL/min</td><td>Bula brasileira: contraindicado. Bula FDA (2026): 300 mg + 100 mg no dia 1 e 150 mg + 100 mg uma vez ao dia nos dias 2 a 5, após a hemodiálise nos dias de sessão</td><td>Seguir a bula registrada no Brasil e o prescritor</td></tr><tr><td>Insuficiência hepática grave (Child-Pugh C)</td><td>Contraindicado</td><td>Bula</td></tr></tbody></table></div><p>Os comprimidos são tomados com ou sem alimento, sem partir. Se uma dose for esquecida e não tiverem passado 8 horas, tomar assim que lembrar; depois de 8 horas, pular e seguir o horário, sem dobrar. Os efeitos mais comuns são alteração do paladar (gosto metálico), diarreia, náusea, vômito, cefaleia e mialgia; reações de hipersensibilidade são raras e podem ser graves.</p><h3>Interações pelo ritonavir</h3><p>A bula norte-americana traz advertência em destaque: antes de prescrever, revisar <strong>todos</strong> os medicamentos em uso, inclusive fitoterápicos. Há dois grupos de risco. O primeiro são fármacos dependentes do CYP3A cuja concentração elevada causa reação grave: o ritonavir aumenta o nível deles. O segundo são indutores fortes do CYP3A, que derrubam o nirmatrelvir e podem causar falha e resistência; o efeito indutor persiste por dias após a suspensão, então o tratamento não pode começar logo depois de pará-los.</p><div class=\"tab\"><table><thead><tr><th>Grupo</th><th>Exemplos</th><th>Conduta (bula FDA, 2026)</th></tr></thead><tbody><tr><td>Contraindicados: concentração alta causa toxicidade grave</td><td>Amiodarona, dronedarona, flecainida, propafenona, quinidina; sinvastatina, lovastatina; triazolam, midazolam oral; colchicina em doença renal ou hepática; ergotamina; alfuzosina, silodosina; lurasidona, pimozida; ranolazina; eplerenona, finerenona, ivabradina; sildenafila na hipertensão pulmonar</td><td>Não associar; estatina pode ser suspensa temporariamente</td></tr><tr><td>Contraindicados: indutores fortes</td><td>Carbamazepina, fenitoína, fenobarbital, primidona, rifampicina, rifapentina, erva-de-são-joão, apalutamida, enzalutamida</td><td>Não associar; considerar outra estratégia</td></tr><tr><td>Evitar</td><td>Rivaroxabana, salmeterol, clopidogrel (menos ativação), ticagrelor</td><td>Discutir alternativa com o prescritor</td></tr><tr><td>Ajustar ou monitorizar</td><td>Atorvastatina (considerar suspender nos 5 dias); varfarina (RNI); apixabana e dabigatrana (conforme dose); tacrolimo e ciclosporina (nível sérico); quetiapina e clozapina (reduzir dose)</td><td>Plano definido pelo prescritor</td></tr><tr><td>Contraceptivo com etinilestradiol</td><td>Nível hormonal cai</td><td>Método não hormonal adicional durante o tratamento e até um ciclo menstrual após o fim</td></tr></tbody></table></div><p>A lista não é completa. Para triagem rápida, a nota de São Paulo recomenda a ferramenta gratuita COVID-19 Drug Interactions (Universidade de Liverpool), sempre confirmada na bula.</p><div class=\"cx alerta\"><b>Atenção</b><p>Idoso que usa sinvastatina, anlodipino e amiodarona e recebe receita de nirmatrelvir com ritonavir tem duas contraindicações na mesma receita. A amiodarona tem meia-vida muito longa, e a suspensão recente não elimina o risco. Contate o prescritor antes de dispensar; não oriente o paciente a suspender a amiodarona por conta própria.</p></div><h3>Acesso e dispensação</h3><p>O medicamento é adquirido e distribuído pelo Ministério da Saúde e dispensado nas farmácias de referência definidas por cada município. Em São Paulo, a nota técnica municipal (abril de 2026) exige prescrição médica em duas vias, da rede pública ou privada, e Cartão SUS ou CPF; o registro da saída é feito em comprimidos, com o número da notificação quando houver. Ao entregar, o farmacêutico explica a posologia (dois comprimidos rosa e um branco, juntos, de manhã e à noite), a conduta na dose esquecida, os sinais de piora e entrega o material de orientação.</p><div class=\"cx balcao\"><b>No balcão</b><p>Senhor de 72 anos com teste rápido positivo e sintomas há dois dias traz receita de nirmatrelvir com ritonavir. Antes de dispensar, pergunte por todos os medicamentos de uso contínuo (estatina, antiarrítmico, anticoagulante, benzodiazepínico para dormir, remédio para próstata, fitoterápicos) e confira a TFG mais recente pelo CKD-EPI 2021.</p><p>Se houver interação contraindicada ou TFG fora da faixa da dose prescrita, fale com o prescritor no mesmo dia, porque o prazo de início é de cinco dias. Oriente procurar atendimento se houver falta de ar, saturação baixa no oxímetro, dor no peito ou confusão.</p></div>"
+  },
+  {
+   "id": "m12-hiv-tarv",
+   "titulo": "Antirretrovirais e tratamento do HIV",
+   "resumo": "<p>O HIV é um retrovírus: seu RNA é copiado em DNA pela transcriptase reversa, e esse DNA é integrado ao genoma do linfócito T CD4 pela integrase. A partir daí a célula passa a produzir vírus, e uma parte dos linfócitos fica com o provírus latente, formando o reservatório que impede a cura. A terapia antirretroviral (Tarv) bloqueia a replicação, deixa a carga viral indetectável, recupera a imunidade e impede a transmissão sexual: <strong>indetectável é igual a intransmissível</strong> (I = I), conceito adotado pelo PCDT do Ministério da Saúde. O tratamento é contínuo, por toda a vida.</p><h3>Classes de antirretrovirais</h3><div class=\"tab\"><table><thead><tr><th>Classe</th><th>Como age</th><th>Exemplos</th><th>Cuidados principais</th></tr></thead><tbody><tr><td>Inibidores da transcriptase reversa análogos de nucleosídeo e nucleotídeo (ITRN)</td><td>Terminam a cadeia de DNA viral</td><td>Tenofovir (TDF), lamivudina (3TC), zidovudina (AZT), abacavir, entricitabina</td><td>TDF: rim e osso. AZT: anemia, neutropenia, intolerância digestiva. Abacavir: hipersensibilidade em quem tem HLA-B*5701</td></tr><tr><td>Inibidores não nucleosídeos (ITRNN)</td><td>Ligam-se a sítio alostérico da enzima</td><td>Efavirenz</td><td>Barreira genética baixa; resistência transmitida relevante no Brasil; tontura e sonhos vívidos nas primeiras semanas; indutor enzimático</td></tr><tr><td>Inibidores da integrase (INI)</td><td>Impedem a inserção do DNA viral</td><td>Dolutegravir (DTG), raltegravir</td><td>Cátions polivalentes reduzem a absorção; cefaleia e insônia; ganho de peso</td></tr><tr><td>Inibidores da protease potencializados (IP/r)</td><td>Impedem a maturação das partículas</td><td>Darunavir com ritonavir, atazanavir com ritonavir</td><td>Muitas interações pelo CYP3A; efeitos digestivos; alteração de lipídios</td></tr><tr><td>Inibidores de entrada</td><td>Bloqueiam o correceptor CCR5 ou a fusão</td><td>Maraviroque, enfuvirtida</td><td>Uso em resgate, por serviço especializado</td></tr></tbody></table></div><h3>Esquema inicial</h3><p>Pelo <strong>PCDT para manejo da infecção pelo HIV em adultos, Módulo 1 (Ministério da Saúde, 2024)</strong>, a Tarv é recomendada para todas as pessoas vivendo com HIV e deve começar no mesmo dia ou em até 7 dias após o diagnóstico (exceto em situações como tuberculose meníngea e meningite criptocócica, em que o início é adiado). O esquema inicial tem três fármacos, em dose única diária: dois ITRN e um terceiro de outra classe.</p><div class=\"tab\"><table><thead><tr><th>Situação</th><th>Esquema (PCDT HIV 2024)</th></tr></thead><tbody><tr><td>Preferencial</td><td>Tenofovir/lamivudina 300 mg/300 mg (1 comprimido) + dolutegravir 50 mg (1 comprimido), uma vez ao dia</td></tr><tr><td>Intolerância ou contraindicação ao dolutegravir</td><td>Trocar por darunavir 800 mg + ritonavir 100 mg, ou por efavirenz</td></tr><tr><td>Intolerância ou contraindicação ao tenofovir</td><td>Trocar por abacavir (HLA-B*5701 negativo) ou zidovudina</td></tr><tr><td>Coinfecção HIV e hepatite B</td><td>Manter tenofovir/lamivudina, única associação de ITRN recomendada nessa situação</td></tr></tbody></table></div><p>O tenofovir é contraindicado na doença renal prévia, na lesão renal aguda e com TFG estimada abaixo de 60 mL/min; pede cautela em osteoporose e em hipertensão ou diabetes não controlados. O dolutegravir inibe a secreção tubular de creatinina e pode elevar a creatinina sérica nas primeiras quatro semanas, com queda de 10% a 15% na TFG estimada, sem lesão renal real; o PCDT orienta não interpretar essa alteração isolada como nefrotoxicidade.</p><p>A <strong>terapia dupla</strong> (lamivudina com dolutegravir, de preferência em dose fixa combinada) não é usada para começar o tratamento. O PCDT a reserva para manutenção em adultos com carga viral indetectável nos últimos 12 meses, sem falha prévia, com boa adesão, sem hepatite B nem tuberculose, não gestantes e com TFG acima de 30 mL/min.</p><p>Outros pontos do PCDT de 2024 para acompanhar no seguimento: o dolutegravir se associa a maior ganho de peso do que o efavirenz, sobretudo quando combinado com tenofovir alafenamida e em mulheres negras; o abacavir deve ser evitado em quem tem risco cardiovascular elevado; e a zidovudina deve ser evitada com hemoglobina abaixo de 10 g/dL ou neutrófilos abaixo de 1.000 células/mm³. O tenofovir pode reduzir a densidade óssea, o que pesa em idosos e em quem já tem osteopenia.</p><h3>Interações que aparecem no balcão</h3><ul><li><strong>Cátions polivalentes</strong>: tomar o dolutegravir 2 horas antes ou 6 horas depois de antiácidos com alumínio ou magnésio e de polivitamínicos. Suplementos de cálcio ou ferro tomados com alimento podem ser usados junto (PCDT HIV 2024).</li><li><strong>Metformina</strong>: o dolutegravir aumenta a concentração; o PCDT sugere limitar a metformina a 1 g por dia no início e reavaliar ao suspender o dolutegravir.</li><li><strong>Indutores</strong>: com rifampicina, carbamazepina, oxcarbazepina, fenitoína ou fenobarbital que não possam ser trocados, o dolutegravir passa a 50 mg de 12/12 h; com rifampicina, a dose dobrada continua por duas semanas após o fim dela.</li><li>Dofetilida e pilsicainida são contraindicadas com dolutegravir.</li><li>Esquemas com ritonavir trazem as mesmas interações descritas para o nirmatrelvir com ritonavir (estatinas, antiarrítmicos, benzodiazepínicos, corticoide inalatório ou nasal metabolizado pelo CYP3A).</li></ul><p>O PCDT indica consultar interações em ferramenta específica para HIV antes de prescrever ou trocar esquemas, como o verificador da Universidade de Liverpool ou o site em espanhol e português citado no protocolo (interacoeshiv.huesped.org.ar).</p><h3>Adesão e dispensação</h3><p>A não adesão é a principal causa de falha da Tarv: com níveis baixos e intermitentes de fármaco, o vírus seleciona resistência. No Brasil, considera-se em interrupção de tratamento quem não retira os antirretrovirais 100 dias depois da data prevista no Siclom (Sistema de Controle Logístico de Medicamentos). Os antirretrovirais são fornecidos pelo SUS e entregues nas <strong>Unidades Dispensadoras de Medicamentos (UDM)</strong>, com registro no Siclom, que mostra em tempo real quem está atrasado na retirada.</p><p>Na UDM, o farmacêutico confere a prescrição, a dose e a função renal, revisa medicamentos e fitoterápicos de outros prescritores, orienta horário fixo, explica o que fazer na dose esquecida e nos efeitos das primeiras semanas, e busca ativamente quem atrasou. O sigilo do diagnóstico faz parte do atendimento, inclusive no balcão da farmácia comercial.</p><div class=\"cx balcao\"><b>No balcão</b><p>Homem de 45 anos, em uso de tenofovir/lamivudina com dolutegravir à noite, compra um antiácido com hidróxido de alumínio e magnésio e um polivitamínico. Oriente tomar o dolutegravir pelo menos 2 horas antes ou 6 horas depois desses produtos e anote o horário escolhido.</p><p>Se a azia for frequente, sugira avaliação pelo médico que acompanha o HIV, que pode tratar a causa sem interferir no esquema. Não comente o diagnóstico em voz alta nem com acompanhantes sem a autorização dele.</p></div>"
+  },
+  {
+   "id": "m12-prep-pep",
+   "titulo": "Profilaxia pré e pós-exposição ao HIV",
+   "resumo": "<p>Os antirretrovirais também previnem a infecção. Na <strong>profilaxia pré-exposição (PrEP)</strong>, a pessoa sem HIV toma o antirretroviral antes e durante o período de risco. Na <strong>profilaxia pós-exposição (PEP)</strong>, o esquema começa depois de uma exposição de risco (relação sexual sem preservativo, violência sexual, acidente com material biológico) e dura 28 dias. As duas fazem parte da prevenção combinada, junto com preservativo, testagem, tratamento das IST, vacina contra hepatite B e HPV e Tarv da parceria.</p><h3>PrEP oral</h3><p>A PrEP do SUS usa <strong>tenofovir desoproxila 300 mg com entricitabina 200 mg</strong> em dose fixa combinada. Pelo PCDT de PrEP oral (Portaria SECTICS/MS nº 55, de 14 de novembro de 2024; edição de 2025), a indicação não se restringe a populações-chave: pode receber PrEP qualquer pessoa a partir de 15 anos, com 35 kg ou mais, em contexto de vulnerabilidade ao HIV. Ficam excluídas as pessoas com teste de HIV reagente e as com depuração de creatinina estimada abaixo de 60 mL/min. Para estimar a função renal, o próprio PCDT aponta o CKD-EPI como mais acurado que o Cockcroft-Gault. A creatinina é opcional na primeira consulta para menores de 30 anos sem fator de risco renal e pode ser coletada no dia da primeira dispensação, sem atrasar o início.</p><div class=\"tab\"><table><thead><tr><th>Modalidade</th><th>Para quem</th><th>Como tomar</th><th>Início da proteção</th><th>Para parar com segurança</th></tr></thead><tbody><tr><td>Diária</td><td>Todas as pessoas com indicação; obrigatória em quem tem hepatite B crônica</td><td>2 comprimidos no primeiro dia e depois 1 por dia</td><td>7 dias para mulheres cis e pessoas em uso de estradiol; 2 horas para os demais grupos</td><td>Mulher cis e uso de estradiol: 1 por dia por mais 7 dias após a última relação; demais: mais 2 dias</td></tr><tr><td>Sob demanda (2+1+1)</td><td>Homens cis, pessoas não binárias designadas homens ao nascer, travestis e mulheres trans sem estradiol, com relações menos de 2 vezes por semana e planejáveis com 2 horas de antecedência</td><td>2 comprimidos de 2 a 24 h antes da relação, 1 comprimido 24 h depois da dose dupla e mais 1 comprimido 24 h depois</td><td>2 horas</td><td>Seguir 1 por dia até 48 h após a última relação</td></tr></tbody></table></div><p>Fonte: PCDT PrEP oral, Ministério da Saúde, 2025. A modalidade sob demanda não tem evidência de proteção para relação neovaginal receptiva; serve para relação anal e vaginal insertiva. Os efeitos adversos esperados (náusea, cefaleia, flatulência, fezes amolecidas, edema) costumam ser transitórios.</p><div class=\"cx alerta\"><b>Atenção</b><p>Em quem tem hepatite B crônica, o tenofovir e a entricitabina também suprimem o HBV. Parar a PrEP por conta própria, ou usá-la de forma intermitente, pode causar reativação grave da hepatite e resistência do HBV. Por isso o PCDT exige a modalidade diária e avaliação médica antes de interromper.</p></div><p><strong>Dispensação</strong>: a pessoa tem até 7 dias após o teste de HIV para retirar a PrEP na UDM, de preferência no mesmo dia. A primeira dispensação cobre 30 dias; caracterizada a adesão, as consultas passam a ser a cada 120 dias e as dispensações seguem a capacidade da unidade (em geral trimestrais ou quadrimestrais). No SUS, a PrEP pode ser prescrita por todos os profissionais legalmente habilitados à prescrição de medicamentos; na saúde privada, o PCDT respalda apenas a prescrição médica. Há também teleatendimento (TelePrEP) e uso do autoteste de HIV no seguimento.</p><p><strong>Interrupção</strong>: o PCDT prevê parar a PrEP no diagnóstico de HIV, por desejo do usuário, por efeito adverso relevante persistente ou por baixa adesão mantida mesmo após abordagem individual. Quem passa a ter exposições menos frequentes pode migrar para a modalidade sob demanda, quando elegível, antes de interromper. A creatinina de seguimento é repetida a cada 6 ou 12 meses; um valor isolado abaixo de 60 mL/min é repetido em outro dia antes de suspender, porque dieta rica em proteína, massa muscular e suplemento de creatina alteram o resultado.</p><p>Uma PrEP injetável de longa ação (cabotegravir) foi objeto de registro e de pedido de incorporação ao SUS em 2025; o PCDT vigente, porém, trata só da PrEP oral. Confira a situação no site do Departamento de HIV/Aids antes de orientar sobre ela.</p><h3>PEP</h3><p>Pelo <strong>PCDT de PEP de risco à infecção pelo HIV, IST e hepatites virais (Ministério da Saúde, 2024)</strong>, a PEP deve começar o mais cedo possível, no máximo até <strong>72 horas</strong> após a exposição; depois desse prazo não há benefício dos antirretrovirais, e a pessoa é acompanhada com testagem.</p><div class=\"tab\"><table><thead><tr><th>Situação</th><th>Esquema por 28 dias (PCDT PEP 2024)</th></tr></thead><tbody><tr><td>Preferencial</td><td>Tenofovir/lamivudina 300 mg/300 mg, 1 comprimido ao dia, + dolutegravir 50 mg, 1 comprimido ao dia</td></tr><tr><td>Impossibilidade de tenofovir</td><td>Zidovudina/lamivudina + dolutegravir</td></tr><tr><td>Impossibilidade de dolutegravir</td><td>Tenofovir/lamivudina + darunavir 800 mg + ritonavir 100 mg</td></tr><tr><td>Uso de rifampicina, carbamazepina, fenitoína ou fenobarbital</td><td>Tenofovir/lamivudina 1 vez ao dia + dolutegravir 50 mg de 12/12 h</td></tr><tr><td>Gestante, em qualquer idade gestacional</td><td>Esquema preferencial com dolutegravir</td></tr></tbody></table></div><p>O PCDT recomenda dispensar o esquema completo de 28 dias de uma vez, porque isso melhora a adesão; as embalagens têm 30 comprimidos e não devem ser fracionadas. A PEP também inclui avaliação para sífilis e outras IST, hepatites B e C e contracepção de emergência quando indicada. Ao fim dos 28 dias, quem continua exposto pode passar diretamente para a PrEP, depois de excluída a infecção.</p><div class=\"cx balcao\"><b>No balcão</b><p>Mulher de 22 anos, às 22 horas, pede \"o remédio para tomar depois\" após relação sem preservativo na noite anterior. Esclareça se ela procura contracepção de emergência, PEP ou as duas. Para a PEP, explique que é gratuita no SUS, que o prazo máximo é de 72 horas e que, quanto antes, melhor; indique o serviço de urgência ou o centro de testagem de referência ainda hoje.</p><p>A contracepção de emergência pode ser dispensada na farmácia conforme a regra vigente do produto, mas não protege contra HIV nem outras IST. Registre a orientação e ofereça informação sobre PrEP para o futuro.</p></div>"
+  },
+  {
+   "id": "m12-hepatites",
+   "titulo": "Antivirais das hepatites B e C",
+   "resumo": "<p>As hepatites virais crônicas B e C levam a cirrose e carcinoma hepatocelular ao longo de anos, muitas vezes sem sintomas. Os dois vírus têm biologia diferente, e isso muda o objetivo do tratamento. O vírus da hepatite B (HBV) mantém um DNA circular fechado no núcleo do hepatócito; os antivirais suprimem a replicação, mas raramente eliminam esse molde, e o tratamento costuma ser prolongado. O vírus da hepatite C (HCV) é um vírus de RNA sem forma latente: os antivirais de ação direta eliminam o vírus e curam.</p><h3>Hepatite B</h3><p>O <strong>PCDT de Hepatite B e Coinfecções</strong> (Portaria Sectics/MS nº 25, de 18 de maio de 2023) usa análogos de nucleosídeo e nucleotídeo, que inibem a polimerase/transcriptase reversa do HBV:</p><div class=\"tab\"><table><thead><tr><th>Fármaco</th><th>Dose diária padrão (adulto)</th><th>Observações do PCDT</th></tr></thead><tbody><tr><td>Tenofovir desoproxila (TDF)</td><td>300 mg uma vez ao dia</td><td>Único antiviral para hepatite B usado na gestação e na amamentação</td></tr><tr><td>Entecavir (ETV)</td><td>0,5 mg uma vez ao dia; 1 mg em cirrose Child-Pugh B ou C</td><td>Não recomendado na gestação e na amamentação</td></tr><tr><td>Tenofovir alafenamida (TAF)</td><td>25 mg uma vez ao dia</td><td>Não recomendado na gestação, na amamentação, em cirrose descompensada, com depuração abaixo de 15 mL/min sem hemodiálise e em menores de 18 anos</td></tr></tbody></table></div><p>Com depuração de creatinina abaixo de 60 mL/min, o PCDT indica os análogos alternativos (entecavir ou TAF). O TAF não pode ser associado a indutores da glicoproteína P (carbamazepina, oxcarbazepina, fenitoína, fenobarbital, primidona, rifampicina, rifabutina, rifapentina, erva-de-são-joão), e não se recomenda o uso com itraconazol ou cetoconazol, que elevam o nível do antiviral. Na pessoa com HBV e HIV, o tratamento é o próprio esquema com tenofovir/lamivudina.</p><p>O desfecho mais seguro para suspender o antiviral é a perda do HBsAg; por isso o PCDT recomenda manter o tratamento até a indetecção do HBsAg, mesmo em quem não tem cirrose. A suspensão sem orientação pode causar exacerbação (\"flare\") da hepatite, com risco de descompensação.</p><h3>Hepatite C</h3><p>Os antivirais de ação direta atuam em três alvos e são sempre combinados:</p><ul><li>inibidores da protease NS3/4A: glecaprevir;</li><li>inibidores da NS5A: velpatasvir, pibrentasvir, daclatasvir;</li><li>inibidor da polimerase NS5B: sofosbuvir, análogo de nucleotídeo.</li></ul><p>O <strong>PCDT de Hepatite C e Coinfecções</strong> publicado é de 2019; a Conitec abriu em 2026 consulta pública de atualização (relatório preliminar, CP 35), ainda sem texto final. Pelo PCDT de 2019, para adultos não tratados antes com esses antivirais, os esquemas incluem sofosbuvir/velpatasvir (1 comprimido ao dia) por 12 semanas, glecaprevir/pibrentasvir (3 comprimidos uma vez ao dia) por 8 semanas sem cirrose e 12 semanas com cirrose Child-Pugh A, e sofosbuvir com daclatasvir por 12 semanas, com ou sem ribavirina conforme cirrose e genótipo. Na cirrose descompensada (Child-Pugh B ou C), os esquemas são mais longos e o tratamento é feito só em centro de referência. O objetivo é a resposta virológica sustentada: HCV-RNA indetectável 12 ou 24 semanas após o fim do tratamento, o que equivale a cura.</p><div class=\"tab\"><table><thead><tr><th>Interação ou cuidado</th><th>O que acontece</th><th>Conduta</th></tr></thead><tbody><tr><td>Amiodarona com sofosbuvir</td><td>Bradicardia sintomática grave, sobretudo com betabloqueador ou cardiopatia</td><td>Associação não recomendada; sem alternativa, monitorização cardíaca (bula Epclusa®, FDA)</td></tr><tr><td>Antiácidos com velpatasvir</td><td>Menor absorção</td><td>Separar 4 horas</td></tr><tr><td>Omeprazol e outros IBP com velpatasvir</td><td>Menor absorção</td><td>Não recomendado; se indispensável, tomar o antiviral com alimento 4 horas antes de omeprazol 20 mg</td></tr><tr><td>Indutores (rifampicina, carbamazepina, fenitoína, erva-de-são-joão)</td><td>Queda do nível dos antivirais e risco de falha</td><td>Não associar</td></tr><tr><td>Hepatite B oculta ou ativa</td><td>Reativação do HBV durante ou após o tratamento da hepatite C</td><td>Testar HBV antes; monitorizar (advertência em destaque da bula)</td></tr><tr><td>Ribavirina</td><td>Teratogênica; anemia hemolítica</td><td>Contracepção eficaz e hemograma</td></tr></tbody></table></div><h3>O que o farmacêutico acompanha</h3><ul><li>Adesão diária: na hepatite B, a falha de tomadas favorece resistência e exacerbação; na hepatite C, interromper o curso de 8 ou 12 semanas reduz a chance de cura.</li><li>Interações a cada novo medicamento, inclusive os de venda livre (antiácidos, omeprazol, erva-de-são-joão); a ferramenta da Universidade de Liverpool tem módulo próprio para hepatites.</li><li>Função renal pelo CKD-EPI 2021 em quem usa tenofovir desoproxila, que pode causar dano tubular e perda óssea.</li><li>Gestação: tenofovir desoproxila é a opção da hepatite B; ribavirina exige contracepção eficaz.</li><li>Na coinfecção pelo vírus da hepatite delta, o PCDT de 2023 usa alfapeginterferona 2a, de aplicação subcutânea e acompanhamento especializado.</li></ul><h3>Acesso no SUS</h3><p>Entecavir, tenofovir desoproxila, tenofovir alafenamida, alfapeginterferona e imunoglobulina anti-hepatite B de uso ambulatorial fazem parte do Componente Estratégico da Assistência Farmacêutica (Cesaf): o Ministério da Saúde compra e distribui aos estados, e a dispensação ocorre com registro no <strong>Siclom-Hepatites</strong>, na rede de farmácias pactuada entre estados e municípios (PCDT Hepatite B, 2023). Os formulários de solicitação ficam no portal do Siclom-Hepatites. Para a hepatite C, o PCDT de 2019 remete à Rename vigente para o componente de cada medicamento, e a retirada ocorre nas farmácias de referência das hepatites definidas pelo estado. Esses antivirais não são encontrados no varejo comum, e o paciente que pergunta por eles na drogaria deve ser orientado a procurar o serviço que acompanha a hepatite.</p><div class=\"cx balcao\"><b>No balcão</b><p>Paciente em tratamento com sofosbuvir/velpatasvir pede omeprazol e um antiácido líquido para azia. Explique que o omeprazol reduz a absorção do antiviral e não é recomendado durante as 12 semanas; o antiácido pode ser usado se separado por 4 horas da dose do antiviral. Oriente falar com a equipe que trata a hepatite antes de iniciar qualquer medicamento para o estômago.</p><p>Pergunte também por amiodarona e por fitoterápicos. Se ele já usa omeprazol por indicação médica, registre e comunique o prescritor, que decide entre suspender ou seguir o esquema de horários da bula.</p></div>"
+  }
+ ],
+ "mapas": [
+  {
+   "id": "m12-mapa-alvos",
+   "titulo": "Ciclo viral e alvos",
+   "centro": "Alvos dos antivirais",
+   "ramos": [
+    {
+     "t": "Princípios",
+     "itens": [
+      "Virustático: a cura depende da imunidade",
+      "Latentes: herpes, HIV e HBV voltam se parar",
+      "HCV não fica latente: tratamento cura",
+      "Início precoce: maior benefício"
+     ]
+    },
+    {
+     "t": "Entrada e genoma",
+     "itens": [
+      "Maraviroque bloqueia CCR5; enfuvirtida, a fusão",
+      "Aciclovir: DNA polimerase do herpes",
+      "ITRN e ITRNN: transcriptase reversa",
+      "Sofosbuvir: polimerase NS5B do HCV"
+     ]
+    },
+    {
+     "t": "Integração e proteínas",
+     "itens": [
+      "Dolutegravir: integrase do HIV",
+      "Darunavir com ritonavir: protease do HIV",
+      "Nirmatrelvir: protease 3CL do SARS-CoV-2",
+      "Velpatasvir e pibrentasvir: NS5A do HCV"
+     ]
+    },
+    {
+     "t": "Liberação",
+     "itens": [
+      "Oseltamivir inibe a neuraminidase",
+      "Melhor efeito até 48 h dos sintomas"
+     ]
+    },
+    {
+     "t": "Pró-fármacos",
+     "itens": [
+      "Valaciclovir vira aciclovir",
+      "Valganciclovir vira ganciclovir",
+      "Fanciclovir vira penciclovir",
+      "TDF e TAF liberam tenofovir"
+     ]
+    },
+    {
+     "t": "Resistência",
+     "itens": [
+      "Monoterapia e falha de adesão selecionam mutantes",
+      "Barreira alta: dolutegravir, darunavir",
+      "Barreira baixa: efavirenz, lamivudina",
+      "Brasil: K103N tirou efavirenz da 1ª linha"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m12-mapa-agudos",
+   "titulo": "Herpes, influenza e covid-19",
+   "centro": "Antivirais de curso curto",
+   "ramos": [
+    {
+     "t": "Aciclovir e valaciclovir",
+     "itens": [
+      "Zóster: iniciar em até 72 h",
+      "Valaciclovir no zóster: 1 g de 8/8 h, 7 dias",
+      "Ajustar pela TFG (CKD-EPI 2021)",
+      "Idoso: confusão e lesão renal; hidratar"
+     ]
+    },
+    {
+     "t": "Ganciclovir",
+     "itens": [
+      "CMV em transplante e HIV avançado",
+      "Valganciclovir 900 mg com alimento",
+      "Mielotóxico e teratogênico: não partir"
+     ]
+    },
+    {
+     "t": "Oseltamivir",
+     "itens": [
+      "75 mg de 12/12 h por 5 dias",
+      "Fator de risco ou SRAG: tratar sempre",
+      "Ideal até 48 h; risco grave: mesmo depois",
+      "Profilaxia: 75 mg/dia por 10 dias"
+     ]
+    },
+    {
+     "t": "Nirmatrelvir/ritonavir",
+     "itens": [
+      "SUS: 65 anos ou mais e imunossuprimidos",
+      "Teste positivo e até o 5º dia de sintomas",
+      "300 mg + 100 mg de 12/12 h por 5 dias",
+      "TFG 30 a 59: 150 mg + 100 mg"
+     ]
+    },
+    {
+     "t": "Ritonavir",
+     "itens": [
+      "Inibidor forte do CYP3A",
+      "Contraindica sinvastatina e amiodarona",
+      "Indutores anulam o efeito: rifampicina",
+      "Etinilestradiol cai: método adicional"
+     ]
+    },
+    {
+     "t": "Farmacêutico",
+     "itens": [
+      "Conferir TFG, gestação e lista de remédios",
+      "Receita comum: fora da IN 360/2025",
+      "Orientar sinais de alarme respiratório"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m12-mapa-hiv-hepatites",
+   "titulo": "HIV e hepatites virais",
+   "centro": "HIV e hepatites",
+   "ramos": [
+    {
+     "t": "Tarv inicial (2024)",
+     "itens": [
+      "TDF/3TC + DTG, uma vez ao dia",
+      "Iniciar no mesmo dia ou em até 7 dias",
+      "TDF: não usar com TFG abaixo de 60",
+      "DTG/3TC só na manutenção"
+     ]
+    },
+    {
+     "t": "Interações do DTG",
+     "itens": [
+      "Antiácido: DTG 2 h antes ou 6 h depois",
+      "Metformina: até 1 g por dia no início",
+      "Rifampicina: DTG 50 mg de 12/12 h"
+     ]
+    },
+    {
+     "t": "PrEP oral",
+     "itens": [
+      "TDF/FTC: 2 comprimidos no 1º dia, depois 1",
+      "Sob demanda 2+1+1 em grupos definidos",
+      "Proteção: 7 dias (mulher cis) ou 2 h",
+      "Excluir se ClCr abaixo de 60 mL/min"
+     ]
+    },
+    {
+     "t": "PEP",
+     "itens": [
+      "Até 72 h após a exposição",
+      "TDF/3TC + DTG por 28 dias",
+      "Entregar os 28 dias de uma vez"
+     ]
+    },
+    {
+     "t": "Hepatite B",
+     "itens": [
+      "TDF 300 mg, entecavir 0,5 mg ou TAF 25 mg",
+      "TDF: único na gestação e amamentação",
+      "Parar sem orientação: risco de flare"
+     ]
+    },
+    {
+     "t": "Hepatite C",
+     "itens": [
+      "Sofosbuvir/velpatasvir por 12 semanas",
+      "Glecaprevir/pibrentasvir: 8 semanas sem cirrose",
+      "Amiodarona + sofosbuvir: bradicardia",
+      "Testar HBV antes: risco de reativação"
+     ]
+    }
+   ]
+  }
+ ],
+ "apoio": [
+  {
+   "tipo": "tabela",
+   "id": "m12-tab-balcao",
+   "titulo": "Antivirais orais: posologia, alimento e interação",
+   "colunas": [
+    "Fármaco",
+    "Posologia usual adulto",
+    "Com ou sem alimento",
+    "Interação principal"
+   ],
+   "linhas": [
+    [
+     "Aciclovir",
+     "200 a 800 mg, 2 a 5 vezes ao dia conforme indicação",
+     "Indiferente; hidratação",
+     "Fármacos nefrotóxicos"
+    ],
+    [
+     "Valaciclovir",
+     "500 mg a 2 g, 1 a 3 vezes ao dia conforme indicação",
+     "Indiferente; hidratação",
+     "Fármacos nefrotóxicos"
+    ],
+    [
+     "Fanciclovir",
+     "125 a 500 mg, 2 a 3 vezes ao dia; 1,5 g em dose única no herpes labial (bula FDA)",
+     "Indiferente",
+     "Poucas relevantes; ajuste renal"
+    ],
+    [
+     "Oseltamivir",
+     "75 mg de 12/12 h por 5 dias",
+     "Com alimento reduz náusea",
+     "Poucas relevantes"
+    ],
+    [
+     "Valganciclovir",
+     "900 mg 1 ou 2 vezes ao dia conforme fase",
+     "Com alimento; não partir",
+     "Mielotóxicos (zidovudina, micofenolato)"
+    ],
+    [
+     "Nirmatrelvir com ritonavir",
+     "300 mg + 100 mg de 12/12 h por 5 dias",
+     "Indiferente",
+     "Substratos e indutores do CYP3A (ver tabela própria)"
+    ],
+    [
+     "Tenofovir/lamivudina + dolutegravir",
+     "1 comprimido de cada, uma vez ao dia",
+     "Indiferente",
+     "Antiácidos e polivitamínicos; metformina; indutores"
+    ]
+   ],
+   "nota": "Doses de adulto com função renal normal. Fontes: PCDT IST 2022, bulas de Zovirax®, Valtrex®, Penvir® e Tamiflu®, bulas FDA (2025 e 2026), PCDT HIV 2024."
+  },
+  {
+   "tipo": "tabela",
+   "id": "m12-tab-renal",
+   "titulo": "Ajuste renal dos antivirais mais dispensados",
+   "colunas": [
+    "Fármaco e esquema habitual",
+    "Função renal (mL/min)",
+    "Dose ajustada",
+    "Fonte"
+   ],
+   "linhas": [
+    [
+     "Aciclovir 800 mg cinco vezes ao dia",
+     "10 a 25<br>Abaixo de 10",
+     "800 mg de 8/8 h<br>800 mg de 12/12 h",
+     "Bula FDA, 2026"
+    ],
+    [
+     "Valaciclovir 1 g de 8/8 h",
+     "30 a 49<br>10 a 29<br>Abaixo de 10",
+     "1 g de 12/12 h<br>1 g uma vez ao dia<br>500 mg uma vez ao dia",
+     "Bula FDA, 2026"
+    ],
+    [
+     "Fanciclovir 500 mg de 8/8 h",
+     "40 a 59<br>20 a 39<br>Abaixo de 20",
+     "500 mg de 12/12 h<br>500 mg uma vez ao dia<br>250 mg uma vez ao dia",
+     "Bula FDA, 2025"
+    ],
+    [
+     "Oseltamivir 75 mg de 12/12 h",
+     "30 a 60<br>10 a 30<br>Hemodiálise",
+     "30 mg de 12/12 h<br>30 mg uma vez ao dia<br>30 mg após cada sessão",
+     "Guia de influenza, MS, 2023"
+    ],
+    [
+     "Nirmatrelvir 300 mg + ritonavir 100 mg",
+     "30 a 59<br>Abaixo de 30",
+     "150 mg + 100 mg de 12/12 h<br>Contraindicado na bula brasileira",
+     "Bula FDA, 2026; bula brasileira"
+    ],
+    [
+     "Tenofovir desoproxila (Tarv e PrEP)",
+     "Abaixo de 60",
+     "Não iniciar; usar alternativa",
+     "PCDT HIV 2024; PCDT PrEP 2025"
+    ]
+   ],
+   "nota": "Estime a TFG pelo CKD-EPI 2021, sem coeficiente de raça. As bulas usam faixas de depuração de creatinina; nos limites de faixa, decida com o prescritor."
+  },
+  {
+   "tipo": "tabela",
+   "id": "m12-tab-acesso",
+   "titulo": "Canal de acesso aos antivirais no SUS",
+   "colunas": [
+    "Medicamento",
+    "Onde é dispensado",
+    "O que o paciente apresenta",
+    "Base"
+   ],
+   "linhas": [
+    [
+     "Antirretrovirais (tratamento do HIV)",
+     "Unidade Dispensadora de Medicamentos (UDM), com registro no Siclom",
+     "Prescrição do serviço que acompanha o HIV",
+     "PCDT HIV 2024"
+    ],
+    [
+     "PrEP oral (TDF/FTC)",
+     "UDM; retirada em até 7 dias após o teste de HIV",
+     "Prescrição e teste de HIV recente",
+     "PCDT PrEP 2025"
+    ],
+    [
+     "PEP (TDF/3TC + DTG)",
+     "Serviço que atendeu a exposição ou UDM de referência",
+     "Prescrição; esquema de 28 dias entregue completo",
+     "PCDT PEP 2024"
+    ],
+    [
+     "Hepatite B (TDF, entecavir, TAF)",
+     "Farmácias pactuadas, com registro no Siclom-Hepatites (Cesaf)",
+     "Prescrição e formulário de solicitação do Siclom-Hepatites",
+     "PCDT Hepatite B 2023"
+    ],
+    [
+     "Hepatite C (antivirais de ação direta)",
+     "Farmácias de referência das hepatites definidas pelo estado",
+     "Conforme o PCDT e a Rename vigente",
+     "PCDT Hepatite C 2019"
+    ],
+    [
+     "Oseltamivir",
+     "Unidades definidas pelo município (financiamento do Ministério da Saúde, anexo II da Rename)",
+     "Receita simples",
+     "Nota Informativa 04/2026, SES-RJ"
+    ],
+    [
+     "Nirmatrelvir com ritonavir",
+     "Farmácias de referência do município",
+     "Prescrição (em São Paulo, 2 vias) e Cartão SUS ou CPF",
+     "NT 05/2022 da SMS-SP, abril de 2026"
+    ]
+   ],
+   "nota": "Os fluxos locais variam; confirme na secretaria de saúde do município. Aciclovir, valaciclovir, fanciclovir e valganciclovir também são vendidos na farmácia comercial, com receita comum."
+  },
+  {
+   "tipo": "tabela",
+   "id": "m12-tab-ritonavir",
+   "titulo": "Interações do nirmatrelvir com ritonavir na farmácia",
+   "colunas": [
+    "Medicamento em uso",
+    "Efeito",
+    "Conduta (bula FDA, 2026)"
+   ],
+   "linhas": [
+    [
+     "Sinvastatina, lovastatina",
+     "Miopatia e rabdomiólise",
+     "Contraindicado; suspensão temporária pelo prescritor"
+    ],
+    [
+     "Atorvastatina",
+     "Nível aumentado",
+     "Considerar suspender nos 5 dias"
+    ],
+    [
+     "Amiodarona, dronedarona, flecainida, propafenona",
+     "Arritmia grave",
+     "Contraindicado"
+    ],
+    [
+     "Midazolam oral, triazolam",
+     "Sedação prolongada, depressão respiratória",
+     "Contraindicado"
+    ],
+    [
+     "Colchicina com doença renal ou hepática",
+     "Toxicidade grave",
+     "Contraindicado"
+    ],
+    [
+     "Rivaroxabana",
+     "Sangramento",
+     "Evitar"
+    ],
+    [
+     "Varfarina",
+     "RNI pode subir ou cair",
+     "Monitorizar o RNI"
+    ],
+    [
+     "Tacrolimo, ciclosporina",
+     "Nível alto e nefrotoxicidade",
+     "Só com dosagem sérica e ajuste"
+    ],
+    [
+     "Salmeterol",
+     "Prolongamento do QT, taquicardia",
+     "Evitar"
+    ],
+    [
+     "Carbamazepina, fenitoína, fenobarbital, rifampicina, erva-de-são-joão",
+     "Queda do nirmatrelvir, falha e resistência",
+     "Contraindicado"
+    ],
+    [
+     "Anticoncepcional com etinilestradiol",
+     "Menor efeito contraceptivo",
+     "Método adicional até um ciclo após o fim"
+    ]
+   ],
+   "nota": "Lista parcial. Confirme sempre na bula e em ferramenta de interações para covid-19."
+  },
+  {
+   "tipo": "fluxo",
+   "id": "m12-fluxo-nirmatrelvir",
+   "titulo": "Conferência da receita de nirmatrelvir com ritonavir",
+   "passos": [
+    {
+     "t": "Paciente apresenta receita de nirmatrelvir com ritonavir",
+     "tipo": "inicio"
+    },
+    {
+     "t": "Tem 65 anos ou mais, ou 18 anos ou mais com imunossupressão, teste positivo e até 5 dias de sintomas?",
+     "tipo": "decisao",
+     "sim": "Seguir para a revisão de medicamentos",
+     "nao": "Contatar o prescritor: fora dos critérios do SUS"
+    },
+    {
+     "t": "Levantar todos os medicamentos, fitoterápicos e suplementos em uso",
+     "tipo": "acao"
+    },
+    {
+     "t": "Há fármaco contraindicado (estatina sem pausa, antiarrítmico, indutor forte, benzodiazepínico oral de risco)?",
+     "tipo": "decisao",
+     "sim": "Não dispensar; falar com o prescritor no mesmo dia",
+     "nao": "Conferir a função renal"
+    },
+    {
+     "t": "TFG pelo CKD-EPI 2021 está entre 30 e 59 mL/min?",
+     "tipo": "decisao",
+     "sim": "Confirmar dose de 150 mg + 100 mg de 12/12 h",
+     "nao": "Abaixo de 30: discutir com o prescritor; 60 ou mais: dose padrão"
+    },
+    {
+     "t": "Gestante ou peso de 40 kg ou menos?",
+     "tipo": "decisao",
+     "sim": "Contatar o prescritor (uso não recomendado pela Anvisa)",
+     "nao": "Dispensar"
+    },
+    {
+     "t": "Orientar: 2 rosa e 1 branco juntos, de 12/12 h; dose esquecida até 8 h; completar 5 dias",
+     "tipo": "acao"
+    },
+    {
+     "t": "Orientar sinais de piora: falta de ar, saturação baixa, dor no peito, confusão",
+     "tipo": "alerta"
+    },
+    {
+     "t": "Registrar a dispensação e as intervenções no sistema oficial",
+     "tipo": "fim"
+    }
+   ]
+  },
+  {
+   "tipo": "checklist",
+   "id": "m12-checklist-arv",
+   "titulo": "Checklist da dispensação de antirretroviral, PrEP e PEP",
+   "itens": [
+    "Conferir nome, dose e esquema contra o PCDT vigente",
+    "Conferir a TFG pelo CKD-EPI 2021 quando houver tenofovir",
+    "Na PrEP, conferir teste de HIV não reagente com até 7 dias",
+    "Na PEP, conferir que a exposição ocorreu há menos de 72 horas",
+    "Entregar a PEP de 28 dias completa, sem fracionar",
+    "Perguntar por antiácidos, polivitamínicos, metformina e anticonvulsivantes",
+    "Perguntar por fitoterápicos, sobretudo erva-de-são-joão",
+    "Verificar hepatite B antes de orientar PrEP sob demanda",
+    "Explicar horário fixo e conduta na dose esquecida",
+    "Combinar a data de retorno e registrar a dispensação no Siclom",
+    "Garantir atendimento reservado e sigilo do diagnóstico"
+   ]
+  },
+  {
+   "tipo": "cartoes",
+   "id": "m12-cartoes",
+   "titulo": "Cartões de revisão: antivirais",
+   "itens": [
+    {
+     "f": "Por que o aciclovir é seletivo?",
+     "v": "O primeiro fosfato depende da timidina quinase do vírus herpes, presente só na célula infectada."
+    },
+    {
+     "f": "Prazo para iniciar antiviral no herpes-zóster",
+     "v": "Até 72 horas após o surgimento das lesões."
+    },
+    {
+     "f": "Valaciclovir no zóster, adulto com função renal normal",
+     "v": "1 g de 8/8 h por 7 dias."
+    },
+    {
+     "f": "Valaciclovir no zóster com TFG de 10 a 29 mL/min",
+     "v": "1 g uma vez ao dia (bula FDA)."
+    },
+    {
+     "f": "Dois riscos do aciclovir e do valaciclovir no idoso",
+     "v": "Lesão renal aguda e neurotoxicidade (confusão, alucinação)."
+    },
+    {
+     "f": "Toxicidade que limita o ganciclovir",
+     "v": "Mielotoxicidade: leucopenia, neutropenia, anemia e plaquetopenia."
+    },
+    {
+     "f": "Oseltamivir no adulto: tratamento e profilaxia",
+     "v": "75 mg de 12/12 h por 5 dias; profilaxia 75 mg uma vez ao dia por 10 dias."
+    },
+    {
+     "f": "Gestante com síndrome gripal: tratar?",
+     "v": "Sim, mesmo vacinada e mesmo depois de 48 horas (guia de influenza 2023)."
+    },
+    {
+     "f": "Público do nirmatrelvir com ritonavir no SUS",
+     "v": "65 anos ou mais e adultos imunossuprimidos, até o 5º dia de sintomas."
+    },
+    {
+     "f": "Função do ritonavir no Paxlovid®",
+     "v": "Inibir o CYP3A e manter o nirmatrelvir em nível eficaz."
+    },
+    {
+     "f": "Esquema inicial preferencial no HIV (PCDT 2024)",
+     "v": "Tenofovir/lamivudina + dolutegravir, uma vez ao dia."
+    },
+    {
+     "f": "Dolutegravir e antiácido com magnésio",
+     "v": "Dolutegravir 2 horas antes ou 6 horas depois do antiácido."
+    },
+    {
+     "f": "PrEP sob demanda: esquema",
+     "v": "2+1+1: 2 comprimidos de 2 a 24 h antes, 1 em 24 h e mais 1 em 48 h."
+    },
+    {
+     "f": "Prazo e duração da PEP",
+     "v": "Iniciar até 72 horas da exposição e manter por 28 dias."
+    },
+    {
+     "f": "Antiviral da hepatite B na gestação",
+     "v": "Tenofovir desoproxila 300 mg uma vez ao dia."
+    },
+    {
+     "f": "Interação grave do sofosbuvir",
+     "v": "Amiodarona: bradicardia sintomática grave."
+    },
+    {
+     "f": "Antivirais retêm receita na farmácia?",
+     "v": "Não: não constam da IN 360/2025; receita comum sem retenção."
+    }
+   ]
+  },
+  {
+   "tipo": "questoes",
+   "id": "m12-questoes",
+   "titulo": "Questões de fixação: antivirais",
+   "itens": [
+    {
+     "p": "Mulher de 80 anos, TFG de 22 mL/min/1,73 m² pelo CKD-EPI 2021, traz receita de valaciclovir 1 g de 8/8 h por 7 dias para herpes-zóster. Qual é a conduta adequada do farmacêutico?",
+     "alt": [
+      "Dispensar como prescrito, porque o valaciclovir não tem eliminação renal relevante",
+      "Trocar por conta própria para aciclovir creme, que não exige ajuste",
+      "Contatar o prescritor, pois a bula indica 1 g uma vez ao dia nessa faixa",
+      "Dispensar e orientar tomar a dose total de uma vez pela manhã",
+      "Recusar a dispensação, porque valaciclovir é contraindicado em idosos"
+     ],
+     "c": 2,
+     "com": "Na faixa de 10 a 29 mL/min, a bula norte-americana do valaciclovir (2026) indica 1 g uma vez ao dia no zóster. O aciclovir formado é eliminado pelo rim, e a dose excessiva causa neurotoxicidade e lesão renal, sobretudo em idosos. O farmacêutico não troca o tratamento sozinho, e a idade não contraindica o fármaco; o caminho é falar com o prescritor."
+    },
+    {
+     "p": "Sobre o mecanismo dos antivirais, assinale a alternativa correta.",
+     "alt": [
+      "O oseltamivir é pró-fármaco e inibe a neuraminidase do influenza",
+      "O aciclovir é fosforilado primeiro por quinases humanas em qualquer célula",
+      "O ritonavir no Paxlovid® inibe diretamente a protease do SARS-CoV-2",
+      "O sofosbuvir inibe a protease NS3/4A do vírus da hepatite C",
+      "O dolutegravir inibe a transcriptase reversa por ligação alostérica"
+     ],
+     "c": 0,
+     "com": "O oseltamivir é um éster hidrolisado no fígado a carboxilato de oseltamivir, inibidor da neuraminidase. O aciclovir depende da timidina quinase viral para o primeiro fosfato. O ritonavir é potencializador farmacocinético (inibe o CYP3A). O sofosbuvir inibe a polimerase NS5B. O dolutegravir é inibidor da integrase; ligação alostérica à transcriptase reversa é o mecanismo dos ITRNN."
+    },
+    {
+     "p": "Homem de 35 anos, sem doenças crônicas, com síndrome gripal há 4 dias, sem falta de ar, pergunta se deve tomar oseltamivir. Pelo guia de influenza do Ministério da Saúde (2023), é correto afirmar que:",
+     "alt": [
+      "o oseltamivir é obrigatório para todo caso de síndrome gripal",
+      "a profilaxia com oseltamivir deve ser feita pelos moradores da casa",
+      "o zanamivir inalatório é a primeira escolha nesse caso",
+      "sem fator de risco, a indicação depende do julgamento clínico",
+      "o oseltamivir é dispensado sem receita durante a sazonalidade"
+     ],
+     "c": 3,
+     "com": "O guia de 2023 indica o oseltamivir para todo caso de SRAG e para síndrome gripal com fator de risco. Sem fator de risco, a prescrição é considerada pelo julgamento clínico, de preferência nas primeiras 48 horas. A quimioprofilaxia não é rotina e tem indicações restritas. O zanamivir deixou de ser recomendado. O oseltamivir é de venda sob prescrição, e no SUS é dispensado com receita simples."
+    },
+    {
+     "p": "Idoso de 74 anos com covid-19 confirmada há 2 dias recebe receita de nirmatrelvir com ritonavir. Usa sinvastatina 40 mg, losartana e metformina. Qual é a orientação correta?",
+     "alt": [
+      "Dispensar e orientar tomar a sinvastatina em dobro",
+      "A sinvastatina é contraindicada; o prescritor deve pausá-la",
+      "A losartana é contraindicada com ritonavir e deve ser trocada",
+      "A metformina deve ser limitada a 1 g por dia durante os 5 dias",
+      "Não há interação relevante, porque o ritonavir é usado em dose baixa e por poucos dias"
+     ],
+     "c": 1,
+     "com": "O ritonavir é inibidor forte do CYP3A; a sinvastatina, dependente dessa via, fica contraindicada pelo risco de miopatia, e a bula FDA (2026) admite suspendê-la temporariamente para permitir o tratamento. A losartana não está entre os contraindicados. O limite de 1 g de metformina é orientação do PCDT de HIV para o dolutegravir. Mesmo em dose baixa, o ritonavir causa interações graves."
+    },
+    {
+     "p": "Pelo PCDT para manejo da infecção pelo HIV em adultos (Ministério da Saúde, 2024), o esquema inicial preferencial é:",
+     "alt": [
+      "zidovudina/lamivudina com efavirenz, de 12/12 horas",
+      "lamivudina com dolutegravir em dose fixa combinada, para todos os adultos",
+      "abacavir com lamivudina e darunavir potencializado",
+      "tenofovir/lamivudina com efavirenz, em um comprimido",
+      "tenofovir/lamivudina com dolutegravir, uma vez ao dia"
+     ],
+     "c": 4,
+     "com": "O PCDT de 2024 define tenofovir/lamivudina + dolutegravir como esquema preferencial. O efavirenz deixou de ser preferencial pela resistência transmitida no Brasil. A terapia dupla lamivudina/dolutegravir não é usada no início do tratamento, só na manutenção com critérios. Abacavir e zidovudina são substitutos do tenofovir quando ele não pode ser usado."
+    },
+    {
+     "p": "Pessoa em uso de dolutegravir pergunta como tomar o antiácido de hidróxido de alumínio e magnésio que comprou para azia. A orientação compatível com o PCDT de HIV é:",
+     "alt": [
+      "tomar os dois juntos, porque o antiácido protege o estômago do antirretroviral",
+      "suspender o dolutegravir enquanto usar o antiácido",
+      "tomar o dolutegravir 2 h antes ou 6 h depois do antiácido",
+      "trocar o antiácido por polivitamínico com magnésio",
+      "tomar o antiácido 30 minutos depois do dolutegravir"
+     ],
+     "c": 2,
+     "com": "Cátions polivalentes (alumínio, magnésio, polivitamínicos) formam complexos com o dolutegravir e reduzem sua absorção. O PCDT de 2024 orienta tomar o dolutegravir 2 horas antes ou 6 horas depois desses produtos. Suspender o antirretroviral põe a supressão viral em risco, polivitamínico também contém cátions, e 30 minutos de intervalo é insuficiente."
+    },
+    {
+     "p": "Rapaz de 24 anos, cis, com relações sexuais esporádicas e planejáveis, quer usar PrEP sob demanda. Ele tem hepatite B crônica. Pelo PCDT de PrEP oral (2025), a conduta é:",
+     "alt": [
+      "indicar a PrEP diária, pelo risco de reativação do HBV",
+      "indicar o esquema 2+1+1 sem restrição, porque ele é homem cis",
+      "contraindicar qualquer PrEP enquanto houver HBsAg reagente",
+      "indicar PrEP sob demanda com entecavir no lugar do tenofovir",
+      "usar a PEP repetidamente no lugar da PrEP"
+     ],
+     "c": 0,
+     "com": "O PCDT de PrEP determina a modalidade diária para pessoas com hepatite B crônica, pela possibilidade de resistência do HBV ao tenofovir e de exacerbação com uso intermitente. A hepatite B não contraindica a PrEP. Entecavir não é PrEP para HIV, e a PEP é para exposições pontuais, não substitui a profilaxia contínua."
+    },
+    {
+     "p": "Mulher procura a farmácia 50 horas depois de uma relação sexual sem preservativo com parceiro de sorologia desconhecida. Sobre a PEP, é correto afirmar:",
+     "alt": [
+      "Passadas 48 horas, a PEP não tem mais indicação",
+      "A PEP é vendida na drogaria com receita de controle especial",
+      "O esquema dura 7 dias e pode ser fracionado em duas retiradas",
+      "Ainda há prazo: a PEP pode começar até 72 horas",
+      "A contracepção de emergência também protege contra o HIV"
+     ],
+     "c": 3,
+     "com": "Pelo PCDT de PEP (2024), a profilaxia começa o mais cedo possível, com limite de 72 horas; após esse prazo não há benefício. O esquema preferencial (tenofovir/lamivudina + dolutegravir) dura 28 dias e deve ser entregue completo. A PEP é oferecida pelo SUS, e a contracepção de emergência não previne IST."
+    },
+    {
+     "p": "Paciente em tratamento de hepatite C com sofosbuvir/velpatasvir também usa amiodarona há meses. O risco principal dessa associação é:",
+     "alt": [
+      "hepatotoxicidade aguda por soma de efeitos",
+      "bradicardia sintomática grave",
+      "redução do efeito antiarrítmico da amiodarona",
+      "hipotireoidismo provocado pelo velpatasvir",
+      "nefrotoxicidade por cristalização tubular"
+     ],
+     "c": 1,
+     "com": "A bula do sofosbuvir/velpatasvir (Epclusa®, FDA) adverte para bradicardia sintomática grave com amiodarona, sobretudo com betabloqueador ou cardiopatia, e não recomenda a associação; sem alternativa, exige monitorização cardíaca. As demais opções não correspondem ao efeito descrito em bula."
+    },
+    {
+     "p": "Sobre o tratamento da hepatite B pelo PCDT de 2023, assinale a correta.",
+     "alt": [
+      "O entecavir é o antiviral de escolha na gestação",
+      "O TAF pode ser associado à carbamazepina sem ajuste",
+      "O tratamento deve ser suspenso assim que a carga viral ficar indetectável",
+      "Os antivirais são vendidos na farmácia comercial com receita comum",
+      "O tenofovir desoproxila é o único usado na gestação e na amamentação"
+     ],
+     "c": 4,
+     "com": "O PCDT de Hepatite B (2023) aponta o TDF como único antiviral para hepatite B na gestação e na amamentação; entecavir e TAF não são recomendados nessas situações. O TAF é contraindicado com indutores da glicoproteína P, como a carbamazepina. A suspensão mais segura é após a indetecção do HBsAg, e os medicamentos são dispensados pelo Cesaf, com registro no Siclom-Hepatites."
+    },
+    {
+     "p": "Um técnico vai partir comprimidos de valganciclovir 450 mg para facilitar a deglutição de um paciente transplantado. O farmacêutico deve orientar que:",
+     "alt": [
+      "pode partir, desde que tome com bastante água",
+      "pode triturar e misturar ao suco, sem nenhuma precaução especial",
+      "não se parte nem tritura: o fármaco é perigoso",
+      "deve partir e tomar em jejum para melhor absorção",
+      "a toxicidade só existe na forma intravenosa"
+     ],
+     "c": 2,
+     "com": "A bula do valganciclovir (FDA, 2026) orienta não partir nem triturar o comprimido e tomá-lo com alimento. O fármaco tem advertência de toxicidade hematológica, fetal, mutagênica e carcinogênica, e é manipulado como medicamento perigoso. A forma oral tem os mesmos riscos do ganciclovir intravenoso."
+    }
+   ]
+  }
+ ],
+ "fontes": [
+  "Ministério da Saúde (Brasil). Protocolo Clínico e Diretrizes Terapêuticas para Manejo da Infecção pelo HIV em Adultos. Módulo 1: Tratamento. Brasília, 2024. https://www.gov.br/aids/pt-br/central-de-conteudo/pcdts",
+  "Ministério da Saúde (Brasil). Protocolo Clínico e Diretrizes Terapêuticas para Profilaxia Pré-Exposição (PrEP) Oral à Infecção pelo HIV. Portaria SECTICS/MS nº 55, de 14 de novembro de 2024. Brasília, 2025.",
+  "Ministério da Saúde (Brasil). Protocolo Clínico e Diretrizes Terapêuticas para Profilaxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais. Brasília, 2024.",
+  "Ministério da Saúde (Brasil). Protocolo Clínico e Diretrizes Terapêuticas de Hepatite B e Coinfecções. Portaria Sectics/MS nº 25, de 18 de maio de 2023. Brasília, 2023.",
+  "Ministério da Saúde (Brasil). Protocolo Clínico e Diretrizes Terapêuticas para Hepatite C e Coinfecções. Brasília, 2019. Conitec: relatório preliminar de atualização (CP 35), página consultada em outubro de 2026.",
+  "Ministério da Saúde (Brasil). Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis (PCDT IST). Brasília, 2022.",
+  "Ministério da Saúde (Brasil). Guia de manejo e tratamento de influenza 2023. Brasília, 2023.",
+  "Secretaria de Estado de Saúde do Rio de Janeiro. Nota Informativa 04/2026 COOGAF/SUPAFIE/SAS/SES-RJ: orientações gerais sobre o medicamento oseltamivir, 17 de março de 2026 (cita a Nota Técnica nº 143/2019-CGAFME/DAF/SCTIE/MS).",
+  "Secretaria Municipal de Saúde de São Paulo. Nota Técnica nº 05/2022: orientações para dispensação do nirmatrelvir e ritonavir, atualizada em abril de 2026 (cita a Nota Técnica nº 266/2022-CGAFME/DAF/SCTIE/MS e a Nota Técnica Conjunta nº 23/2024 SVSA/SECTICS/SAPS/MS).",
+  "Anvisa. Instrução Normativa nº 360, de 23 de abril de 2025 (lista de antimicrobianos sujeitos à RDC nº 471/2021). Diário Oficial da União, 24 abr. 2025. Texto consolidado consultado em reprodução da Legisweb, 2026.",
+  "Ministério da Saúde (Brasil). Relação Nacional de Medicamentos Essenciais (Rename 2024). Página oficial consultada em outubro de 2026. https://www.gov.br/saude/pt-br/composicao/sectics/rename",
+  "Pfizer. Paxlovid (nirmatrelvir tablets; ritonavir tablets), prescribing information. FDA/DailyMed, revisão de fevereiro de 2026.",
+  "FDA/DailyMed. Valacyclovir tablets, prescribing information, 2026; Acyclovir tablets, 2026; Famciclovir tablets, 2025.",
+  "FDA/DailyMed. Valganciclovir tablets, prescribing information, 2026; Ganciclovir injection, 2022.",
+  "Gilead. Epclusa (sofosbuvir/velpatasvir), prescribing information. FDA/DailyMed, 2024.",
+  "Genentech. Tamiflu (oseltamivir phosphate), prescribing information. FDA/DailyMed, 2025.",
+  "GSK. Zovirax® (aciclovir) e Valtrex® (valaciclovir), bulas conferidas em 15/10/2026 (semente do módulo).",
+  "EMS Sigma Pharma. Penvir® (fanciclovir) comprimidos revestidos de 125 mg e 500 mg, bula do paciente em reprodução on-line, consultada em outubro de 2026."
+ ]
+}

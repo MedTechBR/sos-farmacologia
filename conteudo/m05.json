@@ -1,8 +1,8 @@
 {
  "id": "m05",
- "num": 5,
+ "num": 6,
  "titulo": "Sistema endócrino",
- "escopo": "Diabetes (diagnóstico e metas da SBD 2026, glicemia capilar na farmácia, antidiabéticos orais, agonistas de GLP-1 e tirzepatida com a regra de retenção de receita da RDC 973/2025, insulinas, técnica, conservação e hipoglicemia) e tireoide (levotiroxina, antitireoidianos e fármacos que alteram a função tireoidiana).",
+ "escopo": "Insulinas, hormônios sexuais e tireoide: diabetes (diagnóstico e metas da SBD 2026, glicemia capilar na farmácia, antidiabéticos orais, agonistas de GLP-1 e tirzepatida com a regra de retenção de receita da RDC 973/2025, insulinas, técnica, conservação e hipoglicemia), hormônios sexuais (estrogênios e progestágenos, contracepção pelos critérios de elegibilidade da OMS de 2025, risco tromboembólico, contracepção de emergência, interações com indutores pela FSRH, terapia hormonal da menopausa, testosterona e anabolizantes da Lista C5 da Portaria 344/1998) e tireoide (levotiroxina, antitireoidianos e fármacos que alteram a função tireoidiana).",
  "topicos": [
   {
    "id": "m05-dm-diagnostico",
@@ -38,6 +38,16 @@
    "id": "m05-tireoide",
    "titulo": "Tireoide",
    "resumo": "<p>A tireoide produz tiroxina (T4) e tri-iodotironina (T3), hormônios que regulam o metabolismo de quase todos os tecidos. A hipófise controla a glândula pelo TSH: quando há pouco hormônio tireoidiano, o TSH sobe; quando há excesso, o TSH cai. Por isso o TSH é o exame mais usado para diagnosticar e acompanhar o tratamento das doenças primárias da tireoide. O T4 é convertido em T3, a forma mais ativa, nos tecidos.</p> <h3>Hipotireoidismo e levotiroxina</h3> <p>O hipotireoidismo primário, cuja causa mais comum é a tireoidite de Hashimoto, causa cansaço, sonolência, intolerância ao frio, ganho de peso, constipação, pele seca, queda de cabelo, alteração menstrual e lentidão. O tratamento é a reposição com <strong>levotiroxina</strong> (T4 sintético), em comprimidos de várias concentrações (25, 50, 75, 88, 100, 112, 125, 150 mcg e outras), comercializada no Brasil como Puran T4®, Synthroid®, Euthyrox®, Levoid® e outras marcas.</p> <p>A bula do Puran T4® indica, no adulto, iniciar com 50 mcg/dia e aumentar 25 mcg a cada 2 ou 3 semanas; em hipotireoidismo de longa data ou suspeita de doença cardiovascular, começar com 25 mcg/dia. A manutenção costuma ficar entre 75 e 125 mcg/dia. Idosos e cardiopatas começam com doses baixas, porque o aumento rápido do metabolismo pode desencadear angina ou arritmia. A dose é ajustada pelo TSH, que leva semanas para se estabilizar; o controle costuma ser feito de 6 a 8 semanas após cada mudança.</p> <h4>Como tomar</h4> <p>As bulas de levotiroxina orientam tomar com o <strong>estômago vazio</strong>, de 30 minutos a 1 hora antes do café da manhã (ou 2 horas após comer), com água, todos os dias no mesmo horário. A absorção depende de acidez gástrica e é reduzida por alimentos e várias substâncias:</p> <div class=\"tab\"><table><thead><tr><th>Interferente</th><th>Efeito</th><th>Orientação</th></tr></thead><tbody> <tr><td>Carbonato de cálcio, sulfato ferroso, polivitamínicos com minerais</td><td>Formam complexos e reduzem a absorção</td><td>Separar pelo menos 4 horas (bula do Synthroid®: 4 horas de medicamentos que alteram a absorção)</td></tr> <tr><td>Antiácidos com alumínio ou magnésio, sevelâmer, colestiramina, orlistate</td><td>Reduzem absorção</td><td>Separar pelo menos 4 horas</td></tr> <tr><td>Omeprazol e outros inibidores da bomba de prótons</td><td>Menos acidez, menos absorção</td><td>Avisar o médico, que pode monitorar o TSH e ajustar a dose</td></tr> <tr><td>Café, leite de soja, fibras em excesso</td><td>Reduzem absorção</td><td>Respeitar o intervalo do jejum antes do café</td></tr> <tr><td>Rifampicina, carbamazepina, fenitoína, fenobarbital</td><td>Aceleram o metabolismo do hormônio</td><td>Pode ser necessária dose maior</td></tr> <tr><td>Estrogênio oral e gestação</td><td>Aumentam a proteína transportadora</td><td>Dose maior; na gestação, o ajuste é precoce</td></tr> </tbody></table></div> <h4>Índice terapêutico estreito e troca de marca</h4> <p>Pequenas variações na quantidade absorvida mudam o TSH. Por isso a recomendação clínica é manter <strong>a mesma marca</strong> ao longo do tratamento; se houver troca (genérico, similar ou outra marca), o TSH deve ser reavaliado em 6 a 8 semanas. No balcão, isso significa não trocar a marca sem informar o paciente e registrar quando a troca acontecer, orientando contato com o médico.</p> <p>Excesso de levotiroxina causa palpitação, tremor, insônia, ansiedade, perda de peso, diarreia e, a longo prazo, fibrilação atrial e perda de massa óssea, principalmente em idosos. Levotiroxina não é tratamento para obesidade e não deve ser usada para emagrecer.</p> <div class=\"cx alerta\"><b>Atenção</b><p>Gestante com hipotireoidismo precisa avisar o médico assim que souber da gravidez, porque a necessidade de hormônio aumenta já no primeiro trimestre e o hipotireoidismo não tratado prejudica o desenvolvimento do feto. Não reduzir nem suspender por conta própria.</p></div> <h4>Situações especiais</h4> <p>No hipotireoidismo subclínico (TSH alto com T4 livre normal), a decisão de tratar depende do valor do TSH, da idade, de sintomas e de gestação; em idosos, metas de TSH costumam ser mais tolerantes. Em pessoas tratadas por câncer de tireoide, a levotiroxina pode ser usada em dose maior, para manter o TSH baixo, por decisão do especialista. Por isso uma dose \"alta\" na receita nem sempre é erro: o farmacêutico confirma a indicação e o acompanhamento antes de questionar.</p> <h3>Hipertireoidismo e antitireoidianos</h3> <p>O hipertireoidismo, mais frequentemente pela doença de Graves, causa palpitação, tremor, calor excessivo, suor, perda de peso com apetite aumentado, diarreia, ansiedade e, na doença de Graves, alterações oculares. As opções de tratamento são medicamentos antitireoidianos, iodo radioativo e cirurgia. O betabloqueador (propranolol, por exemplo) alivia os sintomas adrenérgicos até o controle.</p> <ul> <li><strong>Metimazol</strong> (Tapazol®): bloqueia a síntese hormonal; é o antitireoidiano de escolha na maioria dos casos, em tomada única diária na maior parte dos esquemas. No primeiro trimestre da gestação, está associado a malformações (embriopatia por metimazol).</li> <li><strong>Propiltiouracil (PTU)</strong>: além de bloquear a síntese, reduz a conversão periférica de T4 em T3. Exige várias tomadas ao dia. Tem risco maior de <strong>hepatotoxicidade grave</strong>, por isso fica reservado ao <strong>primeiro trimestre da gestação</strong>, à crise tireotóxica e a quem não tolera metimazol. Após o primeiro trimestre, o endocrinologista costuma trocar para metimazol.</li> </ul> <div class=\"cx alerta\"><b>Atenção</b><p>Ambos podem causar <strong>agranulocitose</strong>, mais comum nos primeiros meses. Febre, dor de garganta, aftas ou infecção em quem usa metimazol ou PTU exigem suspender o remédio e fazer hemograma com urgência. Icterícia, urina escura, dor abdominal ou perda de apetite, principalmente com PTU, indicam possível lesão hepática.</p></div> <h4>Exames e acompanhamento</h4> <p>O TSH reflete a média das últimas semanas, por isso não adianta repetir o exame poucos dias após mudar a dose. Para o exame, muitos laboratórios e endocrinologistas orientam manter a rotina de tomada da levotiroxina; a orientação específica deve vir do médico ou do laboratório. Sintomas de hipotireoidismo são inespecíficos: cansaço, ganho de peso e queda de cabelo têm muitas causas. Pedidos de \"remédio para tireoide preguiçosa\", suplementos com extrato de tireoide animal ou com iodo em dose alta, vendidos como emagrecedores ou energéticos, devem ser desaconselhados: podem induzir disfunção tireoidiana e não tratam a causa.</p> <h3>Medicamentos que alteram a tireoide</h3> <p>A <strong>amiodarona</strong> contém grande quantidade de iodo e se parece estruturalmente com os hormônios tireoidianos. Pode causar hipotireoidismo ou hipertireoidismo (inclusive tireoidite), mesmo meses após a suspensão, por isso o paciente faz TSH antes de iniciar e periodicamente. O <strong>lítio</strong> inibe a liberação de hormônio e causa hipotireoidismo e bócio, além de alterar cálcio (hiperparatireoidismo). Outros: interferona, alguns imunoterápicos oncológicos, contrastes iodados e suplementos de iodo ou de algas. Suplementos de <strong>biotina</strong> em dose alta interferem em alguns exames laboratoriais de TSH e T4 e podem gerar resultado falso; o cliente deve informar o laboratório.</p> <div class=\"cx balcao\"><b>No balcão</b><p>Para quem usa levotiroxina: confirme o horário em jejum, pergunte sobre cálcio, ferro, antiácido, omeprazol e café, oriente separar 4 horas dos minerais, manter a mesma marca e repetir TSH após trocas ou gravidez. Para quem usa metimazol ou PTU: ensine os sinais de agranulocitose e de lesão hepática. Para quem usa amiodarona ou lítio: pergunte quando foi o último exame de tireoide.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Senhora de 66 anos, com hipotireoidismo controlado há anos com 100 mcg de levotiroxina, passou a tomar carbonato de cálcio com vitamina D junto com o comprimido no café da manhã e omeprazol. Voltou o cansaço e o TSH subiu. O farmacêutico identifica a interação, orienta tomar a levotiroxina em jejum, separar o cálcio por 4 horas, e sugere que ela leve a informação ao médico, que avaliará o omeprazol e a dose.</p></div>"
+  },
+  {
+   "id": "m05-hormonios-sexuais",
+   "titulo": "Hormônios sexuais e contracepção",
+   "resumo": "<p>Estrogênios e progestágenos são os hormônios do ciclo ovariano e a base da contracepção hormonal. O <strong>estrogênio</strong> mais usado em pílulas é o etinilestradiol, sintético e de efeito hepático intenso: aumenta fatores de coagulação, a globulina ligadora de hormônios sexuais e o angiotensinogênio, o que explica parte do risco de trombose e de aumento de PA. Algumas pílulas usam estradiol ou valerato de estradiol. Os <strong>progestágenos</strong> diferem entre si: levonorgestrel, desogestrel, gestodeno, etonogestrel, noretisterona, medroxiprogesterona, dienogeste, drospirenona (derivado da espironolactona, com efeito antimineralocorticoide) e ciproterona (antiandrogênico).</p> <p>O contraceptivo combinado impede o pico de LH e a ovulação; o progestágeno também espessa o muco cervical e torna o endométrio desfavorável à implantação. Nenhum método hormonal protege contra infecções sexualmente transmissíveis: o preservativo continua necessário quando há esse risco (OMS, MEC 2025).</p> <h3>Métodos</h3> <div class=\"tab\"><table><thead><tr><th>Grupo</th><th>Exemplos</th><th>Observação</th></tr></thead><tbody> <tr><td>Combinados</td><td>Pílula (21+7, 24+4 ou contínua), adesivo, anel vaginal, injetável mensal</td><td>Contêm estrogênio: mais contraindicações</td></tr> <tr><td>Só de progestágeno, orais</td><td>Desogestrel 75 mcg; drospirenona 4 mg</td><td>Opção quando o estrogênio é vetado</td></tr> <tr><td>Só de progestágeno, longa ação</td><td>Medroxiprogesterona de depósito 150 mg IM; implante de etonogestrel 68 mg; SIU de levonorgestrel</td><td>Não dependem de tomada diária</td></tr> <tr><td>Emergência</td><td>Levonorgestrel 1,5 mg; DIU de cobre</td><td>Não substitui método regular</td></tr> </tbody></table></div> <p>Na pílula de desogestrel 75 mcg, a bula do Cerazette® mantém a eficácia com atraso de até 12 horas; acima disso, tomar o comprimido esquecido e usar método de barreira por 7 dias. Na pílula de drospirenona 4 mg, o atraso tolerado é de 24 horas (FSRH, 2024). Para a pílula combinada, a FSRH orienta tratar como esquecimento o vômito em até 3 horas após a tomada ou a diarreia intensa por mais de 24 horas (diretriz de contracepção combinada, 2019, revisada em 2023); a conduta diante do esquecimento segue a bula de cada produto.</p> <h3>Critérios de elegibilidade da OMS</h3> <p>A OMS publicou em novembro de 2025 a <strong>6ª edição</strong> dos Critérios Médicos de Elegibilidade para Uso de Contraceptivos (MEC). A maior parte das recomendações da 5ª edição (2015) foi revista e mantida. Cada condição recebe uma categoria para cada método: <strong>1</strong>, sem restrição; <strong>2</strong>, vantagens geralmente superam os riscos; <strong>3</strong>, riscos geralmente superam as vantagens; <strong>4</strong>, risco inaceitável.</p> <div class=\"tab\"><table><thead><tr><th>Condição</th><th>Combinado oral</th><th>Pílula só de progestágeno</th></tr></thead><tbody> <tr><td>Fumante com 35 anos ou mais, 15 ou mais cigarros/dia</td><td>4</td><td>1</td></tr> <tr><td>PA sistólica de 160 ou diastólica de 100 mmHg ou mais</td><td>4</td><td>2</td></tr> <tr><td>PA de 140 a 159 ou 90 a 99 mmHg</td><td>3</td><td>1</td></tr> <tr><td>TVP ou TEP atual ou prévia; mutação trombogênica</td><td>4</td><td>2 (prévia); 3 (aguda)</td></tr> <tr><td>Cirurgia de grande porte com imobilização prolongada</td><td>4</td><td>2</td></tr> <tr><td>Enxaqueca com aura, em qualquer idade</td><td>4</td><td>2 a 3</td></tr> <tr><td>Câncer de mama atual</td><td>4</td><td>4</td></tr> <tr><td>Pós-parto sem amamentar, menos de 21 dias, com outro fator de risco de TEV</td><td>4</td><td>1</td></tr> <tr><td>Amamentação, menos de 6 semanas após o parto</td><td>4</td><td>2</td></tr> </tbody></table></div> <p>Categorias da OMS, MEC 6ª edição (2025). Na enxaqueca com aura, a pílula só de progestágeno é categoria 2 para iniciar e 3 para continuar.</p> <h3>Risco tromboembólico</h3> <p>O combinado aumenta de 3 a 3,5 vezes o risco de tromboembolismo venoso (TEV), mas o risco absoluto segue pequeno e é menor que o da gestação e do pós-parto. Pelas estimativas da EMA reproduzidas pela FSRH, a cada 10 mil mulheres por ano há cerca de 2 casos entre não usuárias, 5 a 7 com levonorgestrel, noretisterona ou norgestimato, 6 a 12 com etonogestrel ou norelgestromina e 9 a 12 com drospirenona, gestodeno ou desogestrel. O risco é maior nos primeiros meses de uso e ao recomeçar após pausa de um mês ou mais, por isso parar e reiniciar sem motivo é desaconselhado (FSRH, 2023).</p> <div class=\"cx alerta\"><b>Atenção</b><p>Usuária de contraceptivo com dor ou inchaço em uma perna, dor no peito, falta de ar súbita, dor de cabeça forte e diferente do habitual, alteração visual ou fraqueza de um lado do corpo deve ser encaminhada para atendimento de urgência.</p></div> <h3>Contracepção de emergência</h3> <p>O <strong>levonorgestrel 1,5 mg</strong> é tomado em dose única, o quanto antes, até 72 horas após a relação; se houver vômito em até 4 horas, repete-se a dose (bula do Postinor Uno®). Age principalmente atrasando a ovulação e não interrompe gravidez já implantada. Pode ser usado mais de uma vez no mesmo ciclo (categoria 1 no MEC 2025), mas é menos eficaz que um método regular e pode ser menos eficaz com IMC de 30 kg/m<sup>2</sup> ou mais. O DIU de cobre é o método de emergência mais eficaz (FSRH, 2022). No Brasil, o levonorgestrel 1,5 mg não está na Lista de Medicamentos Isentos de Prescrição (IN 285/2024) e a bula traz venda sob prescrição médica: é de tarja vermelha, sem retenção de receita. As unidades do SUS fornecem o medicamento.</p> <h3>Interações com indutores enzimáticos</h3> <p>A diretriz de interações da FSRH (2022) afirma que indutores enzimáticos podem reduzir a eficácia de todos os combinados, de todas as pílulas só de progestágeno, do implante de etonogestrel e da contracepção de emergência oral. Os principais são carbamazepina, fenitoína, fenobarbital, primidona, oxcarbazepina, topiramato, rifampicina, rifabutina, efavirenz e erva-de-são-joão.</p> <ul> <li>Métodos não afetados: DIU de cobre, SIU de levonorgestrel e medroxiprogesterona de depósito, que são as opções indicadas para uso prolongado do indutor.</li> <li>O efeito persiste por 28 dias depois de parar o indutor. Em uso curto (menos de 2 meses), a usuária pode manter o método e somar preservativo durante o uso e por 28 dias depois.</li> <li>Na emergência, oferecer DIU de cobre; se não for possível, levonorgestrel em dose dupla (3 mg) ou ulipristal 30 mg, com eficácia desconhecida nessa situação. A dose dupla foge da bula e é decisão do prescritor.</li> <li>Antibióticos que não são indutores (amoxicilina, doxiciclina, azitromicina) não reduzem a eficácia do combinado (MEC 2025, categoria 1).</li> <li>Lamotrigina: o estrogênio reduz o nível do anticonvulsivante, com risco de crise (MEC 2025, categoria 3 para o combinado).</li> <li>Tirzepatida: a FSRH (2025) recomenda trocar para método não oral ou somar barreira por 4 semanas após o início e após cada aumento de dose; para semaglutida e liraglutida isso não é necessário.</li> <li>Pílula de drospirenona isolada não é recomendada com diuréticos poupadores de potássio ou suplemento de potássio (FSRH, 2022).</li> </ul> <div class=\"cx chave\"><b>Ponto-chave</b><p>Estrogênio é o que mais restringe: fumante com 35 anos ou mais, enxaqueca com aura, trombose prévia e PA muito alta são categoria 4 para o combinado. Indutor enzimático derruba pílula, implante e via oral de emergência; DIU e injetável trimestral resistem.</p></div> <div class=\"cx balcao\"><b>No balcão</b><p>Ao dispensar combinado, pergunte idade, tabagismo, enxaqueca com aura, trombose pessoal ou familiar, PA e parto recente; havendo condição de categoria 3 ou 4, explique o motivo e encaminhe ao prescritor, que pode indicar método só de progestágeno ou não hormonal. Pergunte sempre por anticonvulsivante, rifampicina, antirretroviral e erva-de-são-joão. Na contracepção de emergência, oriente tomar logo, repetir se vomitar em 4 horas, usar preservativo nas relações seguintes, fazer teste de gravidez se a menstruação atrasar e procurar a UBS para um método regular.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Mulher de 28 anos em uso de carbamazepina pede levonorgestrel após relação desprotegida há 30 horas. O farmacêutico explica que o anticonvulsivante pode reduzir o efeito da pílula de emergência e encaminha ao serviço de saúde no mesmo dia para avaliação do DIU de cobre ou de outra conduta definida pelo prescritor, e orienta método regular não afetado por indutores.</p></div>"
+  },
+  {
+   "id": "m05-menopausa-androgenios",
+   "titulo": "Terapia hormonal da menopausa e androgênios",
+   "resumo": "<p>A menopausa é a última menstruação, confirmada após 12 meses sem sangramento, e marca a queda da produção ovariana de estrogênio. Os sintomas mais comuns são os <strong>vasomotores</strong> (fogachos e suor noturno), alterações de sono e humor e a síndrome geniturinária (secura vaginal, dor na relação, sintomas urinários). A perda óssea acelera nos anos seguintes.</p> <h3>Terapia hormonal da menopausa</h3> <p>A diretriz do NICE sobre menopausa (NG23, atualizada em abril de 2026) orienta oferecer terapia hormonal para os sintomas vasomotores e estrogênio vaginal para os sintomas geniturinários, inclusive em quem já usa a terapia sistêmica, porque a absorção do estrogênio vaginal é mínima.</p> <ul> <li>Mulher <strong>com útero</strong>: estrogênio associado a progestágeno (progesterona micronizada, didrogesterona ou outro), em esquema sequencial ou contínuo. O estrogênio isolado aumenta o risco de câncer de endométrio (bula de estradiol, FDA).</li> <li>Mulher <strong>sem útero</strong> (histerectomizada): estrogênio isolado.</li> <li>Vias: oral, <strong>transdérmica</strong> (gel ou adesivo) e vaginal.</li> </ul> <div class=\"tab\"><table><thead><tr><th>Desfecho</th><th>O que diz o NICE (NG23)</th></tr></thead><tbody> <tr><td>Tromboembolismo venoso</td><td>Aumenta com a via oral; não aumenta com a transdérmica</td></tr> <tr><td>AVC</td><td>Oral aumenta, mais com dose alta, uso acima de 5 anos e início em idade mais avançada; transdérmica: aumento improvável</td></tr> <tr><td>Câncer de mama</td><td>Combinada aumenta, cresce com a duração e persiste por pelo menos 10 anos após parar; sequencial menos que contínua</td></tr> <tr><td>Câncer de endométrio</td><td>Cai com a combinada contínua</td></tr> <tr><td>Doença coronariana</td><td>Não aumenta com a combinada</td></tr> <tr><td>Fraturas</td><td>Diminuem durante o uso; o benefício cai após parar</td></tr> </tbody></table></div> <p>Para quem tem risco aumentado de TEV, incluindo IMC acima de 30 kg/m<sup>2</sup>, o NICE recomenda considerar a via transdérmica. A bula do estradiol (FDA) afirma que estrogênio não deve ser usado para prevenir doença cardiovascular e lista as <strong>contraindicações</strong>: sangramento genital não esclarecido; câncer de mama atual, suspeito ou prévio, salvo casos selecionados; neoplasia estrogênio-dependente; TVP ou TEP atual ou prévia; doença tromboembólica arterial ativa ou recente (AVC ou infarto no último ano); doença hepática; gestação. Preparações hormonais manipuladas sem regulação e fitoterápicos têm eficácia e segurança desconhecidas, e a erva-de-são-joão interage com tamoxifeno, anticoagulantes e anticonvulsivantes (NICE NG23).</p> <h3>Moduladores seletivos do receptor de estrogênio</h3> <p>Os moduladores agem como antagonistas em um tecido e agonistas em outro. O <strong>tamoxifeno</strong> bloqueia o receptor na mama e é usado no câncer de mama com receptor hormonal positivo; no endométrio e na coagulação age como estrogênio, por isso sangramento vaginal anormal e sinais de trombose exigem avaliação, e fogachos são frequentes. A dose, o tempo de uso e a interação com inibidores do CYP2D6 estão no módulo Quimioterapia antineoplásica. O raloxifeno é usado na osteoporose pós-menopausa e também aumenta o risco de TEV; o clomifeno induz ovulação na infertilidade.</p> <h3>Testosterona e anabolizantes</h3> <p>A <strong>testosterona</strong> é indicada para reposição no homem com hipogonadismo confirmado; a bula americana do cipionato pede testosterona sérica pela manhã em pelo menos dois dias diferentes antes de iniciar e prevê 50 a 400 mg por via intramuscular a cada 2 a 4 semanas. No Brasil existem ésteres injetáveis (cipionato, undecanoato) e gel transdérmico. Pela mesma bula, contraindicações: câncer de mama ou de próstata no homem, gestação e doença cardíaca, hepática ou renal grave. Efeitos e riscos: policitemia (hemoglobina e hematócrito periódicos), TEV, edema, obstrução urinária na hiperplasia prostática, redução da espermatogênese e da fertilidade, acne, ginecomastia e abuso com dependência. Com o gel, há risco de transferência do hormônio por contato com a pele de mulheres e crianças: lavar as mãos e cobrir a área aplicada.</p> <p>Os <strong>esteroides anabolizantes</strong> (testosterona, nandrolona, oxandrolona, estanozolol e outros) são usados de forma abusiva para estética e desempenho, em doses muito acima das terapêuticas. Doses altas e uso prolongado associam-se a adenoma e carcinoma hepático (bula FDA do cipionato de testosterona), além de piora do perfil lipídico, aumento de PA, atrofia testicular, infertilidade, alterações de humor e, na mulher, virilização. A Resolução CFM nº 2.333/2023 proíbe o médico de prescrever esteroides androgênicos e anabolizantes para fins estéticos, ganho de massa muscular ou desempenho esportivo; a reposição em deficiência comprovada continua permitida.</p> <div class=\"cx lei\"><b>O que diz a norma</b><p>Anabolizantes estão na <strong>Lista C5</strong> da Portaria SVS/MS nº 344/1998 (Anexo I vigente: Atualização n. 101, RDC 1.036/2026). Exigem Receita de Controle Especial em duas vias, válida por 30 dias (art. 52, § 1º), com a 1ª via retida na farmácia (art. 53) e quantidade limitada a 5 ampolas ou 60 dias de tratamento (art. 59). A Lei nº 9.965/2000 exige que a receita contenha \"a identificação do profissional, o número de registro no respectivo conselho profissional (CRM ou CRO), o número do Cadastro da Pessoa Física (CPF), o endereço e telefone profissionais, além do nome, do endereço do paciente e do número do Código Internacional de Doenças (CID)\", e que fique retida por cinco anos (art. 1º, parágrafo único).</p></div> <div class=\"cx balcao\"><b>No balcão</b><p>Na terapia hormonal da menopausa, confira se a mulher com útero recebeu progestágeno junto com o estrogênio; se não, contate o prescritor. Oriente que sangramento vaginal inesperado, nódulo na mama, dor na perna ou falta de ar levam a consulta. Na receita de testosterona ou de outro anabolizante, confira a Receita de Controle Especial, a validade de 30 dias, a quantidade e os campos da Lei 9.965/2000, como CID e CPF do prescritor; faltando algum, não dispense até a correção. Pedido de anabolizante sem receita, inclusive para \"ganhar massa\", é recusado com orientação sobre os riscos.</p></div> <div class=\"cx exemplo\"><b>Caso</b><p>Mulher de 55 anos, com IMC de 33 kg/m<sup>2</sup> e mãe com trombose, usa estradiol oral com progestágeno e pergunta se existe opção mais segura. O farmacêutico explica que o NICE recomenda considerar a via transdérmica em quem tem risco aumentado de TEV, orienta não trocar por conta própria e sugere levar a pergunta ao ginecologista, registrando a orientação.</p></div>"
   }
  ],
  "mapas": [
@@ -203,6 +213,68 @@
       "Lítio: hipotireoidismo e bócio",
       "Biotina falseia exames",
       "Levotiroxina não emagrece"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m05-mapa-hormonios-sexuais",
+   "titulo": "Hormônios sexuais",
+   "centro": "Hormônios sexuais",
+   "ramos": [
+    {
+     "t": "Contraceptivo combinado",
+     "itens": [
+      "Inibe ovulação; muda muco e endométrio",
+      "TEV: cerca de 2/10 mil/ano sem pílula",
+      "5 a 7/10 mil com levonorgestrel",
+      "9 a 12/10 mil: drospirenona, gestodeno"
+     ]
+    },
+    {
+     "t": "MEC OMS 2025: categoria 4",
+     "itens": [
+      "Fumante ≥ 35 anos, ≥ 15 cigarros/dia",
+      "Enxaqueca com aura em qualquer idade",
+      "TVP/TEP atual ou prévia; trombofilia",
+      "PA ≥ 160/100 mmHg",
+      "Câncer de mama: 4 em todo hormonal"
+     ]
+    },
+    {
+     "t": "Só de progestágeno",
+     "itens": [
+      "Desogestrel 75 mcg: atraso até 12 h",
+      "Drospirenona 4 mg: atraso até 24 h",
+      "Injetável trimestral, implante, SIU",
+      "Saída quando o estrogênio é vetado"
+     ]
+    },
+    {
+     "t": "Emergência",
+     "itens": [
+      "Levonorgestrel 1,5 mg dose única até 72 h",
+      "Vômito em até 4 h: repetir a dose",
+      "Tarja vermelha, sem retenção de receita",
+      "DIU de cobre: o mais eficaz"
+     ]
+    },
+    {
+     "t": "Indutores (FSRH 2022)",
+     "itens": [
+      "Carbamazepina, fenitoína, rifampicina",
+      "Afetam pílula, implante e emergência oral",
+      "DIUs e injetável trimestral resistem",
+      "Efeito dura 28 dias após parar"
+     ]
+    },
+    {
+     "t": "Menopausa e androgênios",
+     "itens": [
+      "Com útero: estrogênio + progestágeno",
+      "Transdérmica: sem aumento de TEV",
+      "Testosterona: Lista C5, receita 2 vias",
+      "Lei 9.965/2000: CID e CPF na receita"
      ]
     }
    ]
@@ -409,6 +481,74 @@
    "nota": "Perfil de ação segundo a SBD (Tabela 1, insulinoterapia no DM1). Prazos após aberta segundo as bulas brasileiras (Novo Nordisk, Lilly e Sanofi), em temperatura de 15 a 30 °C. Lacradas: 2 a 8 °C. Confira sempre a bula da apresentação dispensada, porque frasco, refil e caneta podem ter prazos diferentes."
   },
   {
+   "tipo": "tabela",
+   "id": "m05-tab-hormonios",
+   "titulo": "Hormônios sexuais: métodos, riscos e orientação",
+   "colunas": [
+    "Produto",
+    "Uso",
+    "Risco ou contraindicação marcante",
+    "Orientação no balcão"
+   ],
+   "linhas": [
+    [
+     "Combinado com levonorgestrel",
+     "Contracepção",
+     "Categoria 4: fumante ≥ 35 anos (≥ 15/dia), aura, TEV, PA ≥ 160/100",
+     "Menor risco de TEV entre os combinados (5 a 7/10 mil/ano)"
+    ],
+    [
+     "Combinado com drospirenona, gestodeno ou desogestrel",
+     "Contracepção",
+     "TEV 9 a 12/10 mil/ano",
+     "Sinais de trombose: urgência"
+    ],
+    [
+     "Desogestrel 75 mcg",
+     "Contracepção sem estrogênio; amamentação",
+     "Sangramento irregular",
+     "Atraso até 12 h mantém eficácia (bula)"
+    ],
+    [
+     "Medroxiprogesterona de depósito 150 mg IM",
+     "Contracepção trimestral",
+     "Sangramento irregular",
+     "Não é afetada por indutores (FSRH)"
+    ],
+    [
+     "Levonorgestrel 1,5 mg",
+     "Emergência até 72 h",
+     "Menor eficácia com indutor e IMC ≥ 30",
+     "Tarja vermelha sem retenção; repetir se vomitar em 4 h"
+    ],
+    [
+     "Estradiol + progestágeno",
+     "Menopausa com útero",
+     "Contraindicado: câncer de mama, TEV, AVC ou IAM recente, hepatopatia",
+     "Transdérmico se risco de TEV ou IMC > 30 (NICE)"
+    ],
+    [
+     "Estrogênio vaginal",
+     "Síndrome geniturinária",
+     "Absorção mínima",
+     "Pode somar à terapia sistêmica"
+    ],
+    [
+     "Tamoxifeno",
+     "Câncer de mama receptor positivo",
+     "TEV; sangramento endometrial",
+     "Ver o módulo Quimioterapia antineoplásica"
+    ],
+    [
+     "Testosterona (cipionato, undecanoato, gel)",
+     "Hipogonadismo masculino confirmado",
+     "Policitemia, TEV, infertilidade; contraindicada em câncer de próstata ou de mama",
+     "Lista C5: Receita de Controle Especial e CID (Lei 9.965/2000)"
+    ]
+   ],
+   "nota": "Categorias pela OMS (MEC, 6ª edição, 2025); risco de TEV pelas estimativas da EMA reproduzidas na diretriz de contracepção combinada da FSRH (2019, revisada em 2023); interações pela FSRH (2022); menopausa pelo NICE NG23 (atualizado em 2026) e pela bula de estradiol (FDA); testosterona pela bula americana do cipionato e pela Portaria 344/1998."
+  },
+  {
    "tipo": "fluxo",
    "id": "m05-fluxo-hipoglicemia",
    "titulo": "Hipoglicemia leve no balcão",
@@ -559,6 +699,30 @@
     {
      "f": "Sinal de alarme com metimazol ou PTU",
      "v": "Febre e dor de garganta: suspeitar de agranulocitose"
+    },
+    {
+     "f": "O que significa categoria 4 no MEC da OMS?",
+     "v": "Risco inaceitável: o método não deve ser usado"
+    },
+    {
+     "f": "Enxaqueca com aura e pílula combinada",
+     "v": "Categoria 4 em qualquer idade (MEC 2025)"
+    },
+    {
+     "f": "Levonorgestrel de emergência: dose e prazo",
+     "v": "1,5 mg em dose única, o quanto antes, até 72 h"
+    },
+    {
+     "f": "Contracepção de emergência em usuária de indutor (FSRH)",
+     "v": "DIU de cobre; se não, levonorgestrel 3 mg por decisão do prescritor"
+    },
+    {
+     "f": "Por quanto tempo dura o efeito do indutor sobre a pílula?",
+     "v": "Até 28 dias após a suspensão (FSRH 2022)"
+    },
+    {
+     "f": "Receita para testosterona",
+     "v": "Controle Especial em 2 vias (C5), 30 dias, até 60 dias de uso, com CID"
     }
    ]
   },
@@ -710,6 +874,54 @@
      ],
      "c": 4,
      "com": "A amiodarona, rica em iodo, pode causar hipotireoidismo ou hipertireoidismo; os sintomas sugerem hipotireoidismo e exigem TSH e avaliação médica. Suspender antiarrítmico por conta própria é perigoso, levotiroxina exige receita e iodo extra pode piorar a disfunção."
+    },
+    {
+     "p": "Mulher de 37 anos, fumante de 20 cigarros por dia, pede para comprar a mesma pílula combinada de etinilestradiol e levonorgestrel que usa há anos. Pelos critérios da OMS (MEC 2025), a orientação correta é:",
+     "alt": [
+      "Dispensar, pois o levonorgestrel é o progestágeno de menor risco de trombose",
+      "Dispensar e orientar trocar por uma pílula com drospirenona, que é mais segura",
+      "Explicar que é categoria 4 e encaminhar para outro método",
+      "Dispensar, já que o risco do cigarro só vale para mulheres acima de 50 anos",
+      "Orientar reduzir para 10 cigarros por dia e manter a pílula combinada"
+     ],
+     "c": 2,
+     "com": "Pelo MEC 2025, fumante com 35 anos ou mais e 15 ou mais cigarros por dia é categoria 4 para o combinado (risco cardiovascular inaceitável); com menos de 15 cigarros é categoria 3, o que também não autoriza manter. A pílula só de progestágeno é categoria 1 nessa situação. Drospirenona tem risco de TEV maior que levonorgestrel (EMA/FSRH)."
+    },
+    {
+     "p": "Mulher de 26 anos em uso contínuo de carbamazepina pede pílula do dia seguinte 30 horas após relação desprotegida. Segundo a FSRH (2022), a melhor orientação é:",
+     "alt": [
+      "Dispensar levonorgestrel 1,5 mg e informar que a carbamazepina não interfere",
+      "Dizer que não há opção de emergência para quem usa anticonvulsivante",
+      "Dispensar e orientar parar a carbamazepina por três dias para garantir o efeito",
+      "Indutor reduz o efeito; encaminhar hoje para DIU de cobre ou conduta médica",
+      "Orientar tomar uma pílula combinada por dia até a menstruação descer"
+     ],
+     "c": 3,
+     "com": "Indutores enzimáticos podem reduzir a eficácia da contracepção de emergência oral. A FSRH orienta oferecer DIU de cobre; se não for possível, levonorgestrel em dose dupla (3 mg) ou ulipristal, com eficácia desconhecida, por decisão do prescritor. Suspender anticonvulsivante por conta própria expõe a crise convulsiva."
+    },
+    {
+     "p": "Uma drogaria recebe Receita de Controle Especial de cipionato de testosterona, em duas vias, emitida há 10 dias por médico, com CRM e CPF, mas sem o CID. A conduta correta é:",
+     "alt": [
+      "Não dispensar até constar o CID (Lei 9.965/2000)",
+      "Dispensar, pois a Portaria 344/1998 dispensa o CID na lista C5",
+      "Dispensar e anotar o CID que o próprio paciente informar no balcão",
+      "Dispensar só metade da quantidade prescrita até o médico corrigir",
+      "Exigir Notificação de Receita B, que é o documento da lista C5"
+     ],
+     "c": 0,
+     "com": "A Lei 9.965/2000 exige na receita de anabolizante a identificação e o registro do profissional, CPF, endereço e telefone, nome e endereço do paciente e o CID, com retenção por cinco anos. A lista C5 usa Receita de Controle Especial em duas vias, válida por 30 dias (Portaria 344/1998, art. 52), não Notificação B. O farmacêutico não completa dado clínico."
+    },
+    {
+     "p": "Mulher de 52 anos, com útero, apresenta receita só de estradiol em gel para fogachos. A conduta do farmacêutico é:",
+     "alt": [
+      "Dispensar, porque o gel não tem nenhum efeito sobre o útero",
+      "Contatar o prescritor sobre o progestágeno",
+      "Trocar o gel por estradiol oral, que protege melhor o endométrio",
+      "Orientar acrescentar isoflavona de soja para proteger o endométrio",
+      "Recusar a receita, pois toda terapia hormonal aumenta o infarto"
+     ],
+     "c": 1,
+     "com": "Mulher com útero recebe estrogênio associado a progestágeno; estrogênio isolado aumenta o risco de câncer de endométrio (bula de estradiol, FDA; NICE NG23). A via transdérmica reduz o risco de TEV, mas não protege o endométrio. O NICE registra que a combinada não aumenta doença coronariana, e fitoterápicos têm segurança e eficácia incertas."
     }
    ]
   }
@@ -735,6 +947,19 @@
   "Sociedade Brasileira de Diabetes. Tratamento do DM2 no Sistema Único de Saúde (SUS). Diretriz SBD, edição 2026 (doi:10.29327/5937204.2026-1).",
   "Bulas do profissional, Novo Nordisk Brasil (novonordisk.com.br, consultadas em out. 2026): Ozempic 0,25/0,5 mg e 1 mg (v. 03, EU-PI 20251203), Wegovy (v. 1.0, 2026), Rybelsus 3, 7 e 14 mg (v. 2.0), Victoza, Saxenda, NovoRapid, Fiasp, Novolin R e Novolin N (frasco, FlexPen e Penfill), Levemir Penfill, Tresiba Penfill e FlexTouch, GlucaGen HypoKit.",
   "Bulas do profissional, Eli Lilly do Brasil (lilly.com/br, consultadas em out. 2026): Mounjaro caneta de uso único (abr. 2026), Trulicity, Humalog KwikPen, Humulin R (frasco e refil), Humulin N refil, Basaglar (refil e KwikPen).",
-  "Bulas reproduzidas em bula.com.br (consultadas em 2026 e out. 2026): Lantus, Apidra, Toujeo, Puran T4, Synthroid, Jardiance, Glifage, Diamicron MR, Daonil, Amaryl, NovoNorm, Januvia, Galvus, Trayenta, Forxiga, Actos, Glucobay, Euthyrox."
+  "Bulas reproduzidas em bula.com.br (consultadas em 2026 e out. 2026): Lantus, Apidra, Toujeo, Puran T4, Synthroid, Jardiance, Glifage, Diamicron MR, Daonil, Amaryl, NovoNorm, Januvia, Galvus, Trayenta, Forxiga, Actos, Glucobay, Euthyrox.",
+  "World Health Organization. Medical eligibility criteria for contraceptive use, 6th edition. Genebra: WHO, 3 nov. 2025. ISBN 978-92-4-011558-3. Conferidas as tabelas de contraceptivos hormonais combinados, só de progestágeno e de emergência; e o resumo executivo (doi:10.2471/B09597). https://www.who.int/publications/i/item/9789240115583",
+  "Faculty of Sexual and Reproductive Healthcare (FSRH, hoje CoSRH). Clinical Guidance: Drug Interactions with Hormonal Contraception, maio de 2022 (seção 4 e quadro de indutores enzimáticos). https://www.cosrh.org",
+  "FSRH. Guideline Combined Hormonal Contraception, janeiro de 2019, revisada em outubro de 2023 (seções 7.2.4 e 10.1, Tabela 5 com as estimativas da EMA de risco de TEV). https://www.cosrh.org",
+  "FSRH. Statement: GLP-1 agonists and oral contraception, janeiro de 2025. https://www.cosrh.org",
+  "FSRH CEU. Statement: Drospirenone 4 mg progestogen-only pill, 10 jan. 2024. https://www.cosrh.org",
+  "MHRA. Drug Safety Update: levonorgestrel-containing emergency hormonal contraception, advice on interactions with hepatic enzyme inducers, setembro de 2016.",
+  "NICE. Menopause: identification and management (NG23), publicada em 2015, última atualização em 15/04/2026 (recomendações 1.4, 1.5 e 1.6 e Tabelas 1 e 2). https://www.nice.org.uk/guidance/ng23",
+  "FDA. Estradiol, comprimidos: prescribing information (contraindicações e advertências), versão de jan. 2025. openFDA/DailyMed.",
+  "FDA. Cipionato de testosterona, injetável: prescribing information (indicações, contraindicações, advertências e dose), versão de nov. 2025. openFDA/DailyMed.",
+  "Brasil. Lei nº 9.965, de 27 de abril de 2000. Restringe a venda de esteroides ou peptídeos anabolizantes. DOU, 28/4/2000. https://www.planalto.gov.br/ccivil_03/leis/l9965.htm",
+  "Brasil. Ministério da Saúde. Portaria SVS/MS nº 344, de 12 de maio de 1998 (arts. 52, 53, 55 e 59: Receita de Controle Especial para as listas C1 e C5). Texto consultado em cópia do CFF (cff.org.br); Anexo I vigente pela RDC nº 1.036/2026 (Atualização n. 101, DOU 13/7/2026).",
+  "Conselho Federal de Medicina. Resolução CFM nº 2.333/2023 (prescrição de terapias hormonais com esteroides androgênicos e anabolizantes). DOU, abr. 2023. Conteúdo conferido em matéria do ICTQ e em notícias, não no texto integral.",
+  "Bulas consultadas em consultaremedios.com.br (out. 2026): Postinor Uno (levonorgestrel 1,5 mg) e Cerazette (desogestrel)."
  ]
 }

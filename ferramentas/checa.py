@@ -139,8 +139,10 @@ def checa(caminho):
     ids = set()
 
     def novo_id(i, onde):
-        if not i or not str(i).startswith(pre):
-            erros.append(f"{onde}: id {i!r} sem prefixo {pre}")
+        # id com o prefixo de QUALQUER módulo: tópicos e blocos que mudaram de módulo (22/10/2026) mantêm o id antigo
+        # para não perder o progresso salvo no aparelho; a unicidade entre arquivos é conferida pelo monta.py
+        if not i or not re.match(r"m\d\d-", str(i)):
+            erros.append(f"{onde}: id {i!r} sem prefixo de módulo (mNN-)")
         if i in ids:
             erros.append(f"{onde}: id repetido {i}")
         ids.add(i)
