@@ -44,8 +44,19 @@ dos módulos m11, m12 e m13.
 ## Conta e venda
 - `fonte/casca.html` carrega, só em http(s) fora do localhost (ou com `?portao=1`), `mtsync.js` (cópia sem mudança
   de `~/Documents/Claude/_mtsync/`), `/_mtacesso.js?v=N` e `conta-sosfarmacologia.js` (appId `sosfarmacologia`).
-  Mesma mecânica do conta-sos.js: progresso só no aparelho, administração (claim `mt.adm`) edita, cliente lê e gera
-  PDF com "Licenciado para <e-mail>". REGRA DO DONO: nada salvo no aparelho é apagado por causa da conta.
+  Mesma mecânica do conta-sos.js: administração (claim `mt.adm`) edita, cliente lê e gera PDF com "Licenciado para <e-mail>".
+- **PROGRESSO NA CONTA (22/10/2026, decisão do dono; substitui a regra antiga "nada salvo no aparelho é apagado"):**
+  "o progresso em todos os apps tem que ser na conta, não no aparelho". No site, `conta-sosfarmacologia.js` liga o motor
+  do mtsync com 4 coleções `mapa` em `users/{uid}/apps/sosfarmacologia/sync`: `estudado` e `vistos` (listas de ids no
+  app, viram {id:1}), `resp` e `check`. Valor vai como texto JSON no campo `j`; id no nome do documento (ponto vira %2E).
+  Primeiro login: reserva imutável de todas as chaves `sos-farmacologia:*` no IndexedDB `sos-farmacologia-reserva`
+  ("antes-da-conta") e o que estava no aparelho SOBE (com carimbo antigo: perde para o que a nuvem já tiver; a chave
+  `sos-farmacologia:mts_cols` marca que o `inicio` antigo do motor já foi tirado). Sair/troca de conta: mtsync espera a
+  fila subir, reserva "saida-<uid>-<momento>" e remove as 4 chaves com o removeItem original (sem lápide). Ficam no
+  aparelho: tema, vista do mapa e rascunho de edição. Trava: coleção com 3+ itens que esvazia sem "Zerar meu progresso"
+  (`window.__sosZerou`) não vira lápide. `SOS.recarrega()` redesenha quando chega dado de outro aparelho. Fora do site
+  (file://, localhost sem `?portao=1`) o progresso continua só no aparelho. Teste: cópia com fake-firebase.js + stub do
+  `/_mtacesso.js` (com `lerMt`), cenários 0-4 aprovados em 22/10/2026.
 - **Venda ligada em 15/10/2026** (pedido do dono: igual ao SOS Farmácia): produto `sosfarmacologia` no planos.json do
   site, linha provas, `publico:"farmacia"` (linha MedTech Multi na vitrine), R$ 49,90/mês ou R$ 397/ano, checkout "mp".
   Aparece no portal Provas (app.html → provas.html gerado), no trocador (`_mtauth.js` MT_FUNCS), no admin (admin.js),
